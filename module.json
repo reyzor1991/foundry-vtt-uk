@@ -1,0 +1,30 @@
+{
+  "id": "uk_uA",
+  "title": "Translation: Ukrainian [Core]",
+  "description": "Переклад інтерфейсу Foundry VTT українською мовою",
+  "authors": [
+    {
+      "name": "reyzor1991",
+      "url" : "https://github.com/reyzor1991",
+      "discord": "Reyzor1991#6258"
+    }
+  ],
+  "url": "https://github.com/reyzor1991/foundry-vtt-uk",
+  "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
+  "download": "https://github.com/reyzor1991/foundry-vtt-uk/archive/refs/heads/master.zip",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "maximum": "10",
+    "verified": "10"
+  },
+  "coreTranslation": true,
+  "languages": [
+    {
+      "lang": "uk",
+      "name": "Українська (Ukrainian)",
+      "path": "lang/uk.json",
+      "flags": {}
+    }
+  ]
+}
