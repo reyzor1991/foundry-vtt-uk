@@ -1344,7 +1344,7 @@
     "SETUP.AdminPasswordHint": "Ви можете призначити спеціальний пароль адміністратора, який потрібен для доступу до цього екрана налаштування.",
     "SETUP.AdminPasswordPrompt": "Ви повинні ввести пароль адміністратора, щоб отримати доступ до налаштування програми.",
     "SETUP.AdminPasswordForgot": "Якщо ви забули свій пароль, ви можете скинути його, <a href='https://foundryvtt.com/article/reset-admin-password/' target='_blank'>дотримуючись цих інструкцій</a>.",
-    "SETUP.AdminLogout": "Адміністратор Вийти",
+    "SETUP.AdminLogout": "Вийти з Адмін панелі",
     "SETUP.AWSLabel": "Шлях конфігурації AWS",
     "SETUP.AWSHint": "Ви можете надати файл конфігурації AWS для інтеграції S3. Шлях є абсолютним або відносним до підкаталогу Config даних користувача.",
     "SETUP.CompressStaticLabel": "Стиснення статичних файлів",
