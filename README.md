@@ -1,8 +1,9 @@
 # Translation Foundry VTT: Ukrainian
 [![Foundry Shield 10]][Foundry URL]
 [![Version]][Version URL]
+[![MIT License]][MIT URL]
 
-Неофіційний український переклад для [Foundry Virtual Tabletop](http://foundryvtt.com). 
+Неофіційний український переклад [PF2e](https://github.com/foundryvtt/pf2e) для [Foundry Virtual Tabletop](http://foundryvtt.com). 
 
 ## Встановлення
 Щоб встановити цей модуль:
@@ -16,5 +17,8 @@
 [Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
 [Foundry URL]: https://foundryvtt.com
 
-[Version]: https://img.shields.io/badge/Version-0.0.6-orange?style=flat-square
+[Version]: https://img.shields.io/badge/Version-0.0.7-orange?style=flat-square
 [Version URL]: https://github.com/reyzor1991/foundry-vtt-uk
+
+[MIT License]: https://img.shields.io/badge/License-OGL-green?style=flat-square
+[MIT URL]: https://github.com/reyzor1991/foundry-vtt-uk/blob/master/OpenGameLicense
