@@ -7,12 +7,17 @@
       "name": "reyzor1991",
       "url": "https://github.com/reyzor1991",
       "discord": "Reyzor1991#6258"
+    },
+    {
+      "name": "Ghostdesu",
+      "url": "https://github.com/Ghostdesu",
+      "discord": "Ghost desu#0201"
     }
   ],
   "url": "https://github.com/reyzor1991/foundry-vtt-uk",
   "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
   "download": "https://github.com/reyzor1991/foundry-vtt-uk/archive/refs/heads/master.zip",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "compatibility": {
     "minimum": "10",
     "maximum": "10.291",
