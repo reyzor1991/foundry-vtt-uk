@@ -12,7 +12,7 @@
   },
   "COMBAT": {
     "Begin": "Почати сутичку",
-    "CombatantNotInScene": "Учасник {ім’я} відсутній у сцені, яку ви зараз переглядаєте.",
+    "CombatantNotInScene": "Учасник {name} відсутній у сцені, яку ви зараз переглядаєте.",
     "CombatantRemove": "Видалити учасника",
     "CombatantStatus": "Статус учасника",
     "CombatantUpdate": "Оновити учасника",
@@ -113,9 +113,9 @@
       "RestForTheNight": {
         "Label": "Відпочинок на ніч",
         "Message": {
-          "Awakens": "{актор} прокидається добре відпочившим.",
-          "ConditionReduced": "{умова} зменшено на 1.",
-          "ConditionRemoved": "Більше не {умова}.",
+          "Awakens": "{actor} прокидається добре відпочившим.",
+          "ConditionReduced": "{condition} зменшено на 1.",
+          "ConditionRemoved": "Більше не {condition}.",
           "FocusPoints": "Точки фокусування відновлено.",
           "Frequencies": "Оновлено частоти дій.",
           "HitPoints": "{hitPoints} очок життя відновлено.",
@@ -130,13 +130,13 @@
         "Prompt": "Відпочивати на ніч?"
       },
       "Strike": {
-        "MeleeLabel": "Рукопашний удар: {зброя}",
+        "MeleeLabel": "Рукопашний удар: {weapon}",
         "OutOfRange": "Ціль поза межами діапазону.",
-        "RangedLabel": "Дистанційний удар: {зброя}"
+        "RangedLabel": "Дистанційний удар: {weapon}"
       },
       "Type": {
         "Activity": "діяльність",
-        "Free": "Безкоштовна дія",
+        "Free": "Вільна дія",
         "Single": "Одиночна дія",
         "Reaction": "Реакція"
       }
@@ -154,14 +154,14 @@
     "ActionNumber3": "три",
     "ActionSkillRequirementLabel": "Вимога",
     "ActionTypeAction": "Дія",
-    "ActionTypeFree": "Безкоштовна дія",
+    "ActionTypeFree": "Вільна дія",
     "ActionTypePassive": "пасивний",
     "ActionTypeReaction": "Реакція",
     "ActionTypeSingle": "Одиночна дія",
     "ActionWeaponLabel": "Супутня зброя",
     "ActionsActionsHeader": "Дії",
-    "ActionsFreeActionsHeader": "Безкоштовні дії",
-    "ActionsReactionsHeader": "реакції",
+    "ActionsFreeActionsHeader": "Вільні дії",
+    "ActionsReactionsHeader": "Реакції",
     "Actor": {
       "ApplyDamage": {
         "AtFullHealth": "<actor>{actor}</actor> уже повністю здоровий.",
@@ -172,7 +172,7 @@
         "ShieldDamagedForN": "Їхній щит також пошкоджено на {shieldDamage}.",
         "ShieldDamagedForNBroken": "Їхній щит також отримує {shieldDamage} шкоди, ламаючи його.",
         "ShieldDamagedForNDestroyed": "Їхній щит також отримує {shieldDamage} шкоди, знищуючи його.",
-        "ShieldNotRaised": "{актор} не підняв щит.",
+        "ShieldNotRaised": "{actor} не підняв щит.",
         "TakesNoDamage": "<actor>{actor}</actor> не зазнає шкоди.",
         "TheTarget": "Ціль"
       },
@@ -201,10 +201,10 @@
             "Title": "Добровільні недоліки"
           }
         },
-        "AncestryClass": "{походження} {клас}",
+        "AncestryClass": "{ancestry} {class}",
         "ClassDC": {
           "Label": "КС Класу",
-          "LabelSpecific": "КС Класу ({клас})",
+          "LabelSpecific": "КС Класу ({class})",
           "Plural": "КС класу"
         },
         "Configure": {
@@ -256,20 +256,20 @@
             "Tremorsense": "тремор",
             "Wavesense": "Відчуття хвилі"
           },
-          "WithAcuity": "{сенс} ({гострота})",
-          "WithAcuityAndRange": "{сенс} ({гострота} {діапазон} футів)"
+          "WithAcuity": "{sense} ({acuity})",
+          "WithAcuityAndRange": "{sense} ({acuity} {range} футів)"
         },
         "SpellPreparation": {
           "Hint": "Щоб підготувати заклинання, перетягніть його з цього списку в слот на аркуші актора.",
           "HintFlexible": "Щоб підготувати заклинання, увімкніть його тут. Щоб підготувати cantrip, перетягніть один із цього списку в слот на аркуші актора.",
-          "Title": "{актор}: Підготовка до заклинань"
+          "Title": "{actor}: Підготовка до заклинань"
         },
         "Spellcasting": {
           "Cantrips": "Задумки",
           "InvalidProficiency": "Недійсний",
           "MagicItemTypesLabel": "Типи магічних предметів",
           "Rituals": "Ритуали",
-          "TraditionSpellcasting": "{традиція} Заклинання",
+          "TraditionSpellcasting": "{tradition} Заклинання",
           "ValidItemTypes": {
             "All": "Усі магічні предмети",
             "Scroll": "Лише сувої"
@@ -292,7 +292,7 @@
       "IWREditor": {
         "DoubleVs": "Подвійний Vs.",
         "Exceptions": "Винятки",
-        "Title": "{актор}: {категорія}",
+        "Title": "{actor}: {category}",
         "Type": "Тип"
       },
       "NPC": {
@@ -821,7 +821,7 @@
     "CreateSpellTitle": "Створити заклинання",
     "CritFailure": "<strong>Критичний збій</strong>",
     "CritSuccess": "<strong>Критичний успіх</strong>",
-    "CriticalDamageLabel": "Критичний",
+    "CriticalDamageLabel": "Критична",
     "CriticalFumbleCardButtonTitle": "Витягніть картку критичної мацання",
     "CriticalHitCardButtonTitle": "Витягніть картку критичного удару",
     "CurrencyAbbreviations": {
@@ -846,15 +846,15 @@
     "DCAdjustmentVeryEasy": "дуже легко",
     "DCAdjustmentVeryHard": "дуже важкий",
     "DCBase": "Основа КС 10",
-    "DCWithValue": "КС {dc} {текст}",
+    "DCWithValue": "КС {dc} {text}",
     "DCWithValueAndVisibility": "<span data-visibility=\"{role}\">DC {dc}</span> {text}",
     "Damage": {
       "Base": "База",
       "Dialog": {
-        "Bonus": "добре {скажи}",
+        "Bonus": "добре {dice}",
         "BonusDice": "Хороші кубики",
         "CriticalDamageRoll": "Критична шкода",
-        "DamageRoll": "Пошкодження",
+        "DamageRoll": "Шкода",
         "Label": "Мітка",
         "None": "Жодного",
         "Splash": "{damageType} Сплеск"
@@ -870,7 +870,7 @@
           "weakness": "Слабкий до {type}: {adjustment}"
         },
         "CompositeLabel": {
-          "Exceptions0DoubleVs0": "{тип} {значення}",
+          "Exceptions0DoubleVs0": "{type} {value}",
           "Exceptions0DoubleVs1": "{type} {value} (подвійний опір проти {doubleVs1})",
           "Exceptions0DoubleVs2": "{type} {value} (подвійний опір порівняно з {doubleVs1} або {doubleVs2})",
           "Exceptions0DoubleVs3": "{type} {value} (подвійний опір порівняно з {doubleVs1}, {doubleVs2} або {doubleVs3})",
@@ -899,8 +899,8 @@
         "Type": {
           "abjuration": "зречення",
           "adamantine": "адамантинова",
-          "all-damage": "всі пошкодження",
-          "area-damage": "пошкодження площі",
+          "all-damage": "вся шкода",
+          "area-damage": "шкода по площі",
           "arrow-vulnerability": "вразливість стріли",
           "auditory": "слуховий",
           "axe-vulnerability": "вразливість сокири",
@@ -991,7 +991,7 @@
           "weapons-shedding-bright-light": "зброя, яка проливає яскраве світло"
         }
       },
-      "IncreasedFrom": "Збільшено з {оригіналу} до мінімуму 1",
+      "IncreasedFrom": "Збільшено з {original} до мінімуму 1",
       "NoDamageFormulaLabel": "Без пошкоджень",
       "PersistentTooltip": "Постійний {damageType}",
       "Precision": "Точність",
@@ -1030,8 +1030,8 @@
       "DoubleContext": "Подвійний збиток",
       "DoubleShort": "Двомісний",
       "Full": "[Натисніть] Застосувати повну шкоду до вибраних жетонів.",
-      "FullContext": "Нанести пошкодження",
-      "FullShort": "Пошкодження",
+      "FullContext": "Нанести шкоду",
+      "FullShort": "Шкода",
       "Half": "[Натисніть] Застосувати половину шкоди до вибраних жетонів.",
       "HalfContext": "Половина шкоди",
       "HalfShort": "половина",
@@ -1046,18 +1046,18 @@
       "TripleShort": "Тримісний"
     },
     "DamageCategoriesLabel": "Категорії пошкоджень",
-    "DamageDieD10": "d10",
-    "DamageDieD12": "D12",
-    "DamageDieD4": "дочка",
-    "DamageDieD6": "d6",
-    "DamageDieD8": "e8",
-    "DamageLabel": "Пошкодження",
-    "DamageRoll": "Пошкодження",
+    "DamageDieD10": "к10",
+    "DamageDieD12": "к12",
+    "DamageDieD4": "к4",
+    "DamageDieD6": "к6",
+    "DamageDieD8": "к8",
+    "DamageLabel": "Шкода",
+    "DamageRoll": "Шкода",
     "DecrementEffectTitle": "Зменшити рівень ефекту",
-    "DefensesLabel": "Оборони",
+    "DefensesLabel": "Захист",
     "Deity": "Божество",
     "DeityTitle": "Твоє божество",
-    "DeleteConditionQuestion": "Ви впевнені, що хочете видалити {умову}?",
+    "DeleteConditionQuestion": "Ви впевнені, що хочете видалити {condition}?",
     "DeleteConditionTitle": "Видалити умову",
     "DeleteItemQuestion": "Ви впевнені, що хочете видалити:",
     "DeleteItemTitle": "Видалити елемент",
@@ -1097,8 +1097,8 @@
         "SingleSecond": "Залишилася 1 секунда",
         "SingleWeek": "залишився 1 тиждень",
         "SingleYear": "залишився 1 рік",
-        "ZeroRoundsExpireTurnEnd": "Залишилося 0 раундів, закінчується кінець ініціативи {ініціатива}",
-        "ZeroRoundsExpireTurnStart": "Залишилося 0 раундів, закінчується початок ініціативи {ініціатива}"
+        "ZeroRoundsExpireTurnEnd": "Залишилося 0 раундів, закінчується кінець ініціативи {initiative}",
+        "ZeroRoundsExpireTurnStart": "Залишилося 0 раундів, закінчується початок ініціативи {initiative}"
       },
       "RemoveToolTip": "[Права кнопка] Вилучити ефект",
       "RollDamageToolTip": "[Лівий клік] Пошкодження рулону",
@@ -1293,7 +1293,7 @@
     "HeritageTitle": "Спадщина вашого персонажа",
     "HeroPointRatio": {
       "Many": "{value}/{max} очок героя",
-      "One": "1/{макс.} бал героя"
+      "One": "1/{max} бал героя"
     },
     "HeroPointsLabel": "Очки героїв",
     "HitPointsDetailsLabel": "Подробиці ОЗ",
@@ -1308,7 +1308,7 @@
     "InitiativeLabel": "Ініціатива",
     "InitiativeWithSkill": "Ініціатива: {skillName}",
     "InlineCheck": {
-      "BasicWithSave": "Базовий {зберегти}",
+      "BasicWithSave": "Базовий {save}",
       "DCWithName": "{name} КС",
       "Errors": {
         "TypeMissing": "Помилка в @Check: параметр типу є обов’язковим"
@@ -1316,10 +1316,10 @@
     },
     "InlineTemplateErrors": {
       "DistanceMissing": "Помилка в @Template: параметр відстані є обов’язковим",
-      "DistanceNoNumber": "Помилка в @Template: розмір {відстань} не є числом",
+      "DistanceNoNumber": "Помилка в @Template: розмір {distance} не є числом",
       "TypeMissing": "Помилка в @Template: параметр типу є обов’язковим",
       "TypeUnsupported": "Помилка в @Template: тип {type} не підтримується",
-      "WidthNoNumber": "Помилка в @Template: ширина {ширина} не є числом"
+      "WidthNoNumber": "Помилка в @Template: ширина {width} не є числом"
     },
     "InventoryArmorHeader": "Броня",
     "InventoryBackpackHeader": "Контейнери",
@@ -1353,7 +1353,7 @@
         },
         "OnsetLabel": "Початок",
         "SaveLabel": "Зберегти КС",
-        "Stage": "Стадія {стадія}",
+        "Stage": "Стадія {stage}",
         "StageLabel": "етап"
       },
       "Ancestry": {
@@ -1425,7 +1425,7 @@
             "DoesNotExist": "На акторі немає стійких пошкоджень {damageType}"
           },
           "Name": "Постійне пошкодження ({formula} {damageType})",
-          "NameWithDC": "Постійне пошкодження ({формула} DC{dc})",
+          "NameWithDC": "Постійне пошкодження ({formula} DC{dc})",
           "RollDamage": "Roll Damage"
         }
       },
@@ -1833,7 +1833,7 @@
         },
         "PriceLabel": "Ціна: {price}",
         "Usage": {
-          "WornParenthetical": "Ношений ({де})",
+          "WornParenthetical": "Ношений ({where})",
           "WornSlot": {
             "amulet": "Амулет",
             "anklets": "браслети",
@@ -1903,19 +1903,19 @@
           "axe": "Виберіть одну істоту поруч із початковою ціллю та в межах досяжності. Якщо його AC нижчий за ваш результат кидка атаки для критичного удару, ви завдаєте цій істоті шкоди, що дорівнює результату кинутого кубика шкоди від зброї (включно з додатковими кубиками для її руни потужності, якщо такі є). Ця сума не подвоюється, і до цієї шкоди не застосовуються бонуси чи інші додаткові кубики.",
           "bomb": "Збільште радіус ураження від бризок бомби (якщо є) до 10 футів.",
           "bow": "Якщо ціль критичного ураження прилягає до поверхні, вона застряє на цій поверхні ракетою. Ціль — @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} і має виконати дію Interact, щоб спробувати @Check[type:athletics|dc:10|name:Pull the Missile Free|showDC:all] перевірити, щоб витягнути ракету; він не може зрушити зі свого простору, доки йому це не вдасться. Істота не застрягає, якщо вона безтілесна, рідка (як водяний елементаль або якийсь соч), або якщо інакше вона може втекти без зусиль",
-          "brawling": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true|name:Brawling Critical Specialization|showDC:all] зберегти або бути @UUID[Compendium.pf2e .conditionitems.xYTAsEpcJE1Ccni3]{Сповільнено на 1} до кінця вашого наступного ходу.",
+          "brawling": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true|name:Brawling Critical Specialization|showDC:all] зберегти або бути @UUID[Compendium.pf2e .conditionitems.xYTAsEpcJE1Ccni3]{Slowed на 1} до кінця вашого наступного ходу.",
           "club": "Ви відбиваєте ціль від себе на 10 футів (відстань обираєте ви). Це вимушений рух.",
           "dart": "Ціль приймає @Localize[PF2E.PersistentDamage.Bleed1d6.success]. Ви отримуєте бонус предметів до цієї шкоди від кровотечі, рівний бонусу предметів зброї до кидків атаки.",
-          "firearm": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true|name:Firearm Critical Specialization|showDC:all] зберегти або бути @UUID[Compendium.pf2e .conditionitems.dfCMdR4wnpbYNTix]{Приголомшено 1}.",
+          "firearm": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true|name:Firearm Critical Specialization|showDC:all] зберегти або бути @UUID[Compendium.pf2e .conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}.",
           "flail": "Мета збита з @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.",
           "hammer": "Мета збита з @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.",
           "knife": "Ціль приймає @Localize[PF2E.PersistentDamage.Bleed1d6.success]. Ви отримуєте бонус предметів до цієї шкоди від кровотечі, рівний бонусу предметів зброї до кидків атаки.",
           "pick": "Зброя жорстоко пронизує ціль, яка отримує 2 додаткові пошкодження за кубик пошкодження зброєю.",
           "polearm": "Мішень переміщається на 5 футів у напрямку, який ви виберете. Це вимушений рух.",
           "shield": "Ви відкидаєте ціль на 5 футів від себе. Це вимушений рух.",
-          "sling": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true|name:Sling Critical Specialization|showDC:all] зберегти або бути @UUID[Compendium.pf2e .conditionitems.dfCMdR4wnpbYNTix]{Приголомшено 1}.",
-          "spear": "Зброя пробиває ціль, послаблюючи її атаки. Ціль @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Незграбний 1} до початку вашого наступного ходу.",
-          "sword": "Ціль виведена з рівноваги вашою атакою, ставши @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Плосконогим} до початку вашого наступного ходу."
+          "sling": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true|name:Sling Critical Specialization|showDC:all] зберегти або бути @UUID[Compendium.pf2e .conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}.",
+          "spear": "Зброя пробиває ціль, послаблюючи її атаки. Ціль @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} до початку вашого наступного ходу.",
+          "sword": "Ціль виведена з рівноваги вашою атакою, ставши @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} до початку вашого наступного ходу."
         },
         "Damage": {
           "DiceNumber": "Кубик номер"
@@ -1923,38 +1923,38 @@
         "FromABP": "Автоматичне прогресування бонусів змінило {property} цієї зброї на {value}.",
         "FromMaterialAndRunes": "Дорогоцінні матеріали та руни на цьому предметі змінили його {property} на {value}.",
         "GeneratedName": {
-          "FourProperties": "{property1} {property2} {property3} {property4} {база}",
-          "FourPropertiesMaterial": "{властивість1} {властивість2} {властивість3} {властивість4} {матеріал} {основа}",
+          "FourProperties": "{property1} {property2} {property3} {property4} {base}",
+          "FourPropertiesMaterial": "{property1} {property2} {property3} {property4} {material} {base}",
           "Hint": "Це назва базової зброї. Для більшості зброї база використовується для генерації повнішої назви з урахуванням складу матеріалу та/або рун. Якщо надати цій зброї спеціальну назву або позначити її як «специфічну», це запобіжить появі згенерованої назви.",
-          "Material": "{матеріал} {основа}",
-          "OneProperty": "{property1} {база}",
-          "OnePropertyMaterial": "{властивість1} {матеріал} {основа}",
-          "Potency": "+{потенція} {база}",
-          "PotencyFourProperties": "+{потужність} {властивість1} {властивість2} {властивість3} {властивість4} {база}",
-          "PotencyFourPropertiesMaterial": "+{потенція} {властивість1} {властивість2} {властивість3} {властивість4} {матеріал} {основа}",
-          "PotencyMaterial": "+{потенція} {матеріал} {основа}",
-          "PotencyOneProperty": "+{потенція} {властивість1} {основа}",
-          "PotencyOnePropertyMaterial": "+{потенція} {властивість1} {матеріал} {основа}",
-          "PotencyStriking": "+{потенція} {вражаючий} {база}",
-          "PotencyStrikingFourProperties": "+{потенція} {вражаючий} {властивість1} {властивість2} {властивість3} {властивість4} {база}",
-          "PotencyStrikingFourPropertiesMaterial": "+{потужність} {вражаючий} {властивість1} {властивість2} {властивість3} {властивість4} {матеріал} {основа}",
-          "PotencyStrikingMaterial": "+{потенція} {вражаючий} {матеріал} {основа}",
-          "PotencyStrikingOneProperty": "+{сила} {вражаючий} {властивість1} {основа}",
-          "PotencyStrikingOnePropertyMaterial": "+{потенція} {вражаючий} {властивість1} {матеріал} {основа}",
-          "PotencyStrikingThreeProperties": "+{потенція} {вражаючий} {властивість1} {властивість2} {властивість3} {основа}",
-          "PotencyStrikingThreePropertiesMaterial": "+{потенція} {вражаючий} {властивість1} {властивість2} {властивість3} {матеріал} {основа}",
-          "PotencyStrikingTwoProperties": "+{потенція} {вражаючий} {властивість1} {властивість2} {основа}",
-          "PotencyStrikingTwoPropertiesMaterial": "+{сила} {вражаючий} {властивість1} {властивість2} {матеріал} {основа}",
-          "PotencyThreeProperties": "+{потенція} {властивість1} {властивість2} {властивість3} {база}",
-          "PotencyThreePropertiesMaterial": "+{потенція} {властивість1} {властивість2} {властивість3} {матеріал} {основа}",
-          "PotencyTwoProperties": "+{потенція} {властивість1} {властивість2} {база}",
-          "PotencyTwoPropertiesMaterial": "+{потенція} {властивість1} {властивість2} {матеріал} {основа}",
-          "Striking": "{striking} {база}",
-          "StrikingMaterial": "{вражаючий} {матеріал} {основа}",
-          "ThreeProperties": "{property1} {property2} {property3} {база}",
-          "ThreePropertiesMaterial": "{властивість1} {властивість2} {властивість3} {матеріал} {основа}",
-          "TwoProperties": "{property1} {property2} {база}",
-          "TwoPropertiesMaterial": "{властивість1} {властивість2} {матеріал} {основа}"
+          "Material": "{material} {base}",
+          "OneProperty": "{property1} {base}",
+          "OnePropertyMaterial": "{property1} {material} {base}",
+          "Potency": "+{potency} {base}",
+          "PotencyFourProperties": "+{potency} {property1} {property2} {property3} {property4} {base}",
+          "PotencyFourPropertiesMaterial": "+{potency} {property1} {property2} {property3} {property4} {material} {base}",
+          "PotencyMaterial": "+{potency} {material} {base}",
+          "PotencyOneProperty": "+{potency} {property1} {base}",
+          "PotencyOnePropertyMaterial": "+{potency} {property1} {material} {base}",
+          "PotencyStriking": "+{potency} {striking} {base}",
+          "PotencyStrikingFourProperties": "+{potency} {striking} {property1} {property2} {property3} {property4} {base}",
+          "PotencyStrikingFourPropertiesMaterial": "+{potency} {striking} {property1} {property2} {property3} {property4} {material} {base}",
+          "PotencyStrikingMaterial": "+{potency} {striking} {material} {base}",
+          "PotencyStrikingOneProperty": "+{potency} {striking} {property1} {base}",
+          "PotencyStrikingOnePropertyMaterial": "+{potency} {striking} {property1} {material} {base}",
+          "PotencyStrikingThreeProperties": "+{potency} {striking} {property1} {property2} {property3} {base}",
+          "PotencyStrikingThreePropertiesMaterial": "+{potency} {striking} {property1} {property2} {property3} {material} {base}",
+          "PotencyStrikingTwoProperties": "+{potency} {striking} {property1} {property2} {base}",
+          "PotencyStrikingTwoPropertiesMaterial": "+{potency} {striking} {property1} {property2} {material} {base}",
+          "PotencyThreeProperties": "+{potency} {property1} {property2} {property3} {base}",
+          "PotencyThreePropertiesMaterial": "+{potency} {property1} {property2} {property3} {material} {base}",
+          "PotencyTwoProperties": "+{potency} {property1} {property2} {base}",
+          "PotencyTwoPropertiesMaterial": "+{potency} {property1} {property2} {material} {base}",
+          "Striking": "{striking} {base}",
+          "StrikingMaterial": "{striking} {material} {base}",
+          "ThreeProperties": "{property1} {property2} {property3} {base}",
+          "ThreePropertiesMaterial": "{property1} {property2} {property3} {material} {base}",
+          "TwoProperties": "{property1} {property2} {base}",
+          "TwoPropertiesMaterial": "{property1} {property2} {material} {base}"
         },
         "HandsLabel": "руки",
         "MandatoryMelee": "Ця зброя має особливість, яку можна використовувати лише зі зброєю ближнього бою.",
@@ -2156,22 +2156,22 @@
       "LandingPageText": "Використовуйте вкладки вище, щоб прочитати юридичну інформацію"
     },
     "ListPartsAnd": {
-      "end": "{перший} і {другий}",
-      "middle": "{перша секунда}",
-      "start": "{перша секунда}",
-      "two": "{перший} і {другий}"
+      "end": "{first}, і {second}",
+      "middle": "{first}, {second}",
+      "start": "{first}, {second}",
+      "two": "{first} та {second}"
     },
     "ListPartsOr": {
       "end": "{first} або {second}",
-      "middle": "{перша секунда}",
-      "start": "{перша секунда}",
-      "two": "{first} або {second}"
+      "middle": "{first}, {second}",
+      "start": "{first}, {second}",
+      "two": "{first} чи {second}"
     },
     "Lore": "Лор",
     "LoreProficiencyDisclaimer": "Тільки інформаційно. Не змінює модифікатор навичок.",
     "LoreSkillFormat": "{name} Лор",
     "LoreSkillsHeader": "Навички знання",
-    "MAPAbbreviationLabel": "КАРТА {штраф}",
+    "MAPAbbreviationLabel": "Штраф {penalty}",
     "Macro": {
       "Plural": "Макроси"
     },
@@ -2196,7 +2196,7 @@
       "str": "Майстер Сила",
       "wis": "Майстер мудрості"
     },
-    "MasterArmorClass": "Майстер-клас броні {база}",
+    "MasterArmorClass": "Майстер-клас броні {base}",
     "MasterLevel": "Майстер Рівень",
     "MasterLevelHP": "Майстер Рівень",
     "MasterSavingThrow": {
@@ -2206,7 +2206,7 @@
     },
     "MaxHPTitle": "Ваші максимальні очки життя. Це поле обчислюється автоматично.",
     "MaxHPTitleNPC": "Максимальна кількість хитів.",
-    "MaxHitPointsBaseLabel": "Максимальна база HP {база}",
+    "MaxHitPointsBaseLabel": "Максимальна база HP {base}",
     "MaxHitPointsHeader": "Максимальна кількість очок життя",
     "MaxHitPointsShortLabel": "Макс HP",
     "MaxStaminaPointsShortLabel": "Макс SP",
@@ -2251,44 +2251,44 @@
       "Abilities": {
         "Glossary": {
           "AllAroundVision": "<p>Цей чудовисько може бачити в усіх напрямках одночасно, тому його не можна охопити з боків.</p>",
-          "AquaticAmbush": "<p><strong>Вимоги</strong> Монстр ховається у воді, а істота, яка його не виявила, знаходиться в межах зазначеної кількості футів.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр рухається до своєї швидкості плавання + 10 футів у напрямку до створюючої істоти, подорожуючи по воді та по суші. Як тільки істота стає доступною, монстр завдає їй удару. Істота @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Плосконогий} проти цього Страйка.</p>",
+          "AquaticAmbush": "<p><strong>Вимоги</strong> Монстр ховається у воді, а істота, яка його не виявила, знаходиться в межах зазначеної кількості футів.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр рухається до своєї швидкості плавання + 10 футів у напрямку до створюючої істоти, подорожуючи по воді та по суші. Як тільки істота стає доступною, монстр завдає їй удару. Істота @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} проти цього Страйка.</p>",
           "AtWillSpells": "<p>Монстр може використовувати свої заклинання будь-яку кількість разів, не використовуючи слоти для заклинань.</p>",
           "AttackOfOpportunity": "<p><strong>Тригер</strong> Істота в межах досяжності монстра використовує дію маніпуляції або рух, здійснює дальню атаку або залишає квадрат під час дії руху, яку вона використовує.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр намагається завдати удару в ближньому бою по створюючій істоті. Якщо атака є критичним ударом, а тригером була дія маніпуляції, монстр порушує цю дію. Цей Удар не зараховується до штрафу монстра за багаторазову атаку, а його штраф за багаторазову атаку не застосовується до цього Удару.</p>",
           "Aura": "<p>Аура монстра автоматично впливає на все в межах визначеної еманації навколо цього монстра. Монстру не потрібно витрачати дії на ауру; швидше, ефекти аури застосовуються в певний час, наприклад, коли істота закінчує свій хід в аурі або коли істоти входять в ауру.</p>\n<p>Якщо аура лише завдає шкоди, її запис містить лише радіус, шкоду та кидок збереження. Такі аури завдають цієї шкоди істоті, коли істота входить в ауру і коли істота починає свою чергу в аурі. Істота може отримати пошкодження від аури лише один раз за раунд.</p>\n<p>Мастер може визначити, що аура монстра не впливає на його союзників. Наприклад, істота може бути несприйнятливою до страшної присутності монстра, якщо вони тривалий час були поруч одне з одним.</p>",
-          "Buck": "<hr />\n<p>Більшість монстрів, які служать верховими тваринами, можуть намагатися відбити небажаних або дратівливих вершників, але більшість верхових тварин не використовуватимуть таку реакцію проти довіреної істоти, якщо верхові тварини не налякані або з ними погано поводяться.</p>\n<p><strong>Тригер</strong> Істота @UUID[Compendium.pf2e.actionspf2e.PM5jvValFkbFH3TV]{Сідає} або використовує дію @UUID[Compendium.pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Наказ тварини} під час їзди на монстр.</p>\n<hr />\n<p><strong>Ефект</strong> Істота, що запускає, має успішно виконати рятувальний кидок Рефлексу проти зазначеного DC або впасти з істоти та приземлитися на @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Схильний}. Якщо сейв є критичною невдачею, створююча ініціатор також отримує [[/roll 1d6[bludgeoning]]]{1d6 bludgeoning damage} на додаток до звичайної шкоди від падіння.</p>",
+          "Buck": "<hr />\n<p>Більшість монстрів, які служать верховими тваринами, можуть намагатися відбити небажаних або дратівливих вершників, але більшість верхових тварин не використовуватимуть таку реакцію проти довіреної істоти, якщо верхові тварини не налякані або з ними погано поводяться.</p>\n<p><strong>Тригер</strong> Істота @UUID[Compendium.pf2e.actionspf2e.PM5jvValFkbFH3TV]{Сідає} або використовує дію @UUID[Compendium.pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Command an Animal} під час їзди на монстр.</p>\n<hr />\n<p><strong>Ефект</strong> Істота, що запускає, має успішно виконати рятувальний кидок Рефлексу проти зазначеного DC або впасти з істоти та приземлитися на @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}. Якщо сейв є критичною невдачею, створююча ініціатор також отримує [[/roll 1d6[bludgeoning]]]{1d6 bludgeoning damage} на додаток до звичайної шкоди від падіння.</p>",
           "CatchRock": "<p><strong>Вимоги</strong> Монстр повинен мати вільну руку, але може @UUID[Compendium.pf2e.actionspf2e.wQYmDStjdjn0I26t]{Відпустити} все, що він тримає, як частину цієї реакції.</p>\n<p><strong>Тригер</strong> На монстра націлено кинутий камінь Strike, інакше на монстра впаде камінь.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр отримує +4 бонус обставин до свого КЗ проти спрацьовує атаки або будь-якого захисту від падаючого каменю. Якщо атака не вдається або монстр успішно захищається від каменя, що падає, монстр ловить камінь, не отримує жодних пошкоджень і тепер тримає камінь</p>",
           "ChangeShape": "<p>Монстр нескінченно змінює свою форму. Він може знову використати цю дію, щоб повернутися до своєї природної форми або прийняти нову форму. Якщо не зазначено інше, монстр не може використовувати «Змінити форму», щоб виглядати як певна особа. Використання Change Shape вважається створенням маскування для @UUID[Compendium.pf2e.actionspf2e.AJstokjdG6iDjVjE]{Impersonate} використання обману. Трансформація монстра автоматично перемагає DC Сприйняття, щоб визначити, чи є істота предком або типом істоти, в яку вона трансформувалася, і він отримує бонус статусу +4 до свого DC Обману, щоб запобігти іншим бачити крізь його маскування. Здатності «Змінити форму» визначають, які форми може прийняти монстр. Монстр не отримує ніяких спеціальних здібностей нової форми, лише свою фізичну форму. Наприклад, у кожній формі він замінює свої звичайні швидкості та удари та потенційно може змінити свої відчуття чи розмір. Будь-які зміни відображаються в блоці статистики.</p>",
           "ConstantSpells": "<p>Постійне заклинання діє на монстра, і монстру не потрібно його використовувати, і його тривалість необмежена. Якщо постійне заклинання протидіє, монстр може повторно активувати його, виконавши звичайні чарівні дії, необхідні для заклинання.</p>",
-          "Constrict": "<p>Монстр завдає зазначену кількість шкоди будь-якій кількості @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Захопив} або @UUID[Compendium.pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Стримав} ним. Кожна з цих істот може спробувати базове збереження Fortitude із вказаним DC.</p>",
-          "Coven": "<p>Цей чудовисько може утворювати шабаш із двома або більше іншими істотами, які також мають здатність ковену. Це передбачає проведення 8-годинної церемонії з усіма потенційними членами ковену. Після того, як шабаш сформовано, кожен із його членів отримує елітні налаштування, відповідним чином регулюючи свої рівні. Учасники Ковену можуть відчути місцезнаходження та умови інших учасників, виконавши одну дію, яка має рису концентрації, і можуть відчути, що відчуває інший учасник Ковену, як діяльність із двома діями, яка також має рису концентрації.</p>\n<p>Ковени також надають своїм членам заклинання та ритуали, але вони можуть застосовуватися лише у співпраці між трьома учасниками ковену, які знаходяться в межах 30 футів один від одного. Учасник шабашу може зробити свій внесок у заклинання шабашу за допомогою заклинання однієї дії, яке має один вербальний компонент. Якщо два учасники ковену внесли ці дії в останньому раунді, третій учасник може накласти заклинання ковену у свій хід, витративши звичайні дії заклинань. Ковен може використовувати свої заклинання шабашу необмежену кількість разів, але може використовувати лише одне заклинання шабашу в кожному раунді. Усі шабаші надають заклинання 8-го рівня <em>@UUID[Compendium.pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Злобна поліморфа}</em> та всі наступні заклинання, які шабаш може використовувати на будь-якому рівні до 5-го: <em>@UUID[Compendium.pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augury}</em>, <em>@UUID[Compendium.pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}</em>, <em >@UUID[Compendium.pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}</em>, <em>@UUID[Compendium.pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}</em>, <em>@ UUID[Compendium.pf2e.spells-srd.yM3KTTSAIHhyuP14]{Повідомлення про сон}</em>, <em>@UUID[Compendium.pf2e.spells-srd.i35dpZFI7jZcRoBo]{Ілюзорне маскування}</em>, <em>@ UUID[Compendium.pf2e.spells-srd.Ucf8eynbZMfUucjE]{Ілюзорна сцена}</em>, <em>@UUID[Compendium.pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Допитливе око}</em> та <em> @UUID[Compendium.pf2e.spells-srd.FM3SmEW8N1FCRjqt]{Труп, що говорить}</em>. Окремі істоти зі здатністю шабашу також надають додаткові заклинання будь-якому ковену, до якого вони приєднуються. Ковен також може використовувати ритуал <em>@UUID[Compendium.pf2e.spells-srd.XkDCzMIyc0YOjw05]{Контроль погоди}</em> з DC 23 замість стандартного DC.</p>\n<p>Якщо учасник ковену залишає шабаш або смерть учасника ковену зменшує кількість учасників у шабаші менше трьох, інші учасники зберігають свої налаштування еліти протягом 24 годин, але без достатньої кількості учасників, щоб зробити необхідні дії, вони не можуть виконувати заклинання шабашу.</p>",
-          "Darkvision": "<p>Монстр із темним зором може чудово бачити в темряві та тьмяному світлі, хоча такий зір є лише чорно-білим. Деякі форми магічної темряви, наприклад заклинання <em>@UUID[Compendium.pf2e.spells-srd.4GE2ZdODgIQtg51c]{Темрява}</em> 4-го рівня, блокують нормальний темний зір. Однак монстр із @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]{Greater Darkvision} може бачити навіть крізь ці форми магічної темряви.</p>",
+          "Constrict": "<p>Монстр завдає зазначену кількість шкоди будь-якій кількості @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} або @UUID[Compendium.pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained} ним. Кожна з цих істот може спробувати базове збереження Fortitude із вказаним DC.</p>",
+          "Coven": "<p>Цей чудовисько може утворювати шабаш із двома або більше іншими істотами, які також мають здатність ковену. Це передбачає проведення 8-годинної церемонії з усіма потенційними членами ковену. Після того, як шабаш сформовано, кожен із його членів отримує елітні налаштування, відповідним чином регулюючи свої рівні. Учасники Ковену можуть відчути місцезнаходження та умови інших учасників, виконавши одну дію, яка має рису концентрації, і можуть відчути, що відчуває інший учасник Ковену, як діяльність із двома діями, яка також має рису концентрації.</p>\n<p>Ковени також надають своїм членам заклинання та ритуали, але вони можуть застосовуватися лише у співпраці між трьома учасниками ковену, які знаходяться в межах 30 футів один від одного. Учасник шабашу може зробити свій внесок у заклинання шабашу за допомогою заклинання однієї дії, яке має один вербальний компонент. Якщо два учасники ковену внесли ці дії в останньому раунді, третій учасник може накласти заклинання ковену у свій хід, витративши звичайні дії заклинань. Ковен може використовувати свої заклинання шабашу необмежену кількість разів, але може використовувати лише одне заклинання шабашу в кожному раунді. Усі шабаші надають заклинання 8-го рівня <em>@UUID[Compendium.pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Baleful Polymorph}</em> та всі наступні заклинання, які шабаш може використовувати на будь-якому рівні до 5-го: <em>@UUID[Compendium.pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augury}</em>, <em>@UUID[Compendium.pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}</em>, <em >@UUID[Compendium.pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}</em>, <em>@UUID[Compendium.pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}</em>, <em>@ UUID[Compendium.pf2e.spells-srd.yM3KTTSAIHhyuP14]{Dream Message}</em>, <em>@UUID[Compendium.pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em>, <em>@ UUID[Compendium.pf2e.spells-srd.Ucf8eynbZMfUucjE]{Illusory Scene}</em>, <em>@UUID[Compendium.pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Prying Eye}</em> та <em> @UUID[Compendium.pf2e.spells-srd.FM3SmEW8N1FCRjqt]{Talking Corpse}</em>. Окремі істоти зі здатністю шабашу також надають додаткові заклинання будь-якому ковену, до якого вони приєднуються. Ковен також може використовувати ритуал <em>@UUID[Compendium.pf2e.spells-srd.XkDCzMIyc0YOjw05]{Control Weather}</em> з DC 23 замість стандартного DC.</p>\n<p>Якщо учасник ковену залишає шабаш або смерть учасника ковену зменшує кількість учасників у шабаші менше трьох, інші учасники зберігають свої налаштування еліти протягом 24 годин, але без достатньої кількості учасників, щоб зробити необхідні дії, вони не можуть виконувати заклинання шабашу.</p>",
+          "Darkvision": "<p>Монстр із темним зором може чудово бачити в темряві та тьмяному світлі, хоча такий зір є лише чорно-білим. Деякі форми магічної темряви, наприклад заклинання <em>@UUID[Compendium.pf2e.spells-srd.4GE2ZdODgIQtg51c]{Darkness}</em> 4-го рівня, блокують нормальний темний зір. Однак монстр із @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]{Greater Darkvision} може бачити навіть крізь ці форми магічної темряви.</p>",
           "Disease": "<p>Коли істота піддається хворобі монстра, вона намагається врятувати Стійкість або вмирає від хвороби. Рівень хвороби - це рівень монстра, який викликає хворобу. Хвороба протікає за правилами ураження.</p>",
-          "Engulf": "<p>Монстр піднімається, щоб подвоїти свою швидкість, і може пересуватися через простори будь-яких істот на своєму шляху. Будь-яка істота розміром з монстра або менше, через простір якого монстр рухається, може спробувати зберегти Рефлекс із вказаним DC, щоб уникнути поглинання. Істота, яка не може діяти автоматично критично, провалює це збереження. Якщо істоті вдається врятуватися, її можна відштовхнути вбік (зі шляху монстра) або штовхнути перед монстром до кінця руху монстра. Монстр може спробувати поглинути ту саму істоту лише один раз під час одного використання Поглинання. Монстр може містити стільки істот, скільки може вмістити його простір.</p>\n<p>Істота, яку не вдалося врятувати, втягується в тіло монстра. Це @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Схоплений}, @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Уповільнений 1}, і він повинен затримати дихання або почати задихатися. Істота отримує зазначену кількість шкоди, коли її вперше поглинають, і в кінці кожного свого ходу, поки її поглинають. Поглинута істота може звільнитися за допомогою @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escaping} проти вказаного в списку DC втечі. Поглинута істота може атакувати монстра, який її поглинає, але лише беззбройними атаками або зі зброєю легкого Балка чи менше. Поглинаюча істота — @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Плосконогий} проти атаки. Якщо монстр отримує пронизливу чи рубаючу шкоду, що дорівнює або перевищує вказане значення Розриву від однієї атаки чи заклинання, поглинена істота вивільняється. Істота, яка звільняється будь-яким способом, може негайно вдихнути та вийти з простору ковтаючого монстра.</p>\n<p>Якщо монстр гине, усі істоти, яких він поглинув, автоматично звільняються, оскільки форма монстра втрачає згуртованість.</p>",
+          "Engulf": "<p>Монстр піднімається, щоб подвоїти свою швидкість, і може пересуватися через простори будь-яких істот на своєму шляху. Будь-яка істота розміром з монстра або менше, через простір якого монстр рухається, може спробувати зберегти Рефлекс із вказаним DC, щоб уникнути поглинання. Істота, яка не може діяти автоматично критично, провалює це збереження. Якщо істоті вдається врятуватися, її можна відштовхнути вбік (зі шляху монстра) або штовхнути перед монстром до кінця руху монстра. Монстр може спробувати поглинути ту саму істоту лише один раз під час одного використання Поглинання. Монстр може містити стільки істот, скільки може вмістити його простір.</p>\n<p>Істота, яку не вдалося врятувати, втягується в тіло монстра. Це @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}, @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1}, і він повинен затримати дихання або почати задихатися. Істота отримує зазначену кількість шкоди, коли її вперше поглинають, і в кінці кожного свого ходу, поки її поглинають. Поглинута істота може звільнитися за допомогою @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escaping} проти вказаного в списку DC втечі. Поглинута істота може атакувати монстра, який її поглинає, але лише беззбройними атаками або зі зброєю легкого Балка чи менше. Поглинаюча істота — @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} проти атаки. Якщо монстр отримує пронизливу чи рубаючу шкоду, що дорівнює або перевищує вказане значення Розриву від однієї атаки чи заклинання, поглинена істота вивільняється. Істота, яка звільняється будь-яким способом, може негайно вдихнути та вийти з простору ковтаючого монстра.</p>\n<p>Якщо монстр гине, усі істоти, яких він поглинув, автоматично звільняються, оскільки форма монстра втрачає згуртованість.</p>",
           "FastHealing": "<p>Монстр із цією здатністю відновлює задану кількість очок життя кожного раунду на початку свого ходу.</p>",
-          "Ferocity": "<p><strong>Тригер</strong> Монстр зменшено до 0 HP.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр уникає нокауту та залишається на рівні 1 HP, але його значення @UUID[Compendium.pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Поранений} збільшується на 1. Коли він поранений 3, він більше не може використовувати цю здатність</p>",
+          "Ferocity": "<p><strong>Тригер</strong> Монстр зменшено до 0 HP.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр уникає нокауту та залишається на рівні 1 HP, але його значення @UUID[Compendium.pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded} збільшується на 1. Коли він поранений 3, він більше не може використовувати цю здатність</p>",
           "FormUp": "<p>Військо обирає одне з полів, які воно зараз займає, і перерозподіляє свої поля на будь-яку конфігурацію, у якій усі клітини є суміжними та знаходяться в межах 15 футів від вибраного поля. Загін не може ділитися своїм простором з іншими істотами.</p>",
-          "FrightfulPresence": "<p>Істота, яка першою потрапляє в зону, повинна спробувати врятувати волю.</p>\n<p>Незалежно від результату рятувального кидка, істота тимчасово має імунітет до Страшної присутності цього монстра на 1 хвилину.</p>\n<hr />\n<p><strong>Критичний успіх</strong> Присутність не впливає на істоту.</p>\n<p><strong>Успіх</strong> Істота @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Налякана 1}.</p>\n<p><strong>Невдача</strong> Істота @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Наляканий 2}.</p>\n<p><strong>Критична помилка</strong> Істота @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Наляканий 4}.</p>",
-          "Grab": "<p><strong>Вимоги</strong> Остання дія монстра була вдалою з Ударом, у записі про пошкодження якого вказано Grab, або за допомогою цієї дії було схоплено істоту.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр автоматично хапає ціль до кінця наступного ходу монстра. Істота є @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{захоплена} будь-якою частиною тіла, якою атакував монстр, і цю частину тіла не можна використовувати для нанесення ударів істотам, доки захоплення не закінчиться. Використання Grab подовжує тривалість Grab монстра до кінця його наступного ходу для всіх істот, захоплених ним. Схоплена істота може використати дію @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Втеча}, щоб вибратися з захоплення, і захоплення закінчується для захоплених істот, якщо монстр відходить від нього.</p>",
-          "GreaterConstrict": "<p>Монстр завдає зазначену кількість шкоди будь-якій кількості @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Захопив} або @UUID[Compendium.pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Стримав} ним. Кожна з цих істот може спробувати базове збереження Fortitude із вказаним DC. Істота, якій це збереження не вдасться, падає з @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf]{Вне свідомості}, а істота, якій це вдається, тимчасово захищається від втрати свідомості від Великого Звуження на 1 хвилину.</p>",
+          "FrightfulPresence": "<p>Істота, яка першою потрапляє в зону, повинна спробувати врятувати волю.</p>\n<p>Незалежно від результату рятувального кидка, істота тимчасово має імунітет до Страшної присутності цього монстра на 1 хвилину.</p>\n<hr />\n<p><strong>Критичний успіх</strong> Присутність не впливає на істоту.</p>\n<p><strong>Успіх</strong> Істота @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Невдача</strong> Істота @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Критична помилка</strong> Істота @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 4}.</p>",
+          "Grab": "<p><strong>Вимоги</strong> Остання дія монстра була вдалою з Ударом, у записі про пошкодження якого вказано Grab, або за допомогою цієї дії було схоплено істоту.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр автоматично хапає ціль до кінця наступного ходу монстра. Істота є @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} будь-якою частиною тіла, якою атакував монстр, і цю частину тіла не можна використовувати для нанесення ударів істотам, доки захоплення не закінчиться. Використання Grab подовжує тривалість Grab монстра до кінця його наступного ходу для всіх істот, захоплених ним. Схоплена істота може використати дію @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escaping}, щоб вибратися з захоплення, і захоплення закінчується для захоплених істот, якщо монстр відходить від нього.</p>",
+          "GreaterConstrict": "<p>Монстр завдає зазначену кількість шкоди будь-якій кількості @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} або @UUID[Compendium.pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained} ним. Кожна з цих істот може спробувати базове збереження Fortitude із вказаним DC. Істота, якій це збереження не вдасться, падає з @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}, а істота, якій це вдається, тимчасово захищається від втрати свідомості від Великого Звуження на 1 хвилину.</p>",
           "GreaterDarkvision": "<p>Істота з більшим темним зором може чудово бачити в темряві та тьмяному світлі, хоча такий зір є лише чорно-білим. Деякі форми магічної темряви, як-от заклинання <em>@UUID[Compendium.pf2e.spells-srd.4GE2ZdODgIQtg51c]{Darkness}</em> 4-го рівня, блокують нормальний @UUID[Compendium.pf2e.bestiary-ability- glossary-srd.qCCLZhnp2HhP3Ex6]{Darkvision}. Однак істота з більшим темним зором може бачити навіть крізь ці форми магічної темряви.</p>",
-          "ImprovedGrab": "<p>Монстр може використовувати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Grab} як безкоштовну дію, ініційовану ударом під час початкової атаки. Монстру з покращеним захопленням все ще потрібно провести дію, щоб подовжити тривалість для істот, які він уже має @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Захоплено}.</p>",
-          "ImprovedKnockdown": "<p>Монстр може використовувати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Нокдаун} як безкоштовну дію, яка ініціюється ударом під час початкової атаки.</p>",
+          "ImprovedGrab": "<p>Монстр може використовувати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Grab} як безкоштовну дію, ініційовану ударом під час початкової атаки. Монстру з покращеним захопленням все ще потрібно провести дію, щоб подовжити тривалість для істот, які він уже має @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}.</p>",
+          "ImprovedKnockdown": "<p>Монстр може використовувати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Knockdown} як безкоштовну дію, яка ініціюється ударом під час початкової атаки.</p>",
           "ImprovedPush": "<p>Монстр може використовувати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Push} як безкоштовну дію, ініційовану ударом під час початкової атаки.</p>",
           "Knockdown": "<p><strong>Вимоги</strong> Остання дія монстра була успішною з ударом, у записі про пошкодження якого зазначено Нокдаун.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр збиває ціль @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>",
           "Lifesense": "<p>Відчуття життя дозволяє монстру відчувати життєву сутність живих і неживих істот у межах зазначеного діапазону. Почуття може розрізнити позитивну енергію, що оживляє живих істот, і негативну енергію, що оживляє немертвих істот, так само, як зір розрізняє кольори.</p>",
-          "LightBlindness": "<p>Коли монстр вперше потрапив під яскраве світло, @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{осліплений} до кінця свого наступного ходу. Після цього впливу світло знову не засліплює монстра, доки він не проведе 1 годину в темряві. Однак, доки монстр перебуває в зоні яскравого світла, він @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Осліплений}.</p>",
-          "LowLightVision": "<p>Монстр може бачити в тьмяному світлі так, ніби це яскраве світло, тому він ігнорує стан @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W]{Прихований} через тьмяне світло.</p>",
+          "LightBlindness": "<p>Коли монстр вперше потрапив під яскраве світло, @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} до кінця свого наступного ходу. Після цього впливу світло знову не засліплює монстра, доки він не проведе 1 годину в темряві. Однак, доки монстр перебуває в зоні яскравого світла, він @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Blinded}.</p>",
+          "LowLightVision": "<p>Монстр може бачити в тьмяному світлі так, ніби це яскраве світло, тому він ігнорує стан @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} через тьмяне світло.</p>",
           "NegativeHealing": "<p>Істота з негативним лікуванням черпає здоров’я з негативної енергії, а не з позитивної. Він пошкоджується позитивними пошкодженнями і не загоюється позитивними цілющими ефектами. Він не отримує негативної шкоди та зцілюється негативними ефектами, які зцілюють нежить.</p>",
           "Poison": "<p>Коли істота піддається дії отрути монстра, вона намагається врятувати Стійкість, щоб уникнути отруєння. Рівень отрути — це рівень монстра, який завдає отрути. Отрута дотримується правил страждань.</p>",
           "PowerAttack": "<p><strong>Частота</strong> раз на раунд</p>\n<hr />\n<p><strong>Ефект</strong> Монстр завдає рукопашного удару. Це зараховується як дві атаки під час розрахунку штрафу за численні атаки монстра. Якщо цей Удар влучає, монстр завдає додатковий кубик шкоди від зброї.</p>",
           "Push": "<p><strong>Вимоги</strong> Остання дія монстра була успішною з ударом, у записі про пошкодження якого вказано Push.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр автоматично відкидає ціль від монстра. Якщо інше не зазначено в описі здібностей, істота штовхається на 5 футів. Якщо атака була критичним, ця відстань подвоюється.</p>",
-          "Regeneration": "<p>Цей монстр відновлює зазначену кількість очок життя кожного раунду на початку свого ходу. Його @UUID[Compendium.pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Вмирання} стан ніколи не збільшується після Вмирання 3, доки його регенерація активна. Однак, якщо він отримує пошкодження типу, зазначеного в записі регенерації, його регенерація вимикається до кінця його наступного ходу. Вимкніть регенерацію перед нанесенням будь-якої шкоди зазначеного типу, оскільки ця шкода може вбити монстра, перенісши його до Dying 4.</p>",
+          "Regeneration": "<p>Цей монстр відновлює зазначену кількість очок життя кожного раунду на початку свого ходу. Його @UUID[Compendium.pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying} стан ніколи не збільшується після Вмирання 3, доки його регенерація активна. Однак, якщо він отримує пошкодження типу, зазначеного в записі регенерації, його регенерація вимикається до кінця його наступного ходу. Вимкніть регенерацію перед нанесенням будь-якої шкоди зазначеного типу, оскільки ця шкода може вбити монстра, перенісши його до Dying 4.</p>",
           "Rend": "<p>Запис Rend містить перелік ударів монстра.</p>\n<p><strong>Вимоги</strong> Монстр вразив того самого ворога двома послідовними ударами вказаного типу в одному раунді.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр автоматично знову завдає шкоди від удару ворогу.</p>",
           "RetributiveStrike": "<p><strong>Тригер</strong> Ворог завдає шкоди союзнику монстра, і обидва знаходяться в радіусі 15 футів від монстра.</p>\n<hr />\n<p><strong>Ефект</strong> Союзник отримує стійкість до всієї шкоди проти спрацьовує шкоди, що дорівнює 2 + рівень монстра. Якщо ворог знаходиться в межах досяжності, монстр завдає йому рукопашного удару.</p>",
           "Scent": "<p>Запах передбачає відчуття істот або об’єктів за допомогою запаху, і зазвичай це розпливчасте відчуття. Діапазон зазначений у здатності, і він діє, лише якщо виявлена істота чи об’єкт випромінює аромат (наприклад, безтілесні істоти зазвичай не виділяють аромату).</p>\n<p>Якщо істота випромінює важкий аромат або знаходиться за вітром, GM може подвоїти або навіть потроїти діапазон запахових здібностей, які використовуються для виявлення цієї істоти, і GM може зменшити радіус дії, якщо істота знаходиться за вітром.</p>",
           "ShieldBlock": "<p><strong>Тригер</strong> Монстр має піднятий щит і отримує пошкодження від фізичної атаки.</p>\n<hr />\n<p><strong>Ефект</strong> Монстр фіксує свій щит на місці, щоб відбити удар. Щит запобігає монстру від отримання шкоди до Твердості щита. Монстр і щит отримують будь-яку залишкову шкоду, можливо, розбиваючи або руйнуючи щит.</p>",
-          "SneakAttack": "<p>Коли монстр завдає удару істоті, яка має стан @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Плоскостопість} спритною чи витонченою холодною зброєю, спритною чи витонченою атакою без зброї чи атакою зброєю далекого бою, він також завдає перерахованої точності шкоди. Для дистанційної атаки метаною зброєю ця зброя також має бути спритною чи витонченою.</p>",
-          "SwallowWhole": "<p>Монстр намагається проковтнути істоту вказаного розміру або менше, яку він схопив у свої щелепи чи пащу. Якщо проковтнута істота має максимальний зазначений розмір, монстр не зможе знову використати «Проковтнути ціле». Якщо істота менша за максимальну, монстр зазвичай може проковтнути більше істот; GM визначає максимум. Монстр намагається зробити атлетичну перевірку, проти якої схоплений Reflex DC істоти. Якщо йому це вдається, він ковтає істоту. Паща або щелепи монстра більше не хапають істоту, яку він проковтнув, тому монстр може використовувати їх, щоб знову вдарити чи схопити. Монстр не може атакувати істот, яких він проковтнув.</p>\n<p>Проковтнута істота — @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Схоплена}, @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Уповільнена 1}, і вона має затримати дихання або почати задихатися. Проковтнута істота отримує зазначену кількість шкоди під час першого ковтання та в кінці кожного свого ходу під час ковтання. Якщо жертва @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{втікає} від умов захоплення цієї здатності, вона виходить через пащу монстра. Це звільняє будь-яку іншу істоту, схоплену в пащу або щелепи монстра. Проковтнута істота може атакувати монстра, який її проковтнув, але лише беззбройними атаками або зброєю легкого Балка чи менше. Істота, яка ковтає, є @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Плосколапий} проти атаки. Якщо монстр отримує пронизливу чи рубаючу шкоду, що дорівнює або перевищує вказане значення Розриву від однієї атаки чи заклинання, проковтнута істота вирізається. Істота, яка звільняється шляхом втечі або вивільнення, може негайно вдихнути та залишити простір ковтаючого монстра.</p>\n<p>Якщо монстр загине, проковтнута істота може бути звільнена істотами, які знаходяться поруч із трупом, якщо вони виконають разом 3 дії, розрізаючи монстра зброєю або нападаючи без зброї, що завдає колючої чи рубаючої шкоди.</p>",
+          "SneakAttack": "<p>Коли монстр завдає удару істоті, яка має стан @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} спритною чи витонченою холодною зброєю, спритною чи витонченою атакою без зброї чи атакою зброєю далекого бою, він також завдає перерахованої точності шкоди. Для дистанційної атаки метаною зброєю ця зброя також має бути спритною чи витонченою.</p>",
+          "SwallowWhole": "<p>Монстр намагається проковтнути істоту вказаного розміру або менше, яку він схопив у свої щелепи чи пащу. Якщо проковтнута істота має максимальний зазначений розмір, монстр не зможе знову використати «Проковтнути ціле». Якщо істота менша за максимальну, монстр зазвичай може проковтнути більше істот; GM визначає максимум. Монстр намагається зробити атлетичну перевірку, проти якої схоплений Reflex DC істоти. Якщо йому це вдається, він ковтає істоту. Паща або щелепи монстра більше не хапають істоту, яку він проковтнув, тому монстр може використовувати їх, щоб знову вдарити чи схопити. Монстр не може атакувати істот, яких він проковтнув.</p>\n<p>Проковтнута істота — @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}, @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1}, і вона має затримати дихання або почати задихатися. Проковтнута істота отримує зазначену кількість шкоди під час першого ковтання та в кінці кожного свого ходу під час ковтання. Якщо жертва @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escapes} від умов захоплення цієї здатності, вона виходить через пащу монстра. Це звільняє будь-яку іншу істоту, схоплену в пащу або щелепи монстра. Проковтнута істота може атакувати монстра, який її проковтнув, але лише беззбройними атаками або зброєю легкого Балка чи менше. Істота, яка ковтає, є @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} проти атаки. Якщо монстр отримує пронизливу чи рубаючу шкоду, що дорівнює або перевищує вказане значення Розриву від однієї атаки чи заклинання, проковтнута істота вирізається. Істота, яка звільняється шляхом втечі або вивільнення, може негайно вдихнути та залишити простір ковтаючого монстра.</p>\n<p>Якщо монстр загине, проковтнута істота може бути звільнена істотами, які знаходяться поруч із трупом, якщо вони виконають разом 3 дії, розрізаючи монстра зброєю або нападаючи без зброї, що завдає колючої чи рубаючої шкоди.</p>",
           "SwarmMind": "<p>Цей чудовисько не має єдиного розуму (зазвичай тому, що це рій дрібніших істот), і він несприйнятливий до ментальних ефектів, які націлені лише на певну кількість істот. Він все ще піддається психічним впливам, які впливають на всіх істот у цій місцевості.</p>",
           "Telepathy": "<p>Монстр із телепатією може подумки спілкуватися з будь-якими істотами в межах зазначеного радіусу, якщо вони мають спільну мову. Це не дає особливого доступу до їхніх думок і не передає більше інформації, ніж звичайна мова.</p>",
           "Thoughtsense": "<p>Почуття думки дозволяє монстру відчувати всіх безглуздих створінь на вказаній відстані.</p>",
@@ -2546,7 +2546,7 @@
       "critFailure": "Збільште цінність смерті на 2.",
       "critSuccess": "Зменшіть свою вартість смерті на 2.",
       "failure": "Збільште цінність смерті на 1.",
-      "rollingDescription": "Перевірка відновлення проти DC {dc} (вмираючи {вмираючи})",
+      "rollingDescription": "Перевірка відновлення проти КС {dc} (вмираючи {dying})",
       "success": "Зменшіть свою вартість смерті на 1."
     },
     "RemoveCoinsByValueLabel": "Видалити значення, а не конкретний тип",
@@ -3116,7 +3116,7 @@
       "Add": "Додати підвищення (інтервал)",
       "Header": "Масштабування (інтервал)",
       "Label": "Інтервал",
-      "Selection": "Підвищений (+{інтервал})"
+      "Selection": "Підвищений (+{interval})"
     },
     "SpellScalingLabel": "Масштабування",
     "SpellScalingOverlay": {
@@ -3188,7 +3188,7 @@
       },
       "Ranged": {
         "Description": "Ви атакуєте зброєю, якою володієте, націлюючись на одну істоту в радіусі дії. Киньте кидок на атаку для зброї, яку ви використовуєте, і порівняйте результат із AC цільової істоти, щоб визначити ефект.",
-        "NoAmmo": "Для {зброї} немає боєприпасів. Перевірте вкладку «Дії» аркуша {actor}.",
+        "NoAmmo": "Для {weapon} немає боєприпасів. Перевірте вкладку «Дії» аркуша {actor}.",
         "Success": "Ви завдаєте шкоди відповідно до зброї, включаючи будь-які модифікатори, бонуси та покарання, які вам потрібно завдати."
       },
       "Unarmed": {
@@ -3196,7 +3196,7 @@
         "Success": "Ви завдаєте шкоди відповідно до незбройної атаки, включно з будь-якими модифікаторами, бонусами та штрафами, які вам потрібно завдати."
       }
     },
-    "StrikesLabel": "страйки",
+    "StrikesLabel": "Удари",
     "StrikingRuneLabel": "Вражаюча руна",
     "Success": "<strong>Успіх</strong>",
     "TabActionsDowntimeLabel": "Час простою",
@@ -3215,8 +3215,8 @@
     "TabSkillsLabel": "Здібності",
     "TabSpellbookLabel": "Заклинання",
     "TempHPTitle": "Кількість тимчасових очок життя, які ви маєте",
-    "TempHitPointsShortLabel": "Temp HP",
-    "TemplateLabel": "{розмір}-{одиниця} {форма}",
+    "TempHitPointsShortLabel": "Тимчасові ОЗ",
+    "TemplateLabel": "{size}-{unit} {shape}",
     "TemporaryItemToolTip": "Цей предмет є тимчасовим і закінчиться через деякий час або під час щоденних приготувань. Він не має вартості і не може бути проданий.",
     "Time": {
       "Duration": "Тривалість",
@@ -3236,7 +3236,7 @@
     "ToggleSlotlessSpellLevelsTitle": "Перемкнути видимість рівнів заклинань без слотів",
     "ToggleSpellVisibilityTitle": "Підготовка заклинання",
     "ToggleUnreadyStrikes": "Перемикайте неозброєну зброю",
-    "ToggleWithName": "Перемикач: {власність}",
+    "ToggleWithName": "Перемикач: {property}",
     "TogglesLabel": "Перемикає",
     "Token": {
       "Appearance": "Зовнішній вигляд",
@@ -4345,7 +4345,7 @@
         "by": "за",
         "damaged": "пошкоджено за",
         "healed": "вилікувався від",
-        "shieldActive": "і їх {щит} отримує",
+        "shieldActive": "і їх {shield} отримує",
         "shieldInActive": "отримує"
       },
       "errorTargetToken": "Виберіть хоча б один маркер.",
@@ -4674,10 +4674,10 @@
     "WeaponHands1Plus": "Один плюс",
     "WeaponHands2": "Два",
     "WeaponMAPDefaultOption": "За замовчуванням (використовує гнучкість, якщо є)",
-    "WeaponMAPLabel": "Штраф за кілька нападів",
-    "WeaponPotencyRune1": "Сила зброї (+1)",
-    "WeaponPotencyRune2": "Сила зброї (+2)",
-    "WeaponPotencyRune3": "Сила зброї (+3)",
+    "WeaponMAPLabel": "Штраф за кілька атак",
+    "WeaponPotencyRune1": "Потужність зброї (+1)",
+    "WeaponPotencyRune2": "Потужність зброї (+2)",
+    "WeaponPotencyRune3": "Потужність зброї (+3)",
     "WeaponPotencyRune4": "Потужність зброї (+4)",
     "WeaponPropertyCriticalDamageLabel": "Критична шкода",
     "WeaponPropertyCriticalEffectLabel": "Критичний ефект",
@@ -4694,7 +4694,7 @@
       "anchoring": {
         "Name": "Анкерування",
         "Note": {
-          "criticalSuccess": "Якщо ви критично влучили в ціль зброєю-фіксатором, зброя кидає на ціль <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN]{Вимірний якір}</em> (@Check[type:will|dc :27|name:Anchoring Rune], модифікатор протидії [[/r 1d20+17 # Anchoring Rune Counteract Check]]{+17})."
+          "criticalSuccess": "Якщо ви критично влучили в ціль зброєю-фіксатором, зброя кидає на ціль <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN]{Dimensional Anchor}</em> (@Check[type:will|dc :27|name:Anchoring Rune], модифікатор протидії [[/r 1d20+17 # Anchoring Rune Counteract Check]]{+17})."
         }
       },
       "axiomatic": {
@@ -4712,13 +4712,13 @@
       "bloodthirsty": {
         "Name": "Кровожерливий",
         "Note": {
-          "criticalSuccess": "Коли ви критично вражаєте ціль, яка отримує @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]{Постійна кровотеча}, ваша мета стає @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR]{Висушено 1}."
+          "criticalSuccess": "Коли ви критично вражаєте ціль, яка отримує @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}, ваша мета стає @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1}."
         }
       },
       "brilliant": {
         "Name": "Блискуче",
         "Note": {
-          "criticalSuccess": "Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:29|name:Brilliant Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Осліпленою} на 1 раунд."
+          "criticalSuccess": "Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:29|name:Brilliant Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} на 1 раунд."
         }
       },
       "conducting": {
@@ -4733,7 +4733,7 @@
       "crushing": {
         "Name": "Дроблення",
         "Note": {
-          "criticalSuccess": "Коли ви критично вражаєте ціль цією зброєю, ваша ціль стає @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Незграбний 1} і @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} до кінця вашого наступного поворот."
+          "criticalSuccess": "Коли ви критично вражаєте ціль цією зброєю, ваша ціль стає @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} і @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} до кінця вашого наступного поворот."
         }
       },
       "cunning": {
@@ -4763,7 +4763,7 @@
       "fearsome": {
         "Name": "Страшний",
         "Note": {
-          "criticalSuccess": "Коли ви завдаєте критичного удару цією зброєю, ціль стає @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Наляканий 1}."
+          "criticalSuccess": "Коли ви завдаєте критичного удару цією зброєю, ціль стає @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}."
         }
       },
       "flaming": {
@@ -4775,7 +4775,7 @@
       "frost": {
         "Name": "Мороз",
         "Note": {
-          "criticalSuccess": "Після критичного удару ціль також @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Уповільнено 1} до кінця вашого наступного ходу, якщо вона не вдасться під час @Check[type:fortitude|dc:24|name:Frost Руна] зберегти."
+          "criticalSuccess": "Після критичного удару ціль також @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} до кінця вашого наступного ходу, якщо вона не вдасться під час @Check[type:fortitude|dc:24|name:Frost Руна] зберегти."
         }
       },
       "ghostTouch": {
@@ -4785,8 +4785,8 @@
       "greaterAnchoring": {
         "Name": "Більше закріплення",
         "Note": {
-          "criticalSuccess": "Коли ви критично вражаєте ціль зброєю з руною прив’язки, зброя кидає на ціль <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN]{Вимірний Якір}</em> 8-го рівня (@Check [type:will|dc:38|name:Greater Anchoring Rune], модифікатор протидії [[/r 1d20+28 #Greater Anchoring Rune Counteract Check]]{+28}), за винятком випадків, коли ціль критично успішно виконує своє збереження волі , замість того, щоб мати ефект, <em>розмірний якір</em> триває 1 раунд.",
-          "success": "<strong>Greater Anchoring Rune</strong> Коли ви вражаєте ціль зі зброї, але не завдаєте критичного удару, на ціль впливає <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN] 4-го рівня Dimensional Anchor}</em> для 1 раунду без збереження (модифікатор протидії [[/r 1d20+28 #Greater Anchoring Rune Counteract Check]]{+28})."
+          "criticalSuccess": "Коли ви критично вражаєте ціль зброєю з руною прив’язки, зброя кидає на ціль <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN]{Dimensional Anchor}</em> 8-го рівня (@Check [type:will|dc:38|name:Greater Anchoring Rune], модифікатор протидії [[/r 1d20+28 #Greater Anchoring Rune Counteract Check]]{+28}), за винятком випадків, коли ціль критично успішно виконує своє збереження волі , замість того, щоб мати ефект, <em>розмірний якір</em> триває 1 раунд.",
+          "success": "<strong>Greater Anchoring Rune</strong> Коли ви вражаєте ціль зі зброї, але не завдаєте критичного удару, на ціль впливає <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN]{Dimensional Anchor}</em> 4-го рівня для 1 раунду без збереження (модифікатор протидії [[/r 1d20+28 #Greater Anchoring Rune Counteract Check]]{+28})."
         }
       },
       "greaterBloodbane": {
@@ -4795,7 +4795,7 @@
       "greaterBrilliant": {
         "Name": "Великий блискучий",
         "Note": {
-          "criticalSuccess": "Пошкодження, завдані цією зброєю, ігнорують вогонь, хороший чи позитивний опір цілі. Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:41|name:Greater Brilliant Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Осліпленим} на 1 раунд.",
+          "criticalSuccess": "Пошкодження, завдані цією зброєю, ігнорують вогонь, хороший чи позитивний опір цілі. Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:41|name:Greater Brilliant Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} на 1 раунд.",
           "success": "<strong>Велика блискуча руна</strong> Пошкодження, завдані цією зброєю, ігнорують вогонь, хороший або позитивний опір цілі."
         }
       },
@@ -4827,7 +4827,7 @@
       "greaterFearsome": {
         "Name": "Великий страшний",
         "Note": {
-          "criticalSuccess": "Коли ви завдаєте критичного удару цією зброєю, ціль стає @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Наляканий 2}."
+          "criticalSuccess": "Коли ви завдаєте критичного удару цією зброєю, ціль стає @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}."
         }
       },
       "greaterFlaming": {
@@ -4840,7 +4840,7 @@
       "greaterFrost": {
         "Name": "Великий Мороз",
         "Note": {
-          "criticalSuccess": "Холодна шкода, завдана цією зброєю, ігнорує опір холоду цілі. Після критичного удару ціль також @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Уповільнено 1} до кінця вашого наступного ходу, якщо вона не вдасться на @Check[type:fortitude|dc:34|name:Greater Frost Rune] зберегти.",
+          "criticalSuccess": "Холодна шкода, завдана цією зброєю, ігнорує опір холоду цілі. Після критичного удару ціль також @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} до кінця вашого наступного ходу, якщо вона не вдасться на @Check[type:fortitude|dc:34|name:Greater Frost Rune] зберегти.",
           "success": "<strong>Велика морозна руна</strong> Пошкодження від холоду, завдане цією зброєю, ігнорує опір холоду цілі."
         }
       },
@@ -4863,7 +4863,7 @@
       "greaterThundering": {
         "Name": "Великий Грім",
         "Note": {
-          "criticalSuccess": "Звукова шкода, завдана цією зброєю, ігнорує звуковий опір цілі. Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:34|name:Greater Thundering Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Оглушеним} назавжди.",
+          "criticalSuccess": "Звукова шкода, завдана цією зброєю, ігнорує звуковий опір цілі. Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:34|name:Greater Thundering Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} назавжди.",
           "success": "Звукова шкода, завдана цією зброєю, ігнорує звуковий опір цілі."
         }
       },
@@ -4877,7 +4877,7 @@
           "Dart": "<strong>Grievous Rune</strong> Базова постійна шкода від кровотечі збільшується до [[/r 2d6[bleed]]].",
           "Flail": "<strong>Grievous Rune</strong> Ви пересуваєте ціль на 5 футів. Ви не можете відсунути його від себе, але ви можете перемістити його в іншому напрямку на свій вибір.",
           "Hammer": "<strong>Grievous Rune</strong> Ви також можете відкинути ціль на 5 футів від себе.",
-          "Knife": "<strong>Grievous Rune</strong> Ціль отримує -5 футів статусу штрафу до своєї швидкості, поки вона має @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]{Постійне пошкодження від кровотечі}.",
+          "Knife": "<strong>Grievous Rune</strong> Ціль отримує -5 футів статусу штрафу до своєї швидкості, поки вона має @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.",
           "Pick": "<strong>Grievous Rune</strong> Додаткова шкода від ефекту критичної спеціалізації збільшується до 4 одиниць за кубик пошкодження зброєю.",
           "Polearm": "<strong>Grievous Rune</strong> Ви можете перемістити ціль на відстань до 10 футів.",
           "Shield": "<strong>Grievous Rune</strong> Ви можете збити ціль на відстань до 10 футів.",
@@ -4945,13 +4945,13 @@
       "thundering": {
         "Name": "Гримить",
         "Note": {
-          "criticalSuccess": "Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:24|name:Thundering Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Оглушеним} протягом 1 хвилини (або 1 година на критичний збій)."
+          "criticalSuccess": "Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:24|name:Thundering Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} протягом 1 хвилини (або 1 година на критичний збій)."
         }
       },
       "unholy": {
         "Name": "Нечестивий",
         "Note": {
-          "criticalSuccess": "(Команда <span class=\"pf2-icon\">R</span>; один раз на день)<br /><strong>Тригер</strong> Ви досягаєте критичного успіху в кидку атаки проти доброї істоти зі зброєю<br /><strong>Ефект</strong> Ціль отримує @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]{Постійна шкода від кровотечі}, що дорівнює 1d8 за кубик ушкодження від вигравіруваної зброї."
+          "criticalSuccess": "(Команда <span class=\"pf2-icon\">R</span>; один раз на день)<br /><strong>Тригер</strong> Ви досягаєте критичного успіху в кидку атаки проти доброї істоти зі зброєю<br /><strong>Ефект</strong> Ціль отримує @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}, що дорівнює 1d8 за кубик ушкодження від вигравіруваної зброї."
         }
       },
       "vorpal": {
@@ -4990,7 +4990,7 @@
     "WeaponReloadLabel": "Час перезавантаження",
     "WeaponSpecialization": "Спеціалізація зі зброї",
     "WeaponSplashDamageLabel": "Пошкодження від бризок",
-    "WeaponStrikeLabel": "Страйк",
+    "WeaponStrikeLabel": "Удар",
     "WeaponTypeAdvanced": "Вдосконалена зброя",
     "WeaponTypeLabel": "Категорія",
     "WeaponTypeMartial": "Бойова зброя",
