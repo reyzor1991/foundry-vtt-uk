@@ -17,7 +17,7 @@
   "url": "https://github.com/reyzor1991/foundry-vtt-uk",
   "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
   "download": "https://github.com/reyzor1991/foundry-vtt-uk/archive/refs/heads/master.zip",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "compatibility": {
     "minimum": "10",
     "maximum": "10.291",
@@ -29,6 +29,24 @@
       "lang": "uk",
       "name": "Українська (Ukrainian)",
       "path": "lang/uk.json",
+      "flags": {}
+    },
+    {
+      "lang": "uk",
+      "name": "Українська (Ukrainian)",
+      "path": "pf2-lang/uk.json",
+      "flags": {}
+    },
+    {
+      "lang": "uk",
+      "name": "Rules Elements (Ukrainian)",
+      "path": "pf2-lang/re-uk.json",
+      "flags": {}
+    },
+    {
+      "lang": "uk",
+      "name": "Actions (Ukrainian)",
+      "path": "pf2-lang/action-uk.json",
       "flags": {}
     }
   ],
