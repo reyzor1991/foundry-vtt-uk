@@ -602,8 +602,8 @@
     "CharacterTraitsHeader": "Риси та інші деталі",
     "ChatRollDetails": {
       "ModifiersEmpty": "Без модифікаторів",
-      "RollOptions": "Варіанти рулонів",
-      "Select": "Огляньте рулон",
+      "RollOptions": "Варіанти кидків",
+      "Select": "Огляньте кидок",
       "Title": "Інспектор кидків"
     },
     "Check": {
@@ -1101,7 +1101,7 @@
         "ZeroRoundsExpireTurnStart": "Залишилося 0 раундів, закінчується початок ініціативи {initiative}"
       },
       "RemoveToolTip": "[Права кнопка] Вилучити ефект",
-      "RollDamageToolTip": "[Лівий клік] Пошкодження рулону",
+      "RollDamageToolTip": "[Лівий клік] Пошкодження",
       "Sustained": "Витримано?",
       "Unidentified": "Невідомий",
       "UnlimitedDuration": "Необмежений термін дії",
@@ -1413,7 +1413,7 @@
         "PersistentDamage": {
           "AssistedRecovery": "Roll Assisted Recovery",
           "Chat": {
-            "Recover": "Перевірка відновлення рулону",
+            "Recover": "Кидок - Перевірка відновлення",
             "RecoverLabel": "Відновлення: {name}"
           },
           "Dialog": {
@@ -2560,7 +2560,7 @@
     "RepairItemTitle": "Спроба відремонтувати предмет",
     "Repost": "Опублікувати підказку для чату",
     "RerollMenu": {
-      "ErrorCantDelete": "Ви не можете видалити оригінальний рулон.",
+      "ErrorCantDelete": "Ви не можете видалити оригінальний кидок.",
       "ErrorNoActor": "Жоден актор не пов’язаний із роликом",
       "HeroPoint": "Перекинути, використовуючи очко героя",
       "KeepBest": "Перекрутіть і збережіть кращий результат",
@@ -2598,7 +2598,7 @@
       "UntypedPenalty": "Нетиповий (штраф)"
     },
     "RollBonusPlaceholder": "напр. +3 або +1d4",
-    "RollModeLabel": "Режим рулону",
+    "RollModeLabel": "Режим кидка",
     "RollTable": {
       "Plural": "Розсувні столи"
     },
@@ -2975,8 +2975,8 @@
     "SettingsColorRed": "Темно-червоний",
     "SettingsDataUriHighlightLabel": "Виділіть зображення, які використовують дані: URI",
     "SettingsDataUriHighlightNotes": "Зображення, які використовують data: URI, вбудовані в аркуш символів. Це негативно впливає на продуктивність персонажа. Якщо ввімкнено, такі зображення буде виділено червоною рамкою, щоб їх було легко знайти та видалити.<br>Це налаштування активне лише для поточного сеансу.",
-    "SettingsQuickRollsLabel": "Попередній перегляд рулонів D20",
-    "SettingsQuickRollsNotes": "Якщо вимкнено, діалогові вікна для попереднього перегляду рулонів D20 з’являтимуться лише після натискання кнопки рулону, утримуючи Shift.",
+    "SettingsQuickRollsLabel": "Попередній перегляд кидків к20",
+    "SettingsQuickRollsNotes": "Якщо вимкнено, діалогові вікна для попереднього перегляду кидків к20 з’являтимуться лише після натискання кнопки кидка, утримуючи Shift.",
     "SheetLabel": "{type} Аркуш",
     "SheetLabelDataEntry": "{type} аркуш (введення даних)",
     "SheetLabelNew": "Аркуш {type} (попередній перегляд)",

@@ -1,0 +1,22 @@
+{
+  "BABELE.CompendiumTranslations": "Переклади",
+  "BABELE.TranslateActorHeadBtn": "Перекласти",
+  "BABELE.TranslateActorTitle": "Перекласти актора",
+  "BABELE.TranslateActorHint": "Автоматично перекладає всі елементи, що належать учаснику, для яких є перекладена збірка",
+  "BABELE.TranslateActorBtn": "Перекласти!",
+  "BABELE.ExportTranslationTitle": "Експорт файлу перекладу",
+  "BABELE.ExportTranslationBtn": "Експорт!",
+  "BABELE.ExportTranslationNotes": "Виберіть формат, який використовуватиметься для експортованого файлу перекладу. Виберіть \"Традиційний\" для вихідного рідного формату або \"Сумісний\", якщо ви збираєтеся керувати перекладом через зовнішню платформу локалізації (наприклад, Weblate, Transifex і т.д.)",
+  "BABELE.ExportTranslationFormat": "Формат",
+  "BABELE.ExportTranslationFormatLegacy": "Традиційний",
+  "BABELE.ExportTranslationFormatCompatible": "Сумісний",
+  "BABELE.TranslationDirTitle": "Каталог файлів перекладу",
+  "BABELE.TranslationDirHint": "Вкажіть каталог, де знаходяться файли локального перекладу збірника",
+  "BABELE.EnableTranslationExportTile": "Включити експорт перекладу",
+  "BABELE.EnableTranslationExportHint": "Увімкніть цю опцію, якщо ви хочете додати кнопку до кожної збірки для створення файлу перекладу, корисного як стартовий шаблон",
+  "BABELE.ShowOriginalName": "Оригінальні назви",
+  "BABELE.ShowOriginalNameHint": "Показує неперекладену назву елемента збірника на додаток до перекладеного. Це також дозволить вам фільтрувати за оригінальною назвою разом із вже переведеним у віджеті пошуку.",
+  "BABELE.ShowTranslateOption": "Показати опцію перекладу",
+  "BABELE.ShowTranslateOptionHint": "Вмикач опції переказу на аркушах учасників.",
+  "BABELE.requireLibWrapperMessage": "Babele потребує модуль 'libWrapper'. Будь ласка, встановіть та активуйте його."
+}
