@@ -17,7 +17,7 @@
 [Foundry Shield 10]: https://img.shields.io/badge/Foundry-10-informational?style=flat-square
 [Foundry URL]: https://foundryvtt.com
 
-[Version]: https://img.shields.io/badge/Version-0.2.6-orange?style=flat-square
+[Version]: https://img.shields.io/badge/Version-0.2.7-orange?style=flat-square
 [Version URL]: https://github.com/reyzor1991/foundry-vtt-uk
 
 [MIT License]: https://img.shields.io/badge/License-OGL-green?style=flat-square
