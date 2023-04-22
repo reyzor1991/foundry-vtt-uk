@@ -1,0 +1,157 @@
+{
+  "label": "Ефекти руху",
+  "entries": {
+    "Ignore Aquatic": {
+      "name": "Ігноруйте Aquatic",
+      "description": ""
+    },
+    "Ignore Arctic": {
+      "name": "Ігноруйте Арктику",
+      "description": ""
+    },
+    "Ignore Coast": {
+      "name": "Ігнорувати узбережжя",
+      "description": ""
+    },
+    "Ignore Crowd": {
+      "name": "Ігнорувати натовп",
+      "description": ""
+    },
+    "Ignore Desert": {
+      "name": "Ігнорувати пустелю",
+      "description": ""
+    },
+    "Ignore Difficult Terrain": {
+      "name": "Ігноруйте складну місцевість",
+      "description": ""
+    },
+    "Ignore Forest": {
+      "name": "Ігнорувати ліс",
+      "description": ""
+    },
+    "Ignore Magical": {
+      "name": "Ігнорувати Магічне",
+      "description": ""
+    },
+    "Ignore Mountain": {
+      "name": "Ігнорувати Гору",
+      "description": ""
+    },
+    "Ignore Non-Magical": {
+      "name": "Ігноруйте немагічні",
+      "description": ""
+    },
+    "Ignore Plains": {
+      "name": "Ігноруйте Plains",
+      "description": ""
+    },
+    "Ignore Plants": {
+      "name": "Ігноруйте рослини",
+      "description": ""
+    },
+    "Ignore Rubble": {
+      "name": "Ігнорувати Rubble",
+      "description": ""
+    },
+    "Ignore Sky": {
+      "name": "Ігноруйте Sky",
+      "description": ""
+    },
+    "Ignore Swamp": {
+      "name": "Ігнорувати Болото",
+      "description": ""
+    },
+    "Ignore Underground": {
+      "name": "Ігноруйте Underground",
+      "description": ""
+    },
+    "Ignore Urban": {
+      "name": "Ігноруйте Урбан",
+      "description": ""
+    },
+    "Ignore Water": {
+      "name": "Ігноруйте воду",
+      "description": ""
+    },
+    "Increase Movement Difficulty": {
+      "name": "Збільшення труднощів руху",
+      "description": ""
+    },
+    "Reduce Aquatic": {
+      "name": "Зменшити кількість води",
+      "description": ""
+    },
+    "Reduce Arctic": {
+      "name": "Зменшити Арктику",
+      "description": ""
+    },
+    "Reduce Coast": {
+      "name": "Зменшити узбережжя",
+      "description": ""
+    },
+    "Reduce Crowd": {
+      "name": "Зменшити натовп",
+      "description": ""
+    },
+    "Reduce Desert": {
+      "name": "Зменшити пустелю",
+      "description": ""
+    },
+    "Reduce Difficult Terrain": {
+      "name": "Зменшити складний рельєф",
+      "description": ""
+    },
+    "Reduce Forest": {
+      "name": "Зменшити ліс",
+      "description": ""
+    },
+    "Reduce Magical": {
+      "name": "Зменшити магію",
+      "description": ""
+    },
+    "Reduce Mountain": {
+      "name": "Зменшити гору",
+      "description": ""
+    },
+    "Reduce Non-Magical": {
+      "name": "Зменшити немагічні",
+      "description": ""
+    },
+    "Reduce Plains": {
+      "name": "Зменшити рівнини",
+      "description": ""
+    },
+    "Reduce Plants": {
+      "name": "Зменшити кількість рослин",
+      "description": ""
+    },
+    "Reduce Rubble": {
+      "name": "Зменшити щебінь",
+      "description": ""
+    },
+    "Reduce Sky": {
+      "name": "Зменшити небо",
+      "description": ""
+    },
+    "Reduce Swamp": {
+      "name": "Зменшити болото",
+      "description": ""
+    },
+    "Reduce Underground": {
+      "name": "Зменшити під землею",
+      "description": ""
+    },
+    "Reduce Urban": {
+      "name": "Зменшити місто",
+      "description": ""
+    },
+    "Reduce Water": {
+      "name": "Зменшіть кількість води",
+      "description": ""
+    },
+    "Respect Difficult Terrain": {
+      "name": "Поважайте складну місцевість",
+      "description": ""
+    }
+  }
+}
