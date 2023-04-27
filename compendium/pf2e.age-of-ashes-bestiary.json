@@ -1,0 +1,392 @@
+{
+  "label": "Епоха попелу",
+  "entries": {
+    "Accursed Forge-Spurned": {
+      "name": "Проклята кузня, відкинута"
+    },
+    "Acidic Needle Launcher": {
+      "name": "Кислотний голчастий пусковий пристрій"
+    },
+    "Aiudara Wraith": {
+      "name": "Привид Аюдара"
+    },
+    "Alak Stagram": {
+      "name": "Фігурка Stagram"
+    },
+    "Aluum Enforcer": {
+      "name": "Alum Enforcer"
+    },
+    "Animated Dragonstorm": {
+      "name": "Анімована Буря Драконів"
+    },
+    "Ash Web": {
+      "name": "Ясень Павутина"
+    },
+    "Barushak Il-Varashma": {
+      "name": "В Барушак Іль-вараш"
+    },
+    "Barzillai's Hounds": {
+      "name": "Собаки Барзіллая"
+    },
+    "Belmazog": {
+      "name": "Бельмазог"
+    },
+    "Bida": {
+      "name": "Біда"
+    },
+    "Black Powder Bomb": {
+      "name": "Чорна порохова бомба"
+    },
+    "Blood Boar": {
+      "name": "Кривавий кабан"
+    },
+    "Bloody Blade Mercenary": {
+      "name": "Найманець Кривавого Клинка"
+    },
+    "Bshez \"Sand Claws\" Shak": {
+      "name": "Бшез «Пісочні пазурі» Шак"
+    },
+    "Calmont": {
+      "name": "Кальмонт"
+    },
+    "Candlaron's Echo": {
+      "name": "Ехо Кандларона"
+    },
+    "Carnivorous Crystal": {
+      "name": "Хижий кристал"
+    },
+    "Caustic Vapor": {
+      "name": "Їдка пара"
+    },
+    "Charau-ka": {
+      "name": "Чарау-ка"
+    },
+    "Charau-ka Dragon Priest": {
+      "name": "Жрець дракона Чарау-ка"
+    },
+    "Corrupt Guard": {
+      "name": "Корумпована гвардія"
+    },
+    "Crucidaemon": {
+      "name": "Крусідемон"
+    },
+    "Dahak's Shell": {
+      "name": "Оболонка флегми"
+    },
+    "Dahak's Skull": {
+      "name": "Череп Дахака"
+    },
+    "Dalos": {
+      "name": "швидкість"
+    },
+    "Damurdiel's Vengeance": {
+      "name": "Помста Дамурдіеля"
+    },
+    "Deculi": {
+      "name": "Нащадки"
+    },
+    "Dmiri Yoltosha": {
+      "name": "Обов'язки Йолтоша"
+    },
+    "Doorwarden": {
+      "name": "Воротар"
+    },
+    "Dragon Pillar": {
+      "name": "Стовп дракона"
+    },
+    "Dragonscarred Dead": {
+      "name": "Потерті драконами мертві"
+    },
+    "Dragonshard Guardian": {
+      "name": "Опікун Dragonshard"
+    },
+    "Dragonstorm": {
+      "name": "Dragonstorm"
+    },
+    "Dragonstorm Fire Giant": {
+      "name": "Вогняний гігант Dragonstorm"
+    },
+    "Duergar Slave Lord": {
+      "name": "Дуергарський лорд рабів"
+    },
+    "Echoes of Betrayal": {
+      "name": "Відлуння зради"
+    },
+    "Ekujae Guardian": {
+      "name": "Охоронець Екуджае"
+    },
+    "Emaliza Zandivar": {
+      "name": "Оздоблення Зандивар"
+    },
+    "Emperor Bird": {
+      "name": "Імператорський птах"
+    },
+    "Endless Elven Aging": {
+      "name": "Нескінченне ельфійське старіння"
+    },
+    "Falrok": {
+      "name": "Осіння спідниця"
+    },
+    "Forge-Spurned": {
+      "name": "Відкинутий кузнею"
+    },
+    "Gerhard Pendergrast": {
+      "name": "Герхард Пендерграст"
+    },
+    "Ghastly Bear": {
+      "name": "Жахливий Ведмідь"
+    },
+    "Gloomglow Mushrooms": {
+      "name": "Gloomglow Mushrooms"
+    },
+    "Grauladon": {
+      "name": "Грауладон"
+    },
+    "Graveshell": {
+      "name": "Graveshell"
+    },
+    "Grippli Archer": {
+      "name": "Грипплі Арчер"
+    },
+    "Grippli Greenspeaker": {
+      "name": "Grippli Greenspeaker"
+    },
+    "Hellcrown": {
+      "name": "Пекельна корона"
+    },
+    "Hermean Mutant": {
+      "name": "Гермеанський мутант"
+    },
+    "Heuberk Thropp": {
+      "name": "Гойберг Троп"
+    },
+    "Hezle": {
+      "name": "приємно"
+    },
+    "Ilgreth": {
+      "name": "Ілгрет"
+    },
+    "Ilssrah Embermead": {
+      "name": "Ілссра Ембермід"
+    },
+    "Immortal Ichor": {
+      "name": "Безсмертний Іхор"
+    },
+    "Ingnovim Tluss": {
+      "name": "Інгновим Тлусс"
+    },
+    "Ingnovim's Assistant": {
+      "name": "Помічник Інгновіма"
+    },
+    "Inizra Arumelo": {
+      "name": "Інізра Арумело"
+    },
+    "Ishti": {
+      "name": "любов"
+    },
+    "Jaggaki": {
+      "name": "Джаггакі"
+    },
+    "Jahsi": {
+      "name": "так"
+    },
+    "Kalavakus": {
+      "name": "Рибний вакуум"
+    },
+    "Kelda Halrig": {
+      "name": "Келда Галріг"
+    },
+    "King Harral": {
+      "name": "Король Харрал"
+    },
+    "Kralgurn": {
+      "name": "Кралгурн"
+    },
+    "Laslunn": {
+      "name": "Ласлунн"
+    },
+    "Lazurite-Infused Stone Golem": {
+      "name": "Просочений лазуритом кам'яний голем"
+    },
+    "Lesser Dragonstorm": {
+      "name": "Мала Буря Драконів"
+    },
+    "Lesser Manifestation Of Dahak": {
+      "name": "Менший прояв Дахака"
+    },
+    "Lifeleech Crystal Patches": {
+      "name": "Кришталеві нашивки Lifeleech"
+    },
+    "Living Sap": {
+      "name": "Живий сік"
+    },
+    "Luminous Ward": {
+      "name": "Світлова палата"
+    },
+    "Malarunk": {
+      "name": "Маларунак"
+    },
+    "Manifestation Of Dahak": {
+      "name": "Прояв Дахака"
+    },
+    "Mengkare": {
+      "name": "Mengkare"
+    },
+    "Mental Scream Trap": {
+      "name": "Пастка психічного крику"
+    },
+    "Mercenary Sailor": {
+      "name": "Моряк-найманець"
+    },
+    "Mialari Docur": {
+      "name": "Міаларі Докур"
+    },
+    "Mud Spider": {
+      "name": "Грязьовий павук"
+    },
+    "Nketiah": {
+      "name": "Нкетія"
+    },
+    "Nolly Peltry": {
+      "name": "Ноллі Пелтрі"
+    },
+    "Phantom Bells": {
+      "name": "Примарні дзвони"
+    },
+    "Precentor": {
+      "name": "Референт"
+    },
+    "Promise Guard": {
+      "name": "Promise Guard"
+    },
+    "Quarry Sluiceway": {
+      "name": "Кар'єрний шлюз"
+    },
+    "Racharak": {
+      "name": "творчий"
+    },
+    "Remnant of Barzillai": {
+      "name": "Залишок Барзіллая"
+    },
+    "Renali": {
+      "name": "нирки"
+    },
+    "Rinnarv Bontimar": {
+      "name": "Ріннарв Бонтімар"
+    },
+    "Rusty Mae": {
+      "name": "Расті Мей"
+    },
+    "Saggorak Poltergeist": {
+      "name": "Саггорак Полтергейст"
+    },
+    "Scarlet Triad Agent": {
+      "name": "Агент Алої тріади"
+    },
+    "Scarlet Triad Boss": {
+      "name": "Бос Алої тріади"
+    },
+    "Scarlet Triad Bruiser": {
+      "name": "Скарлет Тріада Брюзер"
+    },
+    "Scarlet Triad Enforcer": {
+      "name": "Скарлет Тріада Enforcer"
+    },
+    "Scarlet Triad Mage": {
+      "name": "Чарівна Тріада Маг"
+    },
+    "Scarlet Triad Poisoner": {
+      "name": "Червона Тріада Отруйник"
+    },
+    "Scarlet Triad Sneak": {
+      "name": "Червона тріада"
+    },
+    "Scarlet Triad Sniper": {
+      "name": "Червона тріада Снайпер"
+    },
+    "Scarlet Triad Thug": {
+      "name": "Багряна тріада"
+    },
+    "Seismic Spears Trap": {
+      "name": "Сейсмічна пастка Спірс"
+    },
+    "Skeletal Hellknight": {
+      "name": "Skeletal Hellknight"
+    },
+    "Soulbound Ruin": {
+      "name": "Душевна руїна"
+    },
+    "Spiked Doorframe": {
+      "name": "Шипи дверної рами"
+    },
+    "Spiritbound Aluum": {
+      "name": "Духовні галуни"
+    },
+    "Talamira": {
+      "name": "Теламіра"
+    },
+    "Tarrasque, The Armageddon Engine": {
+      "name": "Тарраск, двигун Армагедону"
+    },
+    "Teyam Ishtori": {
+      "name": "вониям історі"
+    },
+    "Tixitog": {
+      "name": "Тіксітог"
+    },
+    "Town Hall Fire": {
+      "name": "Пожежа ратуші"
+    },
+    "Trapped Lathe": {
+      "name": "Токарний верстат у пастці"
+    },
+    "Tree of Dreadful Dreams": {
+      "name": "Дерево страшних снів"
+    },
+    "Uri Zandivar": {
+      "name": "uri jandivar"
+    },
+    "Vaklish": {
+      "name": "Вакліш"
+    },
+    "Vazgorlu": {
+      "name": "Васгорлу"
+    },
+    "Veshumirix": {
+      "name": "Вешумірікс"
+    },
+    "Vision of Dahak": {
+      "name": "Бачення Дахака"
+    },
+    "Voz Lirayne": {
+      "name": "Воз Лірайні"
+    },
+    "Wailing Crystals": {
+      "name": "Плачучі кристали"
+    },
+    "Warbal Bumblebrasher": {
+      "name": "Warbal Bumblebrasher"
+    },
+    "Weathered Wail": {
+      "name": "Вивітрюється Вайл"
+    },
+    "Wrath of the Destroyer": {
+      "name": "Гнів Руйнівника"
+    },
+    "Xevalorg": {
+      "name": "Xevalorg"
+    },
+    "Xotani, The Firebleeder": {
+      "name": "Xotani, The Firebleeder"
+    },
+    "Xotanispawn": {
+      "name": "Хотаніспаон"
+    },
+    "Zephyr Guard": {
+      "name": "Зефір гвардії"
+    },
+    "Zuferian": {
+      "name": "Зуферян"
+    }
+  }
+}

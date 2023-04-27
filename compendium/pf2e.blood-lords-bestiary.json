@@ -1,0 +1,590 @@
+{
+  "label": "Кровні лорди",
+  "entries": {
+    "Aeolaeka": {
+      "name": "Aeolaeka"
+    },
+    "Afziaka Brute": {
+      "name": "Афзіака Брут"
+    },
+    "Afziaka Stalker": {
+      "name": "Австралійський сталкер"
+    },
+    "Agorron Guard": {
+      "name": "Стража Агоррона"
+    },
+    "Ancient Skaveling": {
+      "name": "Стародавній скавелінг"
+    },
+    "Anguished Sarenite": {
+      "name": "Стражливий сареніт"
+    },
+    "Animated Fireplace": {
+      "name": "Анімований камін"
+    },
+    "Animated Tea Cart": {
+      "name": "Анімований чайний візок"
+    },
+    "Aquatic Ooze": {
+      "name": "Водний мул"
+    },
+    "Arboreal Snag": {
+      "name": "Деревна коряга"
+    },
+    "Arboreal Snag (Axan Wood)": {
+      "name": "Деревний корч (Axan Wood)"
+    },
+    "Arghun the Annihilator": {
+      "name": "Аргун Анігілятор"
+    },
+    "Ashes of Despair": {
+      "name": "Попіл відчаю"
+    },
+    "Avian Rage": {
+      "name": "Пташина лють"
+    },
+    "Azmakian Effigy": {
+      "name": "Опудало Азмакіяна"
+    },
+    "Basiri, Wellspring Keeper": {
+      "name": "Басірі, Хранитель джерела"
+    },
+    "Bellator Mortus Soldier": {
+      "name": "Воїн Мертвий солдат"
+    },
+    "Benefactor's End": {
+      "name": "Кінець благодійника"
+    },
+    "Blaanlool": {
+      "name": "Бланлул"
+    },
+    "Bloodshroud": {
+      "name": "кривава пелена"
+    },
+    "Bone Shard Tough": {
+      "name": "Міцний осколок кістки"
+    },
+    "Bulette": {
+      "name": "Куля"
+    },
+    "Bursting Bone Vault": {
+      "name": "Розрив кістяного склепіння"
+    },
+    "Button Mash": {
+      "name": "Кнопка Mash"
+    },
+    "Castigate the Faithless": {
+      "name": "Бичувати невірних"
+    },
+    "Caustic Shower": {
+      "name": "Каустичний душ"
+    },
+    "Charghar": {
+      "name": "Чаргар"
+    },
+    "Chattering Jaws": {
+      "name": "Балакучі щелепи"
+    },
+    "Choking Tethers": {
+      "name": "Задушливі прив'язки"
+    },
+    "Cleansing Fire": {
+      "name": "Очисний вогонь"
+    },
+    "Cleansing Hall": {
+      "name": "Зал очищення"
+    },
+    "Clockwork Rifler": {
+      "name": "Заводні гвинтівки"
+    },
+    "Cobblebone Swarm": {
+      "name": "Булижник рій"
+    },
+    "Collapsing Bridge": {
+      "name": "Міст, що руйнується"
+    },
+    "Compression Tunnel": {
+      "name": "Тунель стиснення"
+    },
+    "Creeping Crone": {
+      "name": "Крона повзуча"
+    },
+    "Crooked Coffin Brewer": {
+      "name": "Пивовар Кривої Труни"
+    },
+    "Crush the Uninvited": {
+      "name": "Розчавити непроханих"
+    },
+    "Crystallized Agony": {
+      "name": "Кристалізована агонія"
+    },
+    "Dead Faine": {
+      "name": "Мертвий Фейн"
+    },
+    "Decrosia": {
+      "name": "Декрозія"
+    },
+    "Demilich Skull": {
+      "name": "Череп Деміліча"
+    },
+    "Dirge Piper": {
+      "name": "Дирдж Пайпер"
+    },
+    "Drowned Mummy": {
+      "name": "Потонула мумія"
+    },
+    "Drusilla": {
+      "name": "Друзилла"
+    },
+    "Ectoplasmic Amalgam": {
+      "name": "Ектоплазматична амальгама"
+    },
+    "Electrified Gate": {
+      "name": "Електрифіковані ворота"
+    },
+    "Eseneth": {
+      "name": "Есенет"
+    },
+    "Facetbound Cascader": {
+      "name": "Facetbound Cascader"
+    },
+    "Facetbound Nullifier": {
+      "name": "Facetbound Nullifier"
+    },
+    "Firebrand Bastion": {
+      "name": "Вогненний бастіон"
+    },
+    "Floating Femur": {
+      "name": "Плаваюча стегнова кістка"
+    },
+    "Ghast Outlaw": {
+      "name": "Gast Outlaw"
+    },
+    "Ghiasi": {
+      "name": "Газі"
+    },
+    "Ghiasi's Double": {
+      "name": "Двійник Гіасі"
+    },
+    "Ghiono": {
+      "name": "Гіоно"
+    },
+    "Ghostly Mob": {
+      "name": "Примарний натовп"
+    },
+    "Ghoul Antipaladin": {
+      "name": "Гуль Антипаладин"
+    },
+    "Ghoul Crocodile": {
+      "name": "Гуль Крокодил"
+    },
+    "Ghoul Gnawer": {
+      "name": "Ghoul Gnawer"
+    },
+    "Ghoul Razorclaw": {
+      "name": "Ghoul Razorclaw"
+    },
+    "Glyph of Warding (B8)": {
+      "name": "Символ захисту (B8)"
+    },
+    "Glyph of Warding (D5)": {
+      "name": "Символ захисту (D5)"
+    },
+    "Grace \"The Rhino\" Owano": {
+      "name": "Грейс «Носоріг» Овано"
+    },
+    "Graelar the Whisper": {
+      "name": "Шепіт Граелар"
+    },
+    "Granite Vulture": {
+      "name": "Гранітний гриф"
+    },
+    "Grave Hag": {
+      "name": "Grave Hag"
+    },
+    "Guloval": {
+      "name": "Він котився"
+    },
+    "Hall of Mirrors": {
+      "name": "Дзеркальна зала"
+    },
+    "Harmony In Agony": {
+      "name": "Гармонія в агонії"
+    },
+    "Hollow Husk": {
+      "name": "Порожниста лушпиння"
+    },
+    "Hungering Growth": {
+      "name": "Голодне зростання"
+    },
+    "Hungry Cottage": {
+      "name": "Голодна хата"
+    },
+    "Hyrune Loxenna": {
+      "name": "Гірун Локсенна"
+    },
+    "Intellect Assemblage": {
+      "name": "Інтелект Асамблея"
+    },
+    "Iron Taviah": {
+      "name": "Залізна Тавія"
+    },
+    "Kapoacinth": {
+      "name": "Капоцинт"
+    },
+    "Kelganth": {
+      "name": "Приходить"
+    },
+    "Kemnebi": {
+      "name": "як додаток"
+    },
+    "Kemnebi's Puppet": {
+      "name": "Маріонетка Кемнебі"
+    },
+    "Kepgeda the Hag-Nailed": {
+      "name": "Кепгеда Прибитий цвяхами"
+    },
+    "Kepgeda's Keening Cauldron": {
+      "name": "Кінний котел Кепгеди"
+    },
+    "Kerinza": {
+      "name": "Kerinza"
+    },
+    "Keystone Repulsion": {
+      "name": "Keystone Repulsion"
+    },
+    "Keystone Trap": {
+      "name": "Keystone Trap"
+    },
+    "Lasheeli": {
+      "name": "Лашелі"
+    },
+    "Matron Uldrula": {
+      "name": "Матрона Ульдрула"
+    },
+    "Meat Guardian": {
+      "name": "Охоронець м'яса"
+    },
+    "Mechanical Laborer": {
+      "name": "Механічний робітник"
+    },
+    "Memory Hole": {
+      "name": "Діра пам'яті"
+    },
+    "Mental Assault": {
+      "name": "Психічний напад"
+    },
+    "Mithral Golem": {
+      "name": "мітральний голем"
+    },
+    "Mosghuta, Boss Cow": {
+      "name": "Мосгута, головна корова"
+    },
+    "Mummy Valet": {
+      "name": "Мумія Валет"
+    },
+    "Necrohulk Flailer": {
+      "name": "Necrohulk Flailer"
+    },
+    "Necrohulk Smasher": {
+      "name": "Некрохулк Smasher"
+    },
+    "Necromancer Troop": {
+      "name": "Загін некромантів"
+    },
+    "Necromunculus": {
+      "name": "Некромункулус"
+    },
+    "Night's Breath Trap": {
+      "name": "Night's Breath Trap"
+    },
+    "Nightmare Portal": {
+      "name": "Кошмарний портал"
+    },
+    "Nwanyian Archer": {
+      "name": "Дружина Арчера"
+    },
+    "Nwanyian Defender": {
+      "name": "Жінка-захисник"
+    },
+    "Nydazuul": {
+      "name": "Нідазуул"
+    },
+    "Opkherab": {
+      "name": "обслуговування"
+    },
+    "Ostovite Nest": {
+      "name": "Вийти з Nest"
+    },
+    "Pain Milker": {
+      "name": "ноги разом"
+    },
+    "Perilous Flash Flood": {
+      "name": "Небезпечна раптова повінь"
+    },
+    "Pesgahi the Poisoner": {
+      "name": "Песгахі Отруйний"
+    },
+    "Phalanx of Phalanges": {
+      "name": "Фаланга фаланг"
+    },
+    "Phantom Soldiers": {
+      "name": "Фантомні солдати"
+    },
+    "Pokmit Bloody-Pike": {
+      "name": "Покміт Кривава Щука"
+    },
+    "Prachalla": {
+      "name": "Прачалла"
+    },
+    "Precarious Bone Pile": {
+      "name": "Нестабільна купа кісток"
+    },
+    "Prince Doriel": {
+      "name": "Принц Доріель"
+    },
+    "Princess Kerinza": {
+      "name": "Принцеса Керінца"
+    },
+    "Psychic Wave": {
+      "name": "Психічна хвиля"
+    },
+    "Pyrogeist": {
+      "name": "Пірогейст"
+    },
+    "Restored Doll": {
+      "name": "Відреставрована лялька"
+    },
+    "Revisit Past Pains": {
+      "name": "Перегляньте минулі болі"
+    },
+    "Rival Corpsekiller": {
+      "name": "Суперник Corpsekiller"
+    },
+    "Rival Necromancer": {
+      "name": "Конкуруючий некромант"
+    },
+    "Rotbomber": {
+      "name": "Ротбомбардувальник"
+    },
+    "Ruby": {
+      "name": "рубін"
+    },
+    "Rumin Purgo": {
+      "name": "після руміну"
+    },
+    "Rust Hag": {
+      "name": "Відпочинок Хаг"
+    },
+    "Sahni Bride-Of-The-Sea": {
+      "name": "Sahni Bride-of-The-Sea"
+    },
+    "Sahreg the Dirge Screamer": {
+      "name": "Sahreg the Dirge Screamer"
+    },
+    "Sallowdrudge": {
+      "name": "Sallowdrudge"
+    },
+    "Scrabbling Ribcage": {
+      "name": "Дрібна клітка"
+    },
+    "Seldeg Bheldis": {
+      "name": "Селдег Белдіс"
+    },
+    "Seldeg's Steed": {
+      "name": "Конь Селдега"
+    },
+    "Shabti Slayer": {
+      "name": "Shabti Slayer"
+    },
+    "Shabti Votary": {
+      "name": "Шабті Вотря"
+    },
+    "Shadow Heart": {
+      "name": "Тіньове серце"
+    },
+    "Shadow Hooks": {
+      "name": "Тіньові гачки"
+    },
+    "Shadow Lash": {
+      "name": "Shadow Lash"
+    },
+    "Shadow Leydroth": {
+      "name": "Тінь Лейдрота"
+    },
+    "Shadow Worm": {
+      "name": "Тіньовий черв'як"
+    },
+    "Shadowbound Monk Statue": {
+      "name": "Статуя монаха в тіні"
+    },
+    "Shadowforged Guardian": {
+      "name": "Shadowforged Guardian"
+    },
+    "Shimmernewt": {
+      "name": "Мерехтливий тритон"
+    },
+    "Shoki": {
+      "name": "шокуюче"
+    },
+    "Shrieking Souls": {
+      "name": "Верескливі душі"
+    },
+    "Sickle Blade": {
+      "name": "Клинок серпа"
+    },
+    "Skeletal Knight": {
+      "name": "Скелетний лицар"
+    },
+    "Skeleton Rival Corpsekiller": {
+      "name": "Skeleton Rival Corpsekiller"
+    },
+    "Skeleton Rival Necromancer": {
+      "name": "Скелет-суперник-некромант"
+    },
+    "Skewering Hall": {
+      "name": "Зал для шашлику"
+    },
+    "Skull Fairy": {
+      "name": "Фея черепа"
+    },
+    "Slamming Gate": {
+      "name": "Ляскаючі ворота"
+    },
+    "Solar Glass Golem": {
+      "name": "Сонячний скляний голем"
+    },
+    "Sorvinaesen": {
+      "name": "Сорвінаєна"
+    },
+    "Soul Slime": {
+      "name": "Слиз душі"
+    },
+    "Soul Stasis": {
+      "name": "Застій душі"
+    },
+    "Soul-Drinking Spirit Collectors": {
+      "name": "Колектори духів, що п'ють душу"
+    },
+    "Spiraling Comets": {
+      "name": "Спіральні комети"
+    },
+    "Straugh": {
+      "name": "Стро"
+    },
+    "Sulvik": {
+      "name": "Перо"
+    },
+    "Summoning Rune (Cockatrice)": {
+      "name": "Руна виклику (Cockatrice)"
+    },
+    "Teaching Assistant": {
+      "name": "Асистент"
+    },
+    "Tenebric Giant": {
+      "name": "Тенебрічний гігант"
+    },
+    "Terra-cotta Soldier": {
+      "name": "Теракотовий Солдат"
+    },
+    "Terrorguard": {
+      "name": "Тероргард"
+    },
+    "The Fight": {
+      "name": "Битва"
+    },
+    "The Flight": {
+      "name": "Політ"
+    },
+    "The Putrid Rise": {
+      "name": "Гнильне повстання"
+    },
+    "Theater Phantasm": {
+      "name": "Театр Фантазм"
+    },
+    "Time Rift": {
+      "name": "Розлом часу"
+    },
+    "Tombstone Troll": {
+      "name": "Надгробний троль"
+    },
+    "Tylegmut's Last Meal": {
+      "name": "Остання трапеза Тилегмута"
+    },
+    "Umbraex": {
+      "name": "Тінь"
+    },
+    "Unfinished Portalrender": {
+      "name": "Незавершений Portalrender"
+    },
+    "Unstable Fiendflame Cage": {
+      "name": "Нестабільна клітка Fiendflame"
+    },
+    "Urbulinex": {
+      "name": "Урбулінекс"
+    },
+    "Urgathoa's Ire": {
+      "name": "Гнів Ургатоа"
+    },
+    "Urglid": {
+      "name": "Урглід"
+    },
+    "Vampire Guardian": {
+      "name": "Охоронець вампіра"
+    },
+    "Vampire Rival Necromancer": {
+      "name": "Vampire Rival Necromancer"
+    },
+    "Vampire Taviah": {
+      "name": "Вампір Тавія"
+    },
+    "Vanth Warrior": {
+      "name": "Прийшли воїни"
+    },
+    "Vice-Chancellor Vikroti Stroh": {
+      "name": "Віце-канцлер Вікроті Штрох"
+    },
+    "Virulak Necromancer": {
+      "name": "Вірулак Некромант"
+    },
+    "Virulak Villager": {
+      "name": "Селянин Вірулайк"
+    },
+    "Void Garden": {
+      "name": "Сад порожнечі"
+    },
+    "Weeping Jack": {
+      "name": "Плачучий Джек"
+    },
+    "Wheel Archon": {
+      "name": "Колесо Архонт"
+    },
+    "Wrathful Dinosaur": {
+      "name": "Гнівний динозавр"
+    },
+    "Yshula": {
+      "name": "Ішула"
+    },
+    "Yulthruk": {
+      "name": "Юлтрук"
+    },
+    "Yurgak": {
+      "name": "серце"
+    },
+    "Zombie Chuul": {
+      "name": "Зомбі Чуул"
+    },
+    "Zombie Horse": {
+      "name": "Зомбі кінь"
+    },
+    "Zombie Hound": {
+      "name": "Zombie Hound"
+    },
+    "Zombie Rival Necromancer": {
+      "name": "Суперник зомбі Некромант"
+    },
+    "Zuntishan Guard": {
+      "name": "Гвардія Цзуньтішань"
+    }
+  }
+}

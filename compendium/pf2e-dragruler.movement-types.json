@@ -2,7 +2,7 @@
   "label": "Види руху",
   "entries": {
     "Burrow": {
-      "name": "Нора",
+      "name": "Риття",
       "description": ""
     },
     "Climb": {
@@ -10,7 +10,7 @@
       "description": ""
     },
     "Flying": {
-      "name": "політ",
+      "name": "Політ",
       "description": ""
     },
     "Land": {

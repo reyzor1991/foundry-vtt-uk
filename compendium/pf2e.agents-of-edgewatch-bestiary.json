@@ -1,0 +1,566 @@
+{
+  "label": "Агенти Edgewatch",
+  "entries": {
+    "Acidic Poison Cloud Trap": {
+      "name": "Пастка кислотної отруйної хмари"
+    },
+    "Agent of the Gray Queen": {
+      "name": "Агент сірої королеви"
+    },
+    "Agradaemon": {
+      "name": "будь ласка,мон"
+    },
+    "Alchemical Horror": {
+      "name": "Алхімічний жах"
+    },
+    "Alchemist Aspirant": {
+      "name": "Претендент на алхіміка"
+    },
+    "Almiraj": {
+      "name": "Альмірадж"
+    },
+    "Amateur Chemist": {
+      "name": "Хімік-аматор"
+    },
+    "Antaro Boldblade": {
+      "name": "Antaro Boldblade"
+    },
+    "Arcane Feedback Trap": {
+      "name": "Arcane Feedback Trap"
+    },
+    "Avarek": {
+      "name": "кришка"
+    },
+    "Avsheros the Betrayer": {
+      "name": "Авшерос-зрадник"
+    },
+    "Baatamidar": {
+      "name": "балакучий"
+    },
+    "Barnacle Ghoul": {
+      "name": "Барнакл гуль"
+    },
+    "Barrel Launcher": {
+      "name": "Стовбурна пускова установка"
+    },
+    "Battle Leader Rekarek": {
+      "name": "Бойовий лідер Рекарек"
+    },
+    "Binumir": {
+      "name": "Бінумір"
+    },
+    "Black Whale Guard": {
+      "name": "Охорона чорного кита"
+    },
+    "Black Whale Guard (F3)": {
+      "name": "Охоронець чорного кита (F3)"
+    },
+    "Blackfinger's Prayer": {
+      "name": "Молитва Чорного перста"
+    },
+    "Blackfingers Acolyte": {
+      "name": "Послушник чорнопалих"
+    },
+    "Bloody Barber Goon": {
+      "name": "Кривавий перукар Гун"
+    },
+    "Bloody Berleth": {
+      "name": "Кривавий Берлет"
+    },
+    "Blune Bandersworth": {
+      "name": "Блюн Бандерсворт"
+    },
+    "Blune's Illusory Toady": {
+      "name": "Ілюзорна Жабуза Блюна"
+    },
+    "Boiling Fountains": {
+      "name": "Киплячі фонтани"
+    },
+    "Boiling Tub Trap": {
+      "name": "Кипляча ванна пастка"
+    },
+    "Bolar Of Stonemoor": {
+      "name": "До речі про соски"
+    },
+    "Bone Skipper Swarm": {
+      "name": "Рій кістяного шкіпера"
+    },
+    "Bregdi": {
+      "name": "Брегді"
+    },
+    "Burning Chandelier Trap": {
+      "name": "Палаюча люстра-пастка"
+    },
+    "Calennia": {
+      "name": "Календар"
+    },
+    "Camarach": {
+      "name": "Камарач"
+    },
+    "Canopy Drop": {
+      "name": "Canopy Drop"
+    },
+    "Carvey": {
+      "name": "Керві"
+    },
+    "Casino Bouncer": {
+      "name": "Вишибала казино"
+    },
+    "Chalky": {
+      "name": "Крейдовий"
+    },
+    "Chaos Gulgamodh": {
+      "name": "Хаос Гульгамод"
+    },
+    "Child Of Venom": {
+      "name": "Дитина Венома"
+    },
+    "Clockwork Amalgam": {
+      "name": "Заводна амальгама"
+    },
+    "Clockwork Arms": {
+      "name": "Заводний механізм Руки"
+    },
+    "Clockwork Assassin": {
+      "name": "Заводний вбивця"
+    },
+    "Clockwork Chopper": {
+      "name": "Заводний чоппер"
+    },
+    "Clockwork Injector": {
+      "name": "Заводний інжектор"
+    },
+    "Clockwork Poison Bomb": {
+      "name": "Заводна отруйна бомба"
+    },
+    "Cobbleswarm (AoE)": {
+      "name": "Cobbleswarm (AoE)"
+    },
+    "Copper Hand Illusionist": {
+      "name": "Ілюзіоніст мідної руки"
+    },
+    "Copper Hand Rogue": {
+      "name": "Розбійник з мідної руки"
+    },
+    "Daemonic Infector": {
+      "name": "Демонічний Інфектор"
+    },
+    "Daemonic Rumormonger": {
+      "name": "Демонічний розповсюджувач чуток"
+    },
+    "Daemonic Skinner": {
+      "name": "Демонічний Скіннер"
+    },
+    "Dart Barrage": {
+      "name": "Дартс загородження"
+    },
+    "Diobel Sweeper Chemist": {
+      "name": "Diobel Sweeper Chemist"
+    },
+    "Diobel Sweeper Tough": {
+      "name": "Diobel Sweeper Tough"
+    },
+    "Dreadsong Dancer": {
+      "name": "Танцюрист Дредсонг"
+    },
+    "Eberark": {
+      "name": "Еберарх"
+    },
+    "Eunice": {
+      "name": "Юніс"
+    },
+    "Excorion": {
+      "name": "Екскоріон"
+    },
+    "Excorion Paragon": {
+      "name": "Екскоріон Парагон"
+    },
+    "Exploding Statue": {
+      "name": "Статуя, що вибухає"
+    },
+    "Explosive Barrels": {
+      "name": "Вибухові бочки"
+    },
+    "Eyeball Tank": {
+      "name": "Танк очного яблука"
+    },
+    "False Door Trap": {
+      "name": "Фальшиві двері Сходи"
+    },
+    "Fayati Alummur": {
+      "name": "Речі приходять"
+    },
+    "Field Of Opposition": {
+      "name": "Поле протистояння"
+    },
+    "Flying Guillotine": {
+      "name": "Літаюча гільйотина"
+    },
+    "Franca Laurentz": {
+      "name": "Френк Лоренц"
+    },
+    "Freezing Alarm": {
+      "name": "Сигнал замерзання"
+    },
+    "Frefferth": {
+      "name": "Frefferth"
+    },
+    "Gage Carlyle": {
+      "name": "Гейдж Карлайл"
+    },
+    "Gang Tough": {
+      "name": "Жорстка банда"
+    },
+    "Garrote Master Assassin": {
+      "name": "Майстер ассасин Гарроте"
+    },
+    "Gas Trap": {
+      "name": "Газова пастка"
+    },
+    "Ghaele Of Kharnas": {
+      "name": "Гале з Харнаса"
+    },
+    "Giant Bone Skipper": {
+      "name": "Гігантський кістяний шкіпер"
+    },
+    "Giant Joro Spider": {
+      "name": "Гігантський павук Жоро"
+    },
+    "Gloaming Will-o'-Wisp": {
+      "name": "Похмурий Вілл-о'-Вісп"
+    },
+    "Grabble Forden": {
+      "name": "Грейбл Форд"
+    },
+    "Graem": {
+      "name": "Ми граємо"
+    },
+    "Graveknight Of Kharnas": {
+      "name": "Graveknight of Kharnas"
+    },
+    "Greater Planar Rift": {
+      "name": "Великий площинний розлом"
+    },
+    "Gref": {
+      "name": "Сильний"
+    },
+    "Grick": {
+      "name": "Грик"
+    },
+    "Grimwold": {
+      "name": "Грімуолд"
+    },
+    "Grinlowe": {
+      "name": "Грінл"
+    },
+    "Grospek Lavarsus": {
+      "name": "Гроспек Лаварсус"
+    },
+    "Grunka": {
+      "name": "Grunk"
+    },
+    "Hands Of The Forgotten": {
+      "name": "Руки Забутого"
+    },
+    "Hegessik": {
+      "name": "Хегесік"
+    },
+    "Hendrid Pratchett": {
+      "name": "Хендріда Пратчетта"
+    },
+    "Hestriviniaas": {
+      "name": "Гестрівініас"
+    },
+    "Hidden Chute": {
+      "name": "Прихований жолоб"
+    },
+    "Hundun Chaos Mage": {
+      "name": "Ху Нортон Хаос MA"
+    },
+    "Il'setsya Wyrmtouched": {
+      "name": "Ільцеться Wyrmtouched"
+    },
+    "Ink Drowning Vats": {
+      "name": "Чани для потоплення чорнила"
+    },
+    "Inky Tendrils": {
+      "name": "Чорнильні вусики"
+    },
+    "Iron Maiden Trap": {
+      "name": "Пастка Iron Maiden"
+    },
+    "Iroran Skeleton": {
+      "name": "Скелетне бачення"
+    },
+    "Ixusoth": {
+      "name": "Іксусот"
+    },
+    "Izfiitar": {
+      "name": "Здирник"
+    },
+    "Jonis Flakfatter": {
+      "name": "Йоніс Флакфаттер"
+    },
+    "Kapral": {
+      "name": "Капрал"
+    },
+    "Kekker": {
+      "name": "Кеккер"
+    },
+    "Kemeneles": {
+      "name": "Кеменелес"
+    },
+    "Kharnas's Lesser Glyph": {
+      "name": "Малий гліф Харнаса"
+    },
+    "Kolo Harvan": {
+      "name": "Коло Харван"
+    },
+    "Lie-Master": {
+      "name": "Брехня-Майстер"
+    },
+    "Life Magnet": {
+      "name": "Магніт життя"
+    },
+    "Living Mural": {
+      "name": "Живий мурал"
+    },
+    "Living Paints": {
+      "name": "Живі фарби"
+    },
+    "Lord Guirden": {
+      "name": "Лорд Гурден"
+    },
+    "Lusca": {
+      "name": "Луська"
+    },
+    "Lyrma Swampwalker": {
+      "name": "Lyrma Swampwalker"
+    },
+    "Maurrisa Jonne": {
+      "name": "Морріса Йонне"
+    },
+    "Minchgorm": {
+      "name": "Мінчгорм"
+    },
+    "Miogimo": {
+      "name": "Міогімо"
+    },
+    "Miriel Grayleaf": {
+      "name": "Міріель Грейліф"
+    },
+    "Mobana": {
+      "name": "Мобана"
+    },
+    "Mother Venom": {
+      "name": "Мати Веном"
+    },
+    "Mr. Snips": {
+      "name": "Містер Сніпс"
+    },
+    "Myrna Rath": {
+      "name": "Мірна Рат"
+    },
+    "Myrucarx": {
+      "name": "Мірукаркс"
+    },
+    "Najra Lizard": {
+      "name": "Ящірка Найра"
+    },
+    "Needling Stairs": {
+      "name": "Нідлінг Сходи"
+    },
+    "Nenchuuj": {
+      "name": "круглий рік"
+    },
+    "Norgorberite Poisoner": {
+      "name": "Отруйний норгорберит"
+    },
+    "Obrousian": {
+      "name": "Обрусян"
+    },
+    "Ofalth Zombie": {
+      "name": "Офалт Зомбі"
+    },
+    "Olansa Terimor": {
+      "name": "Оланса Терімор"
+    },
+    "Overdrive Imentesh": {
+      "name": "Овердрайв Іментеш"
+    },
+    "Pelmo": {
+      "name": "Пельмо"
+    },
+    "Penqual": {
+      "name": "Penqual"
+    },
+    "Pickled Punk": {
+      "name": "Маринований панк"
+    },
+    "Plunger Chute": {
+      "name": "Плунжерний жолоб"
+    },
+    "Poison Eater": {
+      "name": "Пожирач отрути"
+    },
+    "Poisoned Dart Statue": {
+      "name": "Статуя отруєного дротика"
+    },
+    "Priest of Blackfingers": {
+      "name": "Жрець Чорнопальців"
+    },
+    "Prospecti Statue": {
+      "name": "Перспективи статуї"
+    },
+    "Pulping Golem": {
+      "name": "Pulping Golem"
+    },
+    "Ralso": {
+      "name": "Також"
+    },
+    "Ravenile Rager": {
+      "name": "Ravenile Rager"
+    },
+    "Reginald Vancaskerkin": {
+      "name": "Реджинальд Ванкаскеркін"
+    },
+    "Rhevanna": {
+      "name": "Реванна"
+    },
+    "Rigged Cubby": {
+      "name": "Сфальсифікований Каббі"
+    },
+    "Sad Liza": {
+      "name": "Сумна Ліза"
+    },
+    "Scathka": {
+      "name": "Скатка"
+    },
+    "Secret-Keeper": {
+      "name": "Секретник"
+    },
+    "Shatterling": {
+      "name": "Shatterling"
+    },
+    "Shikwashim Mercenary": {
+      "name": "Шиквашимський морський завод"
+    },
+    "Shredskin": {
+      "name": "Шредскін"
+    },
+    "Shristi Melipdra": {
+      "name": "Шрісті Меліпдра"
+    },
+    "Siege Shard": {
+      "name": "Осколок облоги"
+    },
+    "Skebs": {
+      "name": "Скеби"
+    },
+    "Skinsaw Murderer": {
+      "name": "Вбивця шкірною пилою"
+    },
+    "Skinsaw Seamer": {
+      "name": "Шкіропила"
+    },
+    "Skitterstitch": {
+      "name": "Шкіттерскій стібок"
+    },
+    "Sleepless Sun Veteran": {
+      "name": "Ветеран безсонного сонця"
+    },
+    "Slithering Rift": {
+      "name": "Ковзаючий розлом"
+    },
+    "Sordesdaemon": {
+      "name": "Sordesdaemon"
+    },
+    "Starwatch Commando": {
+      "name": "Starwatch Commando"
+    },
+    "Summoning Rune (Barbazu Devil)": {
+      "name": "Руна виклику (диявол Барбазу)"
+    },
+    "Summoning Rune (Cinder Rat)": {
+      "name": "Руна виклику (Пульний Щур)"
+    },
+    "Supplicant Statues": {
+      "name": "Статуї прохачів"
+    },
+    "Svartalfar Killer": {
+      "name": "Вбивця чорного ельфа"
+    },
+    "Tenome": {
+      "name": "Тенома"
+    },
+    "Teraphant": {
+      "name": "Терафант"
+    },
+    "The Inkmaster": {
+      "name": "Інкмайстер"
+    },
+    "The Laughing Fiend's Greeting": {
+      "name": "Привітання сміючого диявола"
+    },
+    "The Rabbit Prince": {
+      "name": "Кролячий принц"
+    },
+    "The Stabbing Beast": {
+      "name": "Колючий звір"
+    },
+    "The Winder": {
+      "name": "Намотувач"
+    },
+    "Tiderunner Aquamancer": {
+      "name": "Тидернернер Аквамансер"
+    },
+    "Twisted Jack": {
+      "name": "Кручений Джек"
+    },
+    "Tyrroicese": {
+      "name": "тироподібний"
+    },
+    "Ulressia The Blessed": {
+      "name": "Ульресія Блаженна"
+    },
+    "Vargouille": {
+      "name": "Варгуй"
+    },
+    "Vaultbreaker Ooze": {
+      "name": "Vaultbreaker Ooze"
+    },
+    "Veksciralenix": {
+      "name": "Вексціраленікс"
+    },
+    "Venom Mage": {
+      "name": "Веном Маг"
+    },
+    "Washboard Dog Tough": {
+      "name": "Washboard Dog Tough"
+    },
+    "Water Elemental Vessel": {
+      "name": "Посудина стихії води"
+    },
+    "Water Elemental Vessel (I2)": {
+      "name": "Посудина з елементами води (I2)"
+    },
+    "Waxworks Onslaught Trap": {
+      "name": "Пастка нападу Waxworks"
+    },
+    "Wrent Dicaspiron": {
+      "name": "Рент Дикаспірон"
+    },
+    "Wynsal Starborn": {
+      "name": "Вінсал Старборн"
+    },
+    "Zeal-damned Ghoul": {
+      "name": "Завзятий проклятий упир"
+    },
+    "Zealborn": {
+      "name": "Зілборн"
+    },
+    "Zrukbat": {
+      "name": "Зрукбат"
+    }
+  }
+}

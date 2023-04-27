@@ -1,0 +1,1409 @@
+{
+  "label": "Бестіарій 1",
+  "entries": {
+    "Aasimar Redeemer": {
+      "name": "Аазімар Спаситель"
+    },
+    "Adamantine Golem": {
+      "name": "Адамантовий Голем"
+    },
+    "Adult Black Dragon": {
+      "name": "Дорослий чорний дракон"
+    },
+    "Adult Black Dragon (Spellcaster)": {
+      "name": "Дорослий чорний дракон (заклинатель)"
+    },
+    "Adult Blue Dragon": {
+      "name": "Дорослий блакитний дракон"
+    },
+    "Adult Blue Dragon (Spellcaster)": {
+      "name": "Дорослий блакитний дракон (заклинатель)"
+    },
+    "Adult Brass Dragon": {
+      "name": "Дорослий латунний дракон"
+    },
+    "Adult Brass Dragon (Spellcaster)": {
+      "name": "Дорослий латунний дракон (заклинач)"
+    },
+    "Adult Bronze Dragon": {
+      "name": "Дорослий бронзовий дракон"
+    },
+    "Adult Bronze Dragon (Spellcaster)": {
+      "name": "Дорослий бронзовий дракон (заклинатель)"
+    },
+    "Adult Copper Dragon": {
+      "name": "Дорослий мідний дракон"
+    },
+    "Adult Copper Dragon (Spellcaster)": {
+      "name": "Дорослий мідний дракон (заклинатель)"
+    },
+    "Adult Gold Dragon": {
+      "name": "Дорослий золотий дракон"
+    },
+    "Adult Gold Dragon (Spellcaster)": {
+      "name": "Дорослий золотий дракон (заклинатель)"
+    },
+    "Adult Green Dragon": {
+      "name": "Дорослий зелений дракон"
+    },
+    "Adult Green Dragon (Spellcaster)": {
+      "name": "Дорослий зелений дракон (заклинатель)"
+    },
+    "Adult Red Dragon": {
+      "name": "Дорослий червоний дракон"
+    },
+    "Adult Red Dragon (Spellcaster)": {
+      "name": "Дорослий червоний дракон (заклинатель)"
+    },
+    "Adult Silver Dragon": {
+      "name": "Дорослий срібний дракон"
+    },
+    "Adult Silver Dragon (Spellcaster)": {
+      "name": "Дорослий срібний дракон (заклинатель)"
+    },
+    "Adult White Dragon": {
+      "name": "Дорослий білий дракон"
+    },
+    "Adult White Dragon (Spellcaster)": {
+      "name": "Дорослий Білий Дракон (Заклинатель)"
+    },
+    "Air Mephit": {
+      "name": "На Мефіта"
+    },
+    "Alchemical Golem": {
+      "name": "Алхімічний Голем"
+    },
+    "Alghollthu Master": {
+      "name": "Майстер Алгхоллту"
+    },
+    "Ancient Black Dragon": {
+      "name": "Стародавній чорний дракон"
+    },
+    "Ancient Black Dragon (Spellcaster)": {
+      "name": "Стародавній Чорний Дракон (Заклинатель)"
+    },
+    "Ancient Blue Dragon": {
+      "name": "Стародавній блакитний дракон"
+    },
+    "Ancient Blue Dragon (Spellcaster)": {
+      "name": "Стародавній синій дракон (заклинатель)"
+    },
+    "Ancient Brass Dragon": {
+      "name": "Стародавній латунний дракон"
+    },
+    "Ancient Brass Dragon (Spellcaster)": {
+      "name": "Стародавній латунний дракон (заклинатель)"
+    },
+    "Ancient Bronze Dragon": {
+      "name": "Стародавній бронзовий дракон"
+    },
+    "Ancient Bronze Dragon (Spellcaster)": {
+      "name": "Стародавній бронзовий дракон (заклинатель)"
+    },
+    "Ancient Copper Dragon": {
+      "name": "Стародавній мідний дракон"
+    },
+    "Ancient Copper Dragon (Spellcaster)": {
+      "name": "Стародавній мідний дракон (заклинатель)"
+    },
+    "Ancient Gold Dragon": {
+      "name": "Стародавній золотий дракон"
+    },
+    "Ancient Gold Dragon (Spellcaster)": {
+      "name": "Стародавній золотий дракон (заклинатель)"
+    },
+    "Ancient Green Dragon": {
+      "name": "Стародавній зелений дракон"
+    },
+    "Ancient Green Dragon (Spellcaster)": {
+      "name": "Стародавній зелений дракон (заклинатель)"
+    },
+    "Ancient Red Dragon": {
+      "name": "Стародавній червоний дракон"
+    },
+    "Ancient Red Dragon (Spellcaster)": {
+      "name": "Стародавній червоний дракон (заклинатель)"
+    },
+    "Ancient Silver Dragon": {
+      "name": "Стародавній срібний дракон"
+    },
+    "Ancient Silver Dragon (Spellcaster)": {
+      "name": "Стародавній срібний дракон (заклинатель)"
+    },
+    "Ancient White Dragon": {
+      "name": "Стародавній білий дракон"
+    },
+    "Ancient White Dragon (Spellcaster)": {
+      "name": "Стародавній Білий Дракон (Заклинатель)"
+    },
+    "Animated Armor": {
+      "name": "Анімована броня"
+    },
+    "Animated Broom": {
+      "name": "Анімована мітла"
+    },
+    "Animated Statue": {
+      "name": "Анімована статуя"
+    },
+    "Ankhrav": {
+      "name": "анхрао"
+    },
+    "Ankylosaurus": {
+      "name": "Анкілозавр"
+    },
+    "Annis Hag": {
+      "name": "У році Хаг"
+    },
+    "Arbiter": {
+      "name": "Арбітр"
+    },
+    "Arboreal Regent": {
+      "name": "Деревний регент"
+    },
+    "Arboreal Warden": {
+      "name": "Деревний наглядач"
+    },
+    "Astradaemon": {
+      "name": "астрадемон"
+    },
+    "Astral Deva": {
+      "name": "Астральна Дева"
+    },
+    "Awakened Tree": {
+      "name": "Пробуджене дерево"
+    },
+    "Axiomite": {
+      "name": "Почесний"
+    },
+    "Azure Worm": {
+      "name": "Лазурний черв'як"
+    },
+    "Balisse": {
+      "name": "Баліс"
+    },
+    "Ball Python": {
+      "name": "Куля пітона"
+    },
+    "Balor": {
+      "name": "Балор"
+    },
+    "Banshee": {
+      "name": "Банші"
+    },
+    "Baomal": {
+      "name": "Баомал"
+    },
+    "Barbazu": {
+      "name": "Барбазу"
+    },
+    "Barghest": {
+      "name": "Найпопулярніший"
+    },
+    "Basilisk": {
+      "name": "Василіск"
+    },
+    "Black Kobold Dragon Mage": {
+      "name": "Кобольд-маг Чорного Дракона"
+    },
+    "Black Pudding": {
+      "name": "Чорний пудинг"
+    },
+    "Bloodseeker": {
+      "name": "Bloodseeker"
+    },
+    "Blue Kobold Dragon Mage": {
+      "name": "Кобольд-маг Синього Дракона"
+    },
+    "Boar": {
+      "name": "Кабан"
+    },
+    "Boggard Scout": {
+      "name": "Боггард-скаут"
+    },
+    "Boggard Swampseer": {
+      "name": "Боггард Свомпсір"
+    },
+    "Boggard Warrior": {
+      "name": "Боггард Воїн"
+    },
+    "Brain Collector": {
+      "name": "Збирач мізків"
+    },
+    "Brine Shark": {
+      "name": "Соляна акула"
+    },
+    "Brontosaurus": {
+      "name": "бронтозавр"
+    },
+    "Bugbear Thug": {
+      "name": "Bugbear Thug"
+    },
+    "Bugbear Tormentor": {
+      "name": "Bugbear Tormentor"
+    },
+    "Bulette": {
+      "name": "Куля"
+    },
+    "Bunyip": {
+      "name": "Звуковий сигнал"
+    },
+    "Cacodaemon": {
+      "name": "Какодемон"
+    },
+    "Caligni Creeper": {
+      "name": "Калиньи повзучий"
+    },
+    "Caligni Dancer": {
+      "name": "Танцівниця Каліньї"
+    },
+    "Caligni Stalker": {
+      "name": "Каліньї Сталкер"
+    },
+    "Cassisian": {
+      "name": "Кассиан"
+    },
+    "Catfolk Pouncer": {
+      "name": "Catfolk Pouncer"
+    },
+    "Cauthooj": {
+      "name": "курйози"
+    },
+    "Cave Bear": {
+      "name": "Печерний Ведмідь"
+    },
+    "Centaur": {
+      "name": "Кентавр"
+    },
+    "Centipede Swarm": {
+      "name": "Рой Стоніжок"
+    },
+    "Ceustodaemon": {
+      "name": "Кеустодемон"
+    },
+    "Changeling Exile": {
+      "name": "Changeling Exile"
+    },
+    "Chimera (Black Dragon)": {
+      "name": "Химера (Чорний дракон)"
+    },
+    "Chimera (Blue Dragon)": {
+      "name": "Химера (Блакитний дракон)"
+    },
+    "Chimera (Green Dragon)": {
+      "name": "Химера (Зелений дракон)"
+    },
+    "Chimera (Red Dragon)": {
+      "name": "Химера (Червоний Дракон)"
+    },
+    "Chimera (White Dragon)": {
+      "name": "Химера (Білий дракон)"
+    },
+    "Choral": {
+      "name": "Хорова"
+    },
+    "Chuul": {
+      "name": "Врізні"
+    },
+    "Cinder Rat": {
+      "name": "Попелястий Щур"
+    },
+    "Clay Golem": {
+      "name": "Глиняний Голем"
+    },
+    "Cloaker": {
+      "name": "Плащ"
+    },
+    "Cloud Giant": {
+      "name": "Хмарний гігант"
+    },
+    "Cockatrice": {
+      "name": "Кокатріс"
+    },
+    "Crag Linnorm": {
+      "name": "Крег Ліннорм"
+    },
+    "Crimson Worm": {
+      "name": "Багряний черв'як"
+    },
+    "Crocodile": {
+      "name": "Крокодил"
+    },
+    "Cyclops": {
+      "name": "Циклоп"
+    },
+    "Daeodon": {
+      "name": "Деодон"
+    },
+    "Dandasuka": {
+      "name": "Дундазація"
+    },
+    "Dark Naga": {
+      "name": "Темний дракон"
+    },
+    "Deadly Mantis": {
+      "name": "Смертоносний богомол"
+    },
+    "Deep Gnome Rockwarden": {
+      "name": "Глибокий Гном Рокварден"
+    },
+    "Deep Gnome Scout": {
+      "name": "Розвідник глибокого гнома"
+    },
+    "Deep Gnome Warrior": {
+      "name": "Воїн глибокого гнома"
+    },
+    "Deinonychus": {
+      "name": "Дейноніх"
+    },
+    "Deinosuchus": {
+      "name": "Дейнозух"
+    },
+    "Demilich": {
+      "name": "деміліч"
+    },
+    "Dero Magister": {
+      "name": "Тоді Майстер"
+    },
+    "Dero Stalker": {
+      "name": "Деро Сталкер"
+    },
+    "Dero Strangler": {
+      "name": "Деро Душитель"
+    },
+    "Desert Drake": {
+      "name": "Пустельний Дрейк"
+    },
+    "Dezullon": {
+      "name": "Дезуллон"
+    },
+    "Dhampir Wizard": {
+      "name": "Дампірський чарівник"
+    },
+    "Dire Wolf": {
+      "name": "Скажи Вовк"
+    },
+    "Djinni": {
+      "name": "Джинні"
+    },
+    "Doppelganger": {
+      "name": "Двійник"
+    },
+    "Dragon Turtle": {
+      "name": "Черепаха-дракон"
+    },
+    "Drakauthix": {
+      "name": "Дракаутікс"
+    },
+    "Drider": {
+      "name": "Драйдер"
+    },
+    "Drow Fighter": {
+      "name": "Боєць дроу"
+    },
+    "Drow Priestess": {
+      "name": "Жриця Дроу"
+    },
+    "Drow Rogue": {
+      "name": "Дроу Роуг"
+    },
+    "Dryad": {
+      "name": "Дріада"
+    },
+    "Dryad Queen": {
+      "name": "Королева дріад"
+    },
+    "Duergar Bombardier": {
+      "name": "Дуергар Бомбардьє"
+    },
+    "Duergar Sharpshooter": {
+      "name": "Duergar Sharpshooter"
+    },
+    "Duergar Taskmaster": {
+      "name": "Duergar Taskmaster"
+    },
+    "Dullahan": {
+      "name": "наречена"
+    },
+    "Duskwalker Ghost Hunter": {
+      "name": "Сутінковий мисливець за привидами"
+    },
+    "Eagle": {
+      "name": "орел"
+    },
+    "Earth Mephit": {
+      "name": "Земля Мефіт"
+    },
+    "Efreeti": {
+      "name": "Efreet"
+    },
+    "Elananx": {
+      "name": "елананкс"
+    },
+    "Electric Eel": {
+      "name": "Електричний вугор"
+    },
+    "Elemental Avalanche": {
+      "name": "Стихійна лавина"
+    },
+    "Elemental Hurricane": {
+      "name": "Стихійний ураган"
+    },
+    "Elemental Inferno": {
+      "name": "Елементарне пекло"
+    },
+    "Elemental Tsunami": {
+      "name": "Стихійне цунамі"
+    },
+    "Elephant": {
+      "name": "слон"
+    },
+    "Envyspawn": {
+      "name": "Envyspawn"
+    },
+    "Erinys": {
+      "name": "Еринії"
+    },
+    "Ether Spider": {
+      "name": "Ефірний павук"
+    },
+    "Ettin": {
+      "name": "ти зробив"
+    },
+    "Faceless Stalker": {
+      "name": "Безликий сталкер"
+    },
+    "Faerie Dragon": {
+      "name": "Феєричний дракон"
+    },
+    "Fire Giant": {
+      "name": "Вогняний гігант"
+    },
+    "Fire Mephit": {
+      "name": "Вогонь Мефіт"
+    },
+    "Firewyrm": {
+      "name": "Firewyrm"
+    },
+    "Flame Drake": {
+      "name": "Полум'яний Дрейк"
+    },
+    "Flash Beetle": {
+      "name": "Flash Beetle"
+    },
+    "Flesh Golem": {
+      "name": "Плоть Голема"
+    },
+    "Frost Drake": {
+      "name": "Фрост Дрейк"
+    },
+    "Frost Giant": {
+      "name": "Морозний велетень"
+    },
+    "Fungus Leshy": {
+      "name": "Грибок Леший"
+    },
+    "Gancanagh": {
+      "name": "Не можу дочекатися"
+    },
+    "Gargoyle": {
+      "name": "Горгулья"
+    },
+    "Gelatinous Cube": {
+      "name": "Желатиновий кубик"
+    },
+    "Gelugon": {
+      "name": "Грудкуватий"
+    },
+    "Ghaele": {
+      "name": "Гаеле"
+    },
+    "Ghast": {
+      "name": "Гаст"
+    },
+    "Ghost Commoner": {
+      "name": "Ghost Commoner"
+    },
+    "Ghost Mage": {
+      "name": "Маг-привид"
+    },
+    "Ghoul": {
+      "name": "Гуль"
+    },
+    "Giant Anaconda": {
+      "name": "Гігантська анаконда"
+    },
+    "Giant Animated Statue": {
+      "name": "Гігантська анімована статуя"
+    },
+    "Giant Bat": {
+      "name": "Гігантська кажан"
+    },
+    "Giant Centipede": {
+      "name": "Гігантська багатоніжка"
+    },
+    "Giant Eagle": {
+      "name": "Гігантський орел"
+    },
+    "Giant Flytrap": {
+      "name": "Нефритова мухоловка"
+    },
+    "Giant Frilled Lizard": {
+      "name": "Гігантська гофрована ящірка"
+    },
+    "Giant Gecko": {
+      "name": "Гігантський гекон"
+    },
+    "Giant Mantis": {
+      "name": "Янде Богомол"
+    },
+    "Giant Monitor Lizard": {
+      "name": "Гігантська варан"
+    },
+    "Giant Moray Eel": {
+      "name": "Мурена гігантська"
+    },
+    "Giant Octopus": {
+      "name": "Гігантський восьминіг"
+    },
+    "Giant Rat": {
+      "name": "Гігантський Щур"
+    },
+    "Giant Scorpion": {
+      "name": "Гігантський скорпіон"
+    },
+    "Giant Stag Beetle": {
+      "name": "Гігантський жук-олень"
+    },
+    "Giant Tarantula": {
+      "name": "Нефритовий тарантул"
+    },
+    "Giant Viper": {
+      "name": "Гігантська гадюка"
+    },
+    "Giant Wasp": {
+      "name": "Гігантська оса"
+    },
+    "Gibbering Mouther": {
+      "name": "Буркотливий Mouther"
+    },
+    "Gimmerling": {
+      "name": "Гіммерлінг"
+    },
+    "Glabrezu": {
+      "name": "Глабрезу"
+    },
+    "Gluttonyspawn": {
+      "name": "Ненажера"
+    },
+    "Gnoll Cultist": {
+      "name": "Культист Гнолл"
+    },
+    "Gnoll Hunter": {
+      "name": "Мисливець на гнолів"
+    },
+    "Gnoll Sergeant": {
+      "name": "Сержант Гнолл"
+    },
+    "Goblin Commando": {
+      "name": "Goblin Commando"
+    },
+    "Goblin Dog": {
+      "name": "Пес гоблін"
+    },
+    "Goblin Pyro": {
+      "name": "Гоблін Піро"
+    },
+    "Goblin War Chanter": {
+      "name": "Goblin War Chanter"
+    },
+    "Goblin Warrior": {
+      "name": "Гоблін Воїн"
+    },
+    "Gogiteth": {
+      "name": "Гогітет"
+    },
+    "Goliath Spider": {
+      "name": "Павук Голіаф"
+    },
+    "Gorilla": {
+      "name": "Горила"
+    },
+    "Gourd Leshy": {
+      "name": "Гарбуз Леший"
+    },
+    "Graveknight": {
+      "name": "Гравекнайт"
+    },
+    "Great Cyclops": {
+      "name": "Великий циклоп"
+    },
+    "Great White Shark": {
+      "name": "Велика біла акула"
+    },
+    "Greater Barghest": {
+      "name": "Великий Баргест"
+    },
+    "Greater Nightmare": {
+      "name": "Великий кошмар"
+    },
+    "Greater Shadow": {
+      "name": "Велика тінь"
+    },
+    "Greedspawn": {
+      "name": "Greedspawn"
+    },
+    "Green Hag": {
+      "name": "Зелена Ведьма"
+    },
+    "Green Kobold Dragon Mage": {
+      "name": "Кобольд-маг Зеленого Дракона"
+    },
+    "Griffon": {
+      "name": "Грифон"
+    },
+    "Grig": {
+      "name": "Григор"
+    },
+    "Grikkitog": {
+      "name": "Грецький буксир"
+    },
+    "Grim Reaper": {
+      "name": "Похмурий жнець"
+    },
+    "Grizzly Bear": {
+      "name": "Грізлі"
+    },
+    "Grothlut": {
+      "name": "Гротлут"
+    },
+    "Guard Dog": {
+      "name": "Сторожовий собака"
+    },
+    "Guardian Naga": {
+      "name": "Країна-охоронець"
+    },
+    "Gug": {
+      "name": "Гуг"
+    },
+    "Guthallath": {
+      "name": "вузлуватий"
+    },
+    "Harpy": {
+      "name": "Гарпія"
+    },
+    "Hell Hound": {
+      "name": "Пекельна собака"
+    },
+    "Hill Giant": {
+      "name": "Пагорбовий гігант"
+    },
+    "Hive Mother": {
+      "name": "Мати вулика"
+    },
+    "Hobgoblin Archer": {
+      "name": "Хобгоблін Арчер"
+    },
+    "Hobgoblin General": {
+      "name": "Гобгоблін Генерал"
+    },
+    "Hobgoblin Soldier": {
+      "name": "Хобгоблін Солдат"
+    },
+    "Homunculus": {
+      "name": "гомункул"
+    },
+    "Horned Archon": {
+      "name": "Рогатий архонт"
+    },
+    "Hunting Spider": {
+      "name": "Мисливський павук"
+    },
+    "Hyaenodon": {
+      "name": "Гієнодон"
+    },
+    "Hydra": {
+      "name": "Гідра"
+    },
+    "Hyena": {
+      "name": "Гієна"
+    },
+    "Ice Linnorm": {
+      "name": "Айс Ліннорм"
+    },
+    "Imp": {
+      "name": "Imp"
+    },
+    "Invisible Stalker": {
+      "name": "Невидимий сталкер"
+    },
+    "Iron Golem": {
+      "name": "Залізний Голем"
+    },
+    "Janni": {
+      "name": "Джон"
+    },
+    "Jinkin": {
+      "name": "сповільнити"
+    },
+    "Jungle Drake": {
+      "name": "Джунглі Дрейк"
+    },
+    "Kapoacinth": {
+      "name": "Капоцинт"
+    },
+    "Keketar": {
+      "name": "посмикування"
+    },
+    "Kobold Scout": {
+      "name": "Розвідник Кобольда"
+    },
+    "Kobold Warrior": {
+      "name": "Воїн Кобольда"
+    },
+    "Kolyarut": {
+      "name": "Колярут"
+    },
+    "Kraken": {
+      "name": "Кракен"
+    },
+    "Krooth": {
+      "name": "Крут"
+    },
+    "Lamia": {
+      "name": "Ламія"
+    },
+    "Lamia Matriarch": {
+      "name": "Ламія Матріарх"
+    },
+    "Lantern Archon": {
+      "name": "Ліхтар Архонт"
+    },
+    "Lantern Archon (Gestalt)": {
+      "name": "Ліхтар Архонт (форма)"
+    },
+    "Leaf Leshy": {
+      "name": "Лист Леший"
+    },
+    "Legion Archon": {
+      "name": "Архонт Легіону"
+    },
+    "Lemure": {
+      "name": "Лемур"
+    },
+    "Leopard": {
+      "name": "Леопард"
+    },
+    "Lesser Death": {
+      "name": "Менша смерть"
+    },
+    "Leukodaemon": {
+      "name": "Лейкодемон"
+    },
+    "Lich": {
+      "name": "Ліч"
+    },
+    "Lillend": {
+      "name": "Лілленд"
+    },
+    "Lion": {
+      "name": "Лев"
+    },
+    "Living Landslide": {
+      "name": "Живий зсув"
+    },
+    "Living Waterfall": {
+      "name": "Живий водоспад"
+    },
+    "Living Whirlwind": {
+      "name": "Живий Вихор"
+    },
+    "Living Wildfire": {
+      "name": "Живий лісовий вогонь"
+    },
+    "Lizardfolk Defender": {
+      "name": "Лізардфолк Захисник"
+    },
+    "Lizardfolk Scout": {
+      "name": "Лізардфолк-скаут"
+    },
+    "Lizardfolk Stargazer": {
+      "name": "Лізардфолк Звіздар"
+    },
+    "Lustspawn": {
+      "name": "Lustspawn"
+    },
+    "Lyrakien": {
+      "name": "lyrakien"
+    },
+    "Mammoth": {
+      "name": "Мамонт"
+    },
+    "Manticore": {
+      "name": "Мантикора"
+    },
+    "Marid": {
+      "name": "хворий"
+    },
+    "Marilith": {
+      "name": "Маріліт"
+    },
+    "Medusa": {
+      "name": "Медуза"
+    },
+    "Megalodon": {
+      "name": "Мегалодон"
+    },
+    "Megaprimatus": {
+      "name": "Мегаприматус"
+    },
+    "Merfolk Warrior": {
+      "name": "Мерфолк Воїн"
+    },
+    "Merfolk Wavecaller": {
+      "name": "Merfolk Wavecaller"
+    },
+    "Mimic": {
+      "name": "Міміка"
+    },
+    "Minotaur": {
+      "name": "Мінотавр"
+    },
+    "Mitflit": {
+      "name": "мітфліт"
+    },
+    "Morrigna": {
+      "name": "Моррінья"
+    },
+    "Mu Spore": {
+      "name": "У Спорі"
+    },
+    "Mukradi": {
+      "name": "Ти справді так"
+    },
+    "Mummy Guardian": {
+      "name": "Мумія Охоронець"
+    },
+    "Mummy Pharaoh": {
+      "name": "Мумія фараона"
+    },
+    "Naiad": {
+      "name": "Наяда"
+    },
+    "Naiad Queen": {
+      "name": "Королева наяди"
+    },
+    "Naunet": {
+      "name": "Нінетт"
+    },
+    "Nessian Warhound": {
+      "name": "Несіанська бойова гонча"
+    },
+    "Night Hag": {
+      "name": "Нічна Ведьма"
+    },
+    "Nightmare": {
+      "name": "Кошмар"
+    },
+    "Nilith": {
+      "name": "Ніліт"
+    },
+    "Nosoi": {
+      "name": "Хворіють"
+    },
+    "Ochre Jelly": {
+      "name": "Желе охри"
+    },
+    "Ofalth": {
+      "name": "Ofalth"
+    },
+    "Ogre Boss": {
+      "name": "Огр Бос"
+    },
+    "Ogre Glutton": {
+      "name": "Огр Ненажера"
+    },
+    "Ogre Warrior": {
+      "name": "Огр Воїн"
+    },
+    "Orc Brute": {
+      "name": "Орк Брут"
+    },
+    "Orc Warchief": {
+      "name": "Вождь орків"
+    },
+    "Orc Warrior": {
+      "name": "Орк Воїн"
+    },
+    "Otyugh": {
+      "name": "Шкода"
+    },
+    "Owlbear": {
+      "name": "Сововедмідь"
+    },
+    "Pegasus": {
+      "name": "Пегас"
+    },
+    "Phistophilus": {
+      "name": "Phistophilus"
+    },
+    "Phoenix": {
+      "name": "Фенікс"
+    },
+    "Pit Fiend": {
+      "name": "Pit Fiend"
+    },
+    "Pixie": {
+      "name": "Піксі"
+    },
+    "Plague Zombie": {
+      "name": "Чумний зомбі"
+    },
+    "Pleroma": {
+      "name": "Плерома"
+    },
+    "Poltergeist": {
+      "name": "Полтергейст"
+    },
+    "Poracha": {
+      "name": "Я замовив"
+    },
+    "Pridespawn": {
+      "name": "Pridespawn"
+    },
+    "Pteranodon": {
+      "name": "Птеранодон"
+    },
+    "Pugwampi": {
+      "name": "Пагвампі"
+    },
+    "Purple Worm": {
+      "name": "Фіолетовий черв'як"
+    },
+    "Quasit": {
+      "name": "Здається"
+    },
+    "Quatoid": {
+      "name": "Кватоподібний"
+    },
+    "Quelaunt": {
+      "name": "Quelaunt"
+    },
+    "Quetzalcoatlus": {
+      "name": "Кецалькоатлюс"
+    },
+    "Raja Rakshasa": {
+      "name": "король чудовисько"
+    },
+    "Rat Swarm": {
+      "name": "Щурячий рій"
+    },
+    "Ratfolk Grenadier": {
+      "name": "Ratfolk Grenadiers"
+    },
+    "Red Kobold Dragon Mage": {
+      "name": "Кобольд-маг Червоного Дракона"
+    },
+    "Redcap": {
+      "name": "Червона шапочка"
+    },
+    "Reefclaw": {
+      "name": "Рифовий кіготь"
+    },
+    "Remorhaz": {
+      "name": "Реморхаз"
+    },
+    "Riding Dog": {
+      "name": "Верхова собака"
+    },
+    "Riding Horse": {
+      "name": "Верхова їзда"
+    },
+    "Riding Pony": {
+      "name": "Верховий поні"
+    },
+    "River Drake": {
+      "name": "Річка Дрейк"
+    },
+    "Roc": {
+      "name": "Рок"
+    },
+    "Roper": {
+      "name": "Ропер"
+    },
+    "Rune Giant": {
+      "name": "Руна Гігант"
+    },
+    "Rust Monster": {
+      "name": "Іржавий монстр"
+    },
+    "Salamander": {
+      "name": "Саламандра"
+    },
+    "Satyr": {
+      "name": "Сатир"
+    },
+    "Scorpion Swarm": {
+      "name": "Рій Скорпіона"
+    },
+    "Sea Devil Baron": {
+      "name": "Барон морського диявола"
+    },
+    "Sea Devil Brute": {
+      "name": "Морський Диявол Брут"
+    },
+    "Sea Devil Scout": {
+      "name": "Розвідник морського диявола"
+    },
+    "Sea Hag": {
+      "name": "Морська Ведьма"
+    },
+    "Sea Serpent": {
+      "name": "Морський змій"
+    },
+    "Sewer Ooze": {
+      "name": "Каналізаційний мул"
+    },
+    "Shadow": {
+      "name": "Тінь"
+    },
+    "Shaitan": {
+      "name": "Сатана"
+    },
+    "Shambler": {
+      "name": "Шамблер"
+    },
+    "Shemhazian": {
+      "name": "Шемхазян"
+    },
+    "Shield Archon": {
+      "name": "Щитовий архонт"
+    },
+    "Shining Child": {
+      "name": "Сяюча дитина"
+    },
+    "Shoggoth": {
+      "name": "Шоггот"
+    },
+    "Shuln": {
+      "name": "Це воно"
+    },
+    "Simurgh": {
+      "name": "Сімург"
+    },
+    "Skeletal Champion": {
+      "name": "Скелет Чемпіон"
+    },
+    "Skeletal Giant": {
+      "name": "Скелетний гігант"
+    },
+    "Skeletal Horse": {
+      "name": "Кінь-скелет"
+    },
+    "Skeletal Hulk": {
+      "name": "Скелет Халк"
+    },
+    "Skeleton Guard": {
+      "name": "Скелет-охоронець"
+    },
+    "Skulltaker": {
+      "name": "Skulltaker"
+    },
+    "Skum": {
+      "name": "Піна"
+    },
+    "Slothspawn": {
+      "name": "Slothspawn"
+    },
+    "Slurk": {
+      "name": "ковток"
+    },
+    "Smilodon": {
+      "name": "Смілодон"
+    },
+    "Snapping Flytrap": {
+      "name": "Мухоловка"
+    },
+    "Sod Hound": {
+      "name": "Сод Хоунд"
+    },
+    "Soulbound Doll (Chaotic Evil)": {
+      "name": "Soulbound Doll (Chaotic Evil)"
+    },
+    "Soulbound Doll (Chaotic Good)": {
+      "name": "Soulbound Doll (Chaotic Good)"
+    },
+    "Soulbound Doll (Chaotic Neutral)": {
+      "name": "Лялька Soulbound (Chaotic Neutral)"
+    },
+    "Soulbound Doll (Lawful Evil)": {
+      "name": "Soulbound Doll (Lawful Evil)"
+    },
+    "Soulbound Doll (Lawful Good)": {
+      "name": "Soulbound Doll (Lawful Good)"
+    },
+    "Soulbound Doll (Lawful Neutral)": {
+      "name": "Soulbound Doll (Lawful Neutral)"
+    },
+    "Soulbound Doll (Neutral Evil)": {
+      "name": "Soulbound Doll (нейтральне зло)"
+    },
+    "Soulbound Doll (Neutral Good)": {
+      "name": "Soulbound Doll (нейтрально добре)"
+    },
+    "Soulbound Doll (True Neutral)": {
+      "name": "Soulbound Doll (справжній нейтральний)"
+    },
+    "Sphinx": {
+      "name": "Сфінкс"
+    },
+    "Spider Swarm": {
+      "name": "Зграя павуків"
+    },
+    "Sprite": {
+      "name": "Спрайт"
+    },
+    "Stegosaurus": {
+      "name": "Стегозавр"
+    },
+    "Stone Giant": {
+      "name": "Кам'яний велетень"
+    },
+    "Stone Golem": {
+      "name": "Кам'яний Голем"
+    },
+    "Stone Mauler": {
+      "name": "Кам'яний молот"
+    },
+    "Storm Giant": {
+      "name": "Штормовий гігант"
+    },
+    "Storm Lord": {
+      "name": "Повелитель бурі"
+    },
+    "Succubus": {
+      "name": "Суккуб"
+    },
+    "Tarn Linnorm": {
+      "name": "Тарн Ліннорм"
+    },
+    "Tengu Sneak": {
+      "name": "Є Sneak"
+    },
+    "Terotricus": {
+      "name": "Терорист"
+    },
+    "Tidal Master": {
+      "name": "Tidal Master"
+    },
+    "Tiefling Adept": {
+      "name": "Адепт Тіфлінга"
+    },
+    "Tiger": {
+      "name": "Тигр"
+    },
+    "Tor Linnorm": {
+      "name": "Тор Ліннорм"
+    },
+    "Treerazer": {
+      "name": "Treerazer"
+    },
+    "Triceratops": {
+      "name": "Трицератопс"
+    },
+    "Troll": {
+      "name": "Троль"
+    },
+    "Troll King": {
+      "name": "Король тролів"
+    },
+    "Tyrannosaurus": {
+      "name": "Тиранозавр"
+    },
+    "Unicorn": {
+      "name": "Єдиноріг"
+    },
+    "Unseen Servant": {
+      "name": "Невидимий слуга"
+    },
+    "Uthul": {
+      "name": "Ви мовчите"
+    },
+    "Vampire Bat Swarm": {
+      "name": "Зграя кажанів вампірів"
+    },
+    "Vampire Count": {
+      "name": "Граф вампірів"
+    },
+    "Vampire Mastermind": {
+      "name": "Натхненник вампіра"
+    },
+    "Vampire Spawn Rogue": {
+      "name": "Вампір Спаун Розбійник"
+    },
+    "Veiled Master": {
+      "name": "Завуальований майстер"
+    },
+    "Velociraptor": {
+      "name": "Велоцираптор"
+    },
+    "Viper": {
+      "name": "Гадюка"
+    },
+    "Voidworm": {
+      "name": "Пустотний черв'як"
+    },
+    "Vrock": {
+      "name": "Врок"
+    },
+    "War Horse": {
+      "name": "Бойовий кінь"
+    },
+    "War Pony": {
+      "name": "Військовий поні"
+    },
+    "Warg": {
+      "name": "Варг"
+    },
+    "Warsworn": {
+      "name": "Заслужений війною"
+    },
+    "Wasp Swarm": {
+      "name": "Осиний рій"
+    },
+    "Water Mephit": {
+      "name": "Водний Мефіт"
+    },
+    "Web Lurker": {
+      "name": "Павутинник"
+    },
+    "Wemmuth": {
+      "name": "Веммут"
+    },
+    "Wendigo": {
+      "name": "Вендіго"
+    },
+    "Werebear": {
+      "name": "Перевертень"
+    },
+    "Wererat": {
+      "name": "Стурбований"
+    },
+    "Werewolf": {
+      "name": "Перевертень"
+    },
+    "White Kobold Dragon Mage": {
+      "name": "Кобольд-маг Білого Дракона"
+    },
+    "Wight": {
+      "name": "Вайт"
+    },
+    "Will-o'-Wisp": {
+      "name": "Уілл-о'-Вісп"
+    },
+    "Winter Wolf": {
+      "name": "Зимовий вовк"
+    },
+    "Wolf": {
+      "name": "Вовк"
+    },
+    "Wraith": {
+      "name": "Wraith"
+    },
+    "Wrathspawn": {
+      "name": "породження гніву"
+    },
+    "Wyvern": {
+      "name": "Wyvern"
+    },
+    "Xorn": {
+      "name": "Горн"
+    },
+    "Xulgath Leader": {
+      "name": "Лідер Ксульгат"
+    },
+    "Xulgath Skulker": {
+      "name": "Зульгат Скалкер"
+    },
+    "Xulgath Warrior": {
+      "name": "Зульгат Воїн"
+    },
+    "Yeti": {
+      "name": "Єті"
+    },
+    "Young Black Dragon": {
+      "name": "Молодий чорний дракон"
+    },
+    "Young Black Dragon (Spellcaster)": {
+      "name": "Молодий чорний дракон (Заклинатель)"
+    },
+    "Young Blue Dragon": {
+      "name": "Молодий блакитний дракон"
+    },
+    "Young Blue Dragon (Spellcaster)": {
+      "name": "Молодий блакитний дракон (Заклинатель)"
+    },
+    "Young Brass Dragon": {
+      "name": "Молодий латунний дракон"
+    },
+    "Young Brass Dragon (Spellcaster)": {
+      "name": "Молодий латунний дракон (Заклинатель)"
+    },
+    "Young Bronze Dragon": {
+      "name": "Молодий бронзовий дракон"
+    },
+    "Young Bronze Dragon (Spellcaster)": {
+      "name": "Молодий бронзовий дракон (Заклинатель)"
+    },
+    "Young Copper Dragon": {
+      "name": "Молодий мідний дракон"
+    },
+    "Young Copper Dragon (Spellcaster)": {
+      "name": "Молодий мідний дракон (Заклинатель)"
+    },
+    "Young Gold Dragon": {
+      "name": "Молодий золотий дракон"
+    },
+    "Young Gold Dragon (Spellcaster)": {
+      "name": "Молодий золотий дракон (Заклинатель)"
+    },
+    "Young Green Dragon": {
+      "name": "Молодий зелений дракон"
+    },
+    "Young Green Dragon (Spellcaster)": {
+      "name": "Молодий зелений дракон (Заклинатель)"
+    },
+    "Young Red Dragon": {
+      "name": "Молодий червоний дракон"
+    },
+    "Young Red Dragon (Spellcaster)": {
+      "name": "Молодий Червоний Дракон (Заклинатель)"
+    },
+    "Young Silver Dragon": {
+      "name": "Молодий срібний дракон"
+    },
+    "Young Silver Dragon (Spellcaster)": {
+      "name": "Молодий Срібний Дракон (Заклинатель)"
+    },
+    "Young White Dragon": {
+      "name": "Молодий білий дракон"
+    },
+    "Young White Dragon (Spellcaster)": {
+      "name": "Молодий білий дракон (Заклинатель)"
+    },
+    "Zaramuun": {
+      "name": "Зарамон"
+    },
+    "Zephyr Hawk": {
+      "name": "Зефір Хоук"
+    },
+    "Zombie Brute": {
+      "name": "Zombie Brute"
+    },
+    "Zombie Hulk": {
+      "name": "Зомбі Халк"
+    },
+    "Zombie Shambler": {
+      "name": "Зомбі, що волочиться"
+    }
+  }
+}
