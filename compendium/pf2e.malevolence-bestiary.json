@@ -1,0 +1,65 @@
+{
+  "label": "Зловмисність",
+  "entries": {
+    "Algea": {
+      "name": "Водорості"
+    },
+    "Anitoli Nostraema": {
+      "name": "Анітолі Ностраема"
+    },
+    "Architect and Hunter": {
+      "name": "Архітектор і мисливець"
+    },
+    "Carrion Vortex": {
+      "name": "Падаль Вихор"
+    },
+    "Corrupted Nosoi": {
+      "name": "Розбещений Носой"
+    },
+    "Esobok Ghoul": {
+      "name": "Esobok Ghoul"
+    },
+    "Haunted Nosoi": {
+      "name": "Привидений Носой"
+    },
+    "Ioseff Xarwin": {
+      "name": "Йосеф Ксарвін"
+    },
+    "Ixirizmid": {
+      "name": "Іксирізмід"
+    },
+    "Lured to Ashes": {
+      "name": "Заманили в попіл"
+    },
+    "Mouth of Tchekuth": {
+      "name": "Устя Чекута"
+    },
+    "Nils Kelveken": {
+      "name": "Нільс Кельвекен"
+    },
+    "Tanglebones": {
+      "name": "Tanglebones"
+    },
+    "Undead Brain Collector": {
+      "name": "Збирач мізків нежиті"
+    },
+    "Wrathful Hatchet": {
+      "name": "Гнівний Сокира"
+    },
+    "Xarwin Caul": {
+      "name": "Ксарвін Кол"
+    },
+    "Xarwin Manor Phantasm": {
+      "name": "Фантазм садиби Ксарвін"
+    },
+    "Xarwin Portraits": {
+      "name": "Портрети Ксарвіна"
+    },
+    "Xarwin's Manifestation": {
+      "name": "Прояв Ксарвіна"
+    },
+    "Yianyin": {
+      "name": "Яньїнь"
+    }
+  }
+}

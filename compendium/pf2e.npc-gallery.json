@@ -1,0 +1,302 @@
+{
+    "label": "Галерея NPC",
+    "entries": {
+        "Acolyte of Nethys": {
+            "name": "Послушник Нетіди"
+        },
+        "Acrobat": {
+            "name": "Акробат"
+        },
+        "Adept": {
+            "name": "Адепт"
+        },
+        "Advisor": {
+            "name": "Радник"
+        },
+        "Antipaladin": {
+            "name": "Антипаладин"
+        },
+        "Apothecary": {
+            "name": "Аптекар"
+        },
+        "Apprentice": {
+            "name": "Учень"
+        },
+        "Archer Sentry": {
+            "name": "Вартовий Лучник"
+        },
+        "Assassin": {
+            "name": "вбивця"
+        },
+        "Astronomer": {
+            "name": "Астроном"
+        },
+        "Azarketi Crab Catcher": {
+            "name": "Краболов Азаркеті"
+        },
+        "Azarketi Sailor": {
+            "name": "Моряк Азаркеті"
+        },
+        "Azarketi Tide Tamer": {
+            "name": "Приборкувач припливів Азаркеті"
+        },
+        "Bandit": {
+            "name": "Бандит"
+        },
+        "Barkeep": {
+            "name": "Бармен"
+        },
+        "Barrister": {
+            "name": "адвокат"
+        },
+        "Beast Tamer": {
+            "name": "Приборкувач звірів"
+        },
+        "Beggar": {
+            "name": "Жебрак"
+        },
+        "Bodyguard": {
+            "name": "Охоронець"
+        },
+        "Bosun": {
+            "name": "Боцман"
+        },
+        "Bounty Hunter": {
+            "name": "Мисливець за головами"
+        },
+        "Burglar": {
+            "name": "грабіжник"
+        },
+        "Captain Of The Guard": {
+            "name": "капітан гвардії"
+        },
+        "Changeling Hellknight": {
+            "name": "Перемінник Пекельний Найт"
+        },
+        "Charlatan": {
+            "name": "Шарлатан"
+        },
+        "Charming Scoundrel": {
+            "name": "Чарівний Негідник"
+        },
+        "Chronicler": {
+            "name": "Літописець"
+        },
+        "Commoner": {
+            "name": "Простолюдин"
+        },
+        "Cult Leader": {
+            "name": "Лідер культу"
+        },
+        "Cultist": {
+            "name": "Сектант"
+        },
+        "Dancer": {
+            "name": "Танцівниця"
+        },
+        "Demonologist": {
+            "name": "Демонолог"
+        },
+        "Despot": {
+            "name": "Деспот"
+        },
+        "Dockhand": {
+            "name": "Причал"
+        },
+        "Drunkard": {
+            "name": "П'яниця"
+        },
+        "Ethereal Sailor": {
+            "name": "Ефірний моряк"
+        },
+        "Executioner": {
+            "name": "Кат"
+        },
+        "False Priest": {
+            "name": "Фальшивий священик"
+        },
+        "Farmer": {
+            "name": "фермер"
+        },
+        "Fence": {
+            "name": "Паркан"
+        },
+        "Gang Leader": {
+            "name": "Лідер банди"
+        },
+        "Grave Robber": {
+            "name": "Грабіжник могил"
+        },
+        "Gravedigger": {
+            "name": "Грабокоп"
+        },
+        "Guard": {
+            "name": "Охоронець"
+        },
+        "Guide": {
+            "name": "Гід"
+        },
+        "Guildmaster": {
+            "name": "Гільдмейстер"
+        },
+        "Harbormaster": {
+            "name": "Начальник порту"
+        },
+        "Harrow Reader": {
+            "name": "Хроу Читанка"
+        },
+        "Hellknight Armiger": {
+            "name": "Hellknight Armiger"
+        },
+        "Hellknight Paravicar": {
+            "name": "Пекельний Найт Паравікар"
+        },
+        "Hunter": {
+            "name": "Мисливець"
+        },
+        "Innkeeper": {
+            "name": "Корчмар"
+        },
+        "Jailer": {
+            "name": "Тюремник"
+        },
+        "Judge": {
+            "name": "Суддя"
+        },
+        "Librarian": {
+            "name": "Бібліотекар"
+        },
+        "Mage For Hire": {
+            "name": "Маг на найм"
+        },
+        "Mastermind": {
+            "name": "Натхненник"
+        },
+        "Merchant": {
+            "name": "Торговець"
+        },
+        "Miner": {
+            "name": "Шахтар"
+        },
+        "Monster Hunter": {
+            "name": "Мисливець на монстрів"
+        },
+        "Navigator": {
+            "name": "Навігатор"
+        },
+        "Necromancer": {
+            "name": "Некромант"
+        },
+        "Noble": {
+            "name": "Шляхетний"
+        },
+        "Palace Guard": {
+            "name": "Палацова гвардія"
+        },
+        "Pathfinder Field Agent": {
+            "name": "Польовий агент Pathfinder"
+        },
+        "Pathfinder Venture-Captain": {
+            "name": "Pathfinder Venture-Captain"
+        },
+        "Physician": {
+            "name": "Лікар"
+        },
+        "Pirate": {
+            "name": "Пірат"
+        },
+        "Plague Doctor": {
+            "name": "Чумний лікар"
+        },
+        "Poacher": {
+            "name": "Браконьєр"
+        },
+        "Priest of Pharasma": {
+            "name": "Жрець Фаразма"
+        },
+        "Prisoner": {
+            "name": "Ув'язнений"
+        },
+        "Privateer Captain": {
+            "name": "Рядовий капітан"
+        },
+        "Prophet": {
+            "name": "Пророк"
+        },
+        "Rain-Scribe": {
+            "name": "Дощ-Писар"
+        },
+        "Reckless Scientist": {
+            "name": "Безрозсудний вчений"
+        },
+        "Ruffian": {
+            "name": "Розбійник"
+        },
+        "Saboteur": {
+            "name": "Диверсант"
+        },
+        "Sage": {
+            "name": "Шавлія"
+        },
+        "Servant": {
+            "name": "Слуга"
+        },
+        "Server": {
+            "name": "Сервер"
+        },
+        "Ship Captain": {
+            "name": "Капітан корабля"
+        },
+        "Smith": {
+            "name": "Сміт"
+        },
+        "Spy": {
+            "name": "Шпигун"
+        },
+        "Stone Giant Monk": {
+            "name": "Кам'яний монах-велетень"
+        },
+        "Surgeon": {
+            "name": "Хірург"
+        },
+        "Tax Collector": {
+            "name": "Збирач податків"
+        },
+        "Teacher": {
+            "name": "вчитель"
+        },
+        "Tempest-Sun Mage": {
+            "name": "Буря-Сонце Маг"
+        },
+        "Tomb Raider": {
+            "name": "Розкрадачка гробниць"
+        },
+        "Torchbearer": {
+            "name": "факелоносець"
+        },
+        "Tracker": {
+            "name": "Трекер"
+        },
+        "Troubadour": {
+            "name": "Трубадур"
+        },
+        "Urchin": {
+            "name": "Їжачок"
+        },
+        "Veteran Reclaimer": {
+            "name": "Ветеран-меліоратор"
+        },
+        "Virtuous Defender": {
+            "name": "Доброчесний захисник"
+        },
+        "Warden": {
+            "name": "наглядач"
+        },
+        "Watch Officer": {
+            "name": "Вартовий офіцер"
+        },
+        "Zealot of Asmodeus": {
+            "name": "Ревнитель Асмодея"
+        }
+    }
+}
