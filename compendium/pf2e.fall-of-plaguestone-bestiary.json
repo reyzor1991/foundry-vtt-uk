@@ -1,0 +1,77 @@
+{
+  "label": "Падіння Plaguestone",
+  "entries": {
+    "Alchemical Drudge": {
+      "name": "Алхімічна праця"
+    },
+    "Bee Swarm": {
+      "name": "Бджолиний рій"
+    },
+    "Blood Ooze": {
+      "name": "Витік крові"
+    },
+    "Bloodlash Bush": {
+      "name": "Bloodlash Bush"
+    },
+    "Caustic Wolf": {
+      "name": "Їдкий Вовк"
+    },
+    "Drunken Farmer": {
+      "name": "П'яний фермер"
+    },
+    "Falling Debris": {
+      "name": "Падіння уламків"
+    },
+    "Fiery Leopard": {
+      "name": "Вогняний леопард"
+    },
+    "Giant Lightning Serpent": {
+      "name": "Величезний змій-блискавка"
+    },
+    "Graytusk": {
+      "name": "Грайтуск"
+    },
+    "Hallod": {
+      "name": "Халлод"
+    },
+    "Ice Fall Trap": {
+      "name": "Ice Fall Trap"
+    },
+    "Icy Rat": {
+      "name": "Крижаний Щур"
+    },
+    "Lord Nar": {
+      "name": "Господар Нар"
+    },
+    "Mangy Wolf": {
+      "name": "Короставий Вовк"
+    },
+    "Mutant Wolf": {
+      "name": "Вовк-мутант"
+    },
+    "Orc Alchemist": {
+      "name": "Орк Алхімік"
+    },
+    "Spear Launcher": {
+      "name": "Списовий пусковий пристрій"
+    },
+    "Stone Horse": {
+      "name": "Кам'яний кінь"
+    },
+    "The Amalgam": {
+      "name": "Амальгама"
+    },
+    "The Behemoth": {
+      "name": "Бегемот"
+    },
+    "The Sculptor": {
+      "name": "Скульптор"
+    },
+    "Vilree": {
+      "name": "Вільрі"
+    },
+    "Vine Lasher": {
+      "name": "Вайн Лешер"
+    }
+  }
+}

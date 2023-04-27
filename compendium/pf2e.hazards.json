@@ -1,0 +1,164 @@
+{
+  "label": "Небезпеки (Правила)",
+  "entries": {
+    "Armageddon Orb": {
+      "name": "Сфера Армагедону"
+    },
+    "Banshee's Symphony": {
+      "name": "Симфонія Банші"
+    },
+    "Bloodthirsty Urge": {
+      "name": "Кровожерливий потяг"
+    },
+    "Bottomless Pit": {
+      "name": "Бездонна яма"
+    },
+    "Brown Mold": {
+      "name": "Коричнева цвіль"
+    },
+    "Confounding Betrayal": {
+      "name": "Збентежена зрада"
+    },
+    "Dance Of Death": {
+      "name": "Танець смерті"
+    },
+    "Darkside Mirror": {
+      "name": "Darkside Mirror"
+    },
+    "Drowning Pit": {
+      "name": "Утоплення"
+    },
+    "Electric Latch Rune": {
+      "name": "Руна електричної засувки"
+    },
+    "Eternal Flame": {
+      "name": "Вічний вогонь"
+    },
+    "Fireball Rune": {
+      "name": "Руна вогняної кулі"
+    },
+    "Flensing Blades": {
+      "name": "Леза Flensing"
+    },
+    "Frozen Moment": {
+      "name": "Застигла мить"
+    },
+    "Ghostly Choir": {
+      "name": "Примарний хор"
+    },
+    "Grasp Of The Damned": {
+      "name": "Хватка проклятих"
+    },
+    "Gravehall Trap": {
+      "name": "Пастка Gravehall"
+    },
+    "Green Slime": {
+      "name": "Зелений слиз"
+    },
+    "Hallucination Powder Trap": {
+      "name": "Порохова пастка для галюцинацій"
+    },
+    "Hammer Of Forbiddance": {
+      "name": "Молот заборони"
+    },
+    "Hampering Web": {
+      "name": "Перешкоджання Інтернету"
+    },
+    "Hidden Pit": {
+      "name": "Прихована яма"
+    },
+    "Insistent Privacy Fence": {
+      "name": "Настійний паркан конфіденційності"
+    },
+    "Jealous Abjurer": {
+      "name": "Ревнивий відмовник"
+    },
+    "Lava Flume Tube": {
+      "name": "Лавовий канал"
+    },
+    "Malevolent Mannequins": {
+      "name": "Зловмисні манекени"
+    },
+    "Perilous Flash Flood": {
+      "name": "Небезпечна раптова повінь"
+    },
+    "Pharaoh's Ward": {
+      "name": "Палата фараона"
+    },
+    "Planar Rift": {
+      "name": "Планарний розлом"
+    },
+    "Plummeting Doom": {
+      "name": "Стрімкий дум"
+    },
+    "Poisoned Dart Gallery": {
+      "name": "Галерея отруєних дротиків"
+    },
+    "Poisoned Lock": {
+      "name": "Отруєний замок"
+    },
+    "Polymorph Trap": {
+      "name": "Поліморфна пастка"
+    },
+    "Quicksand": {
+      "name": "Зибучий пісок"
+    },
+    "Scythe Blades": {
+      "name": "Леза коси"
+    },
+    "Second Chance": {
+      "name": "Другий шанс"
+    },
+    "Shrieker": {
+      "name": "крикун"
+    },
+    "Slamming Door": {
+      "name": "Хлопаючі двері"
+    },
+    "Snowfall": {
+      "name": "Снігопад"
+    },
+    "Spear Launcher": {
+      "name": "Списовий пусковий пристрій"
+    },
+    "Spectral Reflection": {
+      "name": "Спектральне відображення"
+    },
+    "Spinning Blade Pillar": {
+      "name": "Стовп обертового леза"
+    },
+    "Sportlebore": {
+      "name": "Sportlebore"
+    },
+    "Steam Vents": {
+      "name": "Парові отвори"
+    },
+    "Summoning Rune": {
+      "name": "Руна виклику"
+    },
+    "Telekinetic Swarm Trap": {
+      "name": "Телекінетична пастка для роїв"
+    },
+    "Titanic Flytrap": {
+      "name": "Титанічна мухоловка"
+    },
+    "Treacherous Scree": {
+      "name": "Підступні осипи"
+    },
+    "Vorpal Executioner": {
+      "name": "Ворпальський кат"
+    },
+    "Web Lurker Deadfall": {
+      "name": "Web Lurker Deadfall"
+    },
+    "Web Lurker Noose": {
+      "name": "Web Lurker Noose"
+    },
+    "Wheel Of Misery": {
+      "name": "Колесо нещастя"
+    },
+    "Yellow Mold": {
+      "name": "Жовта цвіль"
+    }
+  }
+}

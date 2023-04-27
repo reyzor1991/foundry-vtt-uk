@@ -1,0 +1,710 @@
+{
+  "label": "Kingmaker",
+  "entries": {
+    "Aecora Silverfire": {
+      "name": "Aecora Silverfire"
+    },
+    "Agai": {
+      "name": "Агай"
+    },
+    "Akiros Ismort": {
+      "name": "Акірос Ізморт"
+    },
+    "Akuzhail": {
+      "name": "Акужайл"
+    },
+    "Alasen": {
+      "name": "Аласень"
+    },
+    "Aldori Sister": {
+      "name": "Сестра Алдорі"
+    },
+    "Ameon Trask": {
+      "name": "Амеон Траск"
+    },
+    "Amiri (Level 1, Kingmaker)": {
+      "name": "Амірі (Рівень 1, Kingmaker)"
+    },
+    "Amiri (Level 11, Kingmaker)": {
+      "name": "Амірі (Рівень 11, Kingmaker)"
+    },
+    "Ancient Wisp": {
+      "name": "Стародавній Wisp"
+    },
+    "Ankou Assassin": {
+      "name": "Вбивця Анкоу"
+    },
+    "Annamede Belavarah": {
+      "name": "Аннамед Белавара"
+    },
+    "Armag Twice-Born": {
+      "name": "Армаг двічі народжений"
+    },
+    "Auchs": {
+      "name": "Auchs"
+    },
+    "Avatar of the Lantern King": {
+      "name": "Аватар короля ліхтарів"
+    },
+    "Azure Lilies": {
+      "name": "Лазурні лілії"
+    },
+    "Ballista Defense": {
+      "name": "Захист балістою"
+    },
+    "Barbtongued Wyvern": {
+      "name": "Барбоязика віверна"
+    },
+    "Black Smilodon": {
+      "name": "Чорний смілодон"
+    },
+    "Black Tear Cutthroat": {
+      "name": "Головоріз Black Tear"
+    },
+    "Bloom Cultist": {
+      "name": "Культист Блум"
+    },
+    "Bloom of Lamashtu": {
+      "name": "Блум Ламашту"
+    },
+    "Bloom Wyvern": {
+      "name": "Блум Виверн"
+    },
+    "Bloomborn Athach": {
+      "name": "Блумборн Атач"
+    },
+    "Bog Mummy Cultist": {
+      "name": "Культист болотної мумії"
+    },
+    "Boggard Cultist": {
+      "name": "Культист Боггарда"
+    },
+    "Boggard Warden": {
+      "name": "Боггард Варден"
+    },
+    "Breath of Despair": {
+      "name": "Подих відчаю"
+    },
+    "Breeg's Traps": {
+      "name": "Пастки Бріга"
+    },
+    "Brush Thylacine": {
+      "name": "Кисть Thylacine"
+    },
+    "Camouflaged Spiked Pit": {
+      "name": "Закамуфльована яма з шипами"
+    },
+    "Castruccio Irovetti": {
+      "name": "Каструччо Іроветті"
+    },
+    "Centaur Scout": {
+      "name": "Кентавр-скаут"
+    },
+    "Cephal Lorentus": {
+      "name": "Кефал Лорент"
+    },
+    "Chew Spider": {
+      "name": "Жувати павука"
+    },
+    "Chief Sootscale": {
+      "name": "Начальник Сажої шкали"
+    },
+    "Cleansed Cultist": {
+      "name": "Очищений культист"
+    },
+    "Collapsing Bridge": {
+      "name": "Міст, що руйнується"
+    },
+    "Collapsing Floor": {
+      "name": "Розвалюється підлога"
+    },
+    "Corax": {
+      "name": "Коракс"
+    },
+    "Cursed Guardian": {
+      "name": "Проклятий Охоронець"
+    },
+    "Cutthroat Haunt": {
+      "name": "Головоріз"
+    },
+    "Cyclops Zombie": {
+      "name": "Циклоп Зомбі"
+    },
+    "Darivan": {
+      "name": "Дариван"
+    },
+    "Davik Nettles": {
+      "name": "Давік Кропива"
+    },
+    "Defaced Naiad Queen": {
+      "name": "Понівечена королева наяд"
+    },
+    "Dog (Ekundayo's Companion)": {
+      "name": "Собака (компаньйон Екундайо)"
+    },
+    "Dovan from Nisroch": {
+      "name": "Дован з Нісроч"
+    },
+    "Dread Aura": {
+      "name": "Аура страху"
+    },
+    "Drelev Guards": {
+      "name": "Дрелевська гвардія"
+    },
+    "Dropping Web Trap": {
+      "name": "Скидання веб-пастки"
+    },
+    "Ekundayo (Level 1)": {
+      "name": "Екундайо (рівень 1)"
+    },
+    "Ekundayo (Level 6)": {
+      "name": "Екундайо (рівень 6)"
+    },
+    "Elder Elemental Tsunami": {
+      "name": "Elder Elemental Tsunami"
+    },
+    "Eldritch Echoes": {
+      "name": "Eldritch Echoes"
+    },
+    "Elga Verniex": {
+      "name": "Ельга Верніекс"
+    },
+    "Endless Struggle": {
+      "name": "Нескінченна боротьба"
+    },
+    "Engelidis": {
+      "name": "Енгелідіс"
+    },
+    "Enormous Dragonfly": {
+      "name": "Величезна бабка"
+    },
+    "Enormous Flame Drake": {
+      "name": "Величезний полум'яний селезень"
+    },
+    "Eobald": {
+      "name": "Еобальд"
+    },
+    "Evindra": {
+      "name": "Евіндра"
+    },
+    "Exploding Bloom Pods": {
+      "name": "Вибухові квіткові стручки"
+    },
+    "Explosion Bear": {
+      "name": "Ведмідь вибуху"
+    },
+    "Falling Portcullis": {
+      "name": "Падаючий порткуліс"
+    },
+    "False Priestess": {
+      "name": "Фальшива жриця"
+    },
+    "Fen Pudding": {
+      "name": "Фен пудинг"
+    },
+    "Fetch Behemoth": {
+      "name": "Принеси Бегемота"
+    },
+    "Fetch Stalker": {
+      "name": "Принеси Сталкера"
+    },
+    "Fionn": {
+      "name": "Фіонн"
+    },
+    "Flooding Room": {
+      "name": "Затоплення кімнати"
+    },
+    "Foras": {
+      "name": "Форас"
+    },
+    "Freshly Bloomed Basilisk": {
+      "name": "Щойно розквітлий василіск"
+    },
+    "Gaetane": {
+      "name": "Гаетане"
+    },
+    "Gedovius": {
+      "name": "Гедовій"
+    },
+    "General Avinash Jurrg": {
+      "name": "Генерал Авінаш Юррг"
+    },
+    "Ghostly Guard": {
+      "name": "Примарна варта"
+    },
+    "Giant Trapdoor Spider": {
+      "name": "Величезний павук-люк"
+    },
+    "Glyph of Warding (Kingmaker)": {
+      "name": "Гліф захисту (Королетворець)"
+    },
+    "Goblin Bat-Dog": {
+      "name": "Гоблін Бат-Пес"
+    },
+    "Grabbles": {
+      "name": "Грабли"
+    },
+    "Grigori": {
+      "name": "Григорій"
+    },
+    "Gromog": {
+      "name": "Громог"
+    },
+    "Gurija": {
+      "name": "Гурія"
+    },
+    "Hannis Drelev": {
+      "name": "Ганніс Дрелев"
+    },
+    "Happs Bydon": {
+      "name": "Хеппс Байдон"
+    },
+    "Hargulka": {
+      "name": "Харгулка"
+    },
+    "Hateful Hermit": {
+      "name": "Ненависний відлюдник"
+    },
+    "Hidden Pressure Plate": {
+      "name": "Прихована натискна плита"
+    },
+    "Hill Giant Butcher": {
+      "name": "Гігантський м'ясник"
+    },
+    "Hillstomper": {
+      "name": "Хіллстомпер"
+    },
+    "Hooktongue": {
+      "name": "Крючкоязик"
+    },
+    "Hooktongue Hydra": {
+      "name": "Крючкоязычная гідра"
+    },
+    "Horagnamon": {
+      "name": "Горагнамон"
+    },
+    "Ilora Nuski": {
+      "name": "Ілора Нускі"
+    },
+    "Ilthuliak": {
+      "name": "Ілтуляк"
+    },
+    "Imeckus Stroon": {
+      "name": "Імекус Строн"
+    },
+    "Immense Mandragora": {
+      "name": "Безмежна Мандрагора"
+    },
+    "Irahkatu": {
+      "name": "Ірахкату"
+    },
+    "Irovetti's Fetch": {
+      "name": "Іроветті Фетч"
+    },
+    "Jaggedbriar Hag": {
+      "name": "Джеггедбріар Хаг"
+    },
+    "Jamandi Aldori": {
+      "name": "Джаманді Алдорі"
+    },
+    "Jewel": {
+      "name": "Коштовність"
+    },
+    "Jin Durwhimmer": {
+      "name": "Джин Дарвіммер"
+    },
+    "Jubilost (Level 1)": {
+      "name": "Jubilost (рівень 1)"
+    },
+    "Jubilost (Level 8)": {
+      "name": "Jubilost (Рівень 8)"
+    },
+    "Jurgrindor": {
+      "name": "Юргріндор"
+    },
+    "Kargstaad": {
+      "name": "Каргстаад"
+    },
+    "Kargstaad's Giant": {
+      "name": "Каргстаадський гігант"
+    },
+    "Kellid Graveknight": {
+      "name": "Келлід Грейвекнайт"
+    },
+    "Kereek": {
+      "name": "Керік"
+    },
+    "King Vesket": {
+      "name": "Король Вескет"
+    },
+    "Kob Moleg": {
+      "name": "Коб Молег"
+    },
+    "Korog": {
+      "name": "Корог"
+    },
+    "Kressle": {
+      "name": "Крессле"
+    },
+    "Kundal": {
+      "name": "Кундал"
+    },
+    "Leng Envoy": {
+      "name": "Ленг Посланник"
+    },
+    "Lesser Jabberwock": {
+      "name": "Малий Яббервок"
+    },
+    "Lickweed": {
+      "name": "лайка"
+    },
+    "Lights of the Lost": {
+      "name": "Вогні Загублених"
+    },
+    "Lintwerth": {
+      "name": "Лінтверт"
+    },
+    "Linzi (Level 1)": {
+      "name": "Linzi (рівень 1)"
+    },
+    "Linzi (Level 7)": {
+      "name": "Linzi (рівень 7)"
+    },
+    "Lizardfolk Warrior": {
+      "name": "Лізардфолк Воїн"
+    },
+    "Locking Alarm": {
+      "name": "Блокування сигналізації"
+    },
+    "Logger": {
+      "name": "Лісоруб"
+    },
+    "Malgorzata Niska": {
+      "name": "Малгожата Ніська"
+    },
+    "Mandragora Swarm": {
+      "name": "Рій Мандрагора"
+    },
+    "Mastiff Of Tindalos": {
+      "name": "Мастіф Тіндалоса"
+    },
+    "Melianse": {
+      "name": "Меліансе"
+    },
+    "Minognos-Ushad": {
+      "name": "Міногнос-Ушад"
+    },
+    "Murder of Crows": {
+      "name": "Вбивство ворон"
+    },
+    "Ngara": {
+      "name": "Нгара"
+    },
+    "Nightmare Rook": {
+      "name": "Кошмарна тура"
+    },
+    "Nilak": {
+      "name": "Нілак"
+    },
+    "Niodrhast": {
+      "name": "Ніодрхаст"
+    },
+    "Nishkiv the Knife": {
+      "name": "Нішків Ніж"
+    },
+    "Nok-Nok (Level 1)": {
+      "name": "Нок-Нок (рівень 1)"
+    },
+    "Nok-Nok (Level 5)": {
+      "name": "Нок-Нок (рівень 5)"
+    },
+    "Ntavi": {
+      "name": "Нтаві"
+    },
+    "Nugrah": {
+      "name": "Нугра"
+    },
+    "Nyrissa": {
+      "name": "Ніріса"
+    },
+    "Nyrissa's Tempest": {
+      "name": "Буря Нірісси"
+    },
+    "Old Crackjaw": {
+      "name": "Old Crackjaw"
+    },
+    "Oleg": {
+      "name": "Олег"
+    },
+    "Orb Blast Trap": {
+      "name": "Orb Blast Trap"
+    },
+    "Overgrown Viper Vine": {
+      "name": "Розрослася гадюкова лоза"
+    },
+    "Oversized Chimera": {
+      "name": "Химера великого розміру"
+    },
+    "Paranoia Well": {
+      "name": "Колодязь параної"
+    },
+    "Pavetta Stroon-Drelev": {
+      "name": "Паветта Строон-Дрелєв"
+    },
+    "Phantasmagoric Fog Trap": {
+      "name": "Фантасмагорична туманна пастка"
+    },
+    "Phomandala": {
+      "name": "Фомандала"
+    },
+    "Pitax Warden": {
+      "name": "Пітакс Варден"
+    },
+    "Praise of Yog-Sothoth": {
+      "name": "Хвала Йог-Сототу"
+    },
+    "Prank Workshop Mitflit": {
+      "name": "Пранк-майстерня Mitflit"
+    },
+    "Prazil": {
+      "name": "Празил"
+    },
+    "Primal Bandersnatch": {
+      "name": "Первісний бандерівець"
+    },
+    "Quintessa Maray": {
+      "name": "Квінтеса Марай"
+    },
+    "Rezatha": {
+      "name": "Резата"
+    },
+    "Rickety Bridge": {
+      "name": "Хиткий міст"
+    },
+    "Rigg Gargadilly": {
+      "name": "Ріг Гаргаділлі"
+    },
+    "Rigged Climbing Loops": {
+      "name": "Оснащені петлі для лазіння"
+    },
+    "Risen Fetch": {
+      "name": "Risen Fetch"
+    },
+    "River Elasmosaurus": {
+      "name": "Річковий елазмозавр"
+    },
+    "Satinder Morne": {
+      "name": "Сатіндер Морн"
+    },
+    "Scalding Tar Lake": {
+      "name": "Пекуче озеро Тар"
+    },
+    "Sepoko": {
+      "name": "Sepoko"
+    },
+    "Shambler": {
+      "name": "Шамблер"
+    },
+    "Shelyn's Shame": {
+      "name": "Сором Шелін"
+    },
+    "Sir Fredero Sinnet": {
+      "name": "Сер Фредеро Сіннет"
+    },
+    "Sister of the Bloodshot Eye": {
+      "name": "Сестра Кривавого Ока"
+    },
+    "Skeletal Tiger Lord": {
+      "name": "Лорд тигрів-скелетів"
+    },
+    "Smoke-Filled Hallway": {
+      "name": "Задимлений коридор"
+    },
+    "Spiral Seal": {
+      "name": "Спіральна печатка"
+    },
+    "Spirit of Stisshak": {
+      "name": "Дух Стісшака"
+    },
+    "Stag Lord Bandit": {
+      "name": "Бандит Лорд Олень"
+    },
+    "Stinging Nettles": {
+      "name": "Кропива пекуча"
+    },
+    "Storm-Struck Arboreal": {
+      "name": "Дерево, уражене штормом"
+    },
+    "Stygian Fires": {
+      "name": "Стігійські вогні"
+    },
+    "Svetlana": {
+      "name": "Світлана"
+    },
+    "Talon Peak Roc": {
+      "name": "Talon Peak Roc"
+    },
+    "Tartuccio": {
+      "name": "Тартуччо"
+    },
+    "Teleport Trap": {
+      "name": "Телепорт Пастка"
+    },
+    "Terrion Numesti": {
+      "name": "Терріон Нуместі"
+    },
+    "Test of Agility": {
+      "name": "Тест на спритність"
+    },
+    "Test of Endurance": {
+      "name": "Випробування на витривалість"
+    },
+    "Test of Strength": {
+      "name": "Випробування на міцність"
+    },
+    "Test of Tactics": {
+      "name": "Перевірка тактики"
+    },
+    "The Beast": {
+      "name": "Звір"
+    },
+    "The Dancing Lady": {
+      "name": "Танцююча леді"
+    },
+    "The First Faithful": {
+      "name": "Перший вірний"
+    },
+    "The Gardener": {
+      "name": "Садівник"
+    },
+    "The Horned Hunter": {
+      "name": "Рогатий мисливець"
+    },
+    "The Knurly Witch": {
+      "name": "Відьма Нарлі"
+    },
+    "The Lonely Warrior": {
+      "name": "Самотній воїн"
+    },
+    "The Misbegotten Troll": {
+      "name": "Невірнонароджений троль"
+    },
+    "The Power of Faith": {
+      "name": "Сила віри"
+    },
+    "The Stag Lord": {
+      "name": "Лорд оленя"
+    },
+    "The Wriggling Man": {
+      "name": "Людина, що звивається"
+    },
+    "Thorn River Bandit": {
+      "name": "Бандит Торн Рівер"
+    },
+    "Thresholder Disciple": {
+      "name": "Пороговий учень"
+    },
+    "Thresholder Hermeticist": {
+      "name": "Поріг Герметик"
+    },
+    "Thresholder Mystic": {
+      "name": "Thresholder Mystic"
+    },
+    "Thylacine": {
+      "name": "Тилацин"
+    },
+    "Tiger Lord": {
+      "name": "Володар тигрів"
+    },
+    "Tiger Lord Hill Giant (TL2)": {
+      "name": "Tiger Lord Hill Giant (TL2)"
+    },
+    "Trapdoor Ogre Spider": {
+      "name": "Павук-людоподібний огр"
+    },
+    "Trapped Portcullis": {
+      "name": "Порткуліс у пастці"
+    },
+    "Tree that Weeps": {
+      "name": "Дерево, що плаче"
+    },
+    "Tristian (Level 1)": {
+      "name": "Трістіан (рівень 1)"
+    },
+    "Tristian (Level 10)": {
+      "name": "Трістіан (рівень 10)"
+    },
+    "Troll Guard": {
+      "name": "Охорона тролів"
+    },
+    "Tulvak": {
+      "name": "Тулвак"
+    },
+    "Unstable Pit": {
+      "name": "Нестабільна яма"
+    },
+    "Valerie (Level 1)": {
+      "name": "Валері (рівень 1)"
+    },
+    "Valerie (Level 9)": {
+      "name": "Валері (рівень 9)"
+    },
+    "Vicious Army Ant Swarm": {
+      "name": "Жорстока армія мурашок"
+    },
+    "Vilderavn Herald": {
+      "name": "Вільдеравнський вісник"
+    },
+    "Villamor Koth": {
+      "name": "Вілламор Кот"
+    },
+    "Virthad": {
+      "name": "Virthad"
+    },
+    "Void Pit": {
+      "name": "Яма порожнечі"
+    },
+    "Volodmyra": {
+      "name": "Володимира"
+    },
+    "Vordakai": {
+      "name": "Вордакай"
+    },
+    "Weakened Floor": {
+      "name": "Ослаблена підлога"
+    },
+    "Werendegar": {
+      "name": "Верендегар"
+    },
+    "Whimwyrm": {
+      "name": "примха"
+    },
+    "Wild Hunt Archer": {
+      "name": "Лучник дикого полювання"
+    },
+    "Wild Hunt Horse": {
+      "name": "Кінь дикого полювання"
+    },
+    "Wild Hunt Hound": {
+      "name": "Гонча дикого полювання"
+    },
+    "Wild Hunt Monarch": {
+      "name": "Монарх Дикого Полювання"
+    },
+    "Wild Hunt Scout": {
+      "name": "Розвідник дикого полювання"
+    },
+    "Windchaser": {
+      "name": "Windchaser"
+    },
+    "Winged Owlbear": {
+      "name": "Крилатий Сововедмідь"
+    },
+    "Xae": {
+      "name": "Xae"
+    },
+    "Zorek": {
+      "name": "Зорек"
+    }
+  }
+}

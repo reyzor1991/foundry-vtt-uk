@@ -1,0 +1,248 @@
+{
+  "label": "Воротарі",
+  "entries": {
+    "Abyssal Muckrager": {
+      "name": "Abyssal Muckrager"
+    },
+    "Ainamuuren": {
+      "name": "Айнамуурен"
+    },
+    "Alkoasha": {
+      "name": "Алкоаша"
+    },
+    "Amelekana": {
+      "name": "Амелекана"
+    },
+    "Ancient Tupilaq": {
+      "name": "Стародавній Тупілак"
+    },
+    "Apothecary's Cabinet": {
+      "name": "Аптекарський кабінет"
+    },
+    "Aspect of Ruun": {
+      "name": "Аспект Рууна"
+    },
+    "Blackfrost Guecubu": {
+      "name": "Блекфрост Гекубу"
+    },
+    "Blackfrost Prophet": {
+      "name": "Blackfrost Prophet"
+    },
+    "Blackfrost Zombie": {
+      "name": "Blackfrost Zombie"
+    },
+    "Blooming Jijioa": {
+      "name": "Цвітіння дзідзіоа"
+    },
+    "Bolan Nogasso": {
+      "name": "Болан Ногассо"
+    },
+    "Capstan Swabbie": {
+      "name": "Capstan Swabbie"
+    },
+    "Captain Salah": {
+      "name": "Капітан Салах"
+    },
+    "Cliffhunter Pteranodon": {
+      "name": "Скаломисливець Птеранодон"
+    },
+    "Cordon Alarm": {
+      "name": "Кордонна сигналізація"
+    },
+    "Corpse Disposal": {
+      "name": "Утилізація трупів"
+    },
+    "Crownbound Constellation": {
+      "name": "Crownbound Constellation"
+    },
+    "Delphon": {
+      "name": "Дельфон"
+    },
+    "Demontangle": {
+      "name": "Демонтаж"
+    },
+    "Desa-Desa": {
+      "name": "Деса-Деса"
+    },
+    "Dream-Poisoned Door": {
+      "name": "Двері, отруєні сном"
+    },
+    "Dreamscraper": {
+      "name": "Dreamscraper"
+    },
+    "Elder Thing": {
+      "name": "Elder Thing"
+    },
+    "Elder Thing Researcher": {
+      "name": "Старший Дослідник"
+    },
+    "Equendia": {
+      "name": "Еквендія"
+    },
+    "Etward Ritalson": {
+      "name": "Етвард Ріталсон"
+    },
+    "Etward's Nightmare": {
+      "name": "Кошмар Етварда"
+    },
+    "Exploding Stove": {
+      "name": "Піч, що вибухає"
+    },
+    "Falling Bridge": {
+      "name": "Падаючий міст"
+    },
+    "Formian Sting Trench": {
+      "name": "Формійський жолоб Стінг"
+    },
+    "Freezing Floor": {
+      "name": "Промерзаюча підлога"
+    },
+    "Ghodrak the Quick": {
+      "name": "Годрак Швидкий"
+    },
+    "Glimmervine": {
+      "name": "Гліммервайн"
+    },
+    "Green Monkey": {
+      "name": "Зелена мавпа"
+    },
+    "Haunted Aiudara": {
+      "name": "Аюдара з привидами"
+    },
+    "Ilakni": {
+      "name": "Ілакні"
+    },
+    "Ilverani Sentry": {
+      "name": "Вартовий Ілверані"
+    },
+    "Immolis": {
+      "name": "Іммоліс"
+    },
+    "Kaneepo the Slim": {
+      "name": "Каніпо Слім"
+    },
+    "Kareq": {
+      "name": "Карек"
+    },
+    "Kitari Lambossa": {
+      "name": "Кітарі Ламбосса"
+    },
+    "Kithangian": {
+      "name": "Кітангійський"
+    },
+    "Kvernknurr": {
+      "name": "Квернкнурр"
+    },
+    "Memory of Osoyo": {
+      "name": "Пам'ять про Осойо"
+    },
+    "Mindhammer Mushrooms": {
+      "name": "Гриби Mindhammer"
+    },
+    "Mindmoppet": {
+      "name": "Mindmoppet"
+    },
+    "Myroga": {
+      "name": "Мирога"
+    },
+    "Oaksteward Enforcer": {
+      "name": "Oaksteward Enforcer"
+    },
+    "Oaksteward Enforcer (Gatehouse)": {
+      "name": "Oaksteward Enforcer (Gatehouse)"
+    },
+    "Ocluai": {
+      "name": "Оклуай"
+    },
+    "Ogmunzorius": {
+      "name": "Огмунзоріус"
+    },
+    "Pholebis": {
+      "name": "Фолебіс"
+    },
+    "Poisonous Atmosphere": {
+      "name": "Отруйна атмосфера"
+    },
+    "Protosoul": {
+      "name": "Прадуша"
+    },
+    "Quarry Construct": {
+      "name": "Кар'єр Конструкт"
+    },
+    "Reservoir Trap": {
+      "name": "Резервуар Пастка"
+    },
+    "Rushing Wind": {
+      "name": "Стрімкий вітер"
+    },
+    "Sacred Geyser": {
+      "name": "Священний гейзер"
+    },
+    "Sakuachi": {
+      "name": "Сакуачі"
+    },
+    "Scholar's Bane": {
+      "name": "Прокляття вченого"
+    },
+    "Shadow Guards": {
+      "name": "Тіньові охоронці"
+    },
+    "Shadowshift Field": {
+      "name": "Shadowshift Field"
+    },
+    "Shroud of Silence": {
+      "name": "Плащаниця мовчання"
+    },
+    "Skin Beetle": {
+      "name": "Шкурний жук"
+    },
+    "Skin Beetle Swarm": {
+      "name": "Зграя Жука Шкури"
+    },
+    "Snowy Owl": {
+      "name": "Сніжна сова"
+    },
+    "Soporific Lecture": {
+      "name": "Снодійна лекція"
+    },
+    "Stone-Breasted Owl": {
+      "name": "Каменногруда сова"
+    },
+    "Symbiotic Amoeba": {
+      "name": "Симбіотична амеба"
+    },
+    "Temagyr": {
+      "name": "Темагир"
+    },
+    "Test of the God Caller": {
+      "name": "Тест Божого Кликача"
+    },
+    "The Guest": {
+      "name": "Гість"
+    },
+    "The Looksee Man": {
+      "name": "Людина Looksee"
+    },
+    "Toppling Shelves": {
+      "name": "Перекидання полиць"
+    },
+    "Tree Fisher": {
+      "name": "Дерево Фішер"
+    },
+    "Valmar": {
+      "name": "Валмар"
+    },
+    "Valmar's Pit Trap": {
+      "name": "Пастка Валмара"
+    },
+    "Vhisa Resgrido": {
+      "name": "Віса Ресгрідо"
+    },
+    "Violet Mister": {
+      "name": "Фіолетовий містер"
+    },
+    "Yaiafineti": {
+      "name": "Яіафінеті"
+    }
+  }
+}

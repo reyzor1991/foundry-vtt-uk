@@ -1,0 +1,428 @@
+{
+  "label": "Кулаки Рубінового Фенікса",
+  "entries": {
+    "Abbot Tsujon": {
+      "name": "Абат Цуджон"
+    },
+    "Agile Warrior": {
+      "name": "Спритний воїн"
+    },
+    "Agile Warrior (Nightmares)": {
+      "name": "спритний воїн (кошмари)"
+    },
+    "Air Rift": {
+      "name": "Повітряний розлом"
+    },
+    "Akila Stormheel": {
+      "name": "Акіла Штормхіл"
+    },
+    "Amihan": {
+      "name": "Аміхан"
+    },
+    "Angoyang": {
+      "name": "Ангоянг"
+    },
+    "Anugobu Apprentice": {
+      "name": "Учень Анугобу"
+    },
+    "Anugobu Wondercrafter": {
+      "name": "Анугобу Чудотворець"
+    },
+    "Archery Specialist": {
+      "name": "Спеціаліст зі стрільби з лука"
+    },
+    "Arms of Balance (Jivati Rovat)": {
+      "name": "Руки балансу (Дживаті Роват)"
+    },
+    "Arms of Balance (Pravan Majinapti)": {
+      "name": "Arms of Balance (Pravan Majinapti)"
+    },
+    "Arms of Balance (Ranya Shibhatesh)": {
+      "name": "Arms of Balance (Ранья Шибхатеш)"
+    },
+    "Arms of Balance (Usvani)": {
+      "name": "Руки рівноваги (Усвані)"
+    },
+    "Artus Rodrivan": {
+      "name": "Артус Родріван"
+    },
+    "Berberoka": {
+      "name": "Берберока"
+    },
+    "Blue Viper (Level 14)": {
+      "name": "Блакитна гадюка (рівень 14)"
+    },
+    "Blue Viper (Level 16)": {
+      "name": "Блакитна гадюка (рівень 16)"
+    },
+    "Blue Viper (Level 20)": {
+      "name": "Блакитна гадюка (рівень 20)"
+    },
+    "Broken Rebus Attack": {
+      "name": "Атака зламаного ребуса"
+    },
+    "Bul-Gae": {
+      "name": "Бул-Гае"
+    },
+    "Butterfly Blade Warrior": {
+      "name": "Butterfly Blade Warrior"
+    },
+    "Canopy Elder": {
+      "name": "Навісний староста"
+    },
+    "Caustic Monitor": {
+      "name": "Каустичний монітор"
+    },
+    "Cloudsplitter": {
+      "name": "Cloudsplitter"
+    },
+    "Collapsing Structure": {
+      "name": "Згорнута структура"
+    },
+    "Dancing Night Parade": {
+      "name": "Танцювальний нічний парад"
+    },
+    "Desecrated Guardian": {
+      "name": "Осквернений Охоронець"
+    },
+    "Dimensional Darkside Mirror": {
+      "name": "Виміряне дзеркало темної сторони"
+    },
+    "Drake Courser": {
+      "name": "Дрейк Курсер"
+    },
+    "Dread Roc": {
+      "name": "Дред Рок"
+    },
+    "Dromornis": {
+      "name": "Дроморніс"
+    },
+    "Elder Cauthooj": {
+      "name": "Старійшина Каутхой"
+    },
+    "Floating Flamethrower": {
+      "name": "Плаваючий вогнемет"
+    },
+    "Flying Mountain Kaminari": {
+      "name": "Літаюча гора Камінарі"
+    },
+    "Freezing Floor Tiles": {
+      "name": "Заморожування плитки для підлоги"
+    },
+    "Ghost Monk": {
+      "name": "Чернець-привид"
+    },
+    "Golarion's Finest (Brartork)": {
+      "name": "Golarion's Finest (Брарторк)"
+    },
+    "Golarion's Finest (Han)": {
+      "name": "Golarion's Finest (Han)"
+    },
+    "Golarion's Finest (Jun)": {
+      "name": "Golarion's Finest (червень)"
+    },
+    "Golarion's Finest (Krankkiss)": {
+      "name": "Golarion's Finest (Krankkiss)"
+    },
+    "Golarion's Finest (Mingyu)": {
+      "name": "Golarion's Finest (Mingyu)"
+    },
+    "Golarion's Finest (Numoriz)": {
+      "name": "Golarion's Finest (Numoriz)"
+    },
+    "Golarion's Finest (Paunnima)": {
+      "name": "Голаріон найкращий (Паунніма)"
+    },
+    "Golarion's Finest (Rajna)": {
+      "name": "Golarion's Finest (Rajna)"
+    },
+    "Gomwai": {
+      "name": "Gomwai"
+    },
+    "Grandfather Mantis": {
+      "name": "Дідусь Богомол"
+    },
+    "Grave Spinosaurus": {
+      "name": "Могильний спинозавр"
+    },
+    "Gumiho": {
+      "name": "Гуміхо"
+    },
+    "Halspin the Stung": {
+      "name": "Халспін Ужалений"
+    },
+    "Hana's Hundreds": {
+      "name": "Ханина сотня"
+    },
+    "Hantu Belian": {
+      "name": "Ханту Белян"
+    },
+    "Hantu Denai": {
+      "name": "Ханту Денай"
+    },
+    "Huldrin Skolsdottir": {
+      "name": "Хульдрін Сколсдоттір"
+    },
+    "Hummingbird": {
+      "name": "Колібрі"
+    },
+    "Inmyeonjo": {
+      "name": "Інмьонджо"
+    },
+    "Jaiban": {
+      "name": "Джайбан"
+    },
+    "Ji-yook (Gumiho Form)": {
+      "name": "Ji-yook (форма Gumiho)"
+    },
+    "Ji-yook (Level 13)": {
+      "name": "Ji-yook (Рівень 13)"
+    },
+    "Ji-yook (Level 9)": {
+      "name": "Ji-yook (Рівень 9)"
+    },
+    "Jin-hae": {
+      "name": "Джин-хе"
+    },
+    "Joon-seo": {
+      "name": "Джун-со"
+    },
+    "Juspix Rammel": {
+      "name": "Юспікс Раммель"
+    },
+    "Kannitri": {
+      "name": "Каннітрі"
+    },
+    "Kas Xi Rai": {
+      "name": "Кас Сі Рай"
+    },
+    "Ki Adept": {
+      "name": "Кі адепт"
+    },
+    "Ki Adept (Ahmoza Twins)": {
+      "name": "Адепт Кі (близнюки Ахмоза)"
+    },
+    "Koto Zekora": {
+      "name": "Кото Зекора"
+    },
+    "Kun": {
+      "name": "Кун"
+    },
+    "Lantondo": {
+      "name": "Лантондо"
+    },
+    "Laruhao": {
+      "name": "Ларухао"
+    },
+    "Lophiithu": {
+      "name": "Lophiithu"
+    },
+    "Maalya": {
+      "name": "Мааля"
+    },
+    "Mafika Ayuwari": {
+      "name": "Мафіка Аюварі"
+    },
+    "Mage of Many Styles": {
+      "name": "Маг багатьох стилів"
+    },
+    "Mammoth Turtle": {
+      "name": "Мамонтова черепаха"
+    },
+    "Manananggal": {
+      "name": "Манананггал"
+    },
+    "Master Xun": {
+      "name": "Майстер Сюнь"
+    },
+    "Melodic Squall": {
+      "name": "Мелодійний шквал"
+    },
+    "Mogaru's Breath": {
+      "name": "Дихання Могару"
+    },
+    "Muckish Creep": {
+      "name": "Muckish Creep"
+    },
+    "Nai Yan Fei": {
+      "name": "Най Янь Фей"
+    },
+    "Old Man Statue": {
+      "name": "Статуя старого"
+    },
+    "Orochi": {
+      "name": "Орочі"
+    },
+    "Peng": {
+      "name": "Peng"
+    },
+    "Planar Terra-cotta Soldier": {
+      "name": "Площинний Теракотовий Солдат"
+    },
+    "Planar Terra-cotta Squadron": {
+      "name": "Планарна теракотова ескадра"
+    },
+    "Portal Eater": {
+      "name": "Пожирач порталу"
+    },
+    "Quaking Footfall": {
+      "name": "Тремтячий крок"
+    },
+    "Rai Sho Disciple": {
+      "name": "Учень Рай Шо"
+    },
+    "Rai Sho Postulant": {
+      "name": "Рай Шо Постулант"
+    },
+    "Ran-to (Level 14)": {
+      "name": "Ran-to (Рівень 14)"
+    },
+    "Ran-to (Level 16)": {
+      "name": "Ran-to (рівень 16)"
+    },
+    "Ran-to (Level 20)": {
+      "name": "Ran-to (рівень 20)"
+    },
+    "Razu": {
+      "name": "Разу"
+    },
+    "Rivka (Cimurlian)": {
+      "name": "Рівка (Цимурлян)"
+    },
+    "Rivka (Igroon)": {
+      "name": "Рівка (Ігроон)"
+    },
+    "Rivka (Kujiba)": {
+      "name": "Рівка (Куджиба)"
+    },
+    "Rivka (Mogaru)": {
+      "name": "Рівка (Могару)"
+    },
+    "Rivka (Yorak)": {
+      "name": "Рівка (Йорак)"
+    },
+    "Sand Whirlwind": {
+      "name": "Піщаний Вихор"
+    },
+    "Sanzuwu": {
+      "name": "Саньзуву"
+    },
+    "Shadow Yai": {
+      "name": "Shadow Yai"
+    },
+    "Shino Hakusa (Level 14)": {
+      "name": "Шино Хакуса (рівень 14)"
+    },
+    "Shino Hakusa (Level 16)": {
+      "name": "Шино Хакуса (рівень 16)"
+    },
+    "Shino Hakusa (Level 20)": {
+      "name": "Шино Хакуса (рівень 20)"
+    },
+    "Sigbin": {
+      "name": "Сигбін"
+    },
+    "Sixth Pillar Student": {
+      "name": "Студент шостого рівня"
+    },
+    "Speakers to the Wind (Gnoll Cascade Bearer)": {
+      "name": "Speakers to the Wind (Gnoll Cascade Bearer)"
+    },
+    "Spinel Leviathan Syndara": {
+      "name": "Шпінель Левіафан Синдара"
+    },
+    "Spirit Turtle": {
+      "name": "Дух Черепаха"
+    },
+    "Sthira": {
+      "name": "Стхіра"
+    },
+    "Surjit Hamelan": {
+      "name": "Сурджит Хамелан"
+    },
+    "Swatting Tail": {
+      "name": "Swatting Tail"
+    },
+    "Syndara the Sculptor": {
+      "name": "Синдара Скульптор"
+    },
+    "Syu Tak-nwa (Level 14)": {
+      "name": "Сю Так-нва (рівень 14)"
+    },
+    "Syu Tak-nwa (Level 16)": {
+      "name": "Сю Так-нва (рівень 16)"
+    },
+    "Syu Tak-nwa (Level 20)": {
+      "name": "Сю Так-нва (рівень 20)"
+    },
+    "Taiga Yai": {
+      "name": "Тайга Яй"
+    },
+    "Takatorra (Daitengu Form)": {
+      "name": "Такаторра (форма Дайтенгу)"
+    },
+    "Takatorra (Level 13)": {
+      "name": "Такаторра (рівень 13)"
+    },
+    "Takatorra (Level 9)": {
+      "name": "Такаторра (рівень 9)"
+    },
+    "Tamikan": {
+      "name": "Тамікан"
+    },
+    "Tino (Oni Form)": {
+      "name": "Тіно (форма Оні)"
+    },
+    "Tino Tung (Level 13)": {
+      "name": "Тіно Тунг (рівень 13)"
+    },
+    "Tino Tung (Level 9)": {
+      "name": "Тіно Тунг (рівень 9)"
+    },
+    "Troff Frostknuckles": {
+      "name": "Трофф Фростнаклз"
+    },
+    "Tyrannosaurus Imperator": {
+      "name": "Тиранозавр Імператор"
+    },
+    "Umbasi": {
+      "name": "Умбасі"
+    },
+    "Urnak Lostwind": {
+      "name": "Урнак Лоствінд"
+    },
+    "Watchtower Poltergeist": {
+      "name": "Сторожова вежа Полтергейст"
+    },
+    "Watchtower Shadow": {
+      "name": "Сторожова вежа Тінь"
+    },
+    "Watchtower Wraith": {
+      "name": "Сторожова вежа Wraith"
+    },
+    "Weapon Master": {
+      "name": "Майстер зброї"
+    },
+    "Weapon Master (Under the Pale Sun Dervishes)": {
+      "name": "Майстер зброї (Під блідим сонцем Дервіші)"
+    },
+    "Wronged Monk's Wrath": {
+      "name": "Гнів скривдженого ченця"
+    },
+    "Yabin (White Serpent Form)": {
+      "name": "Ябін (форма білого змія)"
+    },
+    "Yabin the Just (Level 13)": {
+      "name": "Ябін Справедливий (рівень 13)"
+    },
+    "Yabin the Just (Level 9)": {
+      "name": "Ябін Справедливий (рівень 9)"
+    },
+    "Yarrika Mulandez": {
+      "name": "Ярріка Муландез"
+    },
+    "Yoh Souran": {
+      "name": "Йо Суран"
+    }
+  }
+}

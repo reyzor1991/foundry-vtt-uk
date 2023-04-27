@@ -1,0 +1,53 @@
+{
+  "label": "Загублені прикмети: Неможливі землі",
+  "entries": {
+    "Benthix Reaver": {
+      "name": "Бентікс Рейвер"
+    },
+    "Clockwork Cannoneer": {
+      "name": "Заводний канонір"
+    },
+    "Cursed King": {
+      "name": "Проклятий король"
+    },
+    "Fleshforged Conformer": {
+      "name": "Конформер із кованої плоті"
+    },
+    "Fleshforged Dreadnought": {
+      "name": "Викутий з плоті дредноут"
+    },
+    "Gunpowder Ooze": {
+      "name": "Пороховий тинь"
+    },
+    "Kasesh (Stone)": {
+      "name": "Касеш (камінь)"
+    },
+    "Kashrishi Evaluator": {
+      "name": "Оцінювач Kashrishi"
+    },
+    "Mutant Gnoll Hulk": {
+      "name": "Мутант Гнолл Халк"
+    },
+    "Quantium Golem (Acid)": {
+      "name": "Quantium Golem (Кислота)"
+    },
+    "Quantium Golem (Electricity)": {
+      "name": "Quantium Golem (Електрика)"
+    },
+    "Ratajin Mastermind": {
+      "name": "Натхненник Ратаджина"
+    },
+    "Skinskitter": {
+      "name": "Скиттер"
+    },
+    "Spellscar Fext": {
+      "name": "Spellscar Fext"
+    },
+    "Stone Sister": {
+      "name": "Кам'яна сестра"
+    },
+    "Ugvashi": {
+      "name": "Угваші"
+    }
+  }
+}

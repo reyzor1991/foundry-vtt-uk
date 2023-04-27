@@ -1,0 +1,509 @@
+{
+  "label": "Прокляття вимирання",
+  "entries": {
+    "Abberton Ruffian": {
+      "name": "Аббертон Руффіан"
+    },
+    "Adrivallo": {
+      "name": "Адрівалло"
+    },
+    "Aives The Smoke Dragon": {
+      "name": "Aives The Smoke Dragon"
+    },
+    "Ammut": {
+      "name": "Аммут"
+    },
+    "Andera Paldreen": {
+      "name": "палудрин всередину"
+    },
+    "Angry Vegetation": {
+      "name": "Сердита рослинність"
+    },
+    "Ararda": {
+      "name": "Арара"
+    },
+    "Arskuva the Gnasher": {
+      "name": "Арскува Скрегатель"
+    },
+    "Aukashungi Swarm": {
+      "name": "Зграя Каукшрінгі"
+    },
+    "Axiomatic Polymorph Trap": {
+      "name": "Аксіоматична поліморфна пастка"
+    },
+    "Barking Stag": {
+      "name": "Гавкаючий олень"
+    },
+    "Bitter Truth Bandit": {
+      "name": "Гірка правда Бандит"
+    },
+    "Blood Wolf": {
+      "name": "Кривавий Вовк"
+    },
+    "Bogey": {
+      "name": "Пугало"
+    },
+    "Bogeyman": {
+      "name": "Страшило"
+    },
+    "Bone Croupier": {
+      "name": "Хороший круп'є"
+    },
+    "Brughadatch": {
+      "name": "Brughadatch"
+    },
+    "Bugaboo": {
+      "name": "Bugaboo"
+    },
+    "Bugul Noz": {
+      "name": "Бугул Ноз"
+    },
+    "Buzzing Latch Rune": {
+      "name": "Руна «Дзижчача засувка»."
+    },
+    "Cat Sith": {
+      "name": "Кот Сітх"
+    },
+    "Catacomb Cave-In": {
+      "name": "Катакомбна печера"
+    },
+    "Caustic Dart Trap": {
+      "name": "Їдка пастка для дротиків"
+    },
+    "Cavnakash": {
+      "name": "грибний будинок"
+    },
+    "Celestial Menagerie Bruiser": {
+      "name": "Небесний звіринець"
+    },
+    "Chimpanzee Visitant": {
+      "name": "Шимпанзе в гостях"
+    },
+    "Ciza": {
+      "name": "добре"
+    },
+    "Convergence Lattice": {
+      "name": "Решітка конвергенції"
+    },
+    "Convergent Giant Eagle": {
+      "name": "Конвергентний гігантський орел"
+    },
+    "Convergent Kendley Nathrael": {
+      "name": "Конвергент Кендлі Натраель"
+    },
+    "Convergent Soldier": {
+      "name": "Конвергентний солдат"
+    },
+    "Corrosive Lizard": {
+      "name": "Корозійна ящірка"
+    },
+    "Corrupted Priest": {
+      "name": "Зіпсований священик"
+    },
+    "Corrupted Retainer": {
+      "name": "Пошкоджений фіксатор"
+    },
+    "Counteflora": {
+      "name": "Counteflora"
+    },
+    "Crushing Gate Trap": {
+      "name": "Розгромна пастка для воріт"
+    },
+    "Cu Sith": {
+      "name": "З ситами"
+    },
+    "Daring Danika": {
+      "name": "Дерзай Даніка"
+    },
+    "Darklands Alchemical Golem": {
+      "name": "Алхімічний голем Darklands"
+    },
+    "Darricus Stallit": {
+      "name": "Даррікус Сталліт"
+    },
+    "Death Drider": {
+      "name": "Death Drider"
+    },
+    "Deghuun (Child of Mhar)": {
+      "name": "Дегуун (дитя Мара)"
+    },
+    "Delamar Gianvin": {
+      "name": "Деламар Джанвін"
+    },
+    "Doblagub": {
+      "name": "Дублагів"
+    },
+    "Dream Pollen Pod": {
+      "name": "Dream Pollen Pod"
+    },
+    "Drow Bodyguard Golem": {
+      "name": "Голем-охоронець дроу"
+    },
+    "Drunken Brawler": {
+      "name": "П'яний бешкетник"
+    },
+    "Dyzallin Shraen": {
+      "name": "Дізаллін Шраен"
+    },
+    "Dyzallin's Golem": {
+      "name": "Голем Дізалліна"
+    },
+    "Echoes of Faith": {
+      "name": "Відгомін Віри"
+    },
+    "Elysian Sheep": {
+      "name": "Елізійська вівця"
+    },
+    "Envenomed Thorns Trap": {
+      "name": "Пастка з отруєних шипів"
+    },
+    "Evora Yarket": {
+      "name": "Евора Іаркет"
+    },
+    "Explosive Furniture Trap": {
+      "name": "Вибухонебезпечна пастка для меблів"
+    },
+    "Faceless Butcher": {
+      "name": "Безликий м'ясник"
+    },
+    "Flea Swarm": {
+      "name": "Блошиний рій"
+    },
+    "Gahlepod": {
+      "name": "Gahlepod"
+    },
+    "Ghost Crystal Cloud": {
+      "name": "Примарна кришталева хмара"
+    },
+    "Giant Aukashungi": {
+      "name": "Яд Авкасанугі"
+    },
+    "Giant Flea": {
+      "name": "Гігантська блоха"
+    },
+    "Ginjana Mindkeeper": {
+      "name": "Хранитель розуму Джінджана"
+    },
+    "Gluttondark Babau": {
+      "name": "Ненажера Бабау"
+    },
+    "Guardian of the Faithful": {
+      "name": "Опікун вірних"
+    },
+    "Guthallath Rockslide": {
+      "name": "скам'янілий обвал"
+    },
+    "Hallowed Wheel": {
+      "name": "Священне колесо"
+    },
+    "Harrow Doll": {
+      "name": "Лялька Борона"
+    },
+    "Headless Xulgath": {
+      "name": "Безголовий Ксульгат"
+    },
+    "Helg Eats-The-Eaters": {
+      "name": "Хельг їсть-їдців"
+    },
+    "Herecite of Zevgavizeb": {
+      "name": "Єресіт Зевгавізеба"
+    },
+    "Hollow Hush": {
+      "name": "Hollow Hush"
+    },
+    "Hooklimb Xulgath": {
+      "name": "Хуклімб Зульгат"
+    },
+    "Horba": {
+      "name": "Горба"
+    },
+    "Host of Spirits": {
+      "name": "Пан Духів"
+    },
+    "Iffdahsil": {
+      "name": "Іффдасіль"
+    },
+    "Imperious Darkside Mirror": {
+      "name": "Владне дзеркало темної сторони"
+    },
+    "Iridescent Elephant": {
+      "name": "Райдужний слон"
+    },
+    "Jellico Bounce-Bounce": {
+      "name": "Джеліко відскок-відскок"
+    },
+    "Juvenile Boar": {
+      "name": "Молодий Кабан"
+    },
+    "Kalkek": {
+      "name": "Калкек"
+    },
+    "Kharostan": {
+      "name": "Харостан"
+    },
+    "Kimilekki": {
+      "name": "Кімілекі"
+    },
+    "Kirosthrek": {
+      "name": "Кірострек"
+    },
+    "Krooth Summoning Rune": {
+      "name": "Руна виклику Крута"
+    },
+    "Lakkai One-Fang": {
+      "name": "ЛА відкрита одноікла"
+    },
+    "Leandrus": {
+      "name": "Леандрус"
+    },
+    "Ledorick Banyan": {
+      "name": "Ледорік Баньян"
+    },
+    "Ledorick Banyan (Possessed)": {
+      "name": "Ledorick Banyan (Possessed)"
+    },
+    "Lion Visitant": {
+      "name": "Лев Гість"
+    },
+    "Luminous Ooze": {
+      "name": "Світловий мул"
+    },
+    "Lyrt Cozurn": {
+      "name": "Лірт Козурн"
+    },
+    "Masks of Aroden's Guises": {
+      "name": "Маски іпостасей Ародена"
+    },
+    "Maze of Mirrors": {
+      "name": "Лабіринт дзеркал"
+    },
+    "Mechanical Carny": {
+      "name": "Механічний Карні"
+    },
+    "Mistress Dusklight": {
+      "name": "Володарка Сутінкове світло"
+    },
+    "Mukradi Summoning Runes": {
+      "name": "Руни виклику Мукраді"
+    },
+    "Muse Phantom": {
+      "name": "Муза Фантом"
+    },
+    "Muurfeli": {
+      "name": "Обернись"
+    },
+    "Nemmia Bramblecloak": {
+      "name": "Nemmia Bramblecloak"
+    },
+    "Nihiris": {
+      "name": "Нігіріс"
+    },
+    "Obsidian Golem": {
+      "name": "Обсидіановий Голем"
+    },
+    "Pin Tingwheely": {
+      "name": "Pin Tingwheely"
+    },
+    "Pinacosaurus": {
+      "name": "Пінакозавр"
+    },
+    "Poisoned Secret Door Trap": {
+      "name": "Отруєна секретна дверна пастка"
+    },
+    "Pruana Two-punch": {
+      "name": "Пруана з двома ударами"
+    },
+    "Qormintur": {
+      "name": "Кормінтур"
+    },
+    "Qurashith": {
+      "name": "Курашит"
+    },
+    "Raptor Guard Wight": {
+      "name": "Raptor Guard Wight"
+    },
+    "Raving Spirit": {
+      "name": "Шалений дух"
+    },
+    "Resin-seep Xulgath": {
+      "name": "Смоляний Ксульгат"
+    },
+    "Ruanna Nyamma": {
+      "name": "Руанна Нямма"
+    },
+    "Runkrunk": {
+      "name": "Runkrunk"
+    },
+    "Sarvel Ever-Hunger": {
+      "name": "Сарвел Вічний голод"
+    },
+    "Saurian Warmonger": {
+      "name": "Saurian Warniger"
+    },
+    "Saurian Worldwatcher": {
+      "name": "Saurian Worldwatcher"
+    },
+    "Shanchek": {
+      "name": "Шанчек"
+    },
+    "Shoony Hierarch": {
+      "name": "Шоні Ієрарх"
+    },
+    "Shoony Militia Member": {
+      "name": "нульовий ополченець"
+    },
+    "Shoony Tiller": {
+      "name": "Шуні Тіллер"
+    },
+    "Shraen Graveknight": {
+      "name": "Шраен Грейвекнайт"
+    },
+    "Skarja": {
+      "name": "Скар'я"
+    },
+    "Smiler": {
+      "name": "посміхаючись"
+    },
+    "Smoldering Leopard": {
+      "name": "Тліючий леопард"
+    },
+    "Sodden Sentinel": {
+      "name": "Соден Сентинел"
+    },
+    "Spiked Barricade Trap": {
+      "name": "Барикадна пастка з шипами"
+    },
+    "Stabbing Sentinel": {
+      "name": "Ножовий вартовий"
+    },
+    "Starved Staff": {
+      "name": "Голодуючий персонал"
+    },
+    "Stirvyn Banyan": {
+      "name": "Стирвін Баньян"
+    },
+    "Suffering Xulgaths": {
+      "name": "Страждання Xulgaths"
+    },
+    "Swardlands Delinquent": {
+      "name": "Злочинець Свордлендс"
+    },
+    "Tallow Ooze": {
+      "name": "Сало"
+    },
+    "Tanessa Fleer": {
+      "name": "Танесса Флер"
+    },
+    "Tashlock Banyan": {
+      "name": "Ташлок Баньян"
+    },
+    "The Vanish Man": {
+      "name": "Зникла людина"
+    },
+    "Thessekka": {
+      "name": "Тесекка"
+    },
+    "Thief's Trap": {
+      "name": "Пастка злодія"
+    },
+    "Thunderstone Cascade Trap": {
+      "name": "Каскадна пастка Thunderstone"
+    },
+    "Ulthadar": {
+      "name": "навпаки"
+    },
+    "Urdefhan Dominator": {
+      "name": "Урдефхан Домінатор"
+    },
+    "Urdefhan High Tormentor": {
+      "name": "Високий мучитель Урдефан"
+    },
+    "Urdefhan Hunter": {
+      "name": "Urdefhan Hunter"
+    },
+    "Urushil": {
+      "name": "Війна"
+    },
+    "Vavakia": {
+      "name": "Вони побудували його"
+    },
+    "Vermlek": {
+      "name": "Доїли"
+    },
+    "Viktor Volkano": {
+      "name": "Віктор Волкано"
+    },
+    "Violet": {
+      "name": "Фіалка"
+    },
+    "Viskithrel": {
+      "name": "Віскі"
+    },
+    "Vitalia": {
+      "name": "Віталія"
+    },
+    "War Sauropelta": {
+      "name": "Був Сауропельта"
+    },
+    "Wight Cultist": {
+      "name": "Уайт культист"
+    },
+    "Witch-Priests' Curse": {
+      "name": "Прокляття жреців-відьом"
+    },
+    "Xilvirek": {
+      "name": "Ксілурик"
+    },
+    "Xulgath Bilebearer": {
+      "name": "Зульгат Жовчоносець"
+    },
+    "Xulgath Bomber": {
+      "name": "Зульгат Бомбер"
+    },
+    "Xulgath Deepmouth": {
+      "name": "Зульгат Глибокоротий"
+    },
+    "Xulgath Demon-Caller": {
+      "name": "Зульгат, що кличе демони"
+    },
+    "Xulgath Gutrager": {
+      "name": "Ксульгат Гутрагер"
+    },
+    "Xulgath Hardscale": {
+      "name": "Зульгат Хардскейл"
+    },
+    "Xulgath Herd-Tender": {
+      "name": "Зульгат Стадо-Лагідне"
+    },
+    "Xulgath Mage": {
+      "name": "Зульгат Маг"
+    },
+    "Xulgath Roughrider": {
+      "name": "Зульгат Рафрайдер"
+    },
+    "Xulgath Skirmisher": {
+      "name": "Зульгат Скірмішер"
+    },
+    "Xulgath Spinesnapper": {
+      "name": "Xulgath Spinesapper"
+    },
+    "Xulgath Stoneliege": {
+      "name": "Зульгат Стоунлідж"
+    },
+    "Xulgath Thoughtmaw": {
+      "name": "Ксульгат Думкощевь"
+    },
+    "Yaganty": {
+      "name": "Яганти"
+    },
+    "Zashathal Head-Taker": {
+      "name": "Zashathal Head-Taker"
+    },
+    "Zinogyvaz": {
+      "name": "Зіногіваз"
+    },
+    "Zuipnyrn": {
+      "name": "Zuipnyrn"
+    }
+  }
+}
