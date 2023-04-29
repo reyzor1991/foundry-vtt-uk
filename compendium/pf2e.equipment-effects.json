@@ -43,7 +43,7 @@
     },
     "Effect: Anklets of Alacrity": {
       "name": "Ефект: ножні браслети Alacrity",
-      "description": "<p>Надається шляхом активації @UUID[Compendium.pf2e.equipment-srd.9IwSktj0Xj7A2Ruh]{Anklets of Alacrity}.</p>"
+      "description": "<p>Надається шляхом активації @UUID[Compendium.pf2e.equipment-srd.9IwSktj0Xj7A2Ruh].</p>"
     },
     "Effect: Antidote (Greater)": {
       "name": "Ефект: Антидот (більший)",
@@ -99,11 +99,11 @@
     },
     "Effect: Arboreal's Revenge (Speed Penalty)": {
       "name": "Ефект: Помста Арбореала (покарання за швидкість)",
-      "description": "<p>Цілі отримують -10-футовий штраф за обставини до своїх швидкостей, коли коріння швидко проростає з їхніх ран, і це триває, доки вони не @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Втечуть} (DC 20).</p >"
+      "description": "<p>Цілі отримують -10-футовий штраф за обставини до своїх швидкостей, коли коріння швидко проростає з їхніх ран, і це триває, доки вони не @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9] (DC 20).</p >"
     },
     "Effect: Architect's Pattern Book": {
       "name": "Ефект: Книга шаблонів архітектора",
-      "description": "<p>Якщо вашою наступною дією є використання <em>@UUID[Compendium.pf2e.spells-srd.mwPfoYfVGSMAaUec]{Затишна хатинка}</em>, <em>@UUID[Compendium.pf2e.spells-srd. vPWMEyVTreMOoFnm]{Чудовий особняк}</em> або заклинання <em>@UUID[Compendium.pf2e.spells-srd.KPDHmmjJiw7PhTYF]{Блискучий особняк}</em>, ви додаєте кімнату до структури до 10 футів на сторону на рівень заклинання. Ця кімната обладнана всім необхідним для певного виду відпочинку, визначеним вами під час заклинання. Будь-який персонаж, який принаймні 1 годину користується цим розважальним закладом, а потім спить цілих 8 годин у локації, створеній заклинанням, надзвичайно добре відпочив. Вони відновлюють подвійну кількість очок здоров’я, які зазвичай отримували б за 8-годинний відпочинок, а коли вони роблять підготовку наступного дня, вони отримують +1 бонус за обставини до перевірок легкої атлетики, і Вілл зберігає на наступні 12 годин.</p >"
+      "description": "<p>Якщо вашою наступною дією є використання <em>@UUID[Compendium.pf2e.spells-srd.mwPfoYfVGSMAaUec]</em>, <em>@UUID[Compendium.pf2e.spells-srd. vPWMEyVTreMOoFnm]</em> або заклинання <em>@UUID[Compendium.pf2e.spells-srd.KPDHmmjJiw7PhTYF]</em>, ви додаєте кімнату до структури до 10 футів на сторону на рівень заклинання. Ця кімната обладнана всім необхідним для певного виду відпочинку, визначеним вами під час заклинання. Будь-який персонаж, який принаймні 1 годину користується цим розважальним закладом, а потім спить цілих 8 годин у локації, створеній заклинанням, надзвичайно добре відпочив. Вони відновлюють подвійну кількість очок здоров’я, які зазвичай отримували б за 8-годинний відпочинок, а коли вони роблять підготовку наступного дня, вони отримують +1 бонус за обставини до перевірок легкої атлетики, і Вілл зберігає на наступні 12 годин.</p >"
     },
     "Effect: Aromatic Ammunition": {
       "name": "Ефект: ароматична амуніція",
@@ -123,7 +123,7 @@
     },
     "Effect: Barding of the Zephyr": {
       "name": "Ефект: Бардинг Зефіру",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.eoI3M6FXtcPWeg7i]{Barding of the Zephyr}</p>\n<p><strong>Активувати</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">D</span> Взаємодія</p>\n<p><strong>Частота</strong> раз на день</p>\n<hr/>\n<p><strong>Ефект</strong> Ви проводите пальцем уздовж мотивів вітру на барді, надаючи вашому супутнику, який носить бардинг, швидкість польоту 30 футів протягом 10 хвилин. Навіть якщо компаньйон не має спеціальної здібності скакуна, він все одно може літати, коли на ньому є верхи.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.eoI3M6FXtcPWeg7i]</p>\n<p><strong>Активувати</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">D</span> Взаємодія</p>\n<p><strong>Частота</strong> раз на день</p>\n<hr/>\n<p><strong>Ефект</strong> Ви проводите пальцем уздовж мотивів вітру на барді, надаючи вашому супутнику, який носить бардинг, швидкість польоту 30 футів протягом 10 хвилин. Навіть якщо компаньйон не має спеціальної здібності скакуна, він все одно може літати, коли на ньому є верхи.</p>"
     },
     "Effect: Batsbreath Cane": {
       "name": "Ефект: Дихаюча тростина",
@@ -143,15 +143,15 @@
     },
     "Effect: Beastmaster's Sigil - Melee Weapon": {
       "name": "Ефект: печатка Beastmaster's Sigil — зброя ближнього бою",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.JWFR4O5V06UUvx6W]{Печатка Володаря Звірів}</p>\n<p><em>Sigil</em> надає вам бонус +1 до чеків Athletics для @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Подорож}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.JWFR4O5V06UUvx6W]{Печатка Володаря Звірів}</p>\n<p><em>Sigil</em> надає вам бонус +1 до чеків Athletics для @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP].</p>"
     },
     "Effect: Beastmaster's Sigil - Melee Weapon (Greater)": {
       "name": "Ефект: символ Beastmaster's - холодна зброя (більша)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.fWgH0JxNCOpI7SVr]{Сігіл володаря звірів (більший)}</p>\n<p><em>Sigil</em> надає вам бонус +1 до чеків Athletics для @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Подорож}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.fWgH0JxNCOpI7SVr]{Сігіл володаря звірів (більший)}</p>\n<p><em>Sigil</em> надає вам бонус +1 до чеків Athletics для @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP].</p>"
     },
     "Effect: Beastmaster's Sigil - Melee Weapon (Major)": {
       "name": "Ефект: символ Beastmaster's Sigil - холодна зброя (основний)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.ZxOoQ4cHfJXXbP9F]{Сігіл володаря звірів (основний)}</p>\n<p><em>Сігіл</em> дає вам бонус +2 до чеків Athletics для @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Подорож}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.ZxOoQ4cHfJXXbP9F]{Сігіл володаря звірів (основний)}</p>\n<p><em>Сігіл</em> дає вам бонус +2 до чеків Athletics для @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP].</p>"
     },
     "Effect: Beastmaster's Sigil - Ranged Weapon": {
       "name": "Ефект: символ Beastmaster's Sigil - зброя далекого бою",
@@ -195,7 +195,7 @@
     },
     "Effect: Bewitching Bloom (Magnolia)": {
       "name": "Ефект: чарівне цвітіння (магнолія)",
-      "description": "<p>Ваш союзник здається більш чарівним, хоча ніхто не може точно сказати, чому. Вони отримують бонус статусу +1 до перевірки дипломатії на 10 хвилин. Під час наступного ходу союзник може спробувати привернути увагу істоти. Для цього союзник повинен виконати 1 дію (яка має емоційні, розумові та візуальні властивості), щоб вибрати істоту, яку союзник може бачити, і встановити зоровий контакт так, щоб ціль могла бачити. Ціль має успішно виконати @Check[type:will|dc:20] збереження або бути @UUID[Compendium.pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Зачарована} вашим союзником до кінця наступного ходу цього союзника. Якщо збереження вдалось або ефект закінчився, ціль тимчасово захищена від чарівного цвітіння магнолії на 24 години.</p>"
+      "description": "<p>Ваш союзник здається більш чарівним, хоча ніхто не може точно сказати, чому. Вони отримують бонус статусу +1 до перевірки дипломатії на 10 хвилин. Під час наступного ходу союзник може спробувати привернути увагу істоти. Для цього союзник повинен виконати 1 дію (яка має емоційні, розумові та візуальні властивості), щоб вибрати істоту, яку союзник може бачити, і встановити зоровий контакт так, щоб ціль могла бачити. Ціль має успішно виконати @Check[type:will|dc:20] збереження або бути @UUID[Compendium.pf2e.conditionitems.AdPVz7rbaVSRxHFg] вашим союзником до кінця наступного ходу цього союзника. Якщо збереження вдалось або ефект закінчився, ціль тимчасово захищена від чарівного цвітіння магнолії на 24 години.</p>"
     },
     "Effect: Blast Boots (Major)": {
       "name": "Ефект: Вибухові черевики (основний)",
@@ -227,7 +227,7 @@
     },
     "Effect: Boots of Elvenkind": {
       "name": "Ефект: Чоботи Ельфійського роду",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.T00Xa9aDwHxd60Zh]{Boots of Elvenkind}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.T00Xa9aDwHxd60Zh]</p>"
     },
     "Effect: Bottled Omen": {
       "name": "Ефект: Bottled Omen",
@@ -235,11 +235,11 @@
     },
     "Effect: Boulderhead Bock": {
       "name": "Ефект: Boulderhead Bock",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.I0eUrgVGl8a2ZjFc]{Boulderhead Bock}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.I0eUrgVGl8a2ZjFc].</p>"
     },
     "Effect: Bracelet of Dashing": {
       "name": "Ефект: Bracelet of Dashing",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.BKdzb8hu3kZtKH3Z]{Bracelet of Dashing}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.BKdzb8hu3kZtKH3Z]</p>"
     },
     "Effect: Bracers of Missile Deflection": {
       "name": "Ефект: Наручі відхилення ракет",
@@ -259,7 +259,7 @@
     },
     "Effect: Breastplate of Command": {
       "name": "Ефект: Кираса командування",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.RUEAV5LMUGFHcXcW]{Кираса Командування}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.RUEAV5LMUGFHcXcW]</p>"
     },
     "Effect: Breastplate of the Mountain": {
       "name": "Ефект: Кираса гори",
@@ -275,7 +275,7 @@
     },
     "Effect: Bronze Bull Pendant": {
       "name": "Ефект: бронзовий кулон із биком",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.nXStoLxPrrP2b6WB]{Бронзовий кулон бика}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.nXStoLxPrrP2b6WB]</p>"
     },
     "Effect: Cape of the Open Sky": {
       "name": "Ефект: мис відкритого неба",
@@ -283,7 +283,7 @@
     },
     "Effect: Celestial Armor": {
       "name": "Ефект: небесна броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.2uHcTZ40oZ62R9gy]{Небесна броня}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.2uHcTZ40oZ62R9gy].</p>"
     },
     "Effect: Chatterer of Follies": {
       "name": "Ефект: Балакуча дурниць",
@@ -315,7 +315,7 @@
     },
     "Effect: Cloak of Elvenkind": {
       "name": "Ефект: Плащ Ельфів",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.MNBnZn0b80Q7yHJM]{Cloak of Elvenkind}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.MNBnZn0b80Q7yHJM]</p>"
     },
     "Effect: Cloak of Elvenkind (Greater)": {
       "name": "Ефект: Плащ Elvenkind (Greater)",
@@ -323,11 +323,11 @@
     },
     "Effect: Cloak of the Bat": {
       "name": "Ефект: Плащ кажана",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.dipcMOtBFxtmsjkS]{Плащ кажана}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.dipcMOtBFxtmsjkS]</p>"
     },
     "Effect: Clockwork Cloak": {
       "name": "Ефект: заводний плащ",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.v9tI40skGswMQTVN]{Заводний плащ}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.v9tI40skGswMQTVN]</p>"
     },
     "Effect: Clockwork Goggles": {
       "name": "Ефект: Заводні окуляри",
@@ -387,7 +387,7 @@
     },
     "Effect: Crimson Fulcrum Lens": {
       "name": "Ефект: малинова лінза опори",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.yAqGhT0GuZrkvWZl]{Crimson Fulcrum Lens}</p>\n<p>Ви отримуєте бонус +2 предметів до рятувальних кидків від ефектів страху та бонус +2 предметів до шкоди від удару рукопашного бою (це збільшується до бонусу предметів +4 до шкоди, якщо удар рукопашного бою є атакою щелепами).</ p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.yAqGhT0GuZrkvWZl]</p>\n<p>Ви отримуєте бонус +2 предметів до рятувальних кидків від ефектів страху та бонус +2 предметів до шкоди від удару рукопашного бою (це збільшується до бонусу предметів +4 до шкоди, якщо удар рукопашного бою є атакою щелепами).</ p>"
     },
     "Effect: Crown of the Kobold King": {
       "name": "Ефект: Корона короля Кобольда",
@@ -395,7 +395,7 @@
     },
     "Effect: Curse of Potent Poison": {
       "name": "Ефект: Прокляття сильнодіючої отрути",
-      "description": "<p>Це прокляття магічно пришвидшує отруту через ваше тіло.</p>\n<hr/>\n<p><strong>Ефект</strong> Ви отримуєте штраф статусу -1 для збереження Стійкості та отримуєте слабкість 3 до отруєння (якщо у вас уже є слабкість до отруєння, збільште її на 3). Прокляття діє, доки його не буде знято за допомогою <em>@UUID[Compendium.pf2e.spells-srd.OyFCwQuw8XRazsNr]{Remove Curse}</em> чи подібної магії.</p>"
+      "description": "<p>Це прокляття магічно пришвидшує отруту через ваше тіло.</p>\n<hr/>\n<p><strong>Ефект</strong> Ви отримуєте штраф статусу -1 для збереження Стійкості та отримуєте слабкість 3 до отруєння (якщо у вас уже є слабкість до отруєння, збільште її на 3). Прокляття діє, доки його не буде знято за допомогою <em>@UUID[Compendium.pf2e.spells-srd.OyFCwQuw8XRazsNr]</em> чи подібної магії.</p>"
     },
     "Effect: Darkvision Elixir (Greater)": {
       "name": "Ефект: Darkvision Elixir (Greater)",
@@ -419,7 +419,7 @@
     },
     "Effect: Delve Scale": {
       "name": "Ефект: Delve Scale",
-      "description": "<p>Ви отримуєте швидкість у норі 15 футів і бонус +2 предметів до перевірок легкої атлетики до @UUID[Compendium.pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Стрибок у висоту} або @UUID[Compendium.pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Довгий Jump}.</p>"
+      "description": "<p>Ви отримуєте швидкість у норі 15 футів і бонус +2 предметів до перевірок легкої атлетики до @UUID[Compendium.pf2e.actionspf2e.2HJ4yuEFY1Cast4h] або @UUID[Compendium.pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Довгий Jump}.</p>"
     },
     "Effect: Demon Dust (Stage 1)": {
       "name": "Ефект: пил демона (етап 1)",
@@ -447,11 +447,11 @@
     },
     "Effect: Diplomat's Badge": {
       "name": "Ефект: значок дипломата",
-      "description": "<p>Надається шляхом активації @UUID[Compendium.pf2e.equipment-srd.JJZgRx6naNJmDa81]{значок дипломата}.</p>"
+      "description": "<p>Надається шляхом активації @UUID[Compendium.pf2e.equipment-srd.JJZgRx6naNJmDa81].</p>"
     },
     "Effect: Diplomat's Charcuterie": {
       "name": "Ефект: Кондитерські вироби дипломата",
-      "description": "<p>Ви отримуєте бонус +1 до перевірки дипломатії до @UUID[Compendium.pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Створіть враження} та перевірки сприйняття до @UUID[Compendium.pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Чуткий мотив}. </p>"
+      "description": "<p>Ви отримуєте бонус +1 до перевірки дипломатії до @UUID[Compendium.pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Створіть враження} та перевірки сприйняття до @UUID[Compendium.pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]. </p>"
     },
     "Effect: Disarm (Success)": {
       "name": "Ефект: роззброєння (успіх)",
@@ -503,7 +503,7 @@
     },
     "Effect: Dueling Cape": {
       "name": "Ефект: дуельна накидка",
-      "description": "<p>Надається за допомогою @UUID[Compendium.pf2e.equipment-srd.DA3HgyEBGEbtRNOo]{Дуельна накидка}</p>"
+      "description": "<p>Надається за допомогою @UUID[Compendium.pf2e.equipment-srd.DA3HgyEBGEbtRNOo]</p>"
     },
     "Effect: Eagle Eye Elixir (Greater)": {
       "name": "Ефект: Еліксир орлиного ока (більший)",
@@ -523,7 +523,7 @@
     },
     "Effect: Earplugs": {
       "name": "Ефект: беруші",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.ksNUlyRHFUSK9xmz]{Earplugs}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.ksNUlyRHFUSK9xmz]</p>"
     },
     "Effect: Earplugs (PFS Guide)": {
       "name": "Ефект: беруші (PFS Guide)",
@@ -531,11 +531,11 @@
     },
     "Effect: Ebon Fulcrum Lens (2 Action)": {
       "name": "Ефект: Ebon Fulcrum Lens (2 дії)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}</p>\n<p>На 1 хвилину ви отримуєте бонус +1 до кидків атаки, захисних кидків і DC.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.CTiLugp5ptSItEqN]</p>\n<p>На 1 хвилину ви отримуєте бонус +1 до кидків атаки, захисних кидків і DC.</p>"
     },
     "Effect: Ebon Fulcrum Lens (Reaction)": {
       "name": "Ефект: Ebon Fulcrum Lens (реакція)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}</p>\n<p>Протягом перших 24 годин після омолодження ви отримуєте бонус +1 до предметів для кидків атаки, захисних кидків і DC.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.CTiLugp5ptSItEqN]</p>\n<p>Протягом перших 24 годин після омолодження ви отримуєте бонус +1 до предметів для кидків атаки, захисних кидків і DC.</p>"
     },
     "Effect: Elixir of Life (Greater)": {
       "name": "Ефект: еліксир життя (більший)",
@@ -639,7 +639,7 @@
     },
     "Effect: Euryale (Curse) Card": {
       "name": "Ефект: карта Евріала (Прокляття).",
-      "description": "<p>Надано @UUID[Compendium.pf2e.gmg-srd.jVh90bfsC6w6iVyy]{Euryale (прокляття)} від @UUID[Compendium.pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Колода багатьох речей}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.gmg-srd.jVh90bfsC6w6iVyy]{Euryale (прокляття)} від @UUID[Compendium.pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]</p>"
     },
     "Effect: Exsanguinating Ammunition": {
       "name": "Ефект: знекровлююча амуніція",
@@ -699,7 +699,7 @@
     },
     "Effect: Flaming Star - Armor": {
       "name": "Ефект: Палаюча зірка - броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.FkII0xws6an5vFSS]{Flaming Star}</p>\n<p>Ви отримуєте опір 2 до вогню.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.FkII0xws6an5vFSS]</p>\n<p>Ви отримуєте опір 2 до вогню.</p>"
     },
     "Effect: Flaming Star - Armor (Greater)": {
       "name": "Ефект: Палаюча зірка - броня (більша)",
@@ -711,7 +711,7 @@
     },
     "Effect: Flaming Star - Weapon": {
       "name": "Ефект: Палаюча зірка - зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.FkII0xws6an5vFSS]{Flaming Star}</p>\n<p>Після того, як ви застосували заклинання вогню, активувавши <em>зірку</em>, ваші удари зброєю завдають додатково 1d4 шкоди від вогню до кінця вашого наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.FkII0xws6an5vFSS]</p>\n<p>Після того, як ви застосували заклинання вогню, активувавши <em>зірку</em>, ваші удари зброєю завдають додатково 1d4 шкоди від вогню до кінця вашого наступного ходу.</p>"
     },
     "Effect: Flaming Star - Weapon (Greater)": {
       "name": "Ефект: Палаюча зірка - зброя (більша)",
@@ -743,7 +743,7 @@
     },
     "Effect: Gecko Potion": {
       "name": "Ефект: зілля гекона",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.hGw7Q1y2IEXRGAfv]{Gecko Potion}</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+1 бонус до чеків з легкої атлетики до @UUID[Compendium.pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}</li>\n<li>+1 бонус до перевірок Thievery для @UUID[Compendium.pf2e.actionspf2e.ijZ0DDFpMkWqaShd]{Palm an Object}</li>\n<li>+1 бонус до Reflex DC проти спроб @UUID[Compendium.pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm}</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.hGw7Q1y2IEXRGAfv]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+1 бонус до чеків з легкої атлетики до @UUID[Compendium.pf2e.actionspf2e.pprgrYQ1QnIDGZiy]</li>\n<li>+1 бонус до перевірок Thievery для @UUID[Compendium.pf2e.actionspf2e.ijZ0DDFpMkWqaShd]</li>\n<li>+1 бонус до Reflex DC проти спроб @UUID[Compendium.pf2e.actionspf2e.Dt6B1slsBy8ipJu9]</li>\n</ul>"
     },
     "Effect: Ghostcaller's Planchette - Armor": {
       "name": "Ефект: Ghostcaller's Planchette — броня",
@@ -763,19 +763,19 @@
     },
     "Effect: Glaive of the Artist": {
       "name": "Ефект: Глефа художника",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.J5It6yq3ZkN059zP]{Glaive of the Artist}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.J5It6yq3ZkN059zP].</p>"
     },
     "Effect: Glamorous Buckler": {
       "name": "Ефект: Гламурний щит",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IxuDS3POB6EH8TVN]{Glamorous Buckler}.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IxuDS3POB6EH8TVN].</p>"
     },
     "Effect: Glittering Snare (Critical Failure)": {
       "name": "Ефект: блискуча пастка (критична помилка)",
-      "description": "<p>Істота отримує штраф статусу -4 до перевірки скритності протягом 5 хвилин або доки не виконає активність із 3 дій, яка має рису маніпуляції, щоб видалити блиск. Блиск продовжує падати навколо істоти, поки вона повністю не видалиться, залишаючи за собою слід під час руху та показуючи його грубе розташування; істота є @UUID[Compendium.pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}, а не @UUID[Compendium.pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected}, для будь-якої істоти, яка може бачити блиск, коли інакше вона була б непоміченою .</p>"
+      "description": "<p>Істота отримує штраф статусу -4 до перевірки скритності протягом 5 хвилин або доки не виконає активність із 3 дій, яка має рису маніпуляції, щоб видалити блиск. Блиск продовжує падати навколо істоти, поки вона повністю не видалиться, залишаючи за собою слід під час руху та показуючи його грубе розташування; істота є @UUID[Compendium.pf2e.conditionitems.iU0fEDdBp3rXpTMC], а не @UUID[Compendium.pf2e.conditionitems.VRSef5y1LmL2Hkjf], для будь-якої істоти, яка може бачити блиск, коли інакше вона була б непоміченою .</p>"
     },
     "Effect: Glittering Snare (Failure)": {
       "name": "Ефект: Блискуча пастка (Невдача)",
-      "description": "<p>Істота отримує штраф статусу -2 до перевірки скритності протягом 2 хвилин або доки не виконає дію з 2 дій, яка має рису маніпуляції, щоб видалити блиск. Якщо істота була @UUID[Compendium.pf2e.conditionitems.zJxUflt9np0q4yML]{Невидимою}, блиск окреслює її протягом 1 раунду, роблячи її @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W]{Прихованою}, а не @UUID[Компендіум. pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Не виявлено} для органів зору.</p>"
+      "description": "<p>Істота отримує штраф статусу -2 до перевірки скритності протягом 2 хвилин або доки не виконає дію з 2 дій, яка має рису маніпуляції, щоб видалити блиск. Якщо істота була @UUID[Compendium.pf2e.conditionitems.zJxUflt9np0q4yML], блиск окреслює її протягом 1 раунду, роблячи її @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W], а не @UUID[Компендіум. pf2e.conditionitems.VRSef5y1LmL2Hkjf] для органів зору.</p>"
     },
     "Effect: Glittering Snare (Success)": {
       "name": "Ефект: блискуча пастка (успіх)",
@@ -823,7 +823,7 @@
     },
     "Effect: Grim Sandglass - Armor": {
       "name": "Ефект: похмурий пісочний годинник - броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OjOpj9u1EdEUhKuX]{Grim Sandglass}</p>\n<p>Ви отримуєте стійкість 2 до негативу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OjOpj9u1EdEUhKuX]</p>\n<p>Ви отримуєте стійкість 2 до негативу.</p>"
     },
     "Effect: Grim Sandglass - Armor (Greater)": {
       "name": "Ефект: похмурий пісочний годинник - броня (більший)",
@@ -835,7 +835,7 @@
     },
     "Effect: Grim Sandglass - Weapon": {
       "name": "Ефект: похмурий пісочний годинник - зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OjOpj9u1EdEUhKuX]{Grim Sandglass}</p>\n<p>Після того, як ви застосували заклинання некромантії, активувавши <em>пісочний годинник</em>, ваші удари зброєю завдають додатково 1d4 негативної шкоди до кінця вашого наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OjOpj9u1EdEUhKuX]</p>\n<p>Після того, як ви застосували заклинання некромантії, активувавши <em>пісочний годинник</em>, ваші удари зброєю завдають додатково 1d4 негативної шкоди до кінця вашого наступного ходу.</p>"
     },
     "Effect: Grim Sandglass - Weapon (Greater)": {
       "name": "Ефект: похмурий пісочний годинник - зброя (більший)",
@@ -847,15 +847,15 @@
     },
     "Effect: Grit (Stage 1)": {
       "name": "Ефект: Зерно (Етап 1)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vl5dww56cbXo9QnP]{Grit}</p>\n<p>Істота отримує бонус +1 до перевірки легкої атлетики, майстерності та ефективності.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vl5dww56cbXo9QnP]</p>\n<p>Істота отримує бонус +1 до перевірки легкої атлетики, майстерності та ефективності.</p>"
     },
     "Effect: Grit (Stage 2)": {
       "name": "Ефект: Зерно (Стадія 2)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vl5dww56cbXo9QnP]{Grit}</p>\n<p>Істота отримує бонус предметів +1 до перевірок Атлетики, Ремесла та Продуктивності та штраф -2 предметів до перевірок Сприйняття.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vl5dww56cbXo9QnP]</p>\n<p>Істота отримує бонус предметів +1 до перевірок Атлетики, Ремесла та Продуктивності та штраф -2 предметів до перевірок Сприйняття.</p>"
     },
     "Effect: Grit (Stage 3)": {
       "name": "Ефект: Зерно (Стадія 3)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vl5dww56cbXo9QnP]{Grit}</p>\n<p>Істота отримує штраф на -4 предметів до перевірки сприйняття.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vl5dww56cbXo9QnP]</p>\n<p>Істота отримує штраф на -4 предметів до перевірки сприйняття.</p>"
     },
     "Effect: Heartripper Blade": {
       "name": "Ефект: Heartripper Blade",
@@ -863,7 +863,7 @@
     },
     "Effect: Hexing Jar": {
       "name": "Ефект: Hexing Jar",
-      "description": "<p>Об’єкт у <em>баночці з шістнадцятковою лінією </em>стає більш енергійним — світиться, танцює, стукає по склу чи виконує інші дії, що відповідають його зовнішньому вигляду. Він заохочує вас до початку вашого наступного ходу, надаючи вам і вашим знайомим бонус статусу +1 до AC і рятувальних кидків і бонус статусу +2 проти психічних ефектів.</p>"
+      "description": "<p>Об’єкт у <em>баночці з шістнадцятковою лінією </em>стає більш енергійним — світиться, танцює, стукає по склу чи виконує інші дії, що відповідають його зовнішньому вигляду. Він заохочує вас до початку вашого наступного ходу, надаючи вам і вашим знайомим бонус статусу +1 до КД і рятувальних кидків і бонус статусу +2 проти психічних ефектів.</p>"
     },
     "Effect: Holy Steam Ball": {
       "name": "Ефект: святий паровий бал",
@@ -871,7 +871,7 @@
     },
     "Effect: Hyldarf's Fang": {
       "name": "Ефект: Ікло Гілдарфа",
-      "description": "<p>Ви звертаєтеся до сили Гілдарфа, щоб на короткий час отримати магію ліннорма. На 1 хвилину ви отримуєте ефекти <em>@UUID[Compendium.pf2e.spells-srd.A2JfEKe6BZcTG1S8]{Fly}</em>, <em>@UUID[Compendium.pf2e.spells-srd.aqRYNoSvxsVfqglH]{ Свобода пересування</em> та <em>@UUID[Compendium.pf2e.spells-srd.uqlxMQQeSGWEVjki]{справжнє бачення}</em>, а також вогнестійкість 20.</p>"
+      "description": "<p>Ви звертаєтеся до сили Гілдарфа, щоб на короткий час отримати магію ліннорма. На 1 хвилину ви отримуєте ефекти <em>@UUID[Compendium.pf2e.spells-srd.A2JfEKe6BZcTG1S8]</em>, <em>@UUID[Compendium.pf2e.spells-srd.aqRYNoSvxsVfqglH]{ Свобода пересування</em> та <em>@UUID[Compendium.pf2e.spells-srd.uqlxMQQeSGWEVjki]{справжнє бачення}</em>, а також вогнестійкість 20.</p>"
     },
     "Effect: Illuminated Folio": {
       "name": "Ефект: фоліо з підсвічуванням",
@@ -903,7 +903,7 @@
     },
     "Effect: Inspiring Spotlight": {
       "name": "Ефект: надихаючий прожектор",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.M1fRjN7E3P55zvmc]{Inspiring Spotlight}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.M1fRjN7E3P55zvmc]</p>"
     },
     "Effect: Ivory Baton": {
       "name": "Ефект: дубинка зі слонової кістки",
@@ -911,11 +911,11 @@
     },
     "Effect: Jack's Tattered Cape": {
       "name": "Ефект: пошарпана накидка Джека",
-      "description": "<p>Ви отримуєте бонус +1 до перевірки скритності до @UUID[Compendium.pf2e.actionspf2e.XMcnh4cSI32tljXa]{Hide} або @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.</p>"
+      "description": "<p>Ви отримуєте бонус +1 до перевірки скритності до @UUID[Compendium.pf2e.actionspf2e.XMcnh4cSI32tljXa] або @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4].</p>"
     },
     "Effect: Jolt Coil - Armor": {
       "name": "Ефект: Jolt Coil - броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.0gxqSZhYdOeJhPrp]{Jolt Coil}</p>\n<p>Ви отримуєте опір 2 до електрики.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.0gxqSZhYdOeJhPrp]</p>\n<p>Ви отримуєте опір 2 до електрики.</p>"
     },
     "Effect: Jolt Coil - Armor (Greater)": {
       "name": "Ефект: Jolt Coil - броня (більша)",
@@ -927,7 +927,7 @@
     },
     "Effect: Jolt Coil - Weapon": {
       "name": "Ефект: Jolt Coil - зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.0gxqSZhYdOeJhPrp]{Jolt Coil}</p>\n<p>Після того, як ви застосували заклинання електрики, активувавши <em>котушку</em>, ваші Удари зброєю завдають додатково 1d4 шкоди електрикою до кінця вашого наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.0gxqSZhYdOeJhPrp]</p>\n<p>Після того, як ви застосували заклинання електрики, активувавши <em>котушку</em>, ваші Удари зброєю завдають додатково 1d4 шкоди електрикою до кінця вашого наступного ходу.</p>"
     },
     "Effect: Jolt Coil - Weapon (Greater)": {
       "name": "Ефект: Jolt Coil - зброя (більший)",
@@ -983,7 +983,7 @@
     },
     "Effect: Lastwall Soup": {
       "name": "Ефект: суп із останньої стіни",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.VeCNWhvEr82ZNoSV]{Lastwall Soup}</p>\n<p>Істота отримує бонус +2 до перевірки скритності та DC проти нежиті.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.VeCNWhvEr82ZNoSV]</p>\n<p>Істота отримує бонус +2 до перевірки скритності та DC проти нежиті.</p>"
     },
     "Effect: Lastwall Soup (Greater)": {
       "name": "Ефект: Lastwall Soup (Greater)",
@@ -995,7 +995,7 @@
     },
     "Effect: Leopard's Armor": {
       "name": "Ефект: броня леопарда",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.jAKYIqG2BNO7yffJ]{Леопардовий обладунок}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.jAKYIqG2BNO7yffJ]</p>"
     },
     "Effect: Lesser Healer's Gel": {
       "name": "Ефект: гель малого цілителя",
@@ -1003,7 +1003,7 @@
     },
     "Effect: Lover's Gloves": {
       "name": "Ефект: рукавички коханця",
-      "description": "<p>Надається шляхом активації @UUID[Compendium.pf2e.equipment-srd.nZE16PtiyY7DWlzd]{Рукавички коханця}</p>"
+      "description": "<p>Надається шляхом активації @UUID[Compendium.pf2e.equipment-srd.nZE16PtiyY7DWlzd]</p>"
     },
     "Effect: Major Fanged Rune Animal Form": {
       "name": "Ефект: велика ікласта рунічна форма тварини",
@@ -1055,7 +1055,7 @@
     },
     "Effect: Ochre Fulcrum Lens": {
       "name": "Ефект: лінза опори охри",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.I2ul8Bzcth7sleow]{Ochre Fulcrum Lens}</p>\n<p>Ви отримуєте стійкість до ментальної шкоди 10 і +2 статусний бонус для порятунків від ефектів емоцій.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.I2ul8Bzcth7sleow]</p>\n<p>Ви отримуєте стійкість до ментальної шкоди 10 і +2 статусний бонус для порятунків від ефектів емоцій.</p>"
     },
     "Effect: Oil of Corpse Restoration": {
       "name": "Ефект: масло відновлення трупа",
@@ -1067,11 +1067,11 @@
     },
     "Effect: Parry": {
       "name": "Ефект: Парування",
-      "description": "<p>Ви розміщуєте свою зброю для захисту, отримуючи бонус обставин +1 до AC до початку наступного ходу.</p>"
+      "description": "<p>Ви розміщуєте свою зброю для захисту, отримуючи бонус обставин +1 до КД до початку наступного ходу.</p>"
     },
     "Effect: Perfect Droplet - Armor": {
       "name": "Ефект: ідеальна крапля - броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OoDp1T4IUUsNnrV6]{Perfect Droplet}</p>\n<p>Ви отримуєте стійкість 2 до ефектів води та атак водяних істот.</p>\n<p><strong>Нереалізовані ефекти:</strong> Стійкість до атак водяних істот.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OoDp1T4IUUsNnrV6]</p>\n<p>Ви отримуєте стійкість 2 до ефектів води та атак водяних істот.</p>\n<p><strong>Нереалізовані ефекти:</strong> Стійкість до атак водяних істот.</p>"
     },
     "Effect: Perfect Droplet - Armor (Greater)": {
       "name": "Ефект: Perfect Droplet - Armor (Greater)",
@@ -1083,7 +1083,7 @@
     },
     "Effect: Phantasmal Doorknob - Armor": {
       "name": "Ефект: Phantasmal Doorknob - Броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IISieImYvSQ8AqmC]{Phantasmal Doorknob}</p>\n<p>Ви отримуєте бонус +1 до перевірок крадіжки, щоб відбити замок.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IISieImYvSQ8AqmC]</p>\n<p>Ви отримуєте бонус +1 до перевірок крадіжки, щоб відбити замок.</p>"
     },
     "Effect: Phantasmal Doorknob - Armor (Greater)": {
       "name": "Ефект: Phantasmal Doorknob - Armor (Greater)",
@@ -1095,7 +1095,7 @@
     },
     "Effect: Phantasmal Doorknob - Weapon": {
       "name": "Ефект: Phantasmal Doorknob - зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IISieImYvSQ8AqmC]{Phantasmal Doorknob}</p>\n<p>Якщо ви завдаєте критичного удару зброєю, ціль засліплюється до кінця її наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IISieImYvSQ8AqmC]</p>\n<p>Якщо ви завдаєте критичного удару зброєю, ціль засліплюється до кінця її наступного ходу.</p>"
     },
     "Effect: Phantasmal Doorknob - Weapon (Greater)": {
       "name": "Ефект: Phantasmal Doorknob - Weapon (Greater)",
@@ -1159,7 +1159,7 @@
     },
     "Effect: Potency Crystal": {
       "name": "Ефект: Кристал потенції",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.ZCsksGf6NPUKz2Uw]{Potency Crystal}</p>\n<p>Зброя стає <em>вражаючою зброєю +1</em> до кінця ходу, отримуючи бонус +1 предмет до кидка атаки та збільшуючи шкоду від удару до двох кубиків шкоди від зброї.</ p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.ZCsksGf6NPUKz2Uw]</p>\n<p>Зброя стає <em>вражаючою зброєю +1</em> до кінця ходу, отримуючи бонус +1 предмет до кидка атаки та збільшуючи шкоду від удару до двох кубиків шкоди від зброї.</ p>"
     },
     "Effect: Potion of Flying (Greater)": {
       "name": "Ефект: Potion of Flying (Greater)",
@@ -1203,7 +1203,7 @@
     },
     "Effect: Qat (Stage 1)": {
       "name": "Ефект: Qat (Етап 1)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.JPGOrHeYxjdnUogT]{Qat}</p>\n<p>Істота отримує бонус +1 до збереження Рефлексу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.JPGOrHeYxjdnUogT]</p>\n<p>Істота отримує бонус +1 до збереження Рефлексу.</p>"
     },
     "Effect: Quicksilver Mutagen (Greater)": {
       "name": "Ефект: Quicksilver Mutagen (Greater)",
@@ -1239,11 +1239,11 @@
     },
     "Effect: Rhino Shot": {
       "name": "Ефект: постріл носорога",
-      "description": "<p>Після успішного удару атака завдає додаткової сили шкоди 2d6, і ціль має успішно пройти @Check[type:fortitude|dc:19] або бути збитою з @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{ Лежачи}. Якщо влучення <em>пострілом носорога</em> було критично вдалим, ціль викидається лежачи, якщо вона критично не вдалася під час свого порятунку.</p>"
+      "description": "<p>Після успішного удару атака завдає додаткової сили шкоди 2d6, і ціль має успішно пройти @Check[type:fortitude|dc:19] або бути збитою з @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]. Якщо влучення <em>пострілом носорога</em> було критично вдалим, ціль викидається лежачи, якщо вона критично не вдалася під час свого порятунку.</p>"
     },
     "Effect: Rime Crystal - Armor": {
       "name": "Ефект: Кристал Риму - Броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.dmsdzOxdykeWXUHr]{Rime Crystal}</p>\n<p>Ви отримуєте стійкість 2 до холоду.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.dmsdzOxdykeWXUHr]</p>\n<p>Ви отримуєте стійкість 2 до холоду.</p>"
     },
     "Effect: Rime Crystal - Armor (Greater)": {
       "name": "Ефект: кристал інею - броня (більша)",
@@ -1255,7 +1255,7 @@
     },
     "Effect: Rime Crystal - Weapon": {
       "name": "Ефект: кристал інею - зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.dmsdzOxdykeWXUHr]{Rime Crystal}</p>\n<p>Після того, як ви застосували заклинання холоду, активувавши <em>кристал</em>, ваші Удари зброєю завдають додаткової шкоди від холоду 1d4 до кінця вашого наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.dmsdzOxdykeWXUHr]</p>\n<p>Після того, як ви застосували заклинання холоду, активувавши <em>кристал</em>, ваші Удари зброєю завдають додаткової шкоди від холоду 1d4 до кінця вашого наступного ходу.</p>"
     },
     "Effect: Rime Crystal - Weapon (Greater)": {
       "name": "Ефект: кристал інею - зброя (великий)",
@@ -1283,11 +1283,11 @@
     },
     "Effect: Salve of Slipperiness": {
       "name": "Ефект: мазь від слизькості",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.MobYbxEL4KgxVi63]{Salve of Slipperness}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.MobYbxEL4KgxVi63]</p>"
     },
     "Effect: Sanguine Fang - Armor": {
       "name": "Ефект: Сангвінічне Ікло - Броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.j392AMbPfkcRbCw6]{Sanguine Fang}</p>\n<p>Ви отримуєте стійкість 3 до постійної кровотечі та бонус до предметів +2 на рятівні кидки проти ефектів із негативною рисою.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.j392AMbPfkcRbCw6]</p>\n<p>Ви отримуєте стійкість 3 до постійної кровотечі та бонус до предметів +2 на рятівні кидки проти ефектів із негативною рисою.</p>"
     },
     "Effect: Sanguine Fang - Armor (Greater)": {
       "name": "Ефект: Сангвінічне ікло - Броня (більша)",
@@ -1299,7 +1299,7 @@
     },
     "Effect: Sanguine Fang - Weapon": {
       "name": "Ефект: Сангвінічне Ікло - Зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.j392AMbPfkcRbCw6]{Sanguine Fang}</p>\n<p>Після того, як ви застосували заклинання некромантії, активувавши <em>ікло</em>, ваші удари зброєю завдають 1d4 постійної шкоди від кровотечі до кінця вашого наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.j392AMbPfkcRbCw6]</p>\n<p>Після того, як ви застосували заклинання некромантії, активувавши <em>ікло</em>, ваші удари зброєю завдають 1d4 постійної шкоди від кровотечі до кінця вашого наступного ходу.</p>"
     },
     "Effect: Sanguine Fang - Weapon (Greater)": {
       "name": "Ефект: Сангвінічне ікло - Зброя (більша)",
@@ -1351,7 +1351,7 @@
     },
     "Effect: Shielding Salve": {
       "name": "Ефект: захисний мазь",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.EWujUs3YmlBu2jhm]{Shielding Salve}</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте +1 бонус за обставини до AC</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.EWujUs3YmlBu2jhm]</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте +1 бонус за обставини до AC</li>\n</ul>"
     },
     "Effect: Shining Ammunition": {
       "name": "Ефект: сяюча амуніція",
@@ -1375,7 +1375,7 @@
     },
     "Effect: Silversheen": {
       "name": "Ефект: Silversheen",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.8fbsKEEbZ0CfBMIr]{Silversheen}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.8fbsKEEbZ0CfBMIr]</p>"
     },
     "Effect: Silvertongue Mutagen (Greater)": {
       "name": "Ефект: Мутаген Silvertongue (Greater)",
@@ -1419,7 +1419,7 @@
     },
     "Effect: Skinstitch Salve": {
       "name": "Ефект: мазь для шкірних швів",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.FgAPV0iLE6R1QMJ5]{Skinstitch Salve}</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте бонус +2 до чека на ліки</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.FgAPV0iLE6R1QMJ5]</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте бонус +2 до чека на ліки</li>\n</ul>"
     },
     "Effect: Skyrider Sword": {
       "name": "Ефект: меч небесного вершника",
@@ -1451,11 +1451,11 @@
     },
     "Effect: Spellguard Blade": {
       "name": "Ефект: клинок заклинання",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.v6LpzpIA0BmKvEtK]{Spellguard Blade}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.v6LpzpIA0BmKvEtK]</p>"
     },
     "Effect: Spellguard Shield": {
       "name": "Ефект: щит заклинань",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{Spellguard Shield}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.OqDAx4HJ39ojVtvg]</p>"
     },
     "Effect: Spiderfoot Brew (Greater)": {
       "name": "Ефект: Spiderfoot Brew (Greater)",
@@ -1487,7 +1487,7 @@
     },
     "Effect: Stalwart's Ring": {
       "name": "Ефект: Перстень Сталварта",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.bhpYiOmBysl8ZEYn]{Перстень Сталварта}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.bhpYiOmBysl8ZEYn]</p>"
     },
     "Effect: Standard of the Primeval Howl": {
       "name": "Ефект: штандарт первісного виття",
@@ -1523,7 +1523,7 @@
     },
     "Effect: Stonethroat Ammunition (Success)": {
       "name": "Ефект: Stonethroat Ammunition (успіх)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.4F87PHMIzLHOUABL]{Stonethroat Ammunition}</p>\n<p>Боеприпаси нещільно застрягають у горлі цілі. За 1 раунд мішень отримує штраф статусу -2, щоб атакувати кидки щелепами чи іклами, а також перевіряти з легкої атлетики.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.4F87PHMIzLHOUABL]</p>\n<p>Боеприпаси нещільно застрягають у горлі цілі. За 1 раунд мішень отримує штраф статусу -2, щоб атакувати кидки щелепами чи іклами, а також перевіряти з легкої атлетики.</p>"
     },
     "Effect: Storm Chair": {
       "name": "Ефект: Штормове крісло",
@@ -1559,7 +1559,7 @@
     },
     "Effect: Tallowheart Mass": {
       "name": "Ефект: Маса сального серця",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.DsZ48n6mn8uW5EIP]{Tallowheart Mass}</p>\n<p>Ви отримуєте опір 10 до пошкодження вогнем.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.DsZ48n6mn8uW5EIP]</p>\n<p>Ви отримуєте опір 10 до пошкодження вогнем.</p>"
     },
     "Effect: Tanglefoot Bag (Greater)": {
       "name": "Ефект: мішок із заплутаними лапками (більший)",
@@ -1579,7 +1579,7 @@
     },
     "Effect: Throne Card": {
       "name": "Ефект: карта трону",
-      "description": "<p>Надано @UUID[Compendium.pf2e.gmg-srd.IJ3nFDu2YcoP6ynd]{Трон} від @UUID[Compendium.pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Колода багатьох речей}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.gmg-srd.IJ3nFDu2YcoP6ynd] від @UUID[Compendium.pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]</p>"
     },
     "Effect: Thurible of Revelation": {
       "name": "Ефект: Кадило Одкровення",
@@ -1627,7 +1627,7 @@
     },
     "Effect: Trinity Geode - Armor": {
       "name": "Ефект: Trinity Geode - Броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.lN3Fn9AuNcKbXucJ]{Trinity Geode}</p>\n<p>Після того, як ви наклали заклинання землі, активувавши <em>жеод</em>, ви отримуєте стійкість 1 до фізичної шкоди (окрім адамантину) до кінця вашого наступного ходу або подвоюєте опір для заклинання без підриву .</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.lN3Fn9AuNcKbXucJ]</p>\n<p>Після того, як ви наклали заклинання землі, активувавши <em>жеод</em>, ви отримуєте стійкість 1 до фізичної шкоди (окрім адамантину) до кінця вашого наступного ходу або подвоюєте опір для заклинання без підриву .</p>"
     },
     "Effect: Trinity Geode - Armor (Greater)": {
       "name": "Ефект: Trinity Geode - Armor (Greater)",
@@ -1639,7 +1639,7 @@
     },
     "Effect: Trinity Geode - Weapon": {
       "name": "Ефект: Trinity Geode - Зброя",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.lN3Fn9AuNcKbXucJ]{Trinity Geode}</p>\n<p>Після того, як ви наклали земне заклинання, активувавши <em>жеод</em>, ваші Удари зброєю завдають додатково 1d4 дубинської шкоди до кінця вашого наступного ходу.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.lN3Fn9AuNcKbXucJ]</p>\n<p>Після того, як ви наклали земне заклинання, активувавши <em>жеод</em>, ваші Удари зброєю завдають додатково 1d4 дубинської шкоди до кінця вашого наступного ходу.</p>"
     },
     "Effect: Trinity Geode - Weapon (Greater)": {
       "name": "Ефект: Trinity Geode - зброя (великий)",
@@ -1651,7 +1651,7 @@
     },
     "Effect: Triton's Conch": {
       "name": "Ефект: Раковина Тритона",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.KLWjINVkWwJlOZEX]{Раковина Тритона}</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.KLWjINVkWwJlOZEX]</p>"
     },
     "Effect: Tteokguk of Time Advancement": {
       "name": "Ефект: Tteokguk of Time Advancement",
@@ -1719,7 +1719,7 @@
     },
     "Effect: Wyrm Claw - Armor": {
       "name": "Ефект: кіготь змея — броня",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.r81OfbBRPTXi0Fwd]{Wyrm Claw}</p>\n<p>Після того, як ви використаєте заклинання заклинання, активувавши <em>кіготь змея</em>, ви отримаєте стійкість 5 до кислоти, холоду, електрики та вогню на наступну хвилину.</p>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.r81OfbBRPTXi0Fwd]</p>\n<p>Після того, як ви використаєте заклинання заклинання, активувавши <em>кіготь змея</em>, ви отримаєте стійкість 5 до кислоти, холоду, електрики та вогню на наступну хвилину.</p>"
     },
     "Effect: Wyrm Claw - Armor (Greater)": {
       "name": "Ефект: кіготь змія — броня (більша)",

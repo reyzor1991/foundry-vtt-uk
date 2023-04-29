@@ -43,7 +43,7 @@
     },
     "Constrict": {
       "name": "Звужувати",
-      "description": "<p>[[/r 0[bludgeoning]]]{0 bludgeoning}, @Check[type:fortitude|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+      "description": "<p>[[/r 0[bludgeoning]]], @Check[type:fortitude|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
     },
     "Coven": {
       "name": "Ковен",
@@ -75,7 +75,7 @@
     },
     "Frightful Presence": {
       "name": "Страшна присутність",
-      "description": "<p>@Template[type:emanation|distance:0]{0 футів} @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Check[type:will|dc:]</ p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+      "description": "<p>@Template[type:emanation|distance:0]{0 футів} @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X] @Check[type:will|dc:]</ p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
     },
     "Grab": {
       "name": "хапати",
@@ -83,7 +83,7 @@
     },
     "Greater Constrict": {
       "name": "Великий Констрикт",
-      "description": "<p>[[/r 0[bludgeoning]]]{0 bludgeoning}, @Check[type:fortitude|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+      "description": "<p>[[/r 0[bludgeoning]]], @Check[type:fortitude|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
     },
     "Greater Darkvision": {
       "name": "Великий темний зір",
@@ -123,7 +123,7 @@
     },
     "Nimble Dodge": {
       "name": "Спритний Додж",
-      "description": "<p><strong>Тригер</strong> Істота атакує вас, і ви можете побачити нападника.</p>\n<p><strong>Вимоги</strong> Ви не обтяжені</p>\n<hr/>\n<p>Ви спритно ухиляєтеся від шляху, отримуючи +2 бонус обставин до AC проти ініціючої атаки.</p>"
+      "description": "<p><strong>Тригер</strong> Істота атакує вас, і ви можете побачити нападника.</p>\n<p><strong>Вимоги</strong> Ви не обтяжені</p>\n<hr/>\n<p>Ви спритно ухиляєтеся від шляху, отримуючи +2 бонус обставин до КД проти ініціючої атаки.</p>"
     },
     "Poison": {
       "name": "Отрута",
@@ -163,7 +163,7 @@
     },
     "Swallow Whole": {
       "name": "Проковтнути цілком",
-      "description": "<p>[Розмір у списку], [[/r 0[bludgeoning]]]{0 bludgeoning}, Розрив [0]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+      "description": "<p>[Розмір у списку], [[/r 0[bludgeoning]]], Розрив [0]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
     },
     "Swarm Mind": {
       "name": "Рой Розум",
