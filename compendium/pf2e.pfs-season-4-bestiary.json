@@ -1,0 +1,290 @@
+{
+    "label": "4 сезон",
+    "entries": {
+        "A Broken Promise (1-2)": {
+            "name": "Порушена обіцянка (1-2)"
+        },
+        "A Broken Promise (3-4)": {
+            "name": "Порушена обіцянка (3-4)"
+        },
+        "Animated Leather Armor": {
+            "name": "Анімована шкіряна броня"
+        },
+        "Averlace's Last Stand": {
+            "name": "Остання битва Аверлейса"
+        },
+        "Bandit Skullcracker": {
+            "name": "Бандит Черелом"
+        },
+        "Bloody Barber Gang Leader": {
+            "name": "Лідер банди Кривавого перукаря"
+        },
+        "Bloody Barber Ruffian": {
+            "name": "Кривавий перукар Руффіан"
+        },
+        "Bloody Barber Thief": {
+            "name": "Кривавий злодій перукар"
+        },
+        "Bolger Trusk (5-6)": {
+            "name": "Bolger Trusk (5-6)"
+        },
+        "Bolger Trusk (7-8)": {
+            "name": "Bolger Trusk (7-8)"
+        },
+        "Brinna": {
+            "name": "Брінна"
+        },
+        "Bugbear Bully": {
+            "name": "Bugbear Bully"
+        },
+        "Bugbear Creeper": {
+            "name": "Bugbear Creeper"
+        },
+        "Bugbear Night Terror": {
+            "name": "Нічний жах Багбіра"
+        },
+        "Bugbear Raider": {
+            "name": "Bugbear Raider"
+        },
+        "Bugbear Slasher": {
+            "name": "Багбір Слешер"
+        },
+        "Bugbear Terror": {
+            "name": "Багбірський терор"
+        },
+        "Bugbear Trickster": {
+            "name": "Bugbear Trickster"
+        },
+        "Charlatan (PFS 4-05)": {
+            "name": "Шарлатан (PFS 4-05)"
+        },
+        "Coven Grave Hag": {
+            "name": "Ковен Могила Ведьма"
+        },
+        "Coven Winter Hag": {
+            "name": "Ковен Зимова Ведьма"
+        },
+        "Cunning Vampire Spawn": {
+            "name": "Хитрий спаун вампіра"
+        },
+        "Damaged Automaton": {
+            "name": "Пошкоджений автомат"
+        },
+        "Darkened Shadow Cannon": {
+            "name": "Darkened Shadow Cannon"
+        },
+        "Death Drop (3-4)": {
+            "name": "Падіння смерті (3-4)"
+        },
+        "Death Drop (5-6)": {
+            "name": "Падіння смерті (5-6)"
+        },
+        "Deep Quicksand": {
+            "name": "Глибокі піски"
+        },
+        "Deimostride (7-8)": {
+            "name": "Деймострід (7-8)"
+        },
+        "Deimostride (9-10)": {
+            "name": "Деймострід (9-10)"
+        },
+        "Denufair": {
+            "name": "Денуфер"
+        },
+        "Depleted Roiling Incant": {
+            "name": "Вичерпаний Roiling Incant"
+        },
+        "Dero Stalker (PFS 4-05)": {
+            "name": "Dero Stalker (PFS 4-05)"
+        },
+        "Dig-Widget (PFS 4-07)": {
+            "name": "Dig-Widget (PFS 4-07)"
+        },
+        "Dorenea": {
+            "name": "Доренея"
+        },
+        "Dream of Doom": {
+            "name": "Dream of Doom"
+        },
+        "Elite Animate Dream (PFS 4-11)": {
+            "name": "Elite Animate Dream (PFS 4-11)"
+        },
+        "Elite Cave Bear (PFS 4-07)": {
+            "name": "Елітний печерний ведмідь (PFS 4-07)"
+        },
+        "Elite Palace Skelm (PFS 4-11)": {
+            "name": "Elite Palace Skelm (PFS 4-11)"
+        },
+        "Enormous Rat": {
+            "name": "Величезний щур"
+        },
+        "Evasive Vampire Count": {
+            "name": "Ухильний граф вампірів"
+        },
+        "Faded Animate Dream": {
+            "name": "Зникла одушевлена ​​мрія"
+        },
+        "Fascinating Lecture (1-2)": {
+            "name": "Захоплююча лекція (1-2)"
+        },
+        "Fascinating Lecture (3-4)": {
+            "name": "Захоплююча лекція (3-4)"
+        },
+        "Fetid Familiar": {
+            "name": "Смердючий знайомий"
+        },
+        "Fireball Rune": {
+            "name": "Руна вогняної кулі"
+        },
+        "Fleshwarp Apprentice": {
+            "name": "Fleshwarp Apprentice"
+        },
+        "Giant Fetid Familiar": {
+            "name": "Гігантський смердючий знайомий"
+        },
+        "Greater Barghest (PFS 4-07)": {
+            "name": "Greater Barghest (PFS 4-07)"
+        },
+        "Greater Fireball Rune": {
+            "name": "Велика вогняна руна"
+        },
+        "Grim Rictus Bridge Guard": {
+            "name": "Охоронець мосту Грім Ріктус"
+        },
+        "Grim Rictus Robber": {
+            "name": "Похмурий Ріктус Розбійник"
+        },
+        "Harpy Forager": {
+            "name": "Гарпія"
+        },
+        "Harpy Wailer": {
+            "name": "Гарпія Вейлер"
+        },
+        "In The Witch's Clutches": {
+            "name": "У пазурах відьми"
+        },
+        "In The Witch's Grasp": {
+            "name": "В Відьмині хватки"
+        },
+        "Infested Clockwork Heap": {
+            "name": "Заражена заводна купа"
+        },
+        "Infested Clockwork Vessel": {
+            "name": "Заражена заводна посудина"
+        },
+        "Larcius": {
+            "name": "Ларцій"
+        },
+        "Liaskra (1-2)": {
+            "name": "Ляскра (1-2)"
+        },
+        "Liaskra (3-4)": {
+            "name": "Ляскра (3-4)"
+        },
+        "Living Boulder (PFS 4-04)": {
+            "name": "Живий валун (PFS 4-04)"
+        },
+        "Major Fireball Rune": {
+            "name": "Основна руна вогняної кулі"
+        },
+        "Mutated Scorpion": {
+            "name": "Мутований скорпіон"
+        },
+        "Overtaxed Vrisk": {
+            "name": "Перевантажений Вріск"
+        },
+        "Patched Up Automaton": {
+            "name": "Виправлений автомат"
+        },
+        "Possessed Clockwork Heap": {
+            "name": "Одержимий заводний купа"
+        },
+        "Possessed Clockwork Vessel": {
+            "name": "Оволоділа заводним посудиною"
+        },
+        "Pups": {
+            "name": "Цуценята"
+        },
+        "Revna the Brave (5-6)": {
+            "name": "Ревна Хоробра (5-6)"
+        },
+        "Revna the Brave (7-8)": {
+            "name": "Ревна Хоробра (7-8)"
+        },
+        "Seldrick Dralston (1-2)": {
+            "name": "Селдрік Дралстон (1-2)"
+        },
+        "Seldrick Dralston (3-4)": {
+            "name": "Селдрік Дралстон (3-4)"
+        },
+        "Shadow Cannon": {
+            "name": "Тіньова гармата"
+        },
+        "Shard of Aslynn (1-2)": {
+            "name": "Осколок Аслінна (1-2)"
+        },
+        "Shard of Aslynn (3-4)": {
+            "name": "Осколок Аслінна (3-4)"
+        },
+        "Skeletal Pathfinder": {
+            "name": "Skeletal Pathfinder"
+        },
+        "Skeletal Pathfinder Veteran": {
+            "name": "Skeletal Pathfinder Veteran"
+        },
+        "Skulk Raider": {
+            "name": "Скулк Рейдер"
+        },
+        "Sounrel (3-4)": {
+            "name": "Sounrel (3-4)"
+        },
+        "Sounrel (5-6)": {
+            "name": "Sounrel (5-6)"
+        },
+        "Stabilized Black Pudding": {
+            "name": "Стабілізований чорний пудинг"
+        },
+        "Stabilized Ochre Jelly": {
+            "name": "Стабілізоване охристе желе"
+        },
+        "Transformed Bremix (7-8)": {
+            "name": "Трансформований Бремікс (7-8)"
+        },
+        "Transformed Bremix (9-10)": {
+            "name": "Трансформований Бремікс (9-10)"
+        },
+        "Transformed Narcela (7-8)": {
+            "name": "Трансформована Нарцела (7-8)"
+        },
+        "Transformed Narcela (9-10)": {
+            "name": "Трансформована Нарцела (9-10)"
+        },
+        "Ulfen Soldier": {
+            "name": "Ульфен Солдат"
+        },
+        "Unbridled Necromantic Energy (1-2)": {
+            "name": "Нестримна некромантична енергія (1-2)"
+        },
+        "Unbridled Necromantic Energy (3-4)": {
+            "name": "Нестримна некромантична енергія (3-4)"
+        },
+        "Urdefhan Blood Mage (PFS 4-11)": {
+            "name": "Urdefhan Blood Mage (PFS 4-11)"
+        },
+        "Urdefhan High Tormentor (PFS 4-11)": {
+            "name": "Urdefhan High Tormentor (PFS 4-11)"
+        },
+        "Veteran Ulfen Soldier": {
+            "name": "Ветеран Ульфен Солдат"
+        },
+        "Vrisk": {
+            "name": "Вріск"
+        },
+        "Weak Cunning Vampire Spawn": {
+            "name": "Слабке відродження хитрих вампірів"
+        },
+        "Weak Evasive Vampire Count": {
+            "name": "Слабкий граф вампірів, що ухиляються"
+        }
+    }
+}

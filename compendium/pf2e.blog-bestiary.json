@@ -1,0 +1,62 @@
+{
+  "label": "Бестіарій блогу Paizo",
+  "entries": {
+    "Ailuran": {
+      "name": "Айлуран"
+    },
+    "Chea": {
+      "name": "Чеа"
+    },
+    "Duhgik": {
+      "name": "Духгік"
+    },
+    "Edolpho Phinelli": {
+      "name": "Едольфо Фінеллі"
+    },
+    "Eleukas": {
+      "name": "Елевк"
+    },
+    "Firebrand Ancient Brass Dragon": {
+      "name": "Firebrand Стародавній латунний дракон"
+    },
+    "Goblin Zombie": {
+      "name": "Гоблін зомбі"
+    },
+    "Gristleburst": {
+      "name": "Хрящовик"
+    },
+    "Hellknight Centaur": {
+      "name": "Пекельний Найт Кентавр"
+    },
+    "Kobold Tunnelrunner": {
+      "name": "Kobold Tunnelrunner"
+    },
+    "Lisavet": {
+      "name": "Лісавет"
+    },
+    "Mari Lwyd": {
+      "name": "Марі Лвід"
+    },
+    "Morlibint": {
+      "name": "Морлібінт"
+    },
+    "Ogre Hurler": {
+      "name": "Огр Херлер"
+    },
+    "Pr'rall": {
+      "name": "Pr'rall"
+    },
+    "Urok": {
+      "name": "Урок"
+    },
+    "Wendlyn": {
+      "name": "Вендлін"
+    },
+    "Whispering Way Medusa": {
+      "name": "Шепітний шлях Медузи"
+    },
+    "Zhang Yong": {
+      "name": "Чжан Юн"
+    }
+  }
+}

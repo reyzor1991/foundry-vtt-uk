@@ -1,0 +1,266 @@
+{
+  "label": "Квест замороженого полум'я",
+  "entries": {
+    "Abyss-warped Trees": {
+      "name": "Скривлені безоднею дерева"
+    },
+    "Acid Strongbox Trap": {
+      "name": "Пастка для сховища кислоти"
+    },
+    "Animated Blade": {
+      "name": "Анімований лезо"
+    },
+    "Arboreal Tar Tree": {
+      "name": "Деревне катранне дерево"
+    },
+    "Ardissa Prendergant": {
+      "name": "Ардісса Прендергант"
+    },
+    "Ardissa's Porter": {
+      "name": "Портер Ардісси"
+    },
+    "Ashen Swale": {
+      "name": "Ашен Свейл"
+    },
+    "Azi": {
+      "name": "Азі"
+    },
+    "Bargott": {
+      "name": "Барготт"
+    },
+    "Beaver": {
+      "name": "Бобер"
+    },
+    "Bone Warrior": {
+      "name": "Кістяний воїн"
+    },
+    "Burnbearer": {
+      "name": "Вогненосець"
+    },
+    "Burning Mammoth Commando": {
+      "name": "Burning Mammoth Commando"
+    },
+    "Burning Mammoth Hunter": {
+      "name": "Burning Mammoth Hunter"
+    },
+    "Burning Mammoth Longshield": {
+      "name": "Довгощит палаючого мамонта"
+    },
+    "Burning Mammoth Reaver": {
+      "name": "Burning Mammoth Reaver"
+    },
+    "Cairn Wight (G4)": {
+      "name": "Керн Вайт (G4)"
+    },
+    "Calcifda": {
+      "name": "Кальцифда"
+    },
+    "Castoroides": {
+      "name": "Кастороїди"
+    },
+    "Cave-in": {
+      "name": "Поступатися"
+    },
+    "Corrupted Elder Tree": {
+      "name": "Пошкоджене Старе Дерево"
+    },
+    "Crawling Hand Swarm": {
+      "name": "Повзучий ручний рій"
+    },
+    "Death's Slumber Ward": {
+      "name": "Відділення сну смерті"
+    },
+    "Desiak": {
+      "name": "Десяк"
+    },
+    "Elk": {
+      "name": "Лось"
+    },
+    "Everburning Mammoth": {
+      "name": "Вічний мамонт"
+    },
+    "Falling Stalactites": {
+      "name": "Падаючі сталактити"
+    },
+    "Fiendish Arboreal": {
+      "name": "Диявольський деревний"
+    },
+    "Final Flight": {
+      "name": "Фінальний політ"
+    },
+    "Footsteps Of Legends": {
+      "name": "Слідами легенд"
+    },
+    "Forest Fire": {
+      "name": "Лісова пожежа"
+    },
+    "Gathganara": {
+      "name": "Гатганара"
+    },
+    "Giant Tapir": {
+      "name": "Гігантський тапір"
+    },
+    "Giant Tapir (Snared)": {
+      "name": "Гігантський тапір (в пастці)"
+    },
+    "Glyptodon": {
+      "name": "Гліптодон"
+    },
+    "Graylok Ambusher": {
+      "name": "Грайлок Засідник"
+    },
+    "Graylok Artillerist": {
+      "name": "Грайлок Артилерист"
+    },
+    "Graylok Gatebreaker": {
+      "name": "Graylok Gatebreaker"
+    },
+    "Groplit": {
+      "name": "Гропліт"
+    },
+    "Hail of Razor Stones": {
+      "name": "Град каміння бритви"
+    },
+    "Hall Of Fiery Doom": {
+      "name": "Зал вогняної загибелі"
+    },
+    "Hegremon": {
+      "name": "Ігремон"
+    },
+    "Hobji": {
+      "name": "Hobji"
+    },
+    "Idovik": {
+      "name": "Ідовик"
+    },
+    "Ivarsa": {
+      "name": "Іварса"
+    },
+    "Jesseri The Hailstorm": {
+      "name": "Джессері Град"
+    },
+    "Kadlaka": {
+      "name": "Кадлака"
+    },
+    "Lagofir": {
+      "name": "Лагофір"
+    },
+    "Loblobi": {
+      "name": "Лоблобі"
+    },
+    "Lomok": {
+      "name": "Ломок"
+    },
+    "Long-horned Bison": {
+      "name": "Довгорогий бізон"
+    },
+    "Long-horned Bison Beheaded": {
+      "name": "Обезголовлений довгорогий зубр"
+    },
+    "Megaloceros": {
+      "name": "Мегалоцерос"
+    },
+    "Methane Flue": {
+      "name": "Метановий дим"
+    },
+    "Metuak": {
+      "name": "Метуак"
+    },
+    "Necrohusk": {
+      "name": "Некрохуск"
+    },
+    "Oil Explosion": {
+      "name": "Вибух нафти"
+    },
+    "Pakano": {
+      "name": "Пакано"
+    },
+    "Pakano (Level 12)": {
+      "name": "Пакано (рівень 12)"
+    },
+    "Pouncing Tiger Haunt": {
+      "name": "Притулок тигра"
+    },
+    "Punishing Altar": {
+      "name": "Караючий вівтар"
+    },
+    "Rhino Warriors": {
+      "name": "Воїни-носороги"
+    },
+    "Rime Sludge": {
+      "name": "Осад інею"
+    },
+    "Rockfall Ceiling": {
+      "name": "Камнепадна стеля"
+    },
+    "Roru": {
+      "name": "Рору"
+    },
+    "Shattering Rune": {
+      "name": "Розбиваюча руна"
+    },
+    "Skeletal Woolly Rhinoceros": {
+      "name": "Скелетний шерстистий носоріг"
+    },
+    "Soul Draining Cage": {
+      "name": "Soul Draining Cage"
+    },
+    "Spectral Archers": {
+      "name": "Спектральні лучники"
+    },
+    "Summer Hora": {
+      "name": "Літня гора"
+    },
+    "Summer Hora Queen": {
+      "name": "Королева літньої гори"
+    },
+    "Syarstik Painted-Tiger": {
+      "name": "Сярстік Розмальований-Тигр"
+    },
+    "Tar Ooze": {
+      "name": "Дегтярний мул"
+    },
+    "Tar Pit": {
+      "name": "Смоляна яма"
+    },
+    "Tar Zombie Mammoth": {
+      "name": "Tar Zombie Mammoth"
+    },
+    "Tar Zombie Predator": {
+      "name": "Tar Zombie Predator"
+    },
+    "Tar Zombie Snatcher": {
+      "name": "Tar Zombie Snatcher"
+    },
+    "Throttled Blindheim": {
+      "name": "Задушений Бліндхейм"
+    },
+    "Turkek": {
+      "name": "Туркек"
+    },
+    "Varilyn \"Vare\" Eridge": {
+      "name": "Варилін «Варе» Ерідж"
+    },
+    "Venexus": {
+      "name": "Венексус"
+    },
+    "Venexus's Chosen": {
+      "name": "Обраний Венексус"
+    },
+    "Venexus's Wyrmling": {
+      "name": "Вирмлінг Венексуса"
+    },
+    "Weykoward": {
+      "name": "Вейковард"
+    },
+    "Yana No-trail": {
+      "name": "Яна No-trail"
+    },
+    "Zombie Mammoth": {
+      "name": "Зомбі Мамонт"
+    },
+    "Zombie Megaloceros": {
+      "name": "Зомбі Мегалоцерос"
+    }
+  }
+}

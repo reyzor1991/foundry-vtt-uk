@@ -1,0 +1,149 @@
+{
+  "label": "Транспортні засоби",
+  "entries": {
+    "Adaptable Paddleboat": {
+      "name": "Адаптивний водний човен"
+    },
+    "Airship": {
+      "name": "Дирижабль"
+    },
+    "Ambling Surveyor": {
+      "name": "Амблінг-геодезист"
+    },
+    "Apparatus of the Octopus": {
+      "name": "Апарат восьминога"
+    },
+    "Armored Carriage": {
+      "name": "Броневагон"
+    },
+    "Automated Cycle": {
+      "name": "Автоматизований цикл"
+    },
+    "Bathysphere": {
+      "name": "Батисфера"
+    },
+    "Bone Ship": {
+      "name": "Кістяний корабель"
+    },
+    "Carriage": {
+      "name": "Карета"
+    },
+    "Cart": {
+      "name": "кошик"
+    },
+    "Cauldron of Flying": {
+      "name": "Котел польоту"
+    },
+    "Chariot, Heavy": {
+      "name": "Колісниця, Важка"
+    },
+    "Chariot, Light": {
+      "name": "Колісниця, Світло"
+    },
+    "Cliff Crawler": {
+      "name": "Кліфф Кроулер"
+    },
+    "Clockwork Borer": {
+      "name": "Заводний борер"
+    },
+    "Clockwork Bumblebee": {
+      "name": "Заводний джміль"
+    },
+    "Clockwork Castle": {
+      "name": "Заводний замок"
+    },
+    "Clockwork Hopper": {
+      "name": "Заводний бункер"
+    },
+    "Clockwork Wagon": {
+      "name": "Заводний вагон"
+    },
+    "Clunkerjunker": {
+      "name": "Дранкер Юнкер"
+    },
+    "Cutter": {
+      "name": "Різак"
+    },
+    "Firefly": {
+      "name": "Світлячок"
+    },
+    "Firework Pogo": {
+      "name": "Феєрверк Пого"
+    },
+    "Galley": {
+      "name": "Камбуз"
+    },
+    "Glider": {
+      "name": "Планер"
+    },
+    "Hillcross Glider": {
+      "name": "Гіллкрос Планер"
+    },
+    "Mobile Inn": {
+      "name": "Мобільний заїзд"
+    },
+    "Rowboat": {
+      "name": "Весловий човен"
+    },
+    "Sailing Ship": {
+      "name": "Вітрильний корабель"
+    },
+    "Sand Barge": {
+      "name": "Баржа з ​​піском"
+    },
+    "Sand Diver": {
+      "name": "Sand Diver"
+    },
+    "Sandsailer": {
+      "name": "Сансейлер"
+    },
+    "Second Kiss": {
+      "name": "Другий поцілунок"
+    },
+    "Shark Diver": {
+      "name": "Shark Diver"
+    },
+    "Sky Chariot, Heavy": {
+      "name": "Небесна колісниця, важка"
+    },
+    "Sky Chariot, Light": {
+      "name": "Небесна Колісниця, Світло"
+    },
+    "Sky Chariot, Medium": {
+      "name": "Небесна колісниця, середня"
+    },
+    "Sleigh": {
+      "name": "Сани"
+    },
+    "Snail Coach": {
+      "name": "Равлик Тренер"
+    },
+    "Speedster": {
+      "name": "Спідстер"
+    },
+    "Steam Cart": {
+      "name": "Steam Cart"
+    },
+    "Steam Giant": {
+      "name": "Паровий гігант"
+    },
+    "Steam Trolley": {
+      "name": "Паровий тролейбус"
+    },
+    "Strider": {
+      "name": "Страйдер"
+    },
+    "Titanic Stomper": {
+      "name": "Титанік Стомпер"
+    },
+    "Velocipede": {
+      "name": "Велоципед"
+    },
+    "Vonthos's Golden Bridge": {
+      "name": "Золотий міст Вонтоса"
+    },
+    "Wagon": {
+      "name": "Вагон"
+    }
+  }
+}

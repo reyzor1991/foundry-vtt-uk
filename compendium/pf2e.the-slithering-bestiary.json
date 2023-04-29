@@ -1,0 +1,47 @@
+{
+  "label": "Ковзання",
+  "entries": {
+    "Ahvothian": {
+      "name": "Ахвотський"
+    },
+    "Alchemical Golem (Slithering)": {
+      "name": "Алхімічний Голем (Ковзання)"
+    },
+    "Angazhan's Rake Trap": {
+      "name": "Пастка граблі Ангажана"
+    },
+    "Angazhani Cultist": {
+      "name": "Ангажанський культист"
+    },
+    "Aspis Guard": {
+      "name": "Аспис гвардія"
+    },
+    "Aspis Technician": {
+      "name": "Технік Aspis"
+    },
+    "Croakchief Globblit Skink-eater": {
+      "name": "Croakchief Globblit Skink-eater"
+    },
+    "Cursebreaker": {
+      "name": "Порушник прокляття"
+    },
+    "Fiendripping Blast Trap": {
+      "name": "Вибухова пастка Fiendipping"
+    },
+    "Fuming Sludge": {
+      "name": "Димлячий осад"
+    },
+    "Nyamat Mshwe": {
+      "name": "Ньямат Мшве"
+    },
+    "Paga Nikohian": {
+      "name": "Пага Нікохян"
+    },
+    "Scroll Shock Trap": {
+      "name": "Scroll Shock Trap"
+    },
+    "Stalker Summoning Rune": {
+      "name": "Руна виклику сталкера"
+    }
+  }
+}

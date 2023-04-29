@@ -1,0 +1,59 @@
+{
+  "label": "Неприємності в Отарі",
+  "entries": {
+    "Brimstone Rat": {
+      "name": "Сіряний Щур"
+    },
+    "Bugbear Marauder": {
+      "name": "Багбір Мародер"
+    },
+    "Collapsing Porch": {
+      "name": "Розвалюється ганок"
+    },
+    "Hargrit Leadbuster": {
+      "name": "Харгріт Лідбастер"
+    },
+    "Kobold Trapmaster": {
+      "name": "Кобольд Трапмайстер"
+    },
+    "Kotgar Leadbuster": {
+      "name": "Kotgar Leadbuster"
+    },
+    "Kurnugian Jackal": {
+      "name": "Курнузький шакал"
+    },
+    "Magic Starknives Trap": {
+      "name": "Чарівна пастка Starknives"
+    },
+    "Morgrym Leadbuster": {
+      "name": "Моргрім Лідбастер"
+    },
+    "Nightmare Terrain": {
+      "name": "Кошмарна місцевість"
+    },
+    "Omblin Leadbuster": {
+      "name": "Омблін Лідбастер"
+    },
+    "Orc Commander": {
+      "name": "Командир орків"
+    },
+    "Orc Scrapper": {
+      "name": "Орк Скрапер"
+    },
+    "Scalliwing": {
+      "name": "лущення"
+    },
+    "Stinkweed Shambler": {
+      "name": "Stinkweed Shambler"
+    },
+    "Tongues of Flame": {
+      "name": "Язики полум'я"
+    },
+    "Viper Urn": {
+      "name": "Гадюка Урна"
+    },
+    "Web Lurker Noose": {
+      "name": "Web Lurker Noose"
+    }
+  }
+}

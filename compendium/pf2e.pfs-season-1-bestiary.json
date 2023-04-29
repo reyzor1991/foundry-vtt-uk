@@ -1,0 +1,998 @@
+{
+  "label": "1 сезон",
+  "entries": {
+    "'Zombie' Flesh Golem (3-4)": {
+      "name": "«Зомбі» Флеш Голем (3-4)"
+    },
+    "'Zombie' Flesh Golem (5-6)": {
+      "name": "«Зомбі» Флеш Голем (5-6)"
+    },
+    "Acid Spray Fountain": {
+      "name": "Кислотний фонтан"
+    },
+    "Adolescent Sea Serpent": {
+      "name": "Підліток морський змій"
+    },
+    "Aeon Nexus (3-4)": {
+      "name": "Еон Нексус (3-4)"
+    },
+    "Aeon Nexus (5-6)": {
+      "name": "Еон Нексус (5-6)"
+    },
+    "Ahksiva (1-2)": {
+      "name": "Ахксіва (1-2)"
+    },
+    "Ahksiva (3-4)": {
+      "name": "Ахксіва (3-4)"
+    },
+    "Ahrkinos (3-4)": {
+      "name": "Аркінос (3-4)"
+    },
+    "Ahrkinos (5-6)": {
+      "name": "Аркінос (5-6)"
+    },
+    "Angry Fox": {
+      "name": "Злий Лис"
+    },
+    "Animal Companion (Wolf) (1-2)": {
+      "name": "Тварина-компаньйон (Вовк) (1-2)"
+    },
+    "Animal Companion (Wolf) (3-4)": {
+      "name": "Тварина-компаньйон (Вовк) (3-4)"
+    },
+    "Ankle Trap (1-2)": {
+      "name": "Пастка для щиколотки (1-2)"
+    },
+    "Ankle Trap (3-4)": {
+      "name": "Пастка для щиколотки (3-4)"
+    },
+    "Annis Hag (1-06)": {
+      "name": "Енніс Хег (1-06)"
+    },
+    "Automatic Fire Suppression (3-4)": {
+      "name": "Автоматичне гасіння пожежі (3-4)"
+    },
+    "Automatic Fire Suppression (5-6)": {
+      "name": "Автоматичне гасіння пожежі (5-6)"
+    },
+    "Bandit Disciple (1-2)": {
+      "name": "Bandit Disciple (1-2)"
+    },
+    "Bandit Disciple (3-4)": {
+      "name": "Bandit Disciple (3-4)"
+    },
+    "Bandit Lieutenant": {
+      "name": "Бандит Лейтенант"
+    },
+    "Bandit Scout": {
+      "name": "Бандит-скаут"
+    },
+    "Barbed Bloodseeker": {
+      "name": "Колючий кровошукач"
+    },
+    "Barralbus (1-2)": {
+      "name": "Барралбус (1-2)"
+    },
+    "Barralbus (3-4)": {
+      "name": "Барралбус (3-4)"
+    },
+    "Bijan And Zaynap Ohrlavi": {
+      "name": "Біджан і Зейнап Орлаві"
+    },
+    "Biloko Veteran (1-16)": {
+      "name": "Ветеран Білоко (1-16)"
+    },
+    "Biloko Warrior (1-16)": {
+      "name": "Воїн Білоко (1-16)"
+    },
+    "Blue Streak Ambushers (5-6)": {
+      "name": "Засадники Blue Streak (5-6)"
+    },
+    "Blue Streak Ambushers (7-8)": {
+      "name": "Засадники Blue Streak (7-8)"
+    },
+    "Blue Streak Burglar": {
+      "name": "Грабіжник Blue Streak"
+    },
+    "Blue Streak Mage (5-6)": {
+      "name": "Маг Blue Streak (5-6)"
+    },
+    "Blue Streak Mage (7-8)": {
+      "name": "Маг Blue Streak (7-8)"
+    },
+    "Blue Streak Sentry": {
+      "name": "Вартовий Blue Streak"
+    },
+    "Boggard Pit (3-4)": {
+      "name": "Яма Боггард (3-4)"
+    },
+    "Boggard Pit (5-6)": {
+      "name": "Яма Боггард (5-6)"
+    },
+    "Boggard Swampseer (PFS 1-24)": {
+      "name": "Boggard Swampseer (PFS 1-24)"
+    },
+    "Boggard Warrior (PFS 1-09)": {
+      "name": "Boggard Warrior (PFS 1-09)"
+    },
+    "Cairn Wight (PFS 1-20)": {
+      "name": "Керн Вайт (PFS 1-20)"
+    },
+    "Charlatan": {
+      "name": "Шарлатан"
+    },
+    "Chops (1-2)": {
+      "name": "Відбивні (1-2)"
+    },
+    "Chops (3-4)": {
+      "name": "Відбивні (3-4)"
+    },
+    "Cinder Wolf (1-2)": {
+      "name": "Сіндер Вовк (1-2)"
+    },
+    "Cinder Wolf (3-4)": {
+      "name": "Сіндер Вовк (3-4)"
+    },
+    "Collapsing Barricade (1-2)": {
+      "name": "Барикада, що руйнується (1-2)"
+    },
+    "Collapsing Barricade (3-4)": {
+      "name": "Барикада, що руйнується (3-4)"
+    },
+    "Collapsing Ceiling (1-2)": {
+      "name": "Стеля, що руйнується (1-2)"
+    },
+    "Collapsing Ceiling (3-4)": {
+      "name": "Стеля, що руйнується (3-4)"
+    },
+    "Collapsing Floor": {
+      "name": "Розвалюється підлога"
+    },
+    "Creeping Slime": {
+      "name": "Повзучий слиз"
+    },
+    "Crowd Agitator": {
+      "name": "Агітатор натовпу"
+    },
+    "Crowd Leader": {
+      "name": "Лідер натовпу"
+    },
+    "Crowd with Chamberpots": {
+      "name": "Натовп із горщиками"
+    },
+    "Crowd with Trash": {
+      "name": "Натовп зі сміттям"
+    },
+    "Crumbling Floor": {
+      "name": "Розсипається підлога"
+    },
+    "Damaged Alchemical Golem": {
+      "name": "Пошкоджений алхімічний голем"
+    },
+    "Dead Organ (5-6)": {
+      "name": "Мертвий орган (5-6)"
+    },
+    "Dead Organ (7-8)": {
+      "name": "Мертвий орган (7-8)"
+    },
+    "Deadfall Trap (1-2)": {
+      "name": "Смертельна пастка (1-2)"
+    },
+    "Deadfall Trap (3-4)": {
+      "name": "Смертельна пастка (3-4)"
+    },
+    "Deeply Flawed Ritual": {
+      "name": "Глибоко хибний ритуал"
+    },
+    "Dehydrated Krooth": {
+      "name": "Зневоднений Крут"
+    },
+    "Desert Wind": {
+      "name": "Вітер пустелі"
+    },
+    "Dilapidated Alchemical Golem": {
+      "name": "Напівзруйнований Алхімічний Голем"
+    },
+    "Dire Cinder Wolf": {
+      "name": "Жахливий Золотий Вовк"
+    },
+    "Dire Warg": {
+      "name": "Страшний Варг"
+    },
+    "Dockhand Cultist": {
+      "name": "Докхенд Культист"
+    },
+    "Doctor Velshun (5-6)": {
+      "name": "Доктор Велшун (5-6)"
+    },
+    "Doctor Velshun (7-8)": {
+      "name": "Доктор Велшун (7-8)"
+    },
+    "Dorobu (1-2)": {
+      "name": "Доробу (1-2)"
+    },
+    "Dorobu (3-4)": {
+      "name": "Доробу (3-4)"
+    },
+    "Dryad (1-16)": {
+      "name": "Дріада (1-16)"
+    },
+    "Eerie Skeletal Giant": {
+      "name": "Моторошний гігант-скелет"
+    },
+    "Elderly Giant Tarantula": {
+      "name": "Літній гігантський тарантул"
+    },
+    "Elite Boggard Swampseer (PFS 1-24, Animal Staff)": {
+      "name": "Elite Boggard Swampseer (PFS 1-24, Animal Staff)"
+    },
+    "Elite Boggard Swampseer (PFS 1-24, Staff)": {
+      "name": "Elite Boggard Swampseer (PFS 1-24, персонал)"
+    },
+    "Elite Duergar Taskmaster": {
+      "name": "Елітний дуергарський наглядач"
+    },
+    "Elite Ghast (PFS 1-07)": {
+      "name": "Elite Ghast (PFS 1-07)"
+    },
+    "Elite Glass River Midge": {
+      "name": "Елітна скляна річкова мошка"
+    },
+    "Elite Prefect (Fist) (3-4)": {
+      "name": "Елітний префект (кулак) (3-4)"
+    },
+    "Elite Rebel": {
+      "name": "Елітний повстанець"
+    },
+    "Elite Sewer Ooze (Q9)": {
+      "name": "Елітний каналізаційний мул (Q9)"
+    },
+    "Elite Skeletal Giant (PFS 1-18)": {
+      "name": "Елітний гігант-скелет (PFS 1-18)"
+    },
+    "Elite Waterworks Rebel": {
+      "name": "Elite Waterworks Rebel"
+    },
+    "Enraged Raven Swarm": {
+      "name": "Розлючений вороний рій"
+    },
+    "Experienced Mercenary": {
+      "name": "Досвідчений найманець"
+    },
+    "Farmer Drystan's Scarecrow (1-2)": {
+      "name": "Опудало фермера Дрістена (1-2)"
+    },
+    "Farmer Drystan's Scarecrow (3-4)": {
+      "name": "Опудало фермера Дрістена (3-4)"
+    },
+    "Flaming Skull Skeletal Champion": {
+      "name": "Палаючий череп скелетний чемпіон"
+    },
+    "Flaming Skull Skeleton Guard": {
+      "name": "Палаючий череп скелет гвардії"
+    },
+    "Flawed Ritual": {
+      "name": "Несправний ритуал"
+    },
+    "Flesh Golem (PFS 1-25)": {
+      "name": "Флеш Голем (PFS 1-25)"
+    },
+    "Fleshforge Dreg (Acid Spit)": {
+      "name": "Fleshforge Dreg (Кислотна плювка)"
+    },
+    "Fleshforge Dreg (Breath Weapon)": {
+      "name": "Fleshforge Dreg (Дихальна зброя)"
+    },
+    "Fleshforge Dreg (Leaping Charge)": {
+      "name": "Fleshforge Dreg (стрибучий заряд)"
+    },
+    "Fleshforge Dreg (Reach)": {
+      "name": "Fleshforge Dreg (Reach)"
+    },
+    "Fleshforge Dreg (Roots)": {
+      "name": "Fleshforge Dreg (коріння)"
+    },
+    "Fleshforge Dreg (Shield)": {
+      "name": "Fleshforge Dreg (щит)"
+    },
+    "Fleshforge Prototype (Acid Spit)": {
+      "name": "Прототип Fleshforge (Acid Spit)"
+    },
+    "Fleshforge Prototype (Breath Weapon)": {
+      "name": "Прототип Fleshforge (зброя дихання)"
+    },
+    "Fleshforge Prototype (Leaping Charge)": {
+      "name": "Прототип Fleshforge (стрибучий заряд)"
+    },
+    "Fleshforge Prototype (Reach)": {
+      "name": "Прототип Fleshforge (досяжність)"
+    },
+    "Fleshforge Prototype (Roots)": {
+      "name": "Прототип Fleshforge (коріння)"
+    },
+    "Fleshforge Prototype (Shield)": {
+      "name": "Прототип Fleshforge (щит)"
+    },
+    "Frog Swarm": {
+      "name": "Жаб'ячий рій"
+    },
+    "Ghost Of Diggen Thrune (1-2)": {
+      "name": "Ghost Of Diggen Thrune (1-2)"
+    },
+    "Ghost Of Diggen Thrune (3-4)": {
+      "name": "Ghost Of Diggen Thrune (3-4)"
+    },
+    "Giant Centipede (PFS 1-03)": {
+      "name": "Гігантська багатоніжка (PFS 1-03)"
+    },
+    "Giant Osprey": {
+      "name": "Гігантська скопа"
+    },
+    "Giant Short-faced Bear": {
+      "name": "Гігантський короткомордий ведмідь"
+    },
+    "Giant Shrew": {
+      "name": "Гігантська землерийка"
+    },
+    "Glass River Midge": {
+      "name": "Скляна річка Мідж"
+    },
+    "Goblin Skeleton": {
+      "name": "Скелет гобліна"
+    },
+    "Goblin Warrior (PFS 1-01)": {
+      "name": "Goblin Warrior (PFS 1-01)"
+    },
+    "Grasping Limbs (3-4)": {
+      "name": "Захоплення кінцівок (3-4)"
+    },
+    "Grasping Limbs (5-6)": {
+      "name": "Захоплення кінцівок (5-6)"
+    },
+    "Great White Shark (PFS 1-12)": {
+      "name": "Велика біла акула (PFS 1-12)"
+    },
+    "Greater Metallic Sod Hound": {
+      "name": "Великий металевий дерновий гончак"
+    },
+    "Greater Shadow Wisp": {
+      "name": "Greater Shadow Wisp"
+    },
+    "Greater Steel Mephit": {
+      "name": "Великий Сталевий Мефіт"
+    },
+    "Groetus's Chosen (1-2)": {
+      "name": "Обраний Гроет (1-2)"
+    },
+    "Groetus's Chosen (3-4)": {
+      "name": "Обраний Гроет (3-4)"
+    },
+    "Guard": {
+      "name": "Охоронець"
+    },
+    "Guard (PFS 1-17)": {
+      "name": "Охоронець (PFS 1-17)"
+    },
+    "Guard Captain": {
+      "name": "Гвардії капітан"
+    },
+    "Gwibble (1-2)": {
+      "name": "Gwibble (1-2)"
+    },
+    "Gwibble (3-4)": {
+      "name": "Gwibble (3-4)"
+    },
+    "Halfling Druid (1-2)": {
+      "name": "Halfling Druid (1-2)"
+    },
+    "Halfling Druid (3-4)": {
+      "name": "Halfling Druid (3-4)"
+    },
+    "Harsus (1-2)": {
+      "name": "Харсус (1-2)"
+    },
+    "Harsus (3-4)": {
+      "name": "Харсус (3-4)"
+    },
+    "Hogweed Leshy (1-2)": {
+      "name": "Борщівник Леший (1-2)"
+    },
+    "Hogweed Leshy (3-4)": {
+      "name": "Борщівник Леший (3-4)"
+    },
+    "House Cat": {
+      "name": "Домашній кіт"
+    },
+    "Human Bandit (3-4)": {
+      "name": "Людина-бандит (3-4)"
+    },
+    "Human Bandit (5-6)": {
+      "name": "Людина-бандит (5-6)"
+    },
+    "Human Bandit (PFS 1-06)": {
+      "name": "Людський бандит (PFS 1-06)"
+    },
+    "Hungry Blade Apprentice": {
+      "name": "Hungry Blade Apprentice"
+    },
+    "Hungry Blade Recruit": {
+      "name": "Hungry Blade Recruit"
+    },
+    "Iloise (5-6)": {
+      "name": "Ілоїза (5-6)"
+    },
+    "Iloise (7-8)": {
+      "name": "Ілоїза (7-8)"
+    },
+    "Immature Giant Gecko": {
+      "name": "Недорослий гігантський гекон"
+    },
+    "Injured Sewer Ooze": {
+      "name": "Травмований каналізаційний мул"
+    },
+    "Injured Weak Otyugh": {
+      "name": "Травмований Слабий Отюг"
+    },
+    "Jinkin (PFS 1-17)": {
+      "name": "Jinkin (PFS 1-17)"
+    },
+    "Jury-Rigged Annihilator": {
+      "name": "Сфальсифікований анігілятор"
+    },
+    "Kanker": {
+      "name": "Канкер"
+    },
+    "Keff The Lion (1-2)": {
+      "name": "Кефф Лев (1-2)"
+    },
+    "Keff The Lion (3-4)": {
+      "name": "Кефф Лев (3-4)"
+    },
+    "Kip The Druid (1-2)": {
+      "name": "Кіп Друїд (1-2)"
+    },
+    "Kip The Druid (3-4)": {
+      "name": "Кіп Друїд (3-4)"
+    },
+    "Kobold Dragon Mage (1-14)": {
+      "name": "Дракон-маг Kobold (1-14)"
+    },
+    "Kobold Dragon Mage (PFS 1-11)": {
+      "name": "Kobold Dragon Mage (PFS 1-11)"
+    },
+    "Kobold Dragon Spellweaver": {
+      "name": "Кобольдський Драконовий Ткач"
+    },
+    "Kobold Scout (1-14)": {
+      "name": "Кобольд Скаут (1-14)"
+    },
+    "Kobold Scout (PFS 1-11)": {
+      "name": "Kobold Scout (PFS 1-11)"
+    },
+    "Kobold Warrior (1-14)": {
+      "name": "Кобольдський воїн (1-14)"
+    },
+    "Kobold Warrior (PFS 1-11)": {
+      "name": "Kobold Warrior (PFS 1-11)"
+    },
+    "Krooth Hatchlings": {
+      "name": "Дитинчата Крута"
+    },
+    "Larraz Virtanne": {
+      "name": "Ларраз Віртанне"
+    },
+    "Lelzeshin (Tier 3-4)": {
+      "name": "Лелзешин (Рівень 3-4)"
+    },
+    "Lelzeshin (Tier 5-6)": {
+      "name": "Лелзешин (Рівень 5-6)"
+    },
+    "Leopard (1-14)": {
+      "name": "Леопард (1-14)"
+    },
+    "Leshy Crafter (1-2)": {
+      "name": "Leshy Crafter (1-2)"
+    },
+    "Leshy Crafter (3-4)": {
+      "name": "Leshy Crafter (3-4)"
+    },
+    "Lesser Giant Short-faced Bear": {
+      "name": "Малий гігантський короткомордий ведмідь"
+    },
+    "Lesser Guardian Statue": {
+      "name": "Статуя Меншого Охоронця"
+    },
+    "Lightning Platform (5-6)": {
+      "name": "Платформа Lightning (5-6)"
+    },
+    "Lightning Platform (7-8)": {
+      "name": "Платформа Lightning (7-8)"
+    },
+    "Lion": {
+      "name": "Лев"
+    },
+    "Little Zura (1-2)": {
+      "name": "Маленька Зура (1-2)"
+    },
+    "Little Zura (3-4)": {
+      "name": "Маленька Зура (3-4)"
+    },
+    "Loyal Giant Fox": {
+      "name": "Вірний гігантський лис"
+    },
+    "Malfunctioning Annihilator": {
+      "name": "Несправний анігілятор"
+    },
+    "Malicious Spirits": {
+      "name": "Зловмисники"
+    },
+    "Manifestation of Qxal (3-4)": {
+      "name": "Прояв Qxal (3-4)"
+    },
+    "Manifestation of Qxal (5-6)": {
+      "name": "Прояв Qxal (5-6)"
+    },
+    "Marcon Tinol (1-2)": {
+      "name": "Маркон Тінол (1-2)"
+    },
+    "Marcon Tinol (3-4)": {
+      "name": "Маркон Тінол (3-4)"
+    },
+    "Meleeka Sanvara (1-2)": {
+      "name": "Меліка Санвара (1-2)"
+    },
+    "Meleeka Sanvara (3-4)": {
+      "name": "Меліка Санвара (3-4)"
+    },
+    "Mercenary": {
+      "name": "Найманець"
+    },
+    "Metallic Sod Hound": {
+      "name": "Металевий Сод Хаунд"
+    },
+    "Minor Summoning Rune": {
+      "name": "Друга руна виклику"
+    },
+    "Mirrored Lelzeshin (Tier 3-4)": {
+      "name": "Дзеркальний Лелзешин (3-4 рівень)"
+    },
+    "Mirrored Lelzeshin (Tier 5-6)": {
+      "name": "Дзеркальний Лелзешин (5-6 рівень)"
+    },
+    "Mitflit (PFS 1-02)": {
+      "name": "Мітфліт (PFS 1-02)"
+    },
+    "Mitflit Sneak": {
+      "name": "Mitflit Sneak"
+    },
+    "Moldy Deck": {
+      "name": "Запліснявіла колода"
+    },
+    "Moldy Foodstuffs (1-2)": {
+      "name": "Запліснявілі харчові продукти (1-2)"
+    },
+    "Moldy Foodstuffs (3-4)": {
+      "name": "Запліснявілі харчові продукти (3-4)"
+    },
+    "Mountain Goat": {
+      "name": "Гірський козел"
+    },
+    "Mr. Chitters (5-6)": {
+      "name": "Містер Чіттерс (5-6)"
+    },
+    "Mr. Chitters (7-8)": {
+      "name": "Містер Чіттерс (7-8)"
+    },
+    "Mummy Brute": {
+      "name": "Мумія Брут"
+    },
+    "Mummy Shambler": {
+      "name": "Мумія Шамблер"
+    },
+    "Muraxi (3-4)": {
+      "name": "Мураксі (3-4)"
+    },
+    "Muraxi (5-6)": {
+      "name": "Мураксі (5-6)"
+    },
+    "Murderous Bathhouse (3-4)": {
+      "name": "Вбивча лазня (3-4)"
+    },
+    "Murderous Bathhouse (5-6)": {
+      "name": "Вбивча лазня (5-6)"
+    },
+    "Nalla, Rebel Leader (1-2)": {
+      "name": "Налла, лідер повстанців (1-2)"
+    },
+    "Nalla, Rebel Leader (3-4)": {
+      "name": "Налла, лідер повстанців (3-4)"
+    },
+    "Nashaxian The Angered": {
+      "name": "Nashaxian Розгніваний"
+    },
+    "Nashaxian The Bored": {
+      "name": "Nashaxian The Bored"
+    },
+    "Neidre Fliavazzana (3-4)": {
+      "name": "Нейдре Фліаваццана (3-4)"
+    },
+    "Neidre Fliavazzana (5-6)": {
+      "name": "Нейдре Фліаваццана (5-6)"
+    },
+    "Nevashi (5-6)": {
+      "name": "Неваші (5-6)"
+    },
+    "Nevashi (7-8)": {
+      "name": "Неваші (7-8)"
+    },
+    "Offended Gambler": {
+      "name": "Ображений гравець"
+    },
+    "Offended High Roller": {
+      "name": "Ображений хайроллер"
+    },
+    "Ogre": {
+      "name": "Огр"
+    },
+    "Ogre Glutton (PFS 1-05)": {
+      "name": "Огр-ненажера (PFS 1-05)"
+    },
+    "Orc Alchemist": {
+      "name": "Орк Алхімік"
+    },
+    "Osprey": {
+      "name": "Скопа"
+    },
+    "Palace Guard (PFS 1-17)": {
+      "name": "Палацова варта (PFS 1-17)"
+    },
+    "Paravaax (3-4)": {
+      "name": "Параваакс (3-4)"
+    },
+    "Paravaax (5-6)": {
+      "name": "Параваакс (5-6)"
+    },
+    "Phoenix Rune (1-2)": {
+      "name": "Руна Фенікса (1-2)"
+    },
+    "Phoenix Rune (3-4)": {
+      "name": "Руна Фенікса (3-4)"
+    },
+    "Pile of Fireworks (3-4)": {
+      "name": "Купа феєрверків (3-4)"
+    },
+    "Pile of Fireworks (5-6)": {
+      "name": "Купа феєрверків (5-6)"
+    },
+    "Pine Brute": {
+      "name": "Сосна Брут"
+    },
+    "Plum Leshy (1-2)": {
+      "name": "Слива Леши (1-2)"
+    },
+    "Plum Leshy (3-4)": {
+      "name": "Слива Леши (3-4)"
+    },
+    "Port Peril Bar Fight (Last Catch) (1-2)": {
+      "name": "Боротьба за бар (останній улов) (1-2)"
+    },
+    "Port Peril Bar Fight (Last Catch) (3-4)": {
+      "name": "Боротьба за бар (останній улов) (3-4)"
+    },
+    "Port Peril Bar Fight (Rivanti's Bar) (1-2)": {
+      "name": "Бійка в барі Port Peril (бар Rivanti's) (1-2)"
+    },
+    "Port Peril Bar Fight (Rivanti's Bar) (3-4)": {
+      "name": "Бійка в барі Port Peril (бар Rivanti's) (3-4)"
+    },
+    "Port Peril Bar Fight (The Watchtower) (1-2)": {
+      "name": "Бійка в барі Port Peril (Вартова вежа) (1-2)"
+    },
+    "Port Peril Bar Fight (The Watchtower) (3-4)": {
+      "name": "Бійка в барі Port Peril (Вартова вежа) (3-4)"
+    },
+    "Prefect (Electrowhip) (3-4)": {
+      "name": "Префект (Electrowhip) (3-4)"
+    },
+    "Prefect (Electrowhip) (5-6)": {
+      "name": "Префект (Electrowhip) (5-6)"
+    },
+    "Prefect (Fist) (3-4)": {
+      "name": "Префект (кулак) (3-4)"
+    },
+    "Prefect (Fist) (5-6)": {
+      "name": "Префект (кулак) (5-6)"
+    },
+    "Protoplasmic Extruder": {
+      "name": "Протоплазматичний екструдер"
+    },
+    "Ptiro Valner (1-2)": {
+      "name": "Птіро Вальнер (1-2)"
+    },
+    "Ptiro Valner (3-4)": {
+      "name": "Птіро Вальнер (3-4)"
+    },
+    "Quagmire": {
+      "name": "трясовина"
+    },
+    "Rabid Squirrel Swarm": {
+      "name": "Скажена Білка Зграя"
+    },
+    "Raging Forest Fire": {
+      "name": "Люта лісова пожежа"
+    },
+    "Ralthiss (1-2)": {
+      "name": "Ралтісс (1-2)"
+    },
+    "Ralthiss (3-4)": {
+      "name": "Ралтісс (3-4)"
+    },
+    "Raven Swarm (1-05)": {
+      "name": "Воронячий рій (1-05)"
+    },
+    "Ravenous Giant Centipede": {
+      "name": "Ненажерлива гігантська багатоніжка"
+    },
+    "Reast Mycer (1-2)": {
+      "name": "Рест Майсер (1-2)"
+    },
+    "Reast Mycer (3-4)": {
+      "name": "Рест Майсер (3-4)"
+    },
+    "Rebel": {
+      "name": "повстанець"
+    },
+    "Rebel Brute": {
+      "name": "Rebel Brute"
+    },
+    "Reefclaw (PFS 1-12)": {
+      "name": "Рифовий кіготь (PFS 1-12)"
+    },
+    "Reefclaw Spawn": {
+      "name": "Відродження Рифового Кігтя"
+    },
+    "Rending Hands": {
+      "name": "Розриваючи руки"
+    },
+    "Ruffian": {
+      "name": "Розбійник"
+    },
+    "Ruffian (Q11)": {
+      "name": "Розбійник (Q11)"
+    },
+    "Scrabbling Hands": {
+      "name": "Скребущі руками"
+    },
+    "Sea Devil Invader": {
+      "name": "Морський диявол загарбник"
+    },
+    "Seaborn Captain": {
+      "name": "Морський капітан"
+    },
+    "Seaborn Fisher": {
+      "name": "Сіборн Фішер"
+    },
+    "Season's Toll (3-4)": {
+      "name": "Плата за сезон (3-4)"
+    },
+    "Season's Toll (5-6)": {
+      "name": "Сезонна плата (5-6)"
+    },
+    "Shadow Wisp": {
+      "name": "Shadow Wisp"
+    },
+    "Skeletal Gladiator": {
+      "name": "Скелетний гладіатор"
+    },
+    "Skeletal Mage": {
+      "name": "Скелет Маг"
+    },
+    "Skeletal Mount": {
+      "name": "Скелетне кріплення"
+    },
+    "Skeleton Captain": {
+      "name": "Капітан-скелет"
+    },
+    "Skeleton Corporal": {
+      "name": "Скелет капрал"
+    },
+    "Skeleton Soldier": {
+      "name": "Скелет солдата"
+    },
+    "Smoldering Forest Fire": {
+      "name": "Тліюча лісова пожежа"
+    },
+    "Sodden Floor": {
+      "name": "Промокла підлога"
+    },
+    "Spear Launcher (Q9:1-2)": {
+      "name": "Списовий гранатомет (Q9:1-2)"
+    },
+    "Spear Launcher (Q9:3-4)": {
+      "name": "Списовий гранатомет (Q9:3-4)"
+    },
+    "Spiky Pit (1-2)": {
+      "name": "Колюча яма (1-2)"
+    },
+    "Spiky Pit (3-4)": {
+      "name": "Колюча яма (3-4)"
+    },
+    "Spirit Guardian Statue": {
+      "name": "Статуя духовного охоронця"
+    },
+    "Spitting Acid 'Bushes' (5-6)": {
+      "name": "Кислотні «кущі» (5-6)"
+    },
+    "Spitting Acid 'Bushes' (7-8)": {
+      "name": "Кислотні кущі (7-8)"
+    },
+    "Squirrel Swarm (1-04)": {
+      "name": "Білячий рій (1-04)"
+    },
+    "Statue Of Set": {
+      "name": "Статуя набору"
+    },
+    "Steaming Fields (5-6)": {
+      "name": "Димлячі поля (5-6)"
+    },
+    "Steaming Fields (7-8)": {
+      "name": "Димлячі поля (7-8)"
+    },
+    "Steel Mephit": {
+      "name": "Сталевий Мефіт"
+    },
+    "Storm Acolyte": {
+      "name": "Штормовий аколіт"
+    },
+    "Storm Warrior-Priest": {
+      "name": "Штормовий воїн-жрець"
+    },
+    "Submerged Shard": {
+      "name": "Занурений осколок"
+    },
+    "Summoning Rune (PFS 1-11)": {
+      "name": "Руна виклику (PFS 1-11)"
+    },
+    "Synthetic Khismar (5-6)": {
+      "name": "Синтетичний Хісмар (5-6)"
+    },
+    "Synthetic Khismar (7-8)": {
+      "name": "Синтетичний Хісмар (7-8)"
+    },
+    "Technic Zombie (3-4)": {
+      "name": "Technic Zombie (3-4)"
+    },
+    "Technic Zombie (5-6)": {
+      "name": "Technic Zombie (5-6)"
+    },
+    "The Ascendant (3-4)": {
+      "name": "Асцендент (3-4)"
+    },
+    "The Ascendant (5-6)": {
+      "name": "Асцендент (5-6)"
+    },
+    "Thorned Cocoon (3-4)": {
+      "name": "Колючий кокон (3-4)"
+    },
+    "Thorned Cocoon (5-6)": {
+      "name": "Колючий кокон (5-6)"
+    },
+    "Tough Giant Shrew": {
+      "name": "Міцна гігантська землерийка"
+    },
+    "Tough Mountain Goat": {
+      "name": "Жорсткий гірський козел"
+    },
+    "Toxic Snapjaw (3-4)": {
+      "name": "Токсична щелепа (3-4)"
+    },
+    "Toxic Snapjaw (5-6)": {
+      "name": "Токсична щелепа (5-6)"
+    },
+    "Trapmaster Tok's Surprise (1-2)": {
+      "name": "Trapmaster Tok's Surprise (1-2)"
+    },
+    "Trapmaster Tok's Surprise (3-4)": {
+      "name": "Trapmaster Tok's Surprise (3-4)"
+    },
+    "Treacherous Quagmire": {
+      "name": "Підступна трясовина"
+    },
+    "Unkillable Zombie Brute (PFS 1-01)": {
+      "name": "Unkillable Zombie Brute (PFS 1-01)"
+    },
+    "Unkillable Zombie Brute (PFS 1-13)": {
+      "name": "Unkillable Zombie Brute (PFS 1-13)"
+    },
+    "Vengeant Thorn (1-2)": {
+      "name": "Мстивий шип (1-2)"
+    },
+    "Vengeant Thorn (3-4)": {
+      "name": "Мстивий шип (3-4)"
+    },
+    "Vengeful Spirits": {
+      "name": "Мстиві духи"
+    },
+    "Veteran Guard Captain": {
+      "name": "Ветеран гвардії капітан"
+    },
+    "Vicious Vulpine": {
+      "name": "Жорстока Вульпіна"
+    },
+    "Vigilant Guard": {
+      "name": "Пильний охоронець"
+    },
+    "Voidworm Ouroboros": {
+      "name": "Черв'як Порожнечі Уроборос"
+    },
+    "Waterworks Rebel": {
+      "name": "Водопровідний повстанець"
+    },
+    "Weak Arboreal Warden": {
+      "name": "Слабкий наглядач дерев"
+    },
+    "Weak Ceustodaemon (PFS 1-01)": {
+      "name": "Слабкий Ceustodaemon (PFS 1-01)"
+    },
+    "Weak Green Hag": {
+      "name": "Слабка Зелена Ведьма"
+    },
+    "Weak Soulbound Homunculus": {
+      "name": "Слабкий гомункул, пов'язаний душею"
+    },
+    "Weak Spider Swarm": {
+      "name": "Слабкий павуковий рій"
+    },
+    "Weak Zephyr Hawk (PFS 1-24)": {
+      "name": "Слабкий Zephyr Hawk (PFS 1-24)"
+    },
+    "Webhekiz (3-4)": {
+      "name": "Вебхекіз (3-4)"
+    },
+    "Webhekiz (5-6)": {
+      "name": "Вебхекіз (5-6)"
+    },
+    "Whispering Souls": {
+      "name": "Шепіт душ"
+    },
+    "Whispering Spirits": {
+      "name": "Шепіт духів"
+    },
+    "Witchwyrd (PFS 1-21)": {
+      "name": "Witchwyrd (PFS 1-21)"
+    },
+    "Wounded Orc Brute": {
+      "name": "Поранений Орк Брут"
+    },
+    "Young Bloodseeker Swarm": {
+      "name": "Зграя молодих кровошукачів"
+    },
+    "Young Sea Serpent": {
+      "name": "Молодий морський змій"
+    },
+    "Zatqualmish (3-4)": {
+      "name": "Заткуалміш (3-4)"
+    },
+    "Zatqualmish (5-6)": {
+      "name": "Заткуалміш (5-6)"
+    },
+    "Zombie Brute (PFS 1-18)": {
+      "name": "Zombie Brute (PFS 1-18)"
+    },
+    "Zombie Charger": {
+      "name": "Зомбі зарядний пристрій"
+    },
+    "Zombie Minihulk": {
+      "name": "Зомбі Мініхалк"
+    },
+    "Zombie Riding Horse": {
+      "name": "Верховий зомбі"
+    },
+    "Zombie Shambler (PFS 1-03)": {
+      "name": "Zombie Shambler (PFS 1-03)"
+    },
+    "Zombie Warhorse": {
+      "name": "Бойовий кінь зомбі"
+    }
+  }
+}

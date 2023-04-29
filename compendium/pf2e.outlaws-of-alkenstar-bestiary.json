@@ -1,0 +1,296 @@
+{
+  "label": "Розбійники Алкенстару",
+  "entries": {
+    "\"Lucky\" Lanks": {
+      "name": "«Щасливі» Ланки"
+    },
+    "Akrida": {
+      "name": "Акріда"
+    },
+    "Alethsia": {
+      "name": "Алетсія"
+    },
+    "Ambrost Mugland": {
+      "name": "Амброст Магланд"
+    },
+    "Anjelique Loveless": {
+      "name": "Анжелік Лавлесс"
+    },
+    "Atticus": {
+      "name": "Аттікус"
+    },
+    "Brighite Herexen": {
+      "name": "Брайт Герексен"
+    },
+    "Bristlebane": {
+      "name": "Bristlebane"
+    },
+    "Broken Centurion": {
+      "name": "Розбитий сотник"
+    },
+    "Captured Dezullon": {
+      "name": "Захоплений Дезуллон"
+    },
+    "Chemical Zombie": {
+      "name": "Хімічний зомбі"
+    },
+    "Chimeric Manticore": {
+      "name": "Химерна Мантикора"
+    },
+    "Clearwater Cleaner": {
+      "name": "Очисник Clearwater"
+    },
+    "Clockwork Brewer": {
+      "name": "Заводний пивовар"
+    },
+    "Clockwork Buccaneer": {
+      "name": "Заводний пірат"
+    },
+    "Clockwork Disposer": {
+      "name": "Заводний диспозер"
+    },
+    "Clockwork Door Warden": {
+      "name": "Наглядач заводних дверей"
+    },
+    "Clockwork Fabricator": {
+      "name": "Виробник годинникових механізмів"
+    },
+    "Clockwork Gunner": {
+      "name": "Заводний стрілець"
+    },
+    "Clockwork Handler": {
+      "name": "Заводний обробник"
+    },
+    "Clockwork Hunter": {
+      "name": "Заводний мисливець"
+    },
+    "Clockwork Puppeteer": {
+      "name": "Заводний ляльковод"
+    },
+    "Clockwork Shambler": {
+      "name": "Заводний Шамблер"
+    },
+    "Clockwork Shambler Horde": {
+      "name": "Заводний Шамблер Орда"
+    },
+    "Clockwork Sphinx": {
+      "name": "Заводний сфінкс"
+    },
+    "Color Spray Trap": {
+      "name": "Кольоровий спрей-уловлювач"
+    },
+    "Compromised Door Warden": {
+      "name": "Скомпрометований наглядач"
+    },
+    "Corrupt Shieldmarshal (Clan Pistol)": {
+      "name": "Корумпований маршал щитів (клановий пістолет)"
+    },
+    "Corrupt Shieldmarshal (Jezail)": {
+      "name": "Корумпований Shieldmarshal (Jezail)"
+    },
+    "Cranium Preserver": {
+      "name": "Зберігач черепа"
+    },
+    "Daelum": {
+      "name": "Делум"
+    },
+    "Dewey Daystar": {
+      "name": "Дьюї Дейстар"
+    },
+    "Disgorged Zombie": {
+      "name": "Вирваний зомбі"
+    },
+    "Drela": {
+      "name": "Дрела"
+    },
+    "Explosive Steam Trap": {
+      "name": "Вибуховий конденсатовідвідувач"
+    },
+    "Falling Portcullis Trap": {
+      "name": "Падаючий капкан"
+    },
+    "False Door Trap": {
+      "name": "Фальшива дверна пастка"
+    },
+    "Follower of Shumfallow": {
+      "name": "Послідовник Шумфаллоу"
+    },
+    "Gilded Gunner Assassin": {
+      "name": "Позолочений стрілець-вбивця"
+    },
+    "Gilded Gunner Goon": {
+      "name": "Позолочений навідник"
+    },
+    "Gilded Gunner Safecracker": {
+      "name": "Позолочений зломщик сейфів"
+    },
+    "Glass Buccaneer": {
+      "name": "Скляний пірат"
+    },
+    "Glass Elephant": {
+      "name": "Скляний слон"
+    },
+    "Glass Sentry": {
+      "name": "Скляний вартовий"
+    },
+    "Glaz Nixbrix": {
+      "name": "Глаз Ніксбрікс"
+    },
+    "Gold Tank Broker": {
+      "name": "Брокер золотих танків"
+    },
+    "Gold Tank Investor": {
+      "name": "Золотий інвестор"
+    },
+    "Gremlin Horde": {
+      "name": "Гремлінська орда"
+    },
+    "Gunmarshal": {
+      "name": "Гунмаршал"
+    },
+    "Hansin": {
+      "name": "Хансін"
+    },
+    "Headless Rustler": {
+      "name": "Безголовий шелест"
+    },
+    "I": {
+      "name": "я"
+    },
+    "Ibrium": {
+      "name": "Ібріум"
+    },
+    "Ioton (F6)": {
+      "name": "Йотон (F6)"
+    },
+    "Irkem Dresh": {
+      "name": "Іркем Дреш"
+    },
+    "Iron Dart Launcher": {
+      "name": "Залізний пусковий пристрій для дротиків"
+    },
+    "Kreeth-Ni": {
+      "name": "Кріт-Ні"
+    },
+    "Leadsmith": {
+      "name": "Лідсміт"
+    },
+    "Lonely Machine Spirit": {
+      "name": "Самотній машинний дух"
+    },
+    "Lyzerium Bottles": {
+      "name": "Лізеріумні пляшки"
+    },
+    "Masu": {
+      "name": "Масу"
+    },
+    "Mutant Bat": {
+      "name": "Кажан-мутант"
+    },
+    "Mutant Desert Drake": {
+      "name": "Пустельний селезень-мутант"
+    },
+    "Mutant Giant Toad": {
+      "name": "Гігантська жаба-мутант"
+    },
+    "Ogre Slug": {
+      "name": "Огровий слимак"
+    },
+    "Palzu": {
+      "name": "Палзу"
+    },
+    "Parsus": {
+      "name": "Парсус"
+    },
+    "Powderkeg Punk Bombardier": {
+      "name": "Powderkeg Punk Bombardier"
+    },
+    "Powderkeg Punk Gunner": {
+      "name": "Панк-навідник з порохової бочки"
+    },
+    "Prairie Drake": {
+      "name": "Прерійний Дрейк"
+    },
+    "Precarious Thunderstone Trap": {
+      "name": "Ненадійна пастка Thunderstone"
+    },
+    "Purple Dye Trap": {
+      "name": "Фіолетова пастка для барвників"
+    },
+    "Pyronite Ooze": {
+      "name": "Піронітовий ил"
+    },
+    "Repeater Crossbow Trap": {
+      "name": "Повторювач арбалетної пастки"
+    },
+    "Roxy": {
+      "name": "Роксі"
+    },
+    "Rust Ooze": {
+      "name": "Іржа"
+    },
+    "Sabora Sharkosa": {
+      "name": "Собора Шаркоса"
+    },
+    "Scarecophagus": {
+      "name": "Скарекофаг"
+    },
+    "Second Kiss Engine": {
+      "name": "Другий двигун поцілунку"
+    },
+    "Shock Zombie": {
+      "name": "Шоковий зомбі"
+    },
+    "Shoma Lyzerius": {
+      "name": "Шома Лізерій"
+    },
+    "Skeletal Crocodile": {
+      "name": "Скелет крокодила"
+    },
+    "Slick": {
+      "name": "Витончений"
+    },
+    "Sludgespine Killer": {
+      "name": "Sludgespine Killer"
+    },
+    "Smog Giant": {
+      "name": "Гігант смогу"
+    },
+    "Smog Wraith": {
+      "name": "Привид Смогу"
+    },
+    "Spellscar Sky Marauder": {
+      "name": "Spellscar Sky Marauder"
+    },
+    "Steaming Kingdom Bartender": {
+      "name": "Бармен Королівства"
+    },
+    "Stink-Sap Trap": {
+      "name": "Смердюча пастка"
+    },
+    "Subduing Gas Chamber": {
+      "name": "Підкорення газової камери"
+    },
+    "Swee Pup": {
+      "name": "Підмести"
+    },
+    "The Claws of Time": {
+      "name": "Кігті часу"
+    },
+    "Trapjaw Tangle": {
+      "name": "Клубок пасткової щелепи"
+    },
+    "Vewslog": {
+      "name": "Vewslog"
+    },
+    "Volatile Reagents": {
+      "name": "Летючі реагенти"
+    },
+    "Wooden Bullets Trap": {
+      "name": "Дерев'яна пастка для куль"
+    },
+    "Yeast Ooze": {
+      "name": "Дріжджовий осад"
+    }
+  }
+}
