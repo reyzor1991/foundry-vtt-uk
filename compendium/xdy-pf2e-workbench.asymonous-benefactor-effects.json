@@ -1,0 +1,37 @@
+{
+    "label": "asymonous-benefactor-effects, не імпортувати",
+    "entries": {
+        "Spell Effect: Inspire Courage (3 rounds)": {
+            "name": "Ефект заклинання: надихає мужністю (3 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspire Courage}</em></p>\n<p>Вас надихають слова чи мелодії підбадьорення. Ви отримуєте статусний бонус +1 для кидків атаки, кидків пошкодження та збереження від ефектів страху.</p>"
+        },
+        "Spell Effect: Inspire Courage (4 rounds)": {
+            "name": "Ефект заклинання: надихає мужністю (4 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspire Courage}</em></p>\n<p>Вас надихають слова чи мелодії підбадьорення. Ви отримуєте статусний бонус +1 для кидків атаки, кидків пошкодження та збереження від ефектів страху.</p>"
+        },
+        "Spell Effect: Inspire Defense (3 rounds)": {
+            "name": "Ефект заклинання: Inspire Defense (3 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspire Defense}</em></p>\n<p>Ви надихаєте своїх союзників захищати себе ефективніше. Ви та всі союзники в зоні отримуєте бонус статусу +1 до AC і рятувальних кидків, а також опір фізичній шкоді, що дорівнює половині рівня заклинання.</p>\n<p><em>Примітка: опір не додається автоматично.</em></p>"
+        },
+        "Spell Effect: Inspire Defense (4 rounds)": {
+            "name": "Ефект заклинання: Inspire Defense (4 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspire Defense}</em></p>\n<p>Ви надихаєте своїх союзників захищати себе ефективніше. Ви та всі союзники в зоні отримуєте бонус статусу +1 до AC і рятувальних кидків, а також опір фізичній шкоді, що дорівнює половині рівня заклинання.</p>\n<p><em>Примітка: опір не додається автоматично.</em></p>"
+        },
+        "Spell Effect: Song of Strength (3 rounds)": {
+            "name": "Ефект заклинання: Пісня сили (3 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.Xxdwkt0EEDgP1LGc]{Song of Strength}</em></p>\n<p>Ви зміцнюєте фізичну силу своїх союзників сердечним закликом. Ви та ваші союзники отримуєте бонус статусу +1 до перевірок легкої атлетики та до своїх DC проти таких дій навичок легкої атлетики, як «Роззброєння», «Штовхання» та «Подорож».</p>\n<p><em>Примітка: бонус до DC не додається автоматично.</em></p>"
+        },
+        "Spell Effect: Song of Strength (4 rounds)": {
+            "name": "Ефект заклинання: Пісня сили (4 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.Xxdwkt0EEDgP1LGc]{Song of Strength}</em></p>\n<p>Ви зміцнюєте фізичну силу своїх союзників сердечним закликом. Ви та ваші союзники отримуєте бонус статусу +1 до перевірок легкої атлетики та до своїх DC проти таких дій навичок легкої атлетики, як «Роззброєння», «Штовхання» та «Подорож».</p>\n<p><em>Примітка: бонус до DC не додається автоматично.</em></p>"
+        },
+        "Spell Effect: Triple Time (3 rounds)": {
+            "name": "Ефект заклинання: потрійний час (3 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]{Потрійний час}</em></p>\n<p>Ви отримуєте статусний бонус на 10 футів до вашої швидкості.</p>"
+        },
+        "Spell Effect: Triple Time (4 rounds)": {
+            "name": "Ефект заклинання: потрійний час (4 раунди)",
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]{Потрійний час}</em></p>\n<p>Ви отримуєте статусний бонус на 10 футів до вашої швидкості.</p>"
+        }
+    }
+}

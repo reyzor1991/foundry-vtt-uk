@@ -1,0 +1,491 @@
+{
+  "label": "Сила тисячі",
+  "entries": {
+    "Abendego Brute": {
+      "name": "Абендего Брут"
+    },
+    "Abendego Jailer": {
+      "name": "Тюремник Абендего"
+    },
+    "Abendego Priest": {
+      "name": "Священик Абендего"
+    },
+    "Agitated Carnivorous Plants": {
+      "name": "Схвильовані хижі рослини"
+    },
+    "Ajbal Kimon": {
+      "name": "Аджбал Кімон"
+    },
+    "Alapolo": {
+      "name": "Алаполо"
+    },
+    "Alate Ant": {
+      "name": "Лате Ант"
+    },
+    "Anadi Fateweaver": {
+      "name": "Анаді Фейтвівер"
+    },
+    "Anadi Lurker": {
+      "name": "Анаді Луркер"
+    },
+    "Anadi Seeker": {
+      "name": "Шукач Анаді"
+    },
+    "Ancient Rivener": {
+      "name": "Стародавній Рівернер"
+    },
+    "Apocalypse Ant Swarm": {
+      "name": "Апокаліпсис Мурашиний рій"
+    },
+    "Aspect of Hunger": {
+      "name": "Аспект голоду"
+    },
+    "Aspect of Immortality": {
+      "name": "Аспект безсмертя"
+    },
+    "Aspect of Insects": {
+      "name": "Аспект комах"
+    },
+    "Auto-Turret": {
+      "name": "Автобашта"
+    },
+    "Avatar Of Walkena": {
+      "name": "Аватар Валькени"
+    },
+    "Ba'aupa Mdoudu": {
+      "name": "Бааупа Мдоуду"
+    },
+    "Bharlen Sajor": {
+      "name": "Бхарлен Саджор"
+    },
+    "Biloko Reaver": {
+      "name": "Білоко Рейвер"
+    },
+    "Binji": {
+      "name": "Бінджі"
+    },
+    "Bog Mummy Amalgamation": {
+      "name": "Амальгамація болотної мумії"
+    },
+    "Boggard Hunter": {
+      "name": "Боггард Хантер"
+    },
+    "Boulder Deadfall Trap": {
+      "name": "Boulder Deadfall Trap"
+    },
+    "Bramblehand Champion Construct": {
+      "name": "Конструкція Bramblehand Champion"
+    },
+    "Cataclysm Beetle": {
+      "name": "Катаклізм Жук"
+    },
+    "Centipede Carcasses Trap": {
+      "name": "Пастка для трупів багатоніжок"
+    },
+    "Chromatic Ooze": {
+      "name": "Хроматичний тинь"
+    },
+    "Clockwork Clock Tower": {
+      "name": "Заводна годинникова вежа"
+    },
+    "Contemplative": {
+      "name": "Споглядальний"
+    },
+    "Contemplative Meditant": {
+      "name": "Споглядальний медитант"
+    },
+    "Contemplative Mentor": {
+      "name": "Споглядальний наставник"
+    },
+    "Cookie": {
+      "name": "Печиво"
+    },
+    "Crawling Slurry": {
+      "name": "Повзаючий гній"
+    },
+    "Crimson Acolyte": {
+      "name": "Багряний аколіт"
+    },
+    "Cyclops Bully": {
+      "name": "Циклоп Булі"
+    },
+    "Dajermube": {
+      "name": "Даджермубе"
+    },
+    "Damibwa": {
+      "name": "Дамібва"
+    },
+    "Deathly Dream": {
+      "name": "Смертельний сон"
+    },
+    "Dimari-Diji": {
+      "name": "Дімарі-Діжі"
+    },
+    "Drenchdead": {
+      "name": "Drenchdead"
+    },
+    "Dwandek": {
+      "name": "Двандек"
+    },
+    "Electrified Water Ward": {
+      "name": "Електрифіковане водопостачання"
+    },
+    "Entropy Choir": {
+      "name": "Хор Ентропія"
+    },
+    "Fire-pot Ubanu": {
+      "name": "Горщик Убану"
+    },
+    "Flensing Chute": {
+      "name": "Фленсинговий жолоб"
+    },
+    "Formian Mageslayer": {
+      "name": "Форміанський вбивця магів"
+    },
+    "Formian Queen": {
+      "name": "Форманська королева"
+    },
+    "Formian Worker": {
+      "name": "Formian Worker"
+    },
+    "Froglegs": {
+      "name": "Жаб'ячі лапки"
+    },
+    "Gambulami": {
+      "name": "Гамбуламі"
+    },
+    "Gbahali": {
+      "name": "Гбахалі"
+    },
+    "Giant Goliath Beetle": {
+      "name": "Гігантський жук-голіаф"
+    },
+    "Giant Mining Bee": {
+      "name": "Гігантська шахтарська бджола"
+    },
+    "Giant Silverfish": {
+      "name": "Гігантська срібна рибка"
+    },
+    "Giant Tsetse Fly": {
+      "name": "Гігантська муха цеце"
+    },
+    "Giant Worker Bee": {
+      "name": "Гігантська робоча бджола"
+    },
+    "Gluttonworm": {
+      "name": "Ненажера"
+    },
+    "Gnagrif": {
+      "name": "Гнагріф"
+    },
+    "Gold Defender": {
+      "name": "Золотий захисник"
+    },
+    "Gold Defender Garrison": {
+      "name": "Гарнізон золотого захисника"
+    },
+    "Golgopo": {
+      "name": "Голгопо"
+    },
+    "Grave Karina": {
+      "name": "Могила Карина"
+    },
+    "Graveknight Captain": {
+      "name": "Капітан Гравекнайт"
+    },
+    "Graveknight Champion": {
+      "name": "Гравекнайт чемпіон"
+    },
+    "Great Grodair": {
+      "name": "Великий Grodair"
+    },
+    "Grippli Jinxer": {
+      "name": "Grippli Jinxer"
+    },
+    "Grippli Skirmisher": {
+      "name": "Grippli Skirmisher"
+    },
+    "Grouloop": {
+      "name": "Grouloop"
+    },
+    "Halbrux Far-sight": {
+      "name": "Halbrux Далекогляд"
+    },
+    "Hivebound Arboreal": {
+      "name": "Деревний вулик"
+    },
+    "I'iko Dragon": {
+      "name": "І'іко Дракон"
+    },
+    "Ikeshti Brood-Minder": {
+      "name": "Виводок Ікешті"
+    },
+    "Iobane Magus": {
+      "name": "Маг Іобане"
+    },
+    "Ironclad Annihilator Beetle": {
+      "name": "Ironclad Annihilator Beetle"
+    },
+    "Ixamè": {
+      "name": "Іксаме"
+    },
+    "Jackal Guard": {
+      "name": "Шакал гвардія"
+    },
+    "Karumzek": {
+      "name": "Карумзек"
+    },
+    "Karumzek Swarm": {
+      "name": "Карумзек Рій"
+    },
+    "Khefak Scuttler": {
+      "name": "Хефак Скатлер"
+    },
+    "Kilia Mwibo": {
+      "name": "Кілія Мвібо"
+    },
+    "King of Biting Ants": {
+      "name": "Король кусаючих мурах"
+    },
+    "Kiru": {
+      "name": "Кіру"
+    },
+    "Kolbo": {
+      "name": "Колбо"
+    },
+    "Kreekoss": {
+      "name": "Крікосс"
+    },
+    "Kurshkin": {
+      "name": "Куршкіна"
+    },
+    "Lignified Adamantine Golem": {
+      "name": "Здерев'янілий адамантовий голем"
+    },
+    "Living Sun-Spire": {
+      "name": "Живе сонце-шпиль"
+    },
+    "Loakan": {
+      "name": "Лоакан"
+    },
+    "Mashkudu The Bully": {
+      "name": "Машкуду Хуліган"
+    },
+    "Mpeshi": {
+      "name": "Мпеші"
+    },
+    "Mpondo": {
+      "name": "Мпондо"
+    },
+    "Mutated Sewer Ooze": {
+      "name": "Мутований каналізаційний мул"
+    },
+    "Nairu": {
+      "name": "Найру"
+    },
+    "Nkiruka": {
+      "name": "Нкірука"
+    },
+    "Norgorberite Spy": {
+      "name": "Норгорберітовий шпигун"
+    },
+    "Old Thrasher": {
+      "name": "Старий Трешер"
+    },
+    "Onyiji": {
+      "name": "Onyiji"
+    },
+    "Pugwampi (SoT)": {
+      "name": "Pugwampi (SoT)"
+    },
+    "Ravager Of Tindalos": {
+      "name": "Спустошитель Тіндалоса"
+    },
+    "Reborn Sun Hunter": {
+      "name": "Reborn Sun Hunter"
+    },
+    "Reborn Sun Mage": {
+      "name": "Відроджений маг сонця"
+    },
+    "Reborn Sun Warrior": {
+      "name": "Reborn Sun Warrior"
+    },
+    "Red Commander Ant": {
+      "name": "Червоний командир ант"
+    },
+    "Red Guard Ant": {
+      "name": "Червоногвардійський ант"
+    },
+    "Red Queen": {
+      "name": "Червона Королева"
+    },
+    "Reth": {
+      "name": "Reth"
+    },
+    "Riding Frog": {
+      "name": "Верхова жаба"
+    },
+    "Rigged Ramen Cart": {
+      "name": "Оснащений візок Ramen"
+    },
+    "Salathiss": {
+      "name": "Салатіс"
+    },
+    "Sand Racer": {
+      "name": "Гонщик на піску"
+    },
+    "Screaming Sulfur": {
+      "name": "Сірка, що кричить"
+    },
+    "Scrit": {
+      "name": "Scrit"
+    },
+    "Serpent Ward": {
+      "name": "Зміїна палата"
+    },
+    "Serpentfolk Granitescale": {
+      "name": "Серпентфолк гранітна шкала"
+    },
+    "Serpentfolk Venom Caller": {
+      "name": "Serpentfolk Venom Caller"
+    },
+    "Shianshi Waymaker": {
+      "name": "Shianshi Waymaker"
+    },
+    "Shieldbearer Construct": {
+      "name": "Конструкція щитоносця"
+    },
+    "Shobhad Enforcer": {
+      "name": "Shobhad Enforcer"
+    },
+    "Shobhad Sniper": {
+      "name": "Шобхад Снайпер"
+    },
+    "Sicklehand Construct": {
+      "name": "Серповидна конструкція"
+    },
+    "Silverfish Swarm": {
+      "name": "Сріблястий рій"
+    },
+    "Skartitch Chip-Tooth": {
+      "name": "Скартітч Чіп-Зуб"
+    },
+    "Slana": {
+      "name": "Слана"
+    },
+    "Soul Swarm": {
+      "name": "Душевний рій"
+    },
+    "Sparkeater": {
+      "name": "Іскроїд"
+    },
+    "Spawn of Taon": {
+      "name": "Відродження Таона"
+    },
+    "Spellskein": {
+      "name": "Spellskein"
+    },
+    "Spellskein (Consecrate)": {
+      "name": "Spellskein (Освятити)"
+    },
+    "Spellskein (Control Weather)": {
+      "name": "Spellskein (контроль погоди)"
+    },
+    "Spellskein (Heroes' Feast)": {
+      "name": "Spellskein (Свято героїв)"
+    },
+    "Spider Summoning Rune": {
+      "name": "Руна виклику павука"
+    },
+    "Ssumzili": {
+      "name": "Ссумзілі"
+    },
+    "Stinger Ward Trap": {
+      "name": "Пастка Стінгер Уорд"
+    },
+    "Stone Ghost": {
+      "name": "Кам'яний привид"
+    },
+    "Sun Warrior Brigade": {
+      "name": "Бригада воїнів Сонця"
+    },
+    "Sunburst Corpse": {
+      "name": "Sunburst Corpse"
+    },
+    "Ta'apundo": {
+      "name": "Таапундо"
+    },
+    "Takulu Ot": {
+      "name": "Такулу От"
+    },
+    "Taon": {
+      "name": "Таон"
+    },
+    "Tatterthread": {
+      "name": "рвана нитка"
+    },
+    "Terwa Chosen": {
+      "name": "Terwa Chosen"
+    },
+    "Terwa Prodigy": {
+      "name": "Terwa Prodigy"
+    },
+    "Terwa Star Reader": {
+      "name": "Terwa Star Reader"
+    },
+    "Thasteron Khefak": {
+      "name": "Тастерон Хефак"
+    },
+    "Thiarvo the Quick": {
+      "name": "Тіарво Швидкий"
+    },
+    "Thorn Guardian": {
+      "name": "Терновий охоронець"
+    },
+    "Tollvych": {
+      "name": "Толлвич"
+    },
+    "Umbo": {
+      "name": "Umbo"
+    },
+    "Unshadowed Anchor Root": {
+      "name": "Unshadowed Anchor Root"
+    },
+    "Unshadowed Haibram": {
+      "name": "Незатінений Гайбрам"
+    },
+    "Unshadowed Koride": {
+      "name": "Незатінений Коріде"
+    },
+    "Unshadowed Mariama": {
+      "name": "Незатінена Маріама"
+    },
+    "Unshadowed Okoro": {
+      "name": "Незатінений Окоро"
+    },
+    "Urbel": {
+      "name": "Урбель"
+    },
+    "Venom Pool": {
+      "name": "Басейн Веном"
+    },
+    "Wereant Disciple": {
+      "name": "Wereant Disciple"
+    },
+    "Wereant Poisoner": {
+      "name": "Wereant Poisoner"
+    },
+    "Wereant Sentinel": {
+      "name": "Wereant Sentinel"
+    },
+    "Worknesh": {
+      "name": "Воркнеш"
+    },
+    "Yonsuu": {
+      "name": "Йонсуу"
+    },
+    "Yorulu": {
+      "name": "Йорулу"
+    }
+  }
+}

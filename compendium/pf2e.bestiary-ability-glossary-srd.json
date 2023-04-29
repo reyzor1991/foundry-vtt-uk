@@ -1,0 +1,201 @@
+{
+  "label": "Глосарій здібностей бестіарію",
+  "entries": {
+    "+1 Status to All Saves vs. Magic": {
+      "name": "+1 статус до всіх сейвів проти магії",
+      "description": ""
+    },
+    "All-Around Vision": {
+      "name": "Всестороннє бачення",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+    },
+    "Aquatic Ambush": {
+      "name": "Водна засідка",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+    },
+    "At-Will Spells": {
+      "name": "Заклинання за бажанням",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+    },
+    "Attack of Opportunity": {
+      "name": "Attack of Opportunity",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+    },
+    "Aura": {
+      "name": "Аура",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Aura]</p>"
+    },
+    "Buck": {
+      "name": "Бак",
+      "description": "<p>@Check[type:reflex|dc:]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
+    },
+    "Catch Rock": {
+      "name": "Спіймати Рок",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+    },
+    "Change Shape": {
+      "name": "Змінити форму",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+    },
+    "Constant Spells": {
+      "name": "Постійні заклинання",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+    },
+    "Constrict": {
+      "name": "Звужувати",
+      "description": "<p>[[/r 0[bludgeoning]]]{0 bludgeoning}, @Check[type:fortitude|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+    },
+    "Coven": {
+      "name": "Ковен",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+    },
+    "Darkvision": {
+      "name": "Темнобачення",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+    },
+    "Disease": {
+      "name": "Захворювання",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
+    },
+    "Engulf": {
+      "name": "Поглинати",
+      "description": "<p>@Check[type:reflex|dc:], [[/r 0[damage]]] пошкодження, Escape DC [0], Rupture [0]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+    },
+    "Fast Healing": {
+      "name": "Швидке загоєння",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+    },
+    "Ferocity": {
+      "name": "Лютість",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+    },
+    "Form Up": {
+      "name": "Форма вгору",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
+    },
+    "Frightful Presence": {
+      "name": "Страшна присутність",
+      "description": "<p>@Template[type:emanation|distance:0]{0 футів} @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Check[type:will|dc:]</ p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+    },
+    "Grab": {
+      "name": "хапати",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+    },
+    "Greater Constrict": {
+      "name": "Великий Констрикт",
+      "description": "<p>[[/r 0[bludgeoning]]]{0 bludgeoning}, @Check[type:fortitude|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+    },
+    "Greater Darkvision": {
+      "name": "Великий темний зір",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+    },
+    "Improved Grab": {
+      "name": "Покращений захоплення",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+    },
+    "Improved Knockdown": {
+      "name": "Покращений нокдаун",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
+    },
+    "Improved Push": {
+      "name": "Покращено Push",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
+    },
+    "Knockdown": {
+      "name": "Нокдаун",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+    },
+    "Lifesense": {
+      "name": "Lifesense",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+    },
+    "Light Blindness": {
+      "name": "Світлова сліпота",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
+    },
+    "Low-Light Vision": {
+      "name": "Бачення при слабкому освітленні",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+    },
+    "Negative Healing": {
+      "name": "Негативне зцілення",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+    },
+    "Nimble Dodge": {
+      "name": "Спритний Додж",
+      "description": "<p><strong>Тригер</strong> Істота атакує вас, і ви можете побачити нападника.</p>\n<p><strong>Вимоги</strong> Ви не обтяжені</p>\n<hr/>\n<p>Ви спритно ухиляєтеся від шляху, отримуючи +2 бонус обставин до AC проти ініціючої атаки.</p>"
+    },
+    "Poison": {
+      "name": "Отрута",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
+    },
+    "Power Attack": {
+      "name": "Силова атака",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
+    },
+    "Push": {
+      "name": "Поштовх",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
+    },
+    "Regeneration": {
+      "name": "Регенерація",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
+    },
+    "Rend": {
+      "name": "Розірвати",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+    },
+    "Retributive Strike": {
+      "name": "Відплатний удар",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
+    },
+    "Scent": {
+      "name": "Запах",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+    },
+    "Shield Block": {
+      "name": "Щитовий блок",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+    },
+    "Sneak Attack": {
+      "name": "Скрита атака",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+    },
+    "Swallow Whole": {
+      "name": "Проковтнути цілком",
+      "description": "<p>[Розмір у списку], [[/r 0[bludgeoning]]]{0 bludgeoning}, Розрив [0]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+    },
+    "Swarm Mind": {
+      "name": "Рой Розум",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+    },
+    "Telepathy": {
+      "name": "Телепатія",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+    },
+    "Thoughtsense": {
+      "name": "Думкасенс",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Thoughtsense]</p>"
+    },
+    "Throw Rock": {
+      "name": "Кинути камінь",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+    },
+    "Trample": {
+      "name": "Топтати",
+      "description": "<p>[Попередження в списку], @Check[type:reflex|dc:|basic:true]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+    },
+    "Tremorsense": {
+      "name": "тремор",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+    },
+    "Troop Defenses": {
+      "name": "Військова оборона",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
+    },
+    "Wavesense": {
+      "name": "Відчуття хвилі",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
+    }
+  }
+}

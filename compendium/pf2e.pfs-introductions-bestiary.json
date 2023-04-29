@@ -1,0 +1,44 @@
+{
+  "label": "Введення в PFS",
+  "entries": {
+    "Ancient Summoning Rune": {
+      "name": "Стародавня руна виклику"
+    },
+    "Befuddled Thoughts": {
+      "name": "Збентежені думки"
+    },
+    "Blood Hunger": {
+      "name": "Голод крові"
+    },
+    "Cheerful Tune": {
+      "name": "Весела мелодія"
+    },
+    "Cleaning Agents": {
+      "name": "Чистячі засоби"
+    },
+    "Encouraging Supervision": {
+      "name": "Заохочувальний нагляд"
+    },
+    "Ghoul (PFS Intro 2)": {
+      "name": "Ghoul (PFS Intro 2)"
+    },
+    "Rain In Cloudy Day": {
+      "name": "Дощ у похмурий день"
+    },
+    "Spiked Pit": {
+      "name": "Яма з шипами"
+    },
+    "Spite of the Righteous": {
+      "name": "Назло праведникам"
+    },
+    "Sun-Scorched Shadow Drake": {
+      "name": "Обпалений сонцем тінь Дрейк"
+    },
+    "Swamp Ooze": {
+      "name": "Болотний ил"
+    },
+    "Swampy Quicksand": {
+      "name": "Заболочені піски"
+    }
+  }
+}

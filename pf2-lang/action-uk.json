@@ -39,7 +39,7 @@
       },
       "AvoidNotice": {
         "Notes": {
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.VRSef5y1LmL2Hkjf]{undetected} істотою під час вашого руху та залишитеся непоміченими істотою в кінці.<br/><br />Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.VRSef5y1LmL2Hkjf]{undetected} істотою під час вашого руху та залишитеся непоміченими істотою в кінці.<br/><br/>Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.",
           "success": "<strong>Успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.VRSef5y1LmL2Hkjf]{undetected} істотою під час вашого руху та залишаєтеся непоміченими істотою в кінці його.<br/><br/ >Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}."
         },
         "Title": "Уникати виявлення"
