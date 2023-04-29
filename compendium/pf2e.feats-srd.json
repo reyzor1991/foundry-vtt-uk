@@ -14459,7 +14459,7 @@
     },
     "Titan Wrestler": {
       "name": "Титан-борець",
-      "description": "<p>Ви можете спробувати @UUID[Compendium.pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Зняти}, @UUID[Compendium.pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @UUID[Compendium.pf2e.actionspf2e.7blmbDrQFNfdT731] } або @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} істоти, які на два розміри більші за вас або на три розміри більші за вас, якщо ви є легендарним спортсменом.</p>"
+      "description": "<p>Ви можете спробувати @UUID[Compendium.pf2e.actionspf2e.Dt6B1slsBy8ipJu9], @UUID[Compendium.pf2e.actionspf2e.PMbdMWc2QroouFGD], @UUID[Compendium.pf2e.actionspf2e.7blmbDrQFNfdT731] або @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} істоти, які на два розміри більші за вас або на три розміри більші за вас, якщо ви є легендарним спортсменом.</p>"
     },
     "Titan's Stature": {
       "name": "Зростання Титана",

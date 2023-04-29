@@ -1,0 +1,45 @@
+{
+  "label": "Предмети PF2e Workbench Items (xdy-pf2e-workbench-items)",
+  "entries": {
+    "[Effect] Dirge Of Doom": {
+      "name": "[Ефект] Похоронний спів загибелі",
+      "description": "<p><span style=\"color:#191813;font-family:Roboto, sans-serif;font-size:13px\">Істоти з цим ефектом </span><span style=\"color:#191813;font- family:Roboto, sans-serif;font-size:13px\">не буде автоматично зменшувати значення @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} нижче 1.</span></p>"
+    },
+    "Aura: Bane": {
+      "name": "Аура: Бейн",
+      "description": "<p>Досить хороша аура для @Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Bane} (технічно це не аура, але, ну...)</p>\n<p>Цей ефект має ауру 5 футів. Якщо ви збільшите розмір, вам потрібно буде відредагувати правило вручну.</p>"
+    },
+    "Aura: Bless": {
+      "name": "Аура: Благословення",
+      "description": "<p>Досить хороша аура для @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bless} (технічно це не аура, але, ну...)</p>\n<p>Цей ефект має ауру 5 футів. Якщо ви збільшите розмір, вам потрібно буде відредагувати правило вручну.</p>"
+    },
+    "Aura: Inspire Courage": {
+      "name": "Аура: Надихання мужністі",
+      "description": "<p>Досить хороша аура для @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspire Courage} (технічно це не аура, але, ну...)</p>\n<p>Створено як ефект 1 раунду з постійним ефектом. Повторно застосовуйте кожен раунд, використовуйте макрос Symon's Lingering Heroics або ефект клацання, утримуючи клавішу Shift, щоб редагувати належну тривалість (якщо у вас є модуль Extempore Effects, який вам слід...).</p>"
+    },
+    "Aura: Inspire Defense": {
+      "name": "Аура: Надихання захисту",
+      "description": "<p>Досить хороша аура для @Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspire Defense} (технічно це не аура, але, ну...)</p>\n<p>Створено як ефект 1 раунду з постійним ефектом. Повторно застосовуйте кожен раунд, використовуйте макрос Symon's Lingering Heroics або ефект клацання, утримуючи клавішу Shift, щоб редагувати належну тривалість (якщо у вас є модуль Extempore Effects, який вам слід...).</p>"
+    },
+    "Aura: Protective Ward": {
+      "name": "Аура: Захисна варта",
+      "description": "<p>Надано @Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]{Protective Ward}.</p>\n<p>Ви випромінюєте мерехтливу ауру захисної магії. Ви та будь-які союзники в зоні отримуєте бонус статусу +1 до AC. Кожного разу, коли ви @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Підтримуєте заклинання}, радіус еманації збільшується на 5 футів, максимум до 30 футів.</p>\n<p>Збільште лічильник аури, щоб збільшити радіус на 5 футів.</p>"
+    },
+    "Effect: Change Focus Point Maximum": {
+      "name": "Ефект: зміна максимальної точки фокусування",
+      "description": "<p>Додайте це до будь-яких символів, які повинні мати обмеження на точки фокусування, відмінні від 3, а потім змініть лічильник на необхідне значення.</p>"
+    },
+    "Reach 'aura'": {
+      "name": "Досягти \"аури\"",
+      "description": "<p>Досягніть «аури», налаштуйте радіус відповідно до вашої оснащеної зброї.</p>"
+    },
+    "Workbench ABP": {
+      "name": "Верстак АБП",
+      "description": "<p>Моя спроба ABP за допомогою елементів правил (розміщених на \"Feat\"). Не зовсім повний, але досить корисний. (Мої гравці вирішили відмовитися від ABP, тому я не буду використовувати його найближчим часом, але вирішив, що це може бути корисним для когось іншого, тому я розміщую його в Workbench.)</p>\n<p>Щоб скористатися нею, <em>не</em> вмикайте ABP у Foundry, натомість додайте цю «вміння» в розділ «Уміння кампанії» для всіх персонажів, для яких ви хочете використовувати ці правила.)</p>\n<p>Лише незначно перевірено, але вам, ймовірно, потрібно буде видалити та прочитати цю можливість, коли ви підвищите рівень.</p>\n<p>Налаштуйте економіку настільки, наскільки вважаєте за потрібне. Вам не потрібно видаляти руни зі зброї та обладунків, якщо ви цього не хочете, ці RE реалізуються як предметні бонуси, тому застосовується будь-яка руна чи персонаж, які мають найвищий бонус, <em>крім</em > для нищівних атак, які *поєднуються* з вражаючими рунами. (Я використав піктограму Abadar, оскільки, ну, я щойно обговорював економіку кампанії в попередньому реченні, тому це здавалося доречним. :)</p>\n<p> </p>"
+    },
+    "Workbench Flat Check Notes V3.35.2": {
+      "name": "Workbench Flat Check Notes V3.35.2",
+      "description": "<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\">Застаріло: замість цього використовуйте модуль Flat Checks PF2 (https://github.com/jessev14/pf2-flat-check/ )</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\">Ця «Дія» містить кілька корисних приміток RE :s, що, коли це доцільно, додають примітки щодо плоских чеків до кидків. Щоб використовувати його, просто додайте його до своїх персонажів/npc і ігноруйте. Його автоматично буде оновлено до новішої версії під час оновлення в Workbench.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\">Це далеко не завершено, але це хороший початок.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\">Наразі обробляє:</p>\n<ul style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\">\n<li style=\"box-sizing:border-box;user-select:text\">Ціль не виявлена, прихована, невидима або прихована.</li>\n<li style=\"box-sizing:border-box;user-select:text\">Я засліплений або засліплений.</li>\n<li style=\"box-sizing:border-box;user-select:text\">Self має вміння Blind-Fight (часткове оброблення непоміченого)</li>\n</ul>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\">Ви можете отримати кілька нотаток, використовуйте найгіршу один.</p>\n<p style=\"box-sizing:border-box;user-select:text;color:#191813;font-family:Roboto, sans-serif;font-size:13px\"> </p>"
+    }
+  }
+}
