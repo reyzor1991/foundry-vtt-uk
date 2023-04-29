@@ -155,7 +155,7 @@
         },
         "Effect: Breach the Abyss - Electricity": {
             "name": "Ефект: Прорив Безодні - Електрика",
-            "description": "<p>Істота завдає додаткової [[/r 2d6[електрики]]] шкоди своєю зброєю.</p>"
+            "description": "<p>Істота завдає додаткової [[/r 2d6[electricity]]] шкоди своєю зброєю.</p>"
         },
         "Effect: Breach the Abyss - Fire": {
             "name": "Ефект: Прорвати Безодню - Вогонь",
@@ -171,7 +171,7 @@
         },
         "Effect: Bully the Departed": {
             "name": "Ефект: знущатися над Відступником",
-            "description": "<p>Істота отримує @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]{Регенерація 15 (дезактивується силою або добром)} і завдає додаткової [[/r 1d8[зло]]] шкоди про його страйки.</p>"
+            "description": "<p>Істота отримує @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]{Регенерація 15 (дезактивується силою або добром)} і завдає додаткової [[/r 1d8[evil]]] шкоди про його страйки.</p>"
         },
         "Effect: Bully's Rage": {
             "name": "Ефект: лють хулігана",

@@ -57,7 +57,7 @@
     "AttackEffects": {
       "DropWeapon": "The creature drops the wielded weapon.",
       "IgnoreConcealed": "The attack ignores the @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition.",
-      "IgnoreCover": "The target doesn't benefit from lesser cover, and it reduces the AC bonus from standard cover by 2 against the attack.",
+      "IgnoreCover": "The target doesn't benefit from lesser cover, and it reduces the КД bonus from standard cover by 2 against the attack.",
       "IncreasedCriticalChance": "If the attack hits and the creature rolls a 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure.",
       "IncreasedReach5": "Reach increased by 5 feet",
       "InterruptAction": "On a hit, the target's action is interrupted.",
@@ -503,7 +503,7 @@
     },
     "Mutagens": {
       "BestialMutagen": {
-        "FeralPrompt": "Increase penalty to AC to increase damage dice size?"
+        "FeralPrompt": "Increase penalty to КД to increase damage dice size?"
       }
     },
     "NPCAbility": {
@@ -1363,7 +1363,7 @@
         }
       },
       "DancingShield": {
-        "Prompt": "Select the shield's AC bonus."
+        "Prompt": "Select the shield's КД bonus."
       },
       "DedicationCraftingEntry": {
         "FireworkTechnician": "Firework Technician",

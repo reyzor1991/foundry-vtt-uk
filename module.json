@@ -17,7 +17,7 @@
   "url": "https://github.com/reyzor1991/foundry-vtt-uk",
   "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
   "download": "https://github.com/reyzor1991/foundry-vtt-uk/archive/refs/heads/master.zip",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "compatibility": {
     "minimum": "10",
     "maximum": "10.291",
