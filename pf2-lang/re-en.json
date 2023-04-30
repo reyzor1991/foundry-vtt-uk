@@ -57,15 +57,22 @@
     "AttackEffects": {
       "DropWeapon": "The creature drops the wielded weapon.",
       "IgnoreConcealed": "The attack ignores the @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition.",
-      "IgnoreCover": "The target doesn't benefit from lesser cover, and it reduces the КД bonus from standard cover by 2 against the attack.",
+      "IgnoreCover": "The target doesn't benefit from lesser cover, and it reduces the AC bonus from standard cover by 2 against the attack.",
       "IncreasedCriticalChance": "If the attack hits and the creature rolls a 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure.",
       "IncreasedReach5": "Reach increased by 5 feet",
       "InterruptAction": "On a hit, the target's action is interrupted.",
       "KnockProne": "On a hit, the target is knocked @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}."
     },
     "BattleForm": {
+      "AberrantForm": {
+        "GugSqueezeNote": "Your multiple joints allow you to fit through tight spaces as if you were a Medium creature."
+      },
+      "AngelForm": {
+        "DeafenedNote": "@UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} for 1 round on a critical hit"
+      },
       "Attack": {
         "Antler": "Antler",
+        "AqueousFist": "Aqueous Fist",
         "Beak": "Beak",
         "Beard": "Beard",
         "Bite": "Bite",
@@ -87,7 +94,7 @@
         "LavaFist": "Lava Fist",
         "Leaf": "Leaf",
         "Leg": "Leg",
-        "LightingLash": "Lightning Lash",
+        "LightningLash": "Lightning Lash",
         "Mandibles": "Mandibles",
         "Moonbeam": "Moonbeam",
         "PiercingHymn": "Piercing Hymn",
@@ -110,13 +117,36 @@
         "Vine": "Vine",
         "WaterSpout": "Water Spout",
         "Wave": "Wave",
+        "Web": "Web",
         "Wing": "Wing"
       },
+      "CosmicForm": {
+        "MoonNote": "The target is @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2} for 1 round.",
+        "SunNote": "The target is @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round."
+      },
+      "DaemonForm": {
+        "CeustodaemonDamageNote": "Any successful jaws or claw Strike deals an additional [[/r {1d6}]]{1d6 damage}, and you take the same amount of damage"
+      },
+      "ElementEmbodied": {
+        "AirPushNote": "Plus @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Push} 10 feet",
+        "WaterPushPullNote": "Plus @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Push} or Pull 10 feet"
+      },
+      "InsectForm": {
+        "SpiderWebNote": "A successful Web attack entangles the target for 1 round, but deals no damage"
+      },
+      "MonstrosityForm": {
+        "ShroudOfFlame": "Shroud of Flame"
+      },
       "Note": {
+        "Grab": "You can spend an action immediately after a hit to @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Grab} the target",
         "GrabbingTrunk": {
           "Text": "A creature up to two sizes smaller that's hit by your trunk is @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}. If you succeed at your @UUID[Compendium.pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple} check against a creature grabbed by your trunk, you can reposition the creature to another space within your trunk's reach.",
           "Title": "Grabbing Trunk"
-        }
+        },
+        "Shove": "You can spend an action immediately after a hit to push the target 5 feet with the effects of a successful @UUID[Compendium.pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}"
+      },
+      "OozeForm": {
+        "GelatinousCubeNote": "A creature hit by your cube face Strike must succeed at a @Check[type:fortitude|dc:resolve(@actor.attributes.spellDC.value)|traits:incapacitation] save against your spell DC or be @UUID[Compendium.pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1} (or @UUID[Compendium.pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} for 1 round on a critical failure); this save has the incapacitation trait."
       }
     },
     "BombNotes": {
@@ -503,7 +533,7 @@
     },
     "Mutagens": {
       "BestialMutagen": {
-        "FeralPrompt": "Increase penalty to КД to increase damage dice size?"
+        "FeralPrompt": "Increase penalty to AC to increase damage dice size?"
       }
     },
     "NPCAbility": {
@@ -1042,7 +1072,9 @@
       "Escape": "To Escape",
       "EscapeForceOpenOrLift": "To Escape, Force Open, or Lift Heavy Objects",
       "Feint": "To Feint",
+      "ForceOpenGrappleShoveOrTrip": "To Force Open, Grapple, Shove, or Trip",
       "Forests": "In Forests",
+      "ForestsOrJungles": "In Forests or Jungles",
       "ForestsOrSnow": "In Forests or Snow",
       "ForestsOrSwamps": "In Forests or Swamps",
       "GatherInformation": "to Gather Information",
@@ -1076,6 +1108,7 @@
       "Orate": "To Orate",
       "Paint": "To Paint",
       "Raining": "Raining",
+      "RecallKnowledgeDeadSubject": "To Recall Knowledge about a deceased subject",
       "Rocky": "In Rocky Terrain",
       "RunningWater": "In Running Water",
       "RustyTerrain": "In Areas of Rusty Objects",
@@ -1158,6 +1191,10 @@
         "BracersOfArmor": "Animal Skin w/ Bracers of Armor",
         "ExplorersClothing": "Animal Skin w/ Explorer's Clothing",
         "MageArmor": "Animal Skin w/ Mage Armor"
+      },
+      "AquaticCombat": {
+        "FireNote": "You can't cast fire spells or use actions with the fire trait underwater.",
+        "RangedNote": "Ranged attacks that deal bludgeoning or slashing damage automatically miss if the attacker or target is underwater, and piercing ranged attacks made by an underwater creature or against an underwater target have their range increments halved."
       },
       "Automaton": {
         "ArcaneLocomotion": {
@@ -1350,6 +1387,10 @@
       "Convergent": {
         "Tactics": "An ally with Convergent Tactics is within reach of the target."
       },
+      "CorrosiveBody": {
+        "Note": "The first time each round that you deal acid damage to a creature in this way, you gain [[/r 3d6 #Temporary Hit Points]]{3d6 temporary Hit Points}",
+        "Note9th": "The first time each round that you deal acid damage to a creature in this way, you gain [[/r 5d6 #Temporary Hit Points]]{5d6 temporary Hit Points}"
+      },
       "Cover": {
         "Greater": "Greater",
         "Lesser": "Lesser",
@@ -1363,7 +1404,7 @@
         }
       },
       "DancingShield": {
-        "Prompt": "Select the shield's КД bonus."
+        "Prompt": "Select the shield's AC bonus."
       },
       "DedicationCraftingEntry": {
         "FireworkTechnician": "Firework Technician",
@@ -1685,6 +1726,12 @@
           "ClimbNote": "If you roll a success on an Athletics check to Climb, you get a critical success instead. You're not flat-footed when you attempt to Climb."
         }
       },
+      "HarrowCourt": {
+        "Fiend": {
+          "ToggleLabel": "Repeating a non-strike action"
+        },
+        "BooksSuitPrompt": "Was the drawn card from Books?"
+      },
       "HarrowDeck": {
         "HarrowSuits": {
           "Books": "Books",
@@ -1732,6 +1779,12 @@
         "SeekHuntedPrey": "To Seek hunted prey",
         "TargetHuntedPrey": "Target is your Hunted Prey",
         "TrackHuntedPrey": "To Track hunted prey"
+      },
+      "Ifrit": {
+        "Lavasoul": {
+          "MagmaSpike": "Magma Spike",
+          "MagmaSpikeCriticalSpecialization": "Instead of the normal critical specialization effect, the target takes [[/r 1d6[persistent,fire]]] damage; you gain a bonus on this persistent damage equal to your item bonus to attack rolls on unarmed attacks."
+        }
       },
       "Inventor": {
         "Innovation": {
@@ -1784,7 +1837,7 @@
       },
       "Leshy": {
         "Seedpod": {
-          "Note": "On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a -10-foot circumstance penalty on the target's Speed for 1 round."
+          "Note": "On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a -10-foot circumstance penalty on the target's Speed for 1 round. @UUID[Compendium.pf2e.feat-effects.wQDHpOKY3GZqvS2v]{Effect: Seedpod}"
         },
         "ThornedSeedpod": {
           "Note": "When you critically succeed at a seedpod Strike, vines twist and stab your foe, dealing [[/r 1d4[persistent,piercing]]]"
@@ -1796,6 +1849,8 @@
         }
       },
       "LitCandle": "Candle is lit",
+      "LitCandlecap": "Candlecap is lit",
+      "LitFirePoi": "Fire Poi is lit",
       "LitTorch": "Torch is lit",
       "Lizardfolk": {
         "GuidedByTheStars": {
@@ -2014,6 +2069,7 @@
         "ConsciousMind": "Select a Conscious Mind.",
         "CreatureSize": "Select a creature size.",
         "DamageType": "Select a damage type.",
+        "DegreeOfSuccess": "Select the degree of success",
         "Deity": "Select a deity.",
         "DeitysDomain": "Select a deity's domain.",
         "DragonBreathWeapon": "Select a dragon's Breath Weapon.",
@@ -2064,6 +2120,9 @@
         }
       },
       "Rogue": {
+        "DistractingFeint": {
+          "Text": "While a creature is flat-footed by your Feint, it also takes a -2 circumstance penalty to Perception checks and Reflex saves. @UUID[Compendium.pf2e.feat-effects.7hRgBo0fRQBxMK7g]{Effect: Distracting Feint}"
+        },
         "EldritchTrickster": {
           "Prompt": "Select a spellcasting multiclass archetype."
         },
@@ -2089,7 +2148,8 @@
       "Shisk": {
         "PiercingQuills": {
           "Note": "Your quills unarmed attack deals @Localize[PF2E.PersistentDamage.Bleed1d4.success] on a critical hit."
-        }
+        },
+        "Quills": "Quills"
       },
       "Shoony": {
         "EsteemedVisitor": {
@@ -2230,6 +2290,19 @@
         "AgainstHumanoids": "Against Humanoids",
         "Necromancer": "Target is a necromancer"
       },
+      "Tattoo": {
+        "WildwoodInk": {
+          "Greater": {
+            "InForestLabel": "Wildwood Ink (Greater) (In Forest)"
+          },
+          "Major": {
+            "InForestLabel": "Wildwood Ink (Major) (In Forest)"
+          },
+          "Normal": {
+            "InForestLabel": "Wildwood Ink (In Forest)"
+          }
+        }
+      },
       "TerrainExpertise": {
         "Prompt": "Select a terrain"
       },
@@ -2325,6 +2398,8 @@
         "ElementalMatter": "Elemental Matter",
         "LongVines": "Long Vines",
         "Prompt": "Select a morph.",
+        "PromptTwo": "Select a 2nd morph.",
+        "PromptThree": "Select a 3rd morph.",
         "WildClaws": "Wild Claws",
         "WildJaws": "Wild Jaws",
         "Wings": "Wings"
