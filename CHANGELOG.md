@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 0.3.2
+
+### Data Updates
+
+-   Fix action names
+-   Translate new actions
+-   Fix formula
+
 ## Version 0.3.1
 
 ### Data Updates
