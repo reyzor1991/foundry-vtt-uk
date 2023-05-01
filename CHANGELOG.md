@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 0.3.1
+
+### Data Updates
+
+-   Fix roll formulas
+-   Fix name of gods
+
+
 ## Version 0.3.0
 
 ### Data Updates

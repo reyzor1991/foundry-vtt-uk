@@ -27,11 +27,11 @@
         },
         "Spell Effect: Triple Time (3 rounds)": {
             "name": "Ефект заклинання: потрійний час (3 раунди)",
-            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]{Потрійний час}</em></p>\n<p>Ви отримуєте статусний бонус на 10 футів до вашої швидкості.</p>"
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]</em></p>\n<p>Ви отримуєте статусний бонус на 10 футів до вашої швидкості.</p>"
         },
         "Spell Effect: Triple Time (4 rounds)": {
             "name": "Ефект заклинання: потрійний час (4 раунди)",
-            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]{Потрійний час}</em></p>\n<p>Ви отримуєте статусний бонус на 10 футів до вашої швидкості.</p>"
+            "description": "<p>Надано <em>@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]</em></p>\n<p>Ви отримуєте статусний бонус на 10 футів до вашої швидкості.</p>"
         }
     }
 }

@@ -75,7 +75,7 @@
     },
     "Frightful Presence": {
       "name": "Страшна присутність",
-      "description": "<p>@Template[type:emanation|distance:0]{0 футів} @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X] @Check[type:will|dc:]</ p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+      "description": "<p>@Template[type:emanation|distance:0] @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X] @Check[type:will|dc:]</ p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
     },
     "Grab": {
       "name": "хапати",
