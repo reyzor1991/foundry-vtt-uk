@@ -18,7 +18,7 @@
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
     },
     "Attack of Opportunity": {
-      "name": "Attack of Opportunity",
+      "name": "Атака по можливості",
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
     },
     "Aura": {
@@ -106,7 +106,7 @@
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
     },
     "Lifesense": {
-      "name": "Lifesense",
+      "name": "Відчуття життя",
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
     },
     "Light Blindness": {

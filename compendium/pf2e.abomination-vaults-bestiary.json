@@ -1,131 +1,56 @@
 {
   "label": "Мерзотні сховища",
   "entries": {
-    "Afflicted Irnakurse": {
-      "name": "Уражений Ірнакурс"
-    },
-    "Aller Rosk": {
-      "name": "Всі Роск"
-    },
-    "Augrael": {
-      "name": "Augrael"
-    },
     "Azvalvigander": {
       "name": "Азвалвігандер"
     },
     "Barcumbuk": {
       "name": "Баркумбук"
     },
-    "Befuddling Gas Trap": {
-      "name": "Оманлива газова пастка"
-    },
-    "Belcorra Haruvex": {
-      "name": "Belcorra Haruvex"
-    },
     "Beluthus": {
       "name": "Белутус"
     },
-    "Blast Tumbler": {
-      "name": "Вибуховий стакан"
-    },
-    "Blood of Belcorra": {
-      "name": "Кров Белкорри"
-    },
-    "Bloodsiphon": {
-      "name": "Кровосифон"
-    },
-    "Bone Gladiator": {
-      "name": "Кістяний гладіатор"
+    "Painful Suggestion Trap": {
+      "name": "Болісна пастка навіювання"
     },
     "Boss Skrawng": {
       "name": "Бос Скраунг"
     },
-    "Bright Walker": {
-      "name": "Яскравий Уокер"
-    },
-    "Caliddo Haruvex": {
-      "name": "Каліддо Харувекс"
-    },
-    "Caligni Defender": {
-      "name": "Захисник туману"
-    },
-    "Canker Cultist": {
-      "name": "Раковий культист"
-    },
-    "Carman Rajani": {
-      "name": "Кармен Раджні"
-    },
-    "Chafkhem": {
-      "name": "Пожалійте їх"
-    },
-    "Chandriu Invisar": {
-      "name": "Чандріу Інвізар"
-    },
-    "Child of Belcorra": {
-      "name": "Дитина Белкорри"
-    },
-    "Corpselight": {
-      "name": "Трупне світло"
-    },
-    "Cratonys": {
-      "name": "Кратоніс"
-    },
-    "Daemonic Fog": {
-      "name": "Демонічний туман"
-    },
-    "Deadtide Skeleton Guard": {
-      "name": "Deadtide Skeleton Guard"
-    },
-    "Deep End Sarglagon": {
-      "name": "Deep End Sarglagon"
-    },
-    "Deepwater Dhuthorex": {
-      "name": "Глибоководний дуторекс"
-    },
-    "Dhuthorex Sage": {
-      "name": "Шавлія дуторекс"
-    },
-    "Doom of Tomorrow": {
-      "name": "Приреченість завтрашнього дня"
-    },
-    "Dragon's Blood Puffball": {
-      "name": "Кров дракона Puffball"
-    },
-    "Dread Dhuthorex": {
-      "name": "Dread Dhuthorex"
-    },
-    "Dread Wisp": {
-      "name": "Dread Wisp"
-    },
-    "Dreshkan": {
-      "name": "Дрешкан"
-    },
     "Drill Field Barbazu": {
       "name": "Бурове поле Барбазу"
     },
-    "Drow Cavern Seer": {
-      "name": "Провидець печери Дроу"
+    "Murmur": {
+      "name": "Мурмур"
     },
-    "Drow Hunter": {
-      "name": "Drow Hunter"
+    "Viscous Black Pudding": {
+      "name": "В'язкий чорний пудинг"
     },
-    "Drow Shootist": {
-      "name": "Дроу Стрілець"
+    "Jafaki": {
+      "name": "Яфакі"
     },
-    "Drow Warden": {
-      "name": "Дроу Варден"
+    "Blast Tumbler": {
+      "name": "Вибуховий стакан"
     },
-    "Dulac": {
-      "name": "озеро"
+    "Summoning Chamber Erinys": {
+      "name": "Викликання Палати Ерініс"
     },
-    "Dune Candle": {
-      "name": "Свічка Дюна"
+    "Vischari": {
+      "name": "Віщарі"
     },
-    "Elder Child Of Belcorra": {
-      "name": "Старша дитина Белкорри"
+    "Jaul's Wolf": {
+      "name": "Вовк Джаула"
     },
-    "Flickerwisp": {
-      "name": "Flickerwisp"
+    "Voidbracken Chuul": {
+      "name": "Войдбракен Чуул"
+    },
+    "Volluk Azrinae": {
+      "name": "Воллук Азріне"
+    },
+    "Padli": {
+      "name": "Падлі"
+    },
+    "Aller Rosk": {
+      "name": "Аллер Роск"
     },
     "Galudu": {
       "name": "Галуду"
@@ -136,26 +61,14 @@
     "Gibtas Bounder": {
       "name": "Гібтас Баундер"
     },
-    "Gibtas Spawn Swarm": {
-      "name": "Gibtas Spawn Swarm"
-    },
-    "Groetan Candle": {
-      "name": "Свічка Гротана"
+    "Deepwater Dhuthorex": {
+      "name": "Глибоководний дуторекс"
     },
     "Gulzash": {
       "name": "Гульзаш"
     },
-    "Hellforge Barbazu": {
-      "name": "Пекельна кузня Барбазу"
-    },
-    "Images of Failure": {
-      "name": "Зображення невдачі"
-    },
-    "Images of Powerlessness": {
-      "name": "Образи безсилля"
-    },
-    "Jafaki": {
-      "name": "ваша сухість"
+    "Daemonic Fog": {
+      "name": "Демонічний туман"
     },
     "Jarelle Kaldrian": {
       "name": "Джарел Калдріан"
@@ -163,179 +76,266 @@
     "Jaul Mezmin": {
       "name": "Джаул Мезмін"
     },
-    "Jaul's Wolf": {
-      "name": "Вовк Джаула"
+    "Child of Belcorra": {
+      "name": "Дитина Белкорри"
     },
-    "Khurfel": {
-      "name": "Хурфель"
+    "Dreshkan": {
+      "name": "Дрешкан"
     },
-    "Kragala": {
-      "name": "Каргала"
+    "Drow Warden": {
+      "name": "Дроу вартівник"
     },
-    "Lady's Whisper": {
-      "name": "Леді шепіт"
-    },
-    "Mister Beak": {
-      "name": "Містер Дзьоб"
-    },
-    "Morlock Cultist": {
-      "name": "Морлоцький культист"
-    },
-    "Morlock Engineer": {
-      "name": "Морлоцький інженер"
-    },
-    "Morlock Scavenger": {
-      "name": "Морлок-сміттяр"
-    },
-    "Mulventok": {
-      "name": "Мульвенток"
-    },
-    "Murmur": {
-      "name": "бурчання"
-    },
-    "Murschen": {
-      "name": "Муршен"
-    },
-    "Nhakazarin": {
-      "name": "Nha прикраси"
-    },
-    "Nhimbaloth's Cutter": {
-      "name": "Різак Німбалота"
-    },
-    "Nox": {
-      "name": "Nox"
-    },
-    "Nyzuros": {
-      "name": "Нізурос"
-    },
-    "Observation Deck Seugathi Researcher": {
-      "name": "Оглядовий майданчик Seugathi Researcher"
-    },
-    "Otari Ilvashti": {
-      "name": "Отарі Ілвашті"
-    },
-    "Padli": {
-      "name": "Вони впали"
-    },
-    "Painful Suggestion Trap": {
-      "name": "Болюча пастка навіювання"
-    },
-    "Paralyzing Light Trap": {
-      "name": "Паралізуюча світлова пастка"
-    },
-    "Poisoning Room Specter": {
-      "name": "Привид отруєння"
-    },
-    "Quara Orshendiel": {
-      "name": "Через Оршендіеля"
+    "Drow Shootist": {
+      "name": "Дроу Стрілець"
     },
     "Reaper Skull Puffball": {
-      "name": "Жнець Череп Puffball"
+      "name": "Жнець Череп Пуфбал"
+    },
+    "Caligni Defender": {
+      "name": "Захисник Каліньї"
+    },
+    "Images of Failure": {
+      "name": "Зображення невдачі"
     },
     "Rusty Grate Pit": {
       "name": "Іржава решітка"
     },
-    "Ryta": {
-      "name": "рев"
-    },
-    "Sacuishu": {
-      "name": "SA дозрівання"
-    },
-    "Salaisa Malthulas": {
-      "name": "Таємний Мальтулас"
-    },
-    "Scalathrax": {
-      "name": "Скалатракс"
-    },
-    "Seugathi Guard": {
-      "name": "Сеугаті Гвардія"
-    },
-    "Seugathi Reality Warper": {
-      "name": "Seugathi Reality Warper"
-    },
-    "Seugathi Researcher": {
-      "name": "Seugathi дослідник"
-    },
-    "Seugathi Servant": {
-      "name": "Слуга Сеуґаті"
-    },
-    "Shanrigol Behemoth": {
-      "name": "Шанрігол Бегемот"
-    },
-    "Shanrigol Heap": {
-      "name": "Купа Шанрігола"
-    },
-    "Shuffling Scythe Blades": {
-      "name": "Перетасовуючи леза коси"
-    },
-    "Siora Fallowglade": {
-      "name": "Сіора Перелог"
-    },
-    "Spellvoid": {
-      "name": "Spellvoid"
-    },
-    "Spike Launcher": {
-      "name": "Spike Launcher"
+    "Caliddo Haruvex": {
+      "name": "Каліддо Харувекс"
     },
     "Stonescale Spirits": {
       "name": "Кам'яні духи"
     },
-    "Summoning Chamber Erinys": {
-      "name": "Викликання Палати Ерініс"
+    "Kragala": {
+      "name": "Крагала"
+    },
+    "Carman Rajani": {
+      "name": "Карман Раджані"
     },
     "Torture Chamber Barbazu": {
       "name": "Кімната тортур Барбазу"
     },
+    "Bone Gladiator": {
+      "name": "Кістяний гладіатор"
+    },
+    "Cratonys": {
+      "name": "Кратоніс"
+    },
+    "Blood of Belcorra": {
+      "name": "Кров Белкорри"
+    },
+    "Dragon's Blood Puffball": {
+      "name": "Кров дракона Пуфбал"
+    },
+    "Bloodsiphon": {
+      "name": "Кровосифон"
+    },
+    "Shanrigol Heap": {
+      "name": "Купа Шанрігола"
+    },
+    "Lady's Whisper": {
+      "name": "Леді шепіт"
+    },
     "Urdefhan Blood Mage": {
       "name": "Маг крові Урдефан"
     },
-    "Urdefhan Death Scout": {
-      "name": "Розвідник смерті Урдефан"
+    "Mister Beak": {
+      "name": "Містер Дзьоб"
     },
-    "Urdefhan Lasher": {
-      "name": "Тіло Urdhefahan"
+    "Morlock Scavenger": {
+      "name": "Морлок-сміттяр"
     },
-    "Urevian": {
-      "name": "Ур'євський"
+    "Morlock Engineer": {
+      "name": "Морлоцький інженер"
     },
-    "Urthagul": {
-      "name": "turtgul"
+    "Morlock Cultist": {
+      "name": "Морлоцький культист"
     },
     "Vengeful Furnace": {
       "name": "Мстива піч"
     },
-    "Vischari": {
-      "name": "Віщарі"
+    "Mulventok": {
+      "name": "Мульвенток"
     },
-    "Viscous Black Pudding": {
-      "name": "В'язкий чорний пудинг"
-    },
-    "Voidbracken Chuul": {
-      "name": "Войдбракен Чуул"
+    "Murschen": {
+      "name": "Муршен"
     },
     "Voidglutton": {
       "name": "Ненажера Пустоти"
     },
-    "Volluk Azrinae": {
-      "name": "Воллук Азріне"
+    "Nyzuros": {
+      "name": "Нізурос"
     },
-    "Warped Brew Morlock": {
-      "name": "Warped Brew Morlock"
+    "Images of Powerlessness": {
+      "name": "Образи безсилля"
+    },
+    "Observation Deck Seugathi Researcher": {
+      "name": "Оглядовий майданчик Дослідник Сеугаті"
+    },
+    "Dulac": {
+      "name": "Дулак"
+    },
+    "Befuddling Gas Trap": {
+      "name": "Оманлива газова пастка"
+    },
+    "Otari Ilvashti": {
+      "name": "Отарі Ілвашті"
+    },
+    "Paralyzing Light Trap": {
+      "name": "Паралізуюча світлова пастка"
+    },
+    "Hellforge Barbazu": {
+      "name": "Пекельна кузня Барбазу"
+    },
+    "Shuffling Scythe Blades": {
+      "name": "Перетасовуючи леза коси"
+    },
+    "Chafkhem": {
+      "name": "Чафхем"
+    },
+    "Poisoning Room Specter": {
+      "name": "Привид отруєння"
+    },
+    "Doom of Tomorrow": {
+      "name": "Приреченість завтрашнього дня"
+    },
+    "Drow Cavern Seer": {
+      "name": "Провидець печери Дроу"
+    },
+    "Canker Cultist": {
+      "name": "Раковий культист"
+    },
+    "Ryta": {
+      "name": "Рита"
+    },
+    "Nhimbaloth's Cutter": {
+      "name": "Різак Німбалота"
+    },
+    "Urdefhan Death Scout": {
+      "name": "Розвідник смерті Урдефан"
+    },
+    "Groetan Candle": {
+      "name": "Свічка Гротана"
+    },
+    "Dune Candle": {
+      "name": "Свічка Дюна"
+    },
+    "Seugathi Guard": {
+      "name": "Сеугаті Гвардія"
+    },
+    "Wrin Sivinxi": {
+      "name": "Врін Сівінсі"
+    },
+    "Siora Fallowglade": {
+      "name": "Сіора Перелог"
+    },
+    "Scalathrax": {
+      "name": "Скалатракс"
+    },
+    "Seugathi Servant": {
+      "name": "Слуга Сеуґаті"
+    },
+    "Elder Child Of Belcorra": {
+      "name": "Старша дитина Белкорри"
     },
     "Watching Wall": {
       "name": "Стіна спостереження"
     },
-    "Will-o'-the-Deep": {
-      "name": "Will-o'-the-Deep"
+    "Salaisa Malthulas": {
+      "name": "Салайса Мальтулас"
     },
-    "Witchfire Warden": {
-      "name": "Witchfire Warden"
+    "Urdefhan Lasher": {
+      "name": "Урдефхан Лашер"
     },
-    "Wrin Sivinxi": {
-      "name": "Сівінсі сеча"
+    "Corpselight": {
+      "name": "Трупне світло"
+    },
+    "Urevian": {
+      "name": "Юрівеан"
+    },
+    "Afflicted Irnakurse": {
+      "name": "Уражений Ірнакурс"
+    },
+    "Khurfel": {
+      "name": "Хурфель"
+    },
+    "Chandriu Invisar": {
+      "name": "Чандріу Інвізар"
+    },
+    "Quara Orshendiel": {
+      "name": "Куара Оршендіель"
+    },
+    "Dhuthorex Sage": {
+      "name": "Шавлія дуторекс"
+    },
+    "Shanrigol Behemoth": {
+      "name": "Шанрігол Бегемот"
     },
     "Ysondkhelir": {
-      "name": "я здивований"
+      "name": "Ісондхелір"
+    },
+    "Bright Walker": {
+      "name": "Яскравий Уокер"
+    },
+    "Augrael": {
+      "name": "Ауграель"
+    },
+    "Belcorra Haruvex": {
+      "name": "Белькорра Харувекс"
+    },
+    "Deadtide Skeleton Guard": {
+      "name": "Скелет-охоронець Мертвого припливу"
+    },
+    "Deep End Sarglagon": {
+      "name": "Глибинний кінець Сарглагон"
+    },
+    "Dread Dhuthorex": {
+      "name": "Страшний Дуторекс"
+    },
+    "Dread Wisp": {
+      "name": "Страшний Вісп"
+    },
+    "Drow Hunter": {
+      "name": "Мисливець дроу"
+    },
+    "Flickerwisp": {
+      "name": "Мерехтіння"
+    },
+    "Gibtas Spawn Swarm": {
+      "name": "Зграя відродження Гібтаса"
+    },
+    "Nhakazarin": {
+      "name": "Наказерен"
+    },
+    "Nox": {
+      "name": "Нокс"
+    },
+    "Sacuishu": {
+      "name": "Сакуйшу"
+    },
+    "Seugathi Researcher": {
+      "name": "Сеуґаті дослідник"
+    },
+    "Seugathi Reality Warper": {
+      "name": "Сеугаті Реальність Варпер"
+    },
+    "Spellvoid": {
+      "name": "Спелвойд"
+    },
+    "Spike Launcher": {
+      "name": "Спайк пускова установка"
+    },
+    "Urthagul": {
+      "name": "Уртагул"
+    },
+    "Warped Brew Morlock": {
+      "name": "Деформований Brew Морлок"
+    },
+    "Will-o'-the-Deep": {
+      "name": "Уіл-о'-де-Діп"
+    },
+    "Witchfire Warden": {
+      "name": "Наглядач Відьомського вогню"
     }
   }
 }

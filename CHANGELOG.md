@@ -1,5 +1,19 @@
 # Changelog
 
+## Version 0.3.4
+
+### Data Updates
+
+-   Fix translation of flat check
+-   Fix conditions
+-   Adapt old translations
+
+## Version 0.3.3
+
+### Data Updates
+
+-   Translate new effects
+
 ## Version 0.3.2
 
 ### Data Updates
