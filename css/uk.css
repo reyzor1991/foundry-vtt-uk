@@ -1,6 +1,6 @@
-button.edit-world {
+.package-list .package .package-controls button.edit-world {
     width: 125px;
 }
-[data-action="launchWorld"] {
+.package-list .package .package-controls button[data-action="launchWorld"] {
     width: 125px;
 }
