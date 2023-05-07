@@ -1,5 +1,15 @@
 # Changelog
 
+## Version 0.3.6
+
+### Style Updates
+
+-   Add styles for launch menu
+
+### Data Updates
+
+-   Fix json spells/heritages/equipment
+
 ## Version 0.3.5
 
 ### Style Updates

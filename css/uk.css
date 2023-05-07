@@ -4,3 +4,6 @@
 .package-list .package .package-controls button[data-action="launchWorld"] {
     width: 125px;
 }
+#install-package .package-list .package-controls button {
+    padding: 1px;
+}
