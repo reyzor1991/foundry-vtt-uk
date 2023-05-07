@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.5
+
+### Style Updates
+
+-   Add styles for launch menu
+
 ## Version 0.3.4
 
 ### Data Updates

@@ -17,7 +17,7 @@
   "url": "https://github.com/reyzor1991/foundry-vtt-uk",
   "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
   "download": "https://github.com/reyzor1991/foundry-vtt-uk/archive/refs/heads/master.zip",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "compatibility": {
     "minimum": "10",
     "maximum": "10.291",
@@ -53,10 +53,13 @@
   "system": [
     "pf2e"
   ],
-	"scripts": [
-		"./scripts/babele.js",
-		"./scripts/init.js"
-	],
+  "styles": [
+    "./css/uk.css"
+  ],
+  "scripts": [
+    "./scripts/babele.js",
+    "./scripts/init.js"
+  ],
   "relationships": {
     "requires": [
       {

@@ -1,0 +1,6 @@
+button.edit-world {
+    width: 125px;
+}
+[data-action="launchWorld"] {
+    width: 125px;
+}
