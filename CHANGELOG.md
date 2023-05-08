@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.3.7
+
+### Data Updates
+
+-   Fix translation for action names
+-   Fix translation for boon names
+
 ## Version 0.3.6
 
 ### Style Updates

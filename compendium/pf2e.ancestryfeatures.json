@@ -99,11 +99,11 @@
     },
     "Innate Venom": {
       "name": "Вроджена отрута",
-      "description": "<p>Ваша кров несе токсини, смертельні для всіх, крім вас самих. Ви отримуєте дію @UUID[Compendium.pf2e.actionspf2e.s4V7JWSMF9JPJAeX], яка може викликати незначну отруту вішканьяна. DC збереження вашої отрути дорівнює вищому DC вашого класу або DC заклинання.</p>"
+      "description": "<p>Ваша кров несе токсини, смертельні для всіх, крім вас самих. Ви отримуєте дію @UUID[Compendium.pf2e.actionspf2e.s4V7JWSMF9JPJAeX], яка може викликати незначну отруту вішканьяна. КС збереження вашої отрути дорівнює вищому КС вашого класу або КС заклинання.</p>"
     },
     "Keen Eyes": {
       "name": "Пильні очі",
-      "description": "<p>Ваші очі гострі, що дозволяють розрізняти дрібні деталі прихованих або навіть невидимих істот, які інші можуть пропустити. Ви отримуєте бонус +2 за обставини, використовуючи дію @UUID[Compendium.pf2e.actionspf2e.BlAOM2X92SI6HMtJ], щоб знайти @UUID[Compendium.pf2e.conditionitems.iU0fEDdBp3rXpTMC] або @UUID[Compendium.pf2e.conditionitems .VRSef5y1LmL2Hkjf] істоти в радіусі 30 футів від вас. Коли ви націлюєтеся на опонента, який є @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W] від вас або прихованим від вас, зменшіть DC плоскої перевірки до 3 для прихованої цілі або до 9 для прихованої.</ p>"
+      "description": "<p>Ваші очі гострі, що дозволяють розрізняти дрібні деталі прихованих або навіть невидимих істот, які інші можуть пропустити. Ви отримуєте бонус +2 за обставини, використовуючи дію @UUID[Compendium.pf2e.actionspf2e.BlAOM2X92SI6HMtJ], щоб знайти @UUID[Compendium.pf2e.conditionitems.iU0fEDdBp3rXpTMC] або @UUID[Compendium.pf2e.conditionitems .VRSef5y1LmL2Hkjf] істоти в радіусі 30 футів від вас. Коли ви націлюєтеся на опонента, який є @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W] від вас або прихованим від вас, зменшіть КС плоскої перевірки до 3 для прихованої цілі або до 9 для прихованої.</ p>"
     },
     "Land on Your Feet": {
       "name": "Приземліться на ноги",

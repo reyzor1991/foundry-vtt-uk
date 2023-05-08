@@ -45,9 +45,9 @@
       "name": "Ефект: -2 штрафу за обставини для дистанційних атак",
       "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.Wn47ZhXINo7jz8JZ]{Колода критичних помилок #2}</strong></p>\n<p>-2 штрафи за обставини для дистанційних атак</p>"
     },
-    "Effect: -2 circumstance penalty to spell attack rolls and spell DC's": {
-      "name": "Ефект: -2 штрафу за обставини для кидків атаки заклинань і заклинань DC",
-      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.NNfsKAHcKvTuyha4]{Колода критичних помилок #36}</strong></p>\n<p>-2 штрафи за обставини для кидків атаки заклинань і заклинань DC</p>"
+    "Effect: -2 circumstance penalty to spell attack rolls and spell КС's": {
+      "name": "Ефект: -2 штрафу за обставини для кидків атаки заклинань і заклинань КС",
+      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.NNfsKAHcKvTuyha4]{Колода критичних помилок #36}</strong></p>\n<p>-2 штрафи за обставини для кидків атаки заклинань і заклинань КС</p>"
     },
     "Effect: -5-foot circumstance penalty to your land Speed": {
       "name": "Ефект: -5-футовий штраф за обставинами до вашої сухопутної швидкості",
@@ -126,11 +126,11 @@
       "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.TYTNFtVvFqFBM8oy]{Critical Fumble Deck #43}</strong></p>\n<p>Стійкість 5 до будь-якої шкоди</p>"
     },
     "Effect: Scouting": {
-      "name": "Ефект: Скаутинг",
+      "name": "Ефект: Розвідка",
       "description": ""
     },
     "Effect: Scouting (Incredible Scout)": {
-      "name": "Ефект: Скаутинг (Неймовірний Скаут)",
+      "name": "Ефект: Розвідка (Неймовірна Розвідка)",
       "description": ""
     }
   }

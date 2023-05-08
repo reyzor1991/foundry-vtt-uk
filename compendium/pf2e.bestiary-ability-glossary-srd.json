@@ -59,7 +59,7 @@
     },
     "Engulf": {
       "name": "Поглинати",
-      "description": "<p>@Check[type:reflex|dc:], [[/r 0[damage]]] пошкодження, Escape DC [0], Rupture [0]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+      "description": "<p>@Check[type:reflex|dc:], [[/r 0[damage]]] пошкодження, Escape КС [0], Rupture [0]</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
     },
     "Fast Healing": {
       "name": "Швидке загоєння",
