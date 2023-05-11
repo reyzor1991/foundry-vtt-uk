@@ -2,10 +2,10 @@
   "label": "Cезон #1",
   "entries": {
     "'Zombie' Flesh Golem (3-4)": {
-      "name": "«Зомбі» Флеш Голем (3-4)"
+      "name": "Флеш Голем 'Зомбі' (3-4)"
     },
     "'Zombie' Flesh Golem (5-6)": {
-      "name": "«Зомбі» Флеш Голем (5-6)"
+      "name": "Флеш Голем 'Зомбі' (5-6)"
     },
     "Acid Spray Fountain": {
       "name": "Кислотний фонтан"
@@ -56,10 +56,10 @@
       "name": "Автоматичне гасіння пожежі (5-6)"
     },
     "Bandit Disciple (1-2)": {
-      "name": "Bandit Disciple (1-2)"
+      "name": "Бандит Учень (1-2)"
     },
     "Bandit Disciple (3-4)": {
-      "name": "Bandit Disciple (3-4)"
+      "name": "Бандит Учень (3-4)"
     },
     "Bandit Lieutenant": {
       "name": "Бандит Лейтенант"
@@ -110,7 +110,7 @@
       "name": "Яма Боггард (5-6)"
     },
     "Boggard Swampseer (PFS 1-24)": {
-      "name": "Boggard Swampseer (PFS 1-24)"
+      "name": "Боггард Болотний провидець (PFS 1-24)"
     },
     "Boggard Warrior (PFS 1-09)": {
       "name": "Boggard Warrior (PFS 1-09)"
@@ -224,16 +224,16 @@
       "name": "Літній гігантський тарантул"
     },
     "Elite Boggard Swampseer (PFS 1-24, Animal Staff)": {
-      "name": "Elite Boggard Swampseer (PFS 1-24, Animal Staff)"
+      "name": "Елітний Боггард Болотний провидець (PFS 1-24, Тваринний посох)"
     },
     "Elite Boggard Swampseer (PFS 1-24, Staff)": {
-      "name": "Elite Boggard Swampseer (PFS 1-24, персонал)"
+      "name": "Елітний Боггард Болотний провидець (PFS 1-24, посох)"
     },
     "Elite Duergar Taskmaster": {
       "name": "Елітний дуергарський наглядач"
     },
     "Elite Ghast (PFS 1-07)": {
-      "name": "Elite Ghast (PFS 1-07)"
+      "name": "Елітний Гаст (PFS 1-07)"
     },
     "Elite Glass River Midge": {
       "name": "Елітна скляна річкова мошка"
@@ -278,7 +278,7 @@
       "name": "Флеш Голем (PFS 1-25)"
     },
     "Fleshforge Dreg (Acid Spit)": {
-      "name": "Fleshforge Dreg (Кислотна плювка)"
+      "name": "Fleshforge Dreg (Кислотний плювок)"
     },
     "Fleshforge Dreg (Breath Weapon)": {
       "name": "Fleshforge Dreg (Дихальна зброя)"

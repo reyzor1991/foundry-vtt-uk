@@ -23,7 +23,7 @@
       "name": "Дорослий латунний дракон"
     },
     "Adult Brass Dragon (Spellcaster)": {
-      "name": "Дорослий латунний дракон (заклинач)"
+      "name": "Дорослий латунний дракон (заклинатель)"
     },
     "Adult Bronze Dragon": {
       "name": "Дорослий бронзовий дракон"
@@ -68,7 +68,7 @@
       "name": "Дорослий Білий Дракон (Заклинатель)"
     },
     "Air Mephit": {
-      "name": "На Мефіта"
+      "name": "Повітряний Мефіт"
     },
     "Alchemical Golem": {
       "name": "Алхімічний Голем"
@@ -146,13 +146,13 @@
       "name": "Анімована статуя"
     },
     "Ankhrav": {
-      "name": "анхрао"
+      "name": "Анхрав"
     },
     "Ankylosaurus": {
       "name": "Анкілозавр"
     },
     "Annis Hag": {
-      "name": "У році Хаг"
+      "name": "Анніс Хаг"
     },
     "Arbiter": {
       "name": "Арбітр"
@@ -164,7 +164,7 @@
       "name": "Деревний наглядач"
     },
     "Astradaemon": {
-      "name": "астрадемон"
+      "name": "Астрадемон"
     },
     "Astral Deva": {
       "name": "Астральна Дева"
@@ -173,7 +173,7 @@
       "name": "Пробуджене дерево"
     },
     "Axiomite": {
-      "name": "Почесний"
+      "name": "Аксіоміт"
     },
     "Azure Worm": {
       "name": "Лазурний черв'як"
@@ -203,13 +203,13 @@
       "name": "Василіск"
     },
     "Black Kobold Dragon Mage": {
-      "name": "Кобольд-маг Чорного Дракона"
+      "name": "Дракон-маг Чорного Кобольда"
     },
     "Black Pudding": {
       "name": "Чорний пудинг"
     },
     "Bloodseeker": {
-      "name": "Bloodseeker"
+      "name": "Кровошукач"
     },
     "Blue Kobold Dragon Mage": {
       "name": "Кобольд-маг Синього Дракона"
@@ -236,16 +236,16 @@
       "name": "бронтозавр"
     },
     "Bugbear Thug": {
-      "name": "Bugbear Thug"
+      "name": "Багбір Головоріз"
     },
     "Bugbear Tormentor": {
-      "name": "Bugbear Tormentor"
+      "name": "Багбір Мучитель"
     },
     "Bulette": {
-      "name": "Куля"
+      "name": "Булетт"
     },
     "Bunyip": {
-      "name": "Звуковий сигнал"
+      "name": "Буньїп"
     },
     "Cacodaemon": {
       "name": "Какодемон"
@@ -263,10 +263,10 @@
       "name": "Кассиан"
     },
     "Catfolk Pouncer": {
-      "name": "Catfolk Pouncer"
+      "name": "Кетфолк Нападник"
     },
     "Cauthooj": {
-      "name": "курйози"
+      "name": "Каутхой"
     },
     "Cave Bear": {
       "name": "Печерний Ведмідь"
@@ -281,7 +281,7 @@
       "name": "Кеустодемон"
     },
     "Changeling Exile": {
-      "name": "Changeling Exile"
+      "name": "Перемінник вигнанець"
     },
     "Chimera (Black Dragon)": {
       "name": "Химера (Чорний дракон)"
@@ -302,7 +302,7 @@
       "name": "Хорова"
     },
     "Chuul": {
-      "name": "Врізні"
+      "name": "Чуул"
     },
     "Cinder Rat": {
       "name": "Попелястий Щур"
@@ -335,10 +335,10 @@
       "name": "Деодон"
     },
     "Dandasuka": {
-      "name": "Дундазація"
+      "name": "Дандасука"
     },
     "Dark Naga": {
-      "name": "Темний дракон"
+      "name": "Темна Нага"
     },
     "Deadly Mantis": {
       "name": "Смертоносний богомол"
@@ -359,10 +359,10 @@
       "name": "Дейнозух"
     },
     "Demilich": {
-      "name": "деміліч"
+      "name": "Деміліч"
     },
     "Dero Magister": {
-      "name": "Тоді Майстер"
+      "name": "Деро Магістр"
     },
     "Dero Stalker": {
       "name": "Деро Сталкер"
@@ -380,7 +380,7 @@
       "name": "Дампірський чарівник"
     },
     "Dire Wolf": {
-      "name": "Скажи Вовк"
+      "name": "Жахливий вовк"
     },
     "Djinni": {
       "name": "Джинні"
@@ -416,13 +416,13 @@
       "name": "Дуергар Бомбардьє"
     },
     "Duergar Sharpshooter": {
-      "name": "Duergar Sharpshooter"
+      "name": "Дуергарський стрілець"
     },
     "Duergar Taskmaster": {
-      "name": "Duergar Taskmaster"
+      "name": "Дуергарський наглядач"
     },
     "Dullahan": {
-      "name": "наречена"
+      "name": "Дуллахан"
     },
     "Duskwalker Ghost Hunter": {
       "name": "Сутінковий мисливець за привидами"
@@ -434,10 +434,10 @@
       "name": "Земля Мефіт"
     },
     "Efreeti": {
-      "name": "Efreet"
+      "name": "Ефріті"
     },
     "Elananx": {
-      "name": "елананкс"
+      "name": "Елананкс"
     },
     "Electric Eel": {
       "name": "Електричний вугор"
@@ -455,10 +455,10 @@
       "name": "Стихійне цунамі"
     },
     "Elephant": {
-      "name": "слон"
+      "name": "Слон"
     },
     "Envyspawn": {
-      "name": "Envyspawn"
+      "name": "Енвіспаун"
     },
     "Erinys": {
       "name": "Еринії"
@@ -467,7 +467,7 @@
       "name": "Ефірний павук"
     },
     "Ettin": {
-      "name": "ти зробив"
+      "name": "Еттін"
     },
     "Faceless Stalker": {
       "name": "Безликий сталкер"
@@ -482,28 +482,28 @@
       "name": "Вогонь Мефіт"
     },
     "Firewyrm": {
-      "name": "Firewyrm"
+      "name": "Вогняний змій"
     },
     "Flame Drake": {
       "name": "Полум'яний Дрейк"
     },
     "Flash Beetle": {
-      "name": "Flash Beetle"
+      "name": "Флеш-жук"
     },
     "Flesh Golem": {
-      "name": "Плоть Голема"
+      "name": "Голема з плоті"
     },
     "Frost Drake": {
-      "name": "Фрост Дрейк"
+      "name": "Морозний Дрейк"
     },
     "Frost Giant": {
       "name": "Морозний велетень"
     },
     "Fungus Leshy": {
-      "name": "Грибок Леший"
+      "name": "Леший Грибок"
     },
     "Gancanagh": {
-      "name": "Не можу дочекатися"
+      "name": "Ганкана"
     },
     "Gargoyle": {
       "name": "Горгулья"
@@ -512,7 +512,7 @@
       "name": "Желатиновий кубик"
     },
     "Gelugon": {
-      "name": "Грудкуватий"
+      "name": "Гелугон"
     },
     "Ghaele": {
       "name": "Гаеле"
@@ -554,7 +554,7 @@
       "name": "Гігантський гекон"
     },
     "Giant Mantis": {
-      "name": "Янде Богомол"
+      "name": "Гігантський богомол"
     },
     "Giant Monitor Lizard": {
       "name": "Гігантська варан"
@@ -575,7 +575,7 @@
       "name": "Гігантський жук-олень"
     },
     "Giant Tarantula": {
-      "name": "Нефритовий тарантул"
+      "name": "Гігантський тарантул"
     },
     "Giant Viper": {
       "name": "Гігантська гадюка"
@@ -596,7 +596,7 @@
       "name": "Ненажера"
     },
     "Gnoll Cultist": {
-      "name": "Культист Гнолл"
+      "name": "Культист гноллів"
     },
     "Gnoll Hunter": {
       "name": "Мисливець на гнолів"
@@ -662,10 +662,10 @@
       "name": "Грифон"
     },
     "Grig": {
-      "name": "Григор"
+      "name": "Гріг"
     },
     "Grikkitog": {
-      "name": "Грецький буксир"
+      "name": "Грикітог"
     },
     "Grim Reaper": {
       "name": "Похмурий жнець"
@@ -680,13 +680,13 @@
       "name": "Сторожовий собака"
     },
     "Guardian Naga": {
-      "name": "Країна-охоронець"
+      "name": "Вартова Нага"
     },
     "Gug": {
       "name": "Гуг"
     },
     "Guthallath": {
-      "name": "вузлуватий"
+      "name": "Гуталлат"
     },
     "Harpy": {
       "name": "Гарпія"
@@ -740,19 +740,19 @@
       "name": "Залізний Голем"
     },
     "Janni": {
-      "name": "Джон"
+      "name": "Янні"
     },
     "Jinkin": {
-      "name": "сповільнити"
+      "name": "Джинкін"
     },
     "Jungle Drake": {
       "name": "Джунглі Дрейк"
     },
     "Kapoacinth": {
-      "name": "Капоцинт"
+      "name": "Капоацинт"
     },
     "Keketar": {
-      "name": "посмикування"
+      "name": "Кекетар"
     },
     "Kobold Scout": {
       "name": "Розвідник Кобольда"
@@ -779,7 +779,7 @@
       "name": "Ліхтар Архонт"
     },
     "Lantern Archon (Gestalt)": {
-      "name": "Ліхтар Архонт (форма)"
+      "name": "Ліхтар Архонт (гештальт)"
     },
     "Leaf Leshy": {
       "name": "Лист Леший"
@@ -833,7 +833,7 @@
       "name": "Lustspawn"
     },
     "Lyrakien": {
-      "name": "lyrakien"
+      "name": "Ліракіен"
     },
     "Mammoth": {
       "name": "Мамонт"
@@ -842,7 +842,7 @@
       "name": "Мантикора"
     },
     "Marid": {
-      "name": "хворий"
+      "name": "Марід"
     },
     "Marilith": {
       "name": "Маріліт"
@@ -875,10 +875,10 @@
       "name": "Моррінья"
     },
     "Mu Spore": {
-      "name": "У Спорі"
+      "name": "Му Спор"
     },
     "Mukradi": {
-      "name": "Ти справді так"
+      "name": "Мукраді"
     },
     "Mummy Guardian": {
       "name": "Мумія Охоронець"
@@ -893,7 +893,7 @@
       "name": "Королева наяди"
     },
     "Naunet": {
-      "name": "Нінетт"
+      "name": "Наунет"
     },
     "Nessian Warhound": {
       "name": "Несіанська бойова гонча"
@@ -908,7 +908,7 @@
       "name": "Ніліт"
     },
     "Nosoi": {
-      "name": "Хворіють"
+      "name": "Носої"
     },
     "Ochre Jelly": {
       "name": "Желе охри"
@@ -935,7 +935,7 @@
       "name": "Орк Воїн"
     },
     "Otyugh": {
-      "name": "Шкода"
+      "name": "Отюг"
     },
     "Owlbear": {
       "name": "Сововедмідь"
@@ -965,7 +965,7 @@
       "name": "Полтергейст"
     },
     "Poracha": {
-      "name": "Я замовив"
+      "name": "Порача"
     },
     "Pridespawn": {
       "name": "Pridespawn"
@@ -980,7 +980,7 @@
       "name": "Фіолетовий черв'як"
     },
     "Quasit": {
-      "name": "Здається"
+      "name": "Квазіт"
     },
     "Quatoid": {
       "name": "Кватоподібний"
@@ -992,13 +992,13 @@
       "name": "Кецалькоатлюс"
     },
     "Raja Rakshasa": {
-      "name": "король чудовисько"
+      "name": "Раджа Ракшаса"
     },
     "Rat Swarm": {
       "name": "Щурячий рій"
     },
     "Ratfolk Grenadier": {
-      "name": "Ratfolk Grenadiers"
+      "name": "Ретфолк гренадер"
     },
     "Red Kobold Dragon Mage": {
       "name": "Кобольд-маг Червоного Дракона"
@@ -1067,7 +1067,7 @@
       "name": "Тінь"
     },
     "Shaitan": {
-      "name": "Сатана"
+      "name": "Шайтан"
     },
     "Shambler": {
       "name": "Шамблер"
@@ -1085,7 +1085,7 @@
       "name": "Шоггот"
     },
     "Shuln": {
-      "name": "Це воно"
+      "name": "Шульн"
     },
     "Simurgh": {
       "name": "Сімург"
@@ -1109,13 +1109,13 @@
       "name": "Skulltaker"
     },
     "Skum": {
-      "name": "Піна"
+      "name": "Скум"
     },
     "Slothspawn": {
       "name": "Slothspawn"
     },
     "Slurk": {
-      "name": "ковток"
+      "name": "Слурк"
     },
     "Smilodon": {
       "name": "Смілодон"
@@ -1187,13 +1187,13 @@
       "name": "Тарн Ліннорм"
     },
     "Tengu Sneak": {
-      "name": "Є Sneak"
+      "name": "Тенгу Снік"
     },
     "Terotricus": {
-      "name": "Терорист"
+      "name": "Теротрикус"
     },
     "Tidal Master": {
-      "name": "Майстер припливів"
+      "name": "Tidal Master"
     },
     "Tiefling Adept": {
       "name": "Адепт Тіфлінга"
@@ -1226,7 +1226,7 @@
       "name": "Невидимий слуга"
     },
     "Uthul": {
-      "name": "Ви мовчите"
+      "name": "Утул"
     },
     "Vampire Bat Swarm": {
       "name": "Зграя кажанів вампірів"
@@ -1286,7 +1286,7 @@
       "name": "Перевертень"
     },
     "Wererat": {
-      "name": "Стурбований"
+      "name": "Перевертень криса"
     },
     "Werewolf": {
       "name": "Перевертень"
@@ -1316,7 +1316,7 @@
       "name": "Wyvern"
     },
     "Xorn": {
-      "name": "Горн"
+      "name": "Ксорн"
     },
     "Xulgath Leader": {
       "name": "Лідер Ксульгат"
@@ -1391,7 +1391,7 @@
       "name": "Молодий білий дракон (Заклинатель)"
     },
     "Zaramuun": {
-      "name": "Зарамон"
+      "name": "Зарамуун"
     },
     "Zephyr Hawk": {
       "name": "Зефір Хоук"

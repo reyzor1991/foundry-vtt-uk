@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 0.3.8
+
+### Data Updates
+
+-   Fix translation for monster names
+-   Fix translation for spell effects
+-   Fix translation for boons
+
 ## Version 0.3.7
 
 ### Data Updates
