@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.9
+
+### Data Updates
+
+-   Fix translation for monster names
+
 ## Version 0.3.8
 
 ### Data Updates

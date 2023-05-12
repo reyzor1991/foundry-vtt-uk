@@ -1,5 +1,5 @@
 {
-  "label": "Cезон #1",
+  "label": "Сезон #1",
   "entries": {
     "'Zombie' Flesh Golem (3-4)": {
       "name": "Флеш Голем 'Зомбі' (3-4)"
@@ -56,10 +56,10 @@
       "name": "Автоматичне гасіння пожежі (5-6)"
     },
     "Bandit Disciple (1-2)": {
-      "name": "Бандит Учень (1-2)"
+      "name": "Бандитський учень (1-2)"
     },
     "Bandit Disciple (3-4)": {
-      "name": "Бандит Учень (3-4)"
+      "name": "Бандитський учень (3-4)"
     },
     "Bandit Lieutenant": {
       "name": "Бандит Лейтенант"
@@ -110,10 +110,10 @@
       "name": "Яма Боггард (5-6)"
     },
     "Boggard Swampseer (PFS 1-24)": {
-      "name": "Боггард Болотний провидець (PFS 1-24)"
+      "name": "Боггард Болотяний (PFS 1-24)"
     },
     "Boggard Warrior (PFS 1-09)": {
-      "name": "Boggard Warrior (PFS 1-09)"
+      "name": "Воїн Боггарда (PFS 1-09)"
     },
     "Cairn Wight (PFS 1-20)": {
       "name": "Керн Вайт (PFS 1-20)"
@@ -224,16 +224,16 @@
       "name": "Літній гігантський тарантул"
     },
     "Elite Boggard Swampseer (PFS 1-24, Animal Staff)": {
-      "name": "Елітний Боггард Болотний провидець (PFS 1-24, Тваринний посох)"
+      "name": "Elite Boggard Swampseer (PFS 1-24, тваринний персонал)"
     },
     "Elite Boggard Swampseer (PFS 1-24, Staff)": {
-      "name": "Елітний Боггард Болотний провидець (PFS 1-24, посох)"
+      "name": "Elite Boggard Swampseer (PFS 1-24, персонал)"
     },
     "Elite Duergar Taskmaster": {
       "name": "Елітний дуергарський наглядач"
     },
     "Elite Ghast (PFS 1-07)": {
-      "name": "Елітний Гаст (PFS 1-07)"
+      "name": "Елітний привид (PFS 1-07)"
     },
     "Elite Glass River Midge": {
       "name": "Елітна скляна річкова мошка"
@@ -278,7 +278,7 @@
       "name": "Флеш Голем (PFS 1-25)"
     },
     "Fleshforge Dreg (Acid Spit)": {
-      "name": "Fleshforge Dreg (Кислотний плювок)"
+      "name": "Fleshforge Dreg (Кислотна плювка)"
     },
     "Fleshforge Dreg (Breath Weapon)": {
       "name": "Fleshforge Dreg (Дихальна зброя)"
@@ -287,7 +287,7 @@
       "name": "Fleshforge Dreg (стрибучий заряд)"
     },
     "Fleshforge Dreg (Reach)": {
-      "name": "Fleshforge Dreg (Reach)"
+      "name": "Fleshforge Dreg (Досяжність)"
     },
     "Fleshforge Dreg (Roots)": {
       "name": "Fleshforge Dreg (коріння)"
@@ -317,10 +317,10 @@
       "name": "Жаб'ячий рій"
     },
     "Ghost Of Diggen Thrune (1-2)": {
-      "name": "Ghost Of Diggen Thrune (1-2)"
+      "name": "Привид трону Діггена (1-2)"
     },
     "Ghost Of Diggen Thrune (3-4)": {
-      "name": "Ghost Of Diggen Thrune (3-4)"
+      "name": "Привид трону Діггена (3-4)"
     },
     "Giant Centipede (PFS 1-03)": {
       "name": "Гігантська багатоніжка (PFS 1-03)"
@@ -341,7 +341,7 @@
       "name": "Скелет гобліна"
     },
     "Goblin Warrior (PFS 1-01)": {
-      "name": "Goblin Warrior (PFS 1-01)"
+      "name": "Гоблін-воїн (PFS 1-01)"
     },
     "Grasping Limbs (3-4)": {
       "name": "Захоплення кінцівок (3-4)"
@@ -356,7 +356,7 @@
       "name": "Великий металевий дерновий гончак"
     },
     "Greater Shadow Wisp": {
-      "name": "Greater Shadow Wisp"
+      "name": "Великий тіньовий пучок"
     },
     "Greater Steel Mephit": {
       "name": "Великий Сталевий Мефіт"
@@ -377,16 +377,16 @@
       "name": "Гвардії капітан"
     },
     "Gwibble (1-2)": {
-      "name": "Gwibble (1-2)"
+      "name": "Гвибл (1-2)"
     },
     "Gwibble (3-4)": {
-      "name": "Gwibble (3-4)"
+      "name": "Гвибл (3-4)"
     },
     "Halfling Druid (1-2)": {
-      "name": "Halfling Druid (1-2)"
+      "name": "Halfling Druid (1–2)"
     },
     "Halfling Druid (3-4)": {
-      "name": "Halfling Druid (3-4)"
+      "name": "Halfling Druid (3–4)"
     },
     "Harsus (1-2)": {
       "name": "Харсус (1-2)"
@@ -413,10 +413,10 @@
       "name": "Людський бандит (PFS 1-06)"
     },
     "Hungry Blade Apprentice": {
-      "name": "Hungry Blade Apprentice"
+      "name": "Учень голодного клинка"
     },
     "Hungry Blade Recruit": {
-      "name": "Hungry Blade Recruit"
+      "name": "Голодний лезовий новобранець"
     },
     "Iloise (5-6)": {
       "name": "Ілоїза (5-6)"
@@ -434,7 +434,7 @@
       "name": "Травмований Слабий Отюг"
     },
     "Jinkin (PFS 1-17)": {
-      "name": "Jinkin (PFS 1-17)"
+      "name": "Джинкін (PFS 1-17)"
     },
     "Jury-Rigged Annihilator": {
       "name": "Сфальсифікований анігілятор"
@@ -458,7 +458,7 @@
       "name": "Дракон-маг Kobold (1-14)"
     },
     "Kobold Dragon Mage (PFS 1-11)": {
-      "name": "Kobold Dragon Mage (PFS 1-11)"
+      "name": "Дракон-маг Кобольда (PFS 1-11)"
     },
     "Kobold Dragon Spellweaver": {
       "name": "Кобольдський Драконовий Ткач"
@@ -467,13 +467,13 @@
       "name": "Кобольд Скаут (1-14)"
     },
     "Kobold Scout (PFS 1-11)": {
-      "name": "Kobold Scout (PFS 1-11)"
+      "name": "Розвідник Кобольда (PFS 1-11)"
     },
     "Kobold Warrior (1-14)": {
       "name": "Кобольдський воїн (1-14)"
     },
     "Kobold Warrior (PFS 1-11)": {
-      "name": "Kobold Warrior (PFS 1-11)"
+      "name": "Кобольдський воїн (PFS 1-11)"
     },
     "Krooth Hatchlings": {
       "name": "Дитинчата Крута"
@@ -491,10 +491,10 @@
       "name": "Леопард (1-14)"
     },
     "Leshy Crafter (1-2)": {
-      "name": "Leshy Crafter (1-2)"
+      "name": "Леші Крафтер (1-2)"
     },
     "Leshy Crafter (3-4)": {
-      "name": "Leshy Crafter (3-4)"
+      "name": "Леші Крафтер (3-4)"
     },
     "Lesser Giant Short-faced Bear": {
       "name": "Малий гігантський короткомордий ведмідь"
@@ -563,7 +563,7 @@
       "name": "Мітфліт (PFS 1-02)"
     },
     "Mitflit Sneak": {
-      "name": "Mitflit Sneak"
+      "name": "Мітфліт Снік"
     },
     "Moldy Deck": {
       "name": "Запліснявіла колода"
@@ -611,7 +611,7 @@
       "name": "Nashaxian Розгніваний"
     },
     "Nashaxian The Bored": {
-      "name": "Nashaxian The Bored"
+      "name": "Нашакян Нудно"
     },
     "Neidre Fliavazzana (3-4)": {
       "name": "Нейдре Фліаваццана (3-4)"
@@ -743,7 +743,7 @@
       "name": "повстанець"
     },
     "Rebel Brute": {
-      "name": "Rebel Brute"
+      "name": "Бунтівник"
     },
     "Reefclaw (PFS 1-12)": {
       "name": "Рифовий кіготь (PFS 1-12)"
@@ -779,7 +779,7 @@
       "name": "Сезонна плата (5-6)"
     },
     "Shadow Wisp": {
-      "name": "Shadow Wisp"
+      "name": "Тінь Вісп"
     },
     "Skeletal Gladiator": {
       "name": "Скелетний гладіатор"
@@ -860,10 +860,10 @@
       "name": "Синтетичний Хісмар (7-8)"
     },
     "Technic Zombie (3-4)": {
-      "name": "Technic Zombie (3-4)"
+      "name": "Технічний зомбі (3-4)"
     },
     "Technic Zombie (5-6)": {
-      "name": "Technic Zombie (5-6)"
+      "name": "Технічний зомбі (5-6)"
     },
     "The Ascendant (3-4)": {
       "name": "Асцендент (3-4)"
@@ -890,10 +890,10 @@
       "name": "Токсична щелепа (5-6)"
     },
     "Trapmaster Tok's Surprise (1-2)": {
-      "name": "Trapmaster Tok's Surprise (1-2)"
+      "name": "Сюрприз майстра пасток Тока (1-2)"
     },
     "Trapmaster Tok's Surprise (3-4)": {
-      "name": "Trapmaster Tok's Surprise (3-4)"
+      "name": "Сюрприз майстра пасток Тока (3-4)"
     },
     "Treacherous Quagmire": {
       "name": "Підступна трясовина"
