@@ -814,7 +814,7 @@
       "description": "<p>Під плитами з кісток і льоду на Ульгрем-Аксаані течуть в’язкі залишки життєво важливих рідин. Істоти, які вступають у фізичний контакт із цією рідиною, мають успішно виконати @Check[type:fortitude|dc:22|name:Ichor Coating] збереження або заразитися @UUID[Compendium.pf2e.bestiary-family-ability-glossary.N7UV5CZXtcoxDxCF].</p>"
     },
     "(Vampire, Basic) Coffin Restoration": {
-      "name": "(Вампір, Basic) Реставрація труни",
+      "name": "(Вампір, Basic) Відновлення труни",
       "description": "<p>На відміну від іншої нежиті, вампір не знищується при 0 HP. Натомість падає @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf]. Якщо його тіло лежить у труні протягом 1 години, вампір отримує 1 HP, після чого його @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ] починає нормально функціонувати.</p>"
     },
     "(Vampire, Basic) Drink Blood": {
@@ -922,7 +922,7 @@
       "description": "<p><strong>Рятувальний кидок</strong> @Check[type:fortitude|dc:] (використовуйте високий КС для рівня носферату)</p>\n<hr/>\n<p><strong>Початок</strong> 1 день</p>\n<p><strong>Етап 1</strong> @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR] (1 день)</p>\n<p><strong>Етап 2</strong> @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR] та @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] (1 день)</p >\n<p><strong>Стадія 3</strong> @UUID[Compendium.pf2e.conditionitems.3uh1r86TzbQvosxv], @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR] та @UUID[Компендіум. pf2e.conditionitems.MIRkyAjyBeXivMa7] (1 день)</p>\n<p><strong>Стадія 4</strong> @UUID[Compendium.pf2e.conditionitems.3uh1r86TzbQvosxv], виснажений 3 і ослаблений 3 (1 день)</p>\n<p><strong>Стадія 5</strong> @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf] (1 день)</p>\n<p><strong>6 стадія</strong> смерті</p>"
     },
     "(Vampire, Nosferatu) Plagued Coffin Restoration": {
-      "name": "(Вампір, Носферату) Реставрація зачумленої труни",
+      "name": "(Вампір, Носферату) Відновлення зачумленої труни",
       "description": "<p>На відміну від іншої нежиті, носферату не знищується при 0 HP. Натомість вони розбиваються на величезну кількість окремих щурів, які прямують у всіх напрямках, намагаючись повернутися до своєї труни. Якщо хоч один щур досягає труни, носферату може одужати. Носферату відновлює свою силу, спочиваючи в землі, взятій з могили істоти, яка померла від чуми. Якщо їхнє тіло лежить у заповненій землею труні протягом 1 години, носферату отримує 1 HP, після чого його @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ] починає нормально функціонувати. Якщо в труні немає цього зараженого могильного бруду, натомість їм потрібно відпочити в труні протягом 1 дня, перш ніж вони отримають 1 HP і відновлять своє швидке загоєння.</p>"
     },
     "(Vampire, Strigoi Progenitor) Create Spawn": {
