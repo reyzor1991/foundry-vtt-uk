@@ -1,5 +1,5 @@
 {
-  "label": "Cезон #3",
+  "label": "Сезон #3",
   "entries": {
     "Advanced Eltha Embercall (9-10)/Eltha Embercall (11-12)": {
       "name": "Просунутий Елта Емберкол (9-10)/Ельта Емберкол (11-12)"
@@ -59,7 +59,7 @@
       "name": "Аспис Вербувач"
     },
     "Aspis Striker": {
-      "name": "Аспис Нападаючий"
+      "name": "Аспис Страйкер"
     },
     "Aspis Usurper": {
       "name": "Аспис Узурпатор"
@@ -77,7 +77,7 @@
       "name": "Бергхробак"
     },
     "Bergworm Tyrant": {
-      "name": "Bergworm Tyrant"
+      "name": "Бергхроб Тиран"
     },
     "Blessed Crossbow Trap": {
       "name": "Благословенна арбалетна пастка"
@@ -101,10 +101,10 @@
       "name": "Кривавий охоронець скелетів"
     },
     "Branwaen": {
-      "name": "Branwaen"
+      "name": "Бранваен"
     },
     "Bugbear Tormentor (PFS 3-13)": {
-      "name": "Bugbear Tormentor (PFS 3-13)"
+      "name": "Мучитель Багбір (PFS 3-13)"
     },
     "Cairn Wight (PFS 3-09)": {
       "name": "Керн Вайт (PFS 3-09)"
@@ -146,7 +146,7 @@
       "name": "Гвинтик хуліган"
     },
     "Cog the Torchbearer": {
-      "name": "Cog the Torchbearer"
+      "name": "Гвинтик факелоносець"
     },
     "Cole Farsen, Advisor": {
       "name": "Коул Фарсен, радник"
@@ -167,7 +167,7 @@
       "name": "Нищівні духи (7-8)"
     },
     "Deadly Fetchling Sneak": {
-      "name": "Deadly Fetchling Sneak"
+      "name": "Смертельна Фетчлінг крадіжка"
     },
     "Debased Relic": {
       "name": "Зневажена реліквія"
@@ -179,7 +179,7 @@
       "name": "Глибока грязь"
     },
     "Deep Shadow Guardian": {
-      "name": "Deep Shadow Guardian"
+      "name": "Охоронець глибокої тіні"
     },
     "Displaced Robot (1-2)": {
       "name": "Переміщений робот (1-2)"
@@ -194,19 +194,19 @@
       "name": "Переміщений робот (7-8)"
     },
     "Drakauthix (PFS 3-15)": {
-      "name": "Drakauthix (PFS 3-15)"
+      "name": "Дракаутікс (PFS 3-15)"
     },
     "Duergar Crusher": {
       "name": "Дробарка Duergar"
     },
     "Elite Green Hag (PFS 3-99)": {
-      "name": "Elite Green Hag (PFS 3-99)"
+      "name": "Елітна зелена відьма (PFS 3–99)"
     },
     "Elite Hadrosaurid (PFS 3-99)": {
-      "name": "Elite Hadrosaurid (PFS 3-99)"
+      "name": "Елітний гадрозаврид (PFS 3-99)"
     },
     "Elite Hell Hound (PFS 3-07)": {
-      "name": "Elite Hell Hound (PFS 3-07)"
+      "name": "Елітна пекельна собака (PFS 3-07)."
     },
     "Elite Hieracosphinx (PFS 3-14)": {
       "name": "Елітний ієракосфінкс (PFS 3-14)"
@@ -224,7 +224,7 @@
       "name": "Останній подих Елоїзи (3-4)"
     },
     "Eloko (PFS 3-03)": {
-      "name": "Eloko (PFS 3-03)"
+      "name": "Елоко (ПФС 3-03)"
     },
     "Eltha Embercall (11-12, 28+ CP)": {
       "name": "Ельта Емберкол (11-12, 28+ CP)"
@@ -278,7 +278,7 @@
       "name": "Несправні елементи керування припливами"
     },
     "Fetchling Sneak": {
-      "name": "Fetchling Sneak"
+      "name": "Фетчлінг крадіжка"
     },
     "Filth Fire (PFS 3-01)": {
       "name": "Брудний вогонь (PFS 3-01)"
@@ -308,10 +308,10 @@
       "name": "Палаючий анімований обладунок (Leadroar) (1-2)"
     },
     "Flensing Trap (5-6)": {
-      "name": "Flensing Trap (5-6)"
+      "name": "Фленсинга-пастка (5-6)"
     },
     "Flensing Trap (7-8)": {
-      "name": "Flensing Trap (7-8)"
+      "name": "Фленсинга-пастка (7-8)"
     },
     "Foot Pincer": {
       "name": "Щіпці для ніг"
@@ -332,16 +332,16 @@
       "name": "Гігантський щур (PFS 3-98)"
     },
     "Glurorchaes (7-8)": {
-      "name": "Glurorchaes (7-8)"
+      "name": "Глурорхеї (7-8)"
     },
     "Grieving Carved Mourner": {
       "name": "Скорботний різьблений плакальник"
     },
     "Grimple (PFS 3-18)": {
-      "name": "Grimple (PFS 3-18)"
+      "name": "Гримпл (ПФС 3-18)"
     },
     "Grimstalker (PFS 3-13)": {
-      "name": "Grimstalker (PFS 3-13)"
+      "name": "Гримсталкер (PFS 3-13)"
     },
     "Half-Formed Abrikandilu": {
       "name": "Напівсформований Абрикандилу"
@@ -356,7 +356,7 @@
       "name": "Пекельний розбійник"
     },
     "Hellbound Rogue": {
-      "name": "Hellbound Rogue"
+      "name": "Пекельний розбійник"
     },
     "Horrid Nightmare": {
       "name": "Жахливий кошмар"
@@ -392,13 +392,13 @@
       "name": "Хісісі (7-8)"
     },
     "Kobold Dragon Mage (PFS 3-99)": {
-      "name": "Kobold Dragon Mage (PFS 3-99)"
+      "name": "Дракон-маг Кобольда (PFS 3-99)"
     },
     "Kobold Scout (PFS 3-99)": {
-      "name": "Kobold Scout (PFS 3-99)"
+      "name": "Кобольд-скаут (PFS 3-99)"
     },
     "Kobold Warrior (PFS 3-99)": {
-      "name": "Kobold Warrior (PFS 3-99)"
+      "name": "Кобольдський воїн (PFS 3-99)"
     },
     "Lacerating Trip Wire": {
       "name": "Розривний дріт"
@@ -413,7 +413,7 @@
       "name": "Леопард (PFS 3-13)"
     },
     "Lesser Animate Dream": {
-      "name": "Менша одушевлена мрія"
+      "name": "Менша одушевлена ​​мрія"
     },
     "Lightweight Animated Armor": {
       "name": "Легка анімована броня"
@@ -506,16 +506,16 @@
       "name": "Військовий маг дев'ятої армії"
     },
     "Nuglub (PFS 3-18)": {
-      "name": "Nuglub (PFS 3-18)"
+      "name": "Нуглуб (PFS 3-18)"
     },
     "Old Drakauthix (PFS 3-15)": {
-      "name": "Old Drakauthix (PFS 3-15)"
+      "name": "Старий Дракаутікс (PFS 3-15)"
     },
     "Onyx Alliance Commander": {
       "name": "Командир альянсу Onyx"
     },
     "Onyx Alliance Enforcer": {
-      "name": "Onyx Alliance Enforcer"
+      "name": "Оніксовий альянс"
     },
     "Onyx Alliance Officer": {
       "name": "Офіцер альянсу Onyx"
@@ -602,13 +602,13 @@
       "name": "Охорона Ревіна (3-4)"
     },
     "Rock Launcher": {
-      "name": "Rock Launcher"
+      "name": "Скелястик"
     },
     "Rockslide Trap": {
       "name": "Скаменна пастка"
     },
     "Ruthless Fetchling Sneak": {
-      "name": "Ruthless Fetchling Sneak"
+      "name": "Безжалісний Фетчлінг крадіжка"
     },
     "Sandswept Statue": {
       "name": "Заметена піском статуя"
@@ -629,13 +629,13 @@
       "name": "Подвійні тіньові руни (3-4)"
     },
     "Shadow Guardian": {
-      "name": "Shadow Guardian"
+      "name": "Тіньовий охоронець"
     },
     "Shadow Spears (7-8)": {
-      "name": "Shadow Spears (7-8)"
+      "name": "Тіньові списи (7-8)"
     },
     "Shadow Spears (9-10)": {
-      "name": "Shadow Spears (9-10)"
+      "name": "Тіньові списи (9-10)"
     },
     "Shanrigol Mound": {
       "name": "Курган Шанрігол"
@@ -647,7 +647,7 @@
       "name": "Шобхад Хантер (7-8)"
     },
     "Shrouded Bloodseeker": {
-      "name": "Закутаний Кровошукач"
+      "name": "Закутаний Bloodseeker"
     },
     "Skeleton Warrior": {
       "name": "Воїн-скелет"
@@ -695,7 +695,7 @@
       "name": "Тадрун (3-4)"
     },
     "Tascio Raetullus (3-4)": {
-      "name": "Тасіо Ретулл (3-4)"
+      "name": "Тасьо Ретулл (3-4)"
     },
     "Tascio Raetullus (5-6)": {
       "name": "Тасіо Ретулл (5-6)"
@@ -731,13 +731,13 @@
       "name": "Thundering Wihsaak (Єретик)"
     },
     "Thundering Wihsaak (Rifle Mutation)": {
-      "name": "Thundering Wihsaak (Rifle Mutation)"
+      "name": "Громовий Віхсаак (Мутація гвинтівки)"
     },
     "Tilting Floor": {
       "name": "Похила підлога"
     },
     "Timewarped Amalgam": {
-      "name": "Викривлена часом амальгама"
+      "name": "Викривлена ​​часом амальгама"
     },
     "Tombstone Door": {
       "name": "Надгробні двері"
@@ -827,7 +827,7 @@
       "name": "Перевертень (PFS 3-13)"
     },
     "Weretiger (PFS 3-13)": {
-      "name": "Веретигр (PFS 3-13)"
+      "name": "Перевертень (PFS 3-13)"
     },
     "Young Arabuk": {
       "name": "Молодий Арабук"
