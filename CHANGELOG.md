@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.12
+
+### Data Updates
+
+-   Fix translation for classes
+
 ## Version 0.3.11
 
 ### Data Updates

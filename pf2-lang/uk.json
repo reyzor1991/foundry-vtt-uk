@@ -266,7 +266,7 @@
           "Title": "{actor}: Підготовка до заклинань"
         },
         "Spellcasting": {
-          "Cantrips": "Задумки",
+          "Cantrips": "Чари",
           "InvalidProficiency": "Недійсний",
           "MagicItemTypesLabel": "Типи магічних предметів",
           "Rituals": "Ритуали",
@@ -488,7 +488,7 @@
     "AttackEffectImprovedPush": "Поліпшений поштовх",
     "AttackEffectKnockdown": "Нокдаун",
     "AttackEffectPush": "Поштовх",
-    "AttackEffectTrip": "подорож",
+    "AttackEffectTrip": "Повалити",
     "AttackLabel": "Атака",
     "AttitudeLabel": "Ставлення",
     "Attitudes": {
@@ -4229,7 +4229,7 @@
     "TraitTraining": "Навчання",
     "TraitTransmutation": "Трансмутація",
     "TraitTrap": "Пастка",
-    "TraitTrip": "подорож",
+    "TraitTrip": "Повалити",
     "TraitTroll": "Троль",
     "TraitTroop": "війська",
     "TraitTrueName": "Справжнє ім'я",
