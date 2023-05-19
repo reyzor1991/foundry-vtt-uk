@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.14
+
+### Data Updates
+
+-   Fix translation
+
 ## Version 0.3.13
 
 ### Data Updates

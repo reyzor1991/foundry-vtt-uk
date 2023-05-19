@@ -84,7 +84,7 @@
         "CubeFace": "Обличчя куба",
         "Fangs": "Ікла",
         "FireMote": "Вогняна порошинка",
-        "Foot": "стопа",
+        "Foot": "Фут",
         "Foreleg": "передня нога",
         "Gust": "Порив",
         "HolyMace": "Свята булава",
@@ -1157,6 +1157,10 @@
       "Woodworking": "Деревообробка"
     },
     "SpecificRule": {
+      "Actions": {
+        "ThreeActions": "Три дії",
+        "TwoActions": "Дві дії"
+      },
       "AdvancedGeneralTraining": {
         "AllowedDrops": "Загальний подвиг 7-го рівня або нижчого",
         "Prompt": "Виберіть загальну здатність 7-го рівня або нижчого."
