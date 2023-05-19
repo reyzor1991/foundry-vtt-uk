@@ -355,7 +355,7 @@
     },
     "Soul Ward": {
       "name": "Душевна палата",
-      "description": "<p><strong>Частота</strong> раз</p>\n<p><strong>Тригер</strong> Ви отримаєте @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf] стан або стан смерті, або ви будете знищені</p>\n<hr/>\n<p><strong>Ефект</strong> Ви відновлюєте [[/r 200[healing]]] до максимальної кількості очок здоров’я. Усі опори та тимчасові очки життя, надані вам Гебом, негайно закінчуються.</p>"
+      "description": "<p><strong>Частота</strong> раз</p>\n<p><strong>Тригер</strong> Ви отримаєте @UUID[Compendium.pf2e.conditionitems.fBnFDH2MTzgFijKf] стан або стан смерті, або ви будете знищені</p>\n<hr/>\n<p><strong>Ефект</strong> Ви відновлюєте [[/r 200[healing]]] до максимальної кількості очок здоров’я. Усі опори та тимчасові очки здоров'я, надані вам Гебом, негайно закінчуються.</p>"
     },
     "Steal Keys": {
       "name": "Викрасти ключі",
