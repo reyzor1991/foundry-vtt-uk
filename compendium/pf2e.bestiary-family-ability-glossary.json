@@ -47,7 +47,7 @@
     },
     "(Blackfrost Dead) Shattering Death": {
       "name": "(Мертвий Блекфрост) Shattering Death",
-      "description": "<p>Коли загиблий мороз знищується, його тіло розбивається, як крихкий лід, наповнюючи повітря навколо хмарою холодних, гострих, як бритва, осколків льоду. Істоти на @Template[type:emanation|distance:10] отримують [[/r 1d8[cold]]] за рівень загибелі чорної морозу (мінімум 3d8), з @Check[type:reflex|dc:|основним: правда] зберегти. Істоти, які критично провалили це збереження, також отримують [[/r 1d6[bleed]]].</p>"
+      "description": "<p>Коли загиблий мороз знищується, його тіло розбивається, як крихкий лід, наповнюючи повітря навколо хмарою холодних, гострих, як бритва, осколків льоду. Істоти на @Template[type:emanation|distance:10] отримують [[/r 1d8[cold]]] за рівень загибелі чорної морозу (мінімум 3d8), з @Check[type:reflex|dc:|basic:true] зберегти. Істоти, які критично провалили це збереження, також отримують [[/r 1d6[bleed]]].</p>"
     },
     "(Castrovelian) Extra Large": {
       "name": "(Кастровельська) Дуже великий",
@@ -59,7 +59,7 @@
     },
     "(Clockwork Creature) Malfunction - Backfire": {
       "name": "(Заводна істота) Несправність - Зворотний вогонь",
-      "description": "<p>Годинниковий механізм викидає @Check[type:flat|dc:5] на початку кожного свого ходу. У разі невдачі він має зворотний ефект, завдаючи [[/r 2d6[fire]]] шкоди на @Template[type:cone|відстань:15], включно з самим собою (@Check[type:reflex|basic:true|dc: 0] збереження на стандартному КС для його рівня), і @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3] цього ходу.</p>"
+      "description": "<p>Годинниковий механізм викидає @Check[type:flat|dc:5] на початку кожного свого ходу. У разі невдачі він має зворотний ефект, завдаючи [[/r 2d6[fire]]] шкоди на @Template[type:cone|distance:15], включно з самим собою (@Check[type:reflex|basic:true|dc: 0] збереження на стандартному КС для його рівня), і @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3] цього ходу.</p>"
     },
     "(Clockwork Creature) Malfunction - Damaged Propulsion": {
       "name": "(Заводна істота) Несправність - пошкоджений двигун",
@@ -171,7 +171,7 @@
     },
     "(Divine Warden) Divine Destruction": {
       "name": "(Божественний наглядач) Божественне знищення",
-      "description": "<p>Коли божественний наглядач знижується до 0 HP, він виривається божественною енергією на @Template[type:emanation|відстань:30], завдаючи [[/r 1d6[damage]]] шкоди за рівень. Ця шкода є або позитивною, або негативною, що визначається божественним шрифтом божества-покровителя (вибраного під час створення божественного наглядача, якщо божество пропонує вибір), і ця здатність отримує відповідну рису. Кожна істота в зоні має спробувати зберегти @Check[type:will|dc:|traits:damaging-effect] із наступними результатами.</p>\n<hr/>\n<p><strong>Критичний успіх</strong> Істота отримує половину шкоди.</p>\n<p><strong>Успіх</strong> Істота отримує повну шкоду.</p>\n<p><strong>Невдача</strong> Істота отримує повну шкоду і стає тимчасово проклятою божеством-покровителем. Істота стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] і @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] на 1 день; це ефект прокляття, який використовує КС порятунку волі як КС протидії.</p>\n<p><strong>Критична помилка</strong> Як помилка, за винятком того, що істота стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] і @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] .</p>"
+      "description": "<p>Коли божественний наглядач знижується до 0 HP, він виривається божественною енергією на @Template[type:emanation|distance:30], завдаючи [[/r 1d6[damage]]] шкоди за рівень. Ця шкода є або позитивною, або негативною, що визначається божественним шрифтом божества-покровителя (вибраного під час створення божественного наглядача, якщо божество пропонує вибір), і ця здатність отримує відповідну рису. Кожна істота в зоні має спробувати зберегти @Check[type:will|dc:|traits:damaging-effect] із наступними результатами.</p>\n<hr/>\n<p><strong>Критичний успіх</strong> Істота отримує половину шкоди.</p>\n<p><strong>Успіх</strong> Істота отримує повну шкоду.</p>\n<p><strong>Невдача</strong> Істота отримує повну шкоду і стає тимчасово проклятою божеством-покровителем. Істота стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] і @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] на 1 день; це ефект прокляття, який використовує КС порятунку волі як КС протидії.</p>\n<p><strong>Критична помилка</strong> Як помилка, за винятком того, що істота стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] і @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] .</p>"
     },
     "(Divine Warden) Divine Domain Spells": {
       "name": "(Божественний наглядач) Заклинання божественного домену",
@@ -295,7 +295,7 @@
     },
     "(Ghost) Telekinetic Assault": {
       "name": "(Привид) Телекінетичний напад",
-      "description": "<p>Привид кричить від болю та страждань, коли дрібні предмети та уламки розлітаються на @Template[type:emanation|відстань:30]. Істоти в цій області отримують [[/r 1d6[bludgeoning]]] шкоди + 1d6 за 2 рівні за умови збереження @Check[type:reflex|dc:|basic:true].</p>"
+      "description": "<p>Привид кричить від болю та страждань, коли дрібні предмети та уламки розлітаються на @Template[type:emanation|distance:30]. Істоти в цій області отримують [[/r 1d6[bludgeoning]]] шкоди + 1d6 за 2 рівні за умови збереження @Check[type:reflex|dc:|basic:true].</p>"
     },
     "(Ghoul) Consume Flesh": {
       "name": "(Вурдалак) Споживай плоть",
@@ -587,7 +587,7 @@
     },
     "(Melfesh Monster) Flame Lash": {
       "name": "(Мелфешський монстр) Flame Lash",
-      "description": "<p>Монстр Мелфеш розпилює палаючий газ на @Template[type:cone|відстань:15] або @Template[type:line|відстань:30]. Істоти в області отримують [[/r 4d6[fire]]] шкоди (@Check[type:reflex|dc:21|basic:true|name:Flame Lash] збереження). Ця здатність замінює вогняний удар далекого бою.</p>"
+      "description": "<p>Монстр Мелфеш розпилює палаючий газ на @Template[type:cone|distance:15] або @Template[type:line|distance:30]. Істоти в області отримують [[/r 4d6[fire]]] шкоди (@Check[type:reflex|dc:21|basic:true|name:Flame Lash] збереження). Ця здатність замінює вогняний удар далекого бою.</p>"
     },
     "(Melfesh Monster) Mycelial Tomb": {
       "name": "(Мелфешський монстр) Міцеліальна гробниця",
@@ -643,7 +643,7 @@
     },
     "(Ravener) Cowering Fear": {
       "name": "(Равенер) Скривлений страх",
-      "description": "<p>@Template[type:emanation|distance:0] @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X] @Check[type:will|dc:|name: Сховатися від страху]</p>\n<p>Жахлива присутність хижака також змушує істоти здригатися від страху. Поки істота має принаймні @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] або більше внаслідок жахливої присутності ворога, вона також @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] від страху.</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+      "description": "<p>@Template[type:emanation|distance:0] @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X] @Check[type:will|dc:|name:Сховатися від страху]</p>\n<p>Жахлива присутність хижака також змушує істоти здригатися від страху. Поки істота має принаймні @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] або більше внаслідок жахливої присутності ворога, вона також @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] від страху.</p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
     },
     "(Ravener) Discorporate": {
       "name": "(Равенер) Безкорпорація",
@@ -803,7 +803,7 @@
     },
     "(Ulgrem-Axaan) Crushing Weight": {
       "name": "(Ульгрем-Аксаан) Розгромна вага",
-      "description": "<p><strong>Вимоги</strong> Ульгрем-Аксаан має істоту, схоплену за хвіст</p>\n<hr/>\n<p><strong>Ефект</strong> Хвіст Улгрема-Аксаана стискає істоту, завдаючи [[/r (2d4+8)[bludgeoning]]] шкоди (@Check[type:fortitude|dc:25|базовий) :true|name:Crushing Weight] зберегти).</p>"
+      "description": "<p><strong>Вимоги</strong> Ульгрем-Аксаан має істоту, схоплену за хвіст</p>\n<hr/>\n<p><strong>Ефект</strong> Хвіст Улгрема-Аксаана стискає істоту, завдаючи [[/r (2d4+8)[bludgeoning]]] шкоди (@Check[type:fortitude|dc:25|basic:true|name:Crushing Weight] save).</p>"
     },
     "(Ulgrem-Axaan) Fallen Victim": {
       "name": "(Ульгрем-Аксаан) Павша жертва",
@@ -1107,7 +1107,7 @@
     },
     "(Zombie, Shock) Breath Weapon": {
       "name": "(Зомбі, Шок) Дихальна зброя",
-      "description": "<p>Шоковий зомбі дихає блискавкою, завдаючи [[/r 4d12[electricity]]] шкоди на @Template[type:line|відстань:40] (@Check[type:reflex|dc:24|basic:true] ). Він не може знову використати свою дихальну зброю протягом 1 хвилини.</p>"
+      "description": "<p>Шоковий зомбі дихає блискавкою, завдаючи [[/r 4d12[electricity]]] шкоди на @Template[type:line|distance:40] (@Check[type:reflex|dc:24|basic:true] ). Він не може знову використати свою дихальну зброю протягом 1 хвилини.</p>"
     },
     "(Zombie, Shock) Electromechanical Phasing": {
       "name": "(Зомбі, Шок) Електромеханічна Фазування",

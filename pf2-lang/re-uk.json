@@ -8,11 +8,11 @@
       },
       "ExplosiveAmmunition": {
         "Greater": {
-          "Text": "Ракета вибухає на @Template[type:burst|відстань:10], завдаючи [[/r 10d6[fire]]] шкоди кожній істоті в області (включаючи ціль). Кожна істота має спробувати зберегти @Check[type:reflex|dc:30|basic:true|name:Explosive Ammunition].",
+          "Text": "Ракета вибухає на @Template[type:burst|distance:10], завдаючи [[/r 10d6[fire]]] шкоди кожній істоті в області (включаючи ціль). Кожна істота має спробувати зберегти @Check[type:reflex|dc:30|basic:true|name:Explosive Ammunition].",
           "Title": "Вибухові боєприпаси (великі)"
         },
         "Normal": {
-          "Text": "Ракета вибухає на @Template[type:burst|відстань:10], завдаючи [[/r 6d6[fire]]] шкоди кожній істоті в області (включаючи ціль). Кожна істота має спробувати зберегти @Check[type:reflex|dc:25|basic:true|name:Explosive Ammunition].",
+          "Text": "Ракета вибухає на @Template[type:burst|distance:10], завдаючи [[/r 6d6[fire]]] шкоди кожній істоті в області (включаючи ціль). Кожна істота має спробувати зберегти @Check[type:reflex|dc:25|basic:true|name:Explosive Ammunition].",
           "Title": "Вибухові боєприпаси"
         }
       },
@@ -37,15 +37,15 @@
       "MeteorShot": {
         "CriticalFailureText": "При критичній несправності зброя дає осічку.",
         "Greater": {
-          "Text": "Окрім звичайної шкоди зброї, метеоритний постріл завдає шкоди вогнем, а земля в цьому районі стає важкопрохідною. Боєприпаси завдають [[/r 6d6[fire]]] шкоди на @Template[type:emanation|відстань:10] навколо цілі (@Check[type:reflex|dc:29|basic:true|name:Meteor Shot ] зберегти).",
+          "Text": "Окрім звичайної шкоди зброї, метеоритний постріл завдає шкоди вогнем, а земля в цьому районі стає важкопрохідною. Боєприпаси завдають [[/r 6d6[fire]]] шкоди на @Template[type:emanation|distance:10] навколо цілі (@Check[type:reflex|dc:29|basic:true|name:Meteor Shot ] зберегти).",
           "Title": "Постріл метеора (більший)"
         },
         "Major": {
-          "Text": "Окрім звичайної шкоди зброї, метеоритний постріл завдає шкоди вогнем, а земля в цьому районі стає важкопрохідною. Боєприпаси завдають [[/r 9d6[fire]]] шкоди на @Template[type:emanation|відстань:20] навколо цілі (@Check[type:reflex|dc:37|basic:true|name:Meteor Shot ] зберегти).",
+          "Text": "Окрім звичайної шкоди зброї, метеоритний постріл завдає шкоди вогнем, а земля в цьому районі стає важкопрохідною. Боєприпаси завдають [[/r 9d6[fire]]] шкоди на @Template[type:emanation|distance:20] навколо цілі (@Check[type:reflex|dc:37|basic:true|name:Meteor Shot ] зберегти).",
           "Title": "Постріл метеорита (майор)"
         },
         "Normal": {
-          "Text": "Окрім звичайної шкоди зброї, метеоритний постріл завдає шкоди вогнем, а земля в цьому районі стає важкопрохідною. Боєприпаси завдають [[/r 3d6[fire]]] шкоди на @Template[type:emanation|відстань:5] навколо цілі (@Check[type:reflex|dc:23|basic:true|name:Meteor Shot ] зберегти).",
+          "Text": "Окрім звичайної шкоди зброї, метеоритний постріл завдає шкоди вогнем, а земля в цьому районі стає важкопрохідною. Боєприпаси завдають [[/r 3d6[fire]]] шкоди на @Template[type:emanation|distance:5] навколо цілі (@Check[type:reflex|dc:23|basic:true|name:Meteor Shot ] зберегти).",
           "Title": "Постріл метеора"
         }
       },
@@ -1069,7 +1069,7 @@
       "DisarmMetal": "Щоб роззброїти металевий предмет",
       "DisarmStoneMetal": "Щоб роззброїти кам'яні або металеві предмети",
       "DiscernAndPredictWeather": "Розпізнавайте погодні умови та прогнозуйте майбутні погодні умови",
-      "Escape": "В текти",
+      "Escape": "Втеча",
       "EscapeForceOpenOrLift": "Щоб втекти, відкрити або підняти важкі предмети",
       "Feint": "Фінтувати",
       "ForceOpenGrappleShoveOrTrip": "Щоб примусово відкрити, захопити, штовхнути або зіткнутися",

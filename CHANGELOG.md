@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.3.15
+
+### Data Updates
+
+-   Fix translation of name
+-   Fix translation in @checks @templates
+
 ## Version 0.3.14
 
 ### Data Updates
