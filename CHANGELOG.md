@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.16
+
+### Data Updates
+
+-   Fix translation of name
+
 ## Version 0.3.15
 
 ### Data Updates

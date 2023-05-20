@@ -7,3 +7,8 @@
 #install-package .package-list .package-controls button {
     padding: 1px;
 }
+
+.actor.sheet.character .crb-style .sheet-body .sheet-content .tab.character .character-details {
+    grid: "img alignment deity" 46px
+          "img details details" auto/105px 195px 1fr;
+}
