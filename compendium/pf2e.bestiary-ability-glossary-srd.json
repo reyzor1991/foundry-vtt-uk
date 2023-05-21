@@ -78,7 +78,7 @@
       "description": "<p>@Template[type:emanation|distance:0] @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X] @Check[type:will|dc:]</ p>\n<hr/>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
     },
     "Grab": {
-      "name": "хапати",
+      "name": "Захват",
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
     },
     "Greater Constrict": {
@@ -90,7 +90,7 @@
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
     },
     "Improved Grab": {
-      "name": "Покращений захоплення",
+      "name": "Покращене захоплення",
       "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
     },
     "Improved Knockdown": {
