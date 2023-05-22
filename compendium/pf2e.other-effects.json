@@ -69,9 +69,9 @@
       "name": "Ефект: +2 бонус обставин до кидків атаки",
       "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.bzIzGjyNUc52lhCS]{Колода критичних хітів #4}, @UUID[Compendium.pf2e.criticaldeck.pjR0QGXE58oWS8uU]{Колода критичних хітів #7}, @UUID[ Compendium.pf2e.criticaldeck.gdYlgrtfGK8mAoXK]{Колода критичних ударів №9}</strong></p>\n<p>+2 бонуси обставин до кидків атаки</p>"
     },
-    "Effect: +2 status bonus to КД and all saving throws": {
-      "name": "Ефект: +2 статусний бонус до КД і всіх рятувальних кидків",
-      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.iZYZTEtihsVkbRKR]{Critical Hit Deck #8}</strong></p>\n<p>Бонус статусу +2 до КД і всіх рятувальних кидків</p>"
+    "Effect: +2 status bonus to AC and all saving throws": {
+      "name": "Ефект: +2 статусний бонус до КБ і всіх рятувальних кидків",
+      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.iZYZTEtihsVkbRKR]{Critical Hit Deck #8}</strong></p>\n<p>Бонус статусу +2 до КБ і всіх рятувальних кидків</p>"
     },
     "Effect: +2 status bonus to attack rolls": {
       "name": "Ефект: бонус статусу +2 до кидків атаки",
@@ -81,9 +81,9 @@
       "name": "Ефект: бонус статусу +2 до рятівних кидків проти заклинань протягом 1 хв",
       "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.yBE9e9l5KW7SdHZH]{Колода критичних помилок #31}</strong></p>\n<p>+2 бонус статусу до рятувальних кидків проти заклинань протягом 1 хв.</p>"
     },
-    "Effect: +4 circumstance bonus to КД against your ranged attacks": {
-      "name": "Ефект: +4 обставинний бонус до КД проти ваших дальніх атак",
-      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.4MkOtc3bBYsBGF97]{Колода критичних помилок #6}</strong></p>\n<p>Прикриття дає +4 бонус обставин до КД проти ваших дальніх атак</p>"
+    "Effect: +4 circumstance bonus to AC against your ranged attacks": {
+      "name": "Ефект: +4 обставинний бонус до КБ проти ваших дальніх атак",
+      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.4MkOtc3bBYsBGF97]{Колода критичних помилок #6}</strong></p>\n<p>Прикриття дає +4 бонус обставин до КБ проти ваших дальніх атак</p>"
     },
     "Effect: Adverse Subsist Situation": {
       "name": "Наслідки: несприятлива життєва ситуація",
@@ -119,7 +119,7 @@
     },
     "Effect: Mounted": {
       "name": "Ефект: Навісний",
-      "description": "<p>Ви отримуєте штраф за обставини –2 для збереження Reflex під час монтування.</p>"
+      "description": "<p>Ви отримуєте штраф за обставини –2 для збереження Рефлекс під час монтування.</p>"
     },
     "Effect: Resistance 5 to all damage": {
       "name": "Ефект: Стійкість 5 до всіх пошкоджень",

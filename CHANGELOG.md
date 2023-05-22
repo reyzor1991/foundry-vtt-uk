@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.19
+
+### Data Updates
+
+-   Fix translation of spells, AC, Fortitude, HP, BrokenThreshold
+
 ## Version 0.3.16-0.3.18
 
 ### Data Updates
