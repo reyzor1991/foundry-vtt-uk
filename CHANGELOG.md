@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 0.3.16-0.3.17
+## Version 0.3.16-0.3.18
 
 ### Data Updates
 
@@ -13,13 +13,7 @@
 -   Fix translation of name
 -   Fix translation in @checks @templates
 
-## Version 0.3.14
-
-### Data Updates
-
--   Fix translation
-
-## Version 0.3.13
+## Version 0.3.13,0.3.14
 
 ### Data Updates
 
@@ -38,13 +32,7 @@
 -   Fix translation for monster names
 -   Fix translation for classes
 
-## Version 0.3.10
-
-### Data Updates
-
--   Fix translation for monster names
-
-## Version 0.3.9
+## Version 0.3.9,0.3.10
 
 ### Data Updates
 

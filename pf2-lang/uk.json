@@ -133,21 +133,11 @@
         "MeleeLabel": "Рукопашний удар: {weapon}",
         "OutOfRange": "Ціль поза межами дальності.",
         "RangedLabel": "Дистанційний удар: {weapon}"
-      },
-      "Type": {
-        "Activity": "діяльність",
-        "Free": "Вільна дія",
-        "Single": "Одиночна дія",
-        "Reaction": "Реакція"
       }
     },
     "ActionActionTypeLabel": "Тип дії",
     "ActionActionsLabel": "Дії",
     "ActionBrowserSearchHint": "Ви можете шукати за назвою або спеціальними атрибутами. Можливі атрибути для пошуку:<br> джерело, тип заклинання, рівень, школа, компоненти, матеріали, ціль, дальність, час, тривалість, пошкодження, тип пошкодження, збереження, концентрація, ритуал, здатність і класи. <br>Приклад: 'fire, damage:d6', щоб показати всі заклинання, які мають вогонь у назві та d6 у пошкодженні",
-    "ActionCategoryDefensive": "Оборонні",
-    "ActionCategoryInteraction": "Взаємодія",
-    "ActionCategoryLabel": "Категорія дії",
-    "ActionCategoryOffensive": "Образливий",
     "ActionDeathNoteLabel": "Зошит смерті",
     "ActionNumber1": "Один",
     "ActionNumber2": "Два",
@@ -186,13 +176,13 @@
           "AncestryMissingHelp": "Виберіть походження, щоб вибрати посилення.",
           "BackgroundBoostDescription": "Два посилення: одне має бути {a} або {b}.",
           "BackgroundMissingHelp": "Виберіть фон, щоб вибрати посилення.",
-          "Boost": "Підвищення",
-          "Boosts": "Підвищує",
+          "Boost": "Покращення",
+          "Boosts": "Покращення",
           "ClassMissingHelp": "Виберіть клас, щоб вибрати посилення.",
-          "Complete": "Повний",
-          "Flaw": "недолік",
-          "Flaws": "недоліки",
-          "KeyIcon": "ключ",
+          "Complete": "Завершити",
+          "Flaw": "Недолік",
+          "Flaws": "Недоліки",
+          "KeyIcon": "Ключова",
           "NotSelected": "Не вибрано",
           "Title": "Призначте свої посилення",
           "VoluntaryFlaw": {
@@ -252,9 +242,10 @@
             "LowLightVision": "Бачення при слабкому освітленні",
             "Motionsense": "Відчуття руху",
             "Scent": "Запах",
-            "SeeInvisibility": "См. Невидимість",
-            "Spiritsense": "Спірітсенсе",
-            "Tremorsense": "тремор",
+            "SeeInvisibility": "Бачити невидимість",
+            "Spiritsense": "Відчуття духів",
+            "Thoughtsense": "Відчуття думок",
+            "Tremorsense": "Відчуття тремору",
             "Wavesense": "Відчуття хвилі"
           },
           "WithAcuity": "{sense} ({acuity})",
@@ -278,6 +269,14 @@
         }
       },
       "Dead": "Мертвий",
+      "Familiar": {
+        "Master": {
+          "Perception": "Майстер сприйняття"
+        }
+      },
+      "Hardness": {
+        "ShortLabel": "ТРД"
+      },
       "Hazard": {
         "EmitsSound": {
           "Encounter": "Під час сутичок",
@@ -335,7 +334,8 @@
         "NoSpecialSenses": "Без особливих почуттів",
         "Tabs": {
           "Overview": "Огляд",
-          "Inventory": "Інвентар"
+          "Inventory": "Інвентар",
+          "Orphaned": "Залишені предмети"
         },
         "Total": "Всього партії",
         "Wealth": "Багатство"
@@ -586,6 +586,7 @@
     "BrowserFilterWeaponFilters": "Фільтри для зброї",
     "BrowserSearchPlaceholder": "Пошук тексту",
     "BrowserSearchTitle": "Клацніть правою кнопкою миші, щоб отримати посібник",
+    "BrowserSettingsSaved": "Налаштування збережено",
     "BrowserSortyByLabel": "Сортувати за",
     "BrowserSortyByLevelLabel": "Рівень",
     "BrowserSortyByNameLabel": "Назва",
@@ -609,11 +610,11 @@
     "CastLabel": "Чаклувати",
     "CastingItemCreateDialog": {
       "10thLevelWand": "Паличок 10-го рівня не існує",
-      "cantripDeck5": "Колода Cantrip (5 шт.)",
-      "itemTypeLabel": "Тип предмета:",
+      "cantripDeck5": "Колода Чар (5 шт.)",
+      "itemTypeLabel": "Тип предмета: ",
       "label": "Створіть чарівний предмет із скинутого заклинання",
       "scroll": "Сувій",
-      "spellLevelLabel": "Підвищений рівень:",
+      "spellLevelLabel": "Підвищений рівень: ",
       "submit": "Створити предмет",
       "title": "Створіть предмет заклинання",
       "wand": "Паличка"
@@ -706,7 +707,7 @@
       "TabEquipment": "Обладнання",
       "TabFeat": "Подвиги/Особливості",
       "TabHazard": "Небезпеки",
-      "TabSettings": "Завантажити пакети",
+      "TabSettings": "Налаштування",
       "TabSpell": "Заклинання",
       "TakeLabel": "Візьміть предмет",
       "Title": "Браузер компендіуму"
@@ -875,8 +876,8 @@
     "Damage": {
       "Base": "База",
       "Dialog": {
-        "Bonus": "добре {dice}",
-        "BonusDice": "Хороші кубики",
+        "Bonus": "Бонусний {dice}",
+        "BonusDice": "Бонусний кубик",
         "CriticalDamageRoll": "Критична шкода",
         "DamageRoll": "Шкода",
         "Label": "Мітка",
@@ -891,7 +892,8 @@
           "immunity": "Стійкість до {type}: {adjustment}",
           "resistance": "Стійкість до {type}: {adjustment}",
           "unaffected": "Не впливає на {type}: {adjustment}",
-          "weakness": "Слабкий до {type}: {adjustment}"
+          "weakness": "Слабкий до {type}: {adjustment}",
+          "reduction": "Зменшено на {type}: {adjustment}"
         },
         "CompositeLabel": {
           "Exceptions0DoubleVs0": "{type} {value}",
@@ -958,6 +960,7 @@
           "fleeing": "тікаючи",
           "frightened": "наляканий",
           "ghost-touch": "примарний дотик",
+          "glass": "скло",
           "grabbed": "схопив",
           "healing": "загоєння",
           "hidden": "прихований",
@@ -1014,6 +1017,10 @@
           "weapons": "зброї",
           "weapons-shedding-bright-light": "зброя, яка проливає яскраве світло"
         }
+      },
+      "Hardness": {
+        "Full": "твердість",
+        "Half": "половинна твердісті"
       },
       "IncreasedFrom": "Збільшено з {original} до мінімуму 1",
       "NoDamageFormulaLabel": "Без пошкоджень",
@@ -1093,12 +1100,16 @@
     "DetailsHeading": "Подробиці",
     "DragDropFeats": "Додавання функцій перетягування",
     "Duration": {
+      "P1M": "місяць",
       "P1W": "тиждень",
+      "P1Y": "рік",
       "PT10M": "10 хвилин",
       "PT1H": "година",
       "PT1M": "хвилина",
       "PT24H": "24 години",
-      "day": "день"
+      "day": "день",
+      "round": "раунд",
+      "turn": "хід"
     },
     "Edit": "Редагувати",
     "EditHazardLabel": "Редагувати небезпеку",
@@ -1241,10 +1252,7 @@
     "FeatBrowserSearchHint": "Ви можете шукати за назвою або спеціальними атрибутами. Можливі атрибути для пошуку:<br> джерело, тип заклинання, рівень, школа, компоненти, матеріали, ціль, дальність, час, тривалість, пошкодження, тип пошкодження, збереження, концентрація, ритуал, здатність і класи. <br>Приклад: 'fire, damage:d6', щоб показати всі заклинання, які мають вогонь у назві та d6 у пошкодженні",
     "FeatCampaignHeader": "Подвиги кампанії",
     "FeatClassHeader": "Подвиги класу",
-    "FeatCurseHeader": "Прокляття",
-    "FeatDeityBoonCursesHeader": "Дари божества/прокляття",
-    "FeatDeityBoonHeader": "Божественні благодаті",
-    "FeatDualClassHeader": "Подвиги подвійного класу",
+    "FeatDeityBoonCursesHeader": "Божественні заступництва",
     "FeatGeneralHeader": "Загальні подвиги",
     "FeatLevelLabel": "Рівень",
     "FeatPFSBoonHeader": "Товариські блага",
@@ -1255,7 +1263,7 @@
     "FeatTypeBonus": "Бонус Досягнення",
     "FeatTypeClass": "Досягнення Класу",
     "FeatTypeClassfeature": "Особливість класу",
-    "FeatTypeCurse": "Прокляття",
+    "FeatTypeCurse": "Прокляття божества",
     "FeatTypeDeityboon": "Божество Бун",
     "FeatTypeGeneral": "Загальне Досягнення",
     "FeatTypePfsboon": "Товариство Бун",
@@ -1356,6 +1364,21 @@
     "Item": {
       "ABC": {
         "InvalidDrop": "{badType} не можна скинути тут (має бути {goodType})"
+      },
+      "Action": {
+        "CategoryLabel": "Категорія",
+        "Category": {
+          "None": "Жодної",
+          "Defensive": "Оборонна",
+          "Interaction": "Взаємодія",
+          "Offensive": "Наступ"
+        },
+        "Type": {
+          "Activity": "Діяльність",
+          "Free": "Вільна дія",
+          "Single": "Одиночна дія",
+          "Reaction": "Реакція"
+        }
       },
       "Activation": {
         "Add": "Додати активацію",
@@ -1461,7 +1484,7 @@
         }
       },
       "Deity": {
-        "Alignment": "Вирівнювання",
+        "Alignment": "Світогляд",
         "Category": {
           "Hint": "Пантеони божеств, філософії та духовності, не пов’язані з жодним божеством, можна дотримуватися замість певного божества. Священнослужителі та Чемпіони повинні слідувати божеству або пантеону.",
           "Label": "Категорія",
@@ -1811,6 +1834,10 @@
         "Info": {
           "Added": "{item} додано до {category}."
         },
+        "KeyAbilityOptions": {
+          "Label": "Параметри Ключової здатності",
+          "Hint": "Параметри Ключової здатностіна додаток до цього, наданого класом"
+        },
         "LevelLabel": "Feat",
         "LevelN": "Досягнення {level}",
         "OnlyLevel1": "Необхідно прийняти на рівні 1",
@@ -1984,7 +2011,7 @@
           "TwoProperties": "{property1} {property2} {base}",
           "TwoPropertiesMaterial": "{property1} {property2} {material} {base}"
         },
-        "HandsLabel": "руки",
+        "HandsLabel": "Руки",
         "MandatoryMelee": "Ця зброя має особливість, яку можна використовувати лише зі зброєю ближнього бою.",
         "MaterialAndRunes": {
           "Hint": "Дорогоцінний матеріал і руни дозволяють глибоко налаштовувати зброю. Окрім покращення здатності завдавати шкоди ворогам, вони також впливають на рівень, рідкість, ціну та назву зброї. Щоб заборонити перейменування зброї, дайте їй будь-яку власну назву або позначте її як <i>особливу магічну зброю</i>.",
@@ -2611,6 +2638,11 @@
     "ResolvePointsShortLabel": "Розв'язати",
     "ResolveTitle": "Кількість очок вирішення, які ви маєте",
     "RestoreSpellTitle": "Відновити заклинання",
+    "RevertDamage": {
+      "ButtonTooltip": "Скасувати",
+      "DamageMessage": "Пошкодження, завдані {actor}, було скасовано",
+      "HealingMessage": "Лікування, застосоване до {actor}, було скасовано"
+    },
     "Roll": {
       "Add": "додати",
       "CriticalHit": "Критичний удар",
@@ -2678,6 +2710,17 @@
       "CompendiumBrowserPacks": {
         "Hint": "Налаштування для виключення пакетів із завантаження",
         "Name": "Компендіум пакетів браузерів"
+      },
+      "CompendiumBrowserSources": {
+        "DeleteAllInfo": "Усі документи компендіуму стануть доступними для перегляду, включно з документами з порожніми джерелами.",
+        "DeleteAllQuestion": "Ви впевнені, що бажаєте скинути всі налаштування для включених джерел?",
+        "DeleteAllTitle": "Скинути налаштування",
+        "Hint": "Параметри для відображення лише записів із зазначеними джерелами у браузері компендіуму.",
+        "IgnoreAsGM": "Дозволити GM ігнорувати фільтрування та переглядати всі записи.",
+        "Name": "Включені джерела",
+        "ShowEmptySources": "Не фільтрувати записи з порожніми джерелами.",
+        "ShowUnknownSources": "Не фільтрувати записи з невідомими джерелами.",
+        "SourcesListHeader": "Визначені джерела"
       },
       "CritRule": {
         "Choices": {
@@ -3375,7 +3418,7 @@
     "TraitAutomaton": "автомат",
     "TraitAzarketi": "Азаркеті",
     "TraitAzata": "Свобода",
-    "TraitBackstabber": "Backstabber",
+    "TraitBackstabber": "Зрадник",
     "TraitBackswing": "Мах назад",
     "TraitBarbarian": "Варвар",
     "TraitBard": "Бард",
@@ -3397,7 +3440,7 @@
     "TraitCapacity3": "Ємність 3",
     "TraitCapacity4": "Ємність 4",
     "TraitCapacity5": "Ємність 5",
-    "TraitCarried": "Carried",
+    "TraitCarried": "Несло",
     "TraitCatalyst": "Каталізатор",
     "TraitCatfolk": "Кетфолк",
     "TraitCelestial": "Небесний",
@@ -3431,7 +3474,7 @@
     "TraitContact": "контакт",
     "TraitContingency": "Непередбачені обставини",
     "TraitContract": "Договір",
-    "TraitCouatl": "Couatl",
+    "TraitCouatl": "Куатль",
     "TraitCriticalFusion": "Критичний синтез",
     "TraitCurse": "Прокляття",
     "TraitCursebound": "Скутий прокляттям",
@@ -3720,7 +3763,7 @@
     "TraitDescriptionRepeating": "Багаторазова зброя – це, як правило, тип арбалета, який має коротший час перезарядки. Цю зброю не можна заряджати окремими затворами, як інші арбалети; замість цього вони вимагають заряджання магазину спеціалізованих боєприпасів у спеціальний слот. Щойно цей магазин знаходиться на місці, боєприпаси автоматично заряджаються кожного разу, коли зброя зводиться до стрільби, зменшуючи її перезарядку до значення, указаного в записі про перезарядження (зазвичай 0). Коли боєприпаси закінчуються, потрібно зарядити новий магазин, для цього потрібна вільна рука та 3 дії взаємодії (вилучити старий магазин, дістати новий магазин і вставити новий магазин на місце). Ці дії не обов’язково повинні бути послідовними.",
     "TraitDescriptionResonant": "Ця зброя може направляти енергетичну шкоду. Ви отримуєте безкоштовну дію Conduct Energy, володіючи резонансною зброєю.",
     "TraitDescriptionRevelation": "Ефекти з цією властивістю бачать речі такими, якими вони є насправді.",
-    "TraitDescriptionRogue": "Це вказує на здібності з класу розбійників.",
+    "TraitDescriptionRogue": "Це вказує на здібності з класу Злодій.",
     "TraitDescriptionSaggorak": "Стародавні дварфські ковалі в Саггораку розробили серію надзвичайно потужних рун. Лише той, хто має легендарні навички ремесла, або добре обізнаний майстер-гном з міста Ковлар може застосувати, перенести або видалити руну з властивістю Saggorak. Через свою значну силу всі руни Saggorak займають два слоти рун властивостей, і, отже, їх можна застосовувати лише до броні та зброї з руною сили принаймні +2.",
     "TraitDescriptionScatter": "Ця зброя стріляє групою куль у широких розпорошеннях. Розкид завжди містить площу, що вказує на радіус розпилення. Під час удару основна ціль атак розкиданою зброєю отримує вказану шкоду, а ціль та всі інші істоти в межах зазначеного радіусу навколо неї отримують 1 очко бризкової шкоди за кожну смерть від пошкодження зброєю.",
     "TraitDescriptionScroll": "Сувій містить одне заклинання, яке можна використати без слота для заклинань.",
@@ -3797,7 +3840,7 @@
     "TraitDinosaur": "Динозавр",
     "TraitDisarm": "Зняти з охорони",
     "TraitDisease": "Захворювання",
-    "TraitDiv": "Div",
+    "TraitDiv": "Дів",
     "TraitDivination": "Ворожіння",
     "TraitDivine": "Божественний",
     "TraitDoubleBarrel": "Двостволка",
@@ -3824,7 +3867,7 @@
     "TraitEntrenchRanged": "Закріпити дальність",
     "TraitEnvironmental": "Екологічний",
     "TraitEsoterica": "Езотерика",
-    "TraitEtchedOntoAClanDagger": "Вигравірувано на Clan Dagger",
+    "TraitEtchedOntoAClanDagger": "Вигравірувано на Клановий кинджал",
     "TraitEtchedOntoAMeleeWeapon": "Вигравірувано на зброї ближнього бою",
     "TraitEtchedOntoAMeleeWeaponMonk": "Викарбувано на холодній зброї з властивістю ченця",
     "TraitEtchedOntoAPiercingOrSlashingMeleeWeapon": "Вигравірувано на колючій/рубаючій зброї ближнього бою",
@@ -3856,7 +3899,7 @@
     "TraitFatalD12": "Фатальний d12",
     "TraitFatalD8": "Фатальний d8",
     "TraitFear": "Страх",
-    "TraitFetchling": "Fetchling",
+    "TraitFetchling": "Фетчлінг",
     "TraitFey": "Фей",
     "TraitFiend": "Нечисть",
     "TraitFighter": "боєць",
@@ -3961,7 +4004,7 @@
     "TraitLinguistic": "Лінгвістичний",
     "TraitLitany": "Єктенія",
     "TraitLizardfolk": "Люди-ящірки",
-    "TraitLocathah": "Locathah",
+    "TraitLocathah": "Локата",
     "TraitLozenge": "Пастилка",
     "TraitMagic": "Магія",
     "TraitMagical": "Чарівний",
@@ -4124,6 +4167,7 @@
     "TraitReach1000": "Досягати 1000 футів",
     "TraitReach15": "Досягати 15 футів",
     "TraitReach20": "Досягати 20 футів",
+    "TraitReach200": "Досягати 200 футів",
     "TraitReach25": "Досягати 25 футів",
     "TraitReach30": "Досягати 30 футів",
     "TraitReach40": "Досягати 40 футів",
@@ -4132,6 +4176,7 @@
     "TraitReckless": "Безрозсудний",
     "TraitRecovery": "Відновлення",
     "TraitReflection": "Рефлексія",
+    "TraitRelic": "Реліквія",
     "TraitReload": "Перезавантажити",
     "TraitReload0": "Перезавантажити 0",
     "TraitReload1": "Перезавантажити 1",
@@ -4140,14 +4185,14 @@
     "TraitRepeating": "Повторення",
     "TraitResonant": "Резонансний",
     "TraitRevelation": "Одкровення",
-    "TraitRogue": "Шахрай",
+    "TraitRogue": "Злодій",
     "TraitSaggorak": "Саггорак",
-    "TraitSahkil": "Я буду поле",
-    "TraitSamsaran": "версія",
-    "TraitScatter": "Скаттер",
-    "TraitScatter10": "Скаттер 10",
-    "TraitScatter15": "Скаттер 15",
-    "TraitScatter5": "Скаттер 5",
+    "TraitSahkil": "Сахкіл",
+    "TraitSamsaran": "Самсаран",
+    "TraitScatter": "Розкидання",
+    "TraitScatter10": "Розкидання 10",
+    "TraitScatter15": "Розкидання 15",
+    "TraitScatter5": "Розкидання 5",
     "TraitScroll": "Сувій",
     "TraitScrying": "Видіння",
     "TraitSeaDevil": "Морський диявол",
@@ -4159,18 +4204,18 @@
     "TraitShadow": "Тінь",
     "TraitShieldThrow20": "Кидок щита на 20 футів",
     "TraitShieldThrow30": "Кидок щита 30 футів",
-    "TraitShisk": "ридання",
+    "TraitShisk": "Шиск",
     "TraitShobhad": "Шобхад",
     "TraitShoony": "Нуль",
     "TraitShove": "штовхати",
     "TraitSiktempora": "Темп зору",
     "TraitSkeleton": "Скелет",
-    "TraitSkelm": "Хитрий",
+    "TraitSkelm": "Скелм",
     "TraitSkill": "Майстерність",
     "TraitSkulk": "Скулк",
-    "TraitSlashing": "різання",
-    "TraitSleep": "сон",
-    "TraitSnare": "пастка",
+    "TraitSlashing": "Різання",
+    "TraitSleep": "Сон",
+    "TraitSnare": "Пастка",
     "TraitSocial": "Соціальний",
     "TraitSonic": "Соник",
     "TraitSorcerer": "Відьмак",
@@ -4414,7 +4459,7 @@
       "Base": {
         "adze": "Тейло",
         "air-repeater": "Повітряний повторювач",
-        "aklys": "Сліпий",
+        "aklys": "Акліс",
         "alchemical-bomb": "Алхімічна бомба",
         "alchemical-crossbow": "Алхімічний арбалет",
         "aldori-dueling-sword": "Дуельний меч Альдорі",
@@ -4868,7 +4913,7 @@
       "greaterFlaming": {
         "Name": "Велике полум'яніє",
         "Note": {
-          "criticalSuccess": "Вогнева шкода, завдана цією зброєю (включаючи постійну вогневу шкоду), ігнорує вогнестійкість цілі. Коли ви завдаєте критичного удару цією зброєю, ви завдаєте додатково [[/r 2d10[persistent,fire]]].",
+          "criticalSuccess": "Вогнева шкода, завдана цією зброєю (включаючи постійну вогневу шкоду), ігнорує вогнестійкість цілі.",
           "success": "Вогнева шкода, завдана цією зброєю, ігнорує вогнестійкість цілі."
         }
       },

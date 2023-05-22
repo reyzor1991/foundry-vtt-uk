@@ -331,6 +331,10 @@
           "Description": "{actor} тримає свою {weapon} двома руками.",
           "Title": "Змінити захват (2р)"
         },
+        "Modular": {
+          "Description": "{actor} налаштовує свою {weapon}, щоб завдати {damageType} шкоди.",
+          "Title": "Модульний"
+        },
         "Parenthetical": "Взаємодія {purpose}",
         "PickUp1H": {
           "Description": "{actor} піднімає {weapon} з землі.",
