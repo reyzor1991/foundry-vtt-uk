@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 0.3.20
+
+### Data Updates
+
+-   Fix translation/Support Foundry V11
+
 ## Version 0.3.19
 
 ### Data Updates

@@ -1,15 +1,4 @@
 {
-  "ACTOR": {
-    "TypeAnimalCompanion": "Тварина Компаньйон",
-    "TypeCharacter": "Персонаж гравця",
-    "TypeEidolon": "Ейдолон",
-    "TypeFamiliar": "Фамільяр",
-    "TypeHazard": "Небезпека",
-    "TypeLoot": "Здобич",
-    "TypeNpc": "НІП",
-    "TypeParty": "Група",
-    "TypeVehicle": "Транспортний засіб"
-  },
   "COMBAT": {
     "Begin": "Почати сутичку",
     "CombatantNotInScene": "Учасник {name} відсутній у сцені, яку ви зараз переглядаєте.",
@@ -43,30 +32,6 @@
   "DOCUMENT": {
     "Combat": "сутичка",
     "Combats": "Сутички"
-  },
-  "ITEM": {
-    "TypeAction": "Дія",
-    "TypeAffliction": "Недуга",
-    "TypeAncestry": "Походження",
-    "TypeArmor": "Броня",
-    "TypeBackground": "Передісторія",
-    "TypeBackpack": "Контейнер",
-    "TypeBook": "Книга",
-    "TypeClass": "Клас",
-    "TypeCondition": "Стан",
-    "TypeConsumable": "Витратний матеріал",
-    "TypeDeity": "Божество",
-    "TypeEffect": "Ефект",
-    "TypeEquipment": "Обладнання",
-    "TypeFeat": "Подвиг/особливість",
-    "TypeHeritage": "Спадщина",
-    "TypeKit": "Комплект",
-    "TypeLore": "Навички знання",
-    "TypeMelee": "Атака НІП",
-    "TypeSpell": "Заклинання",
-    "TypeSpellcastingentry": "Вхід заклинання",
-    "TypeTreasure": "Скарб",
-    "TypeWeapon": "Зброя"
   },
   "PF2E": {
     "AbilityBoost": "Підвищення здатності",
@@ -174,6 +139,7 @@
             "UseCustomLabel": "Використовуйте Користувальницькі"
           },
           "AncestryMissingHelp": "Виберіть походження, щоб вибрати посилення.",
+          "AlternateBoostsLabel": "Альтернативні підсилення",
           "BackgroundBoostDescription": "Два посилення: одне має бути {a} або {b}.",
           "BackgroundMissingHelp": "Виберіть фон, щоб вибрати посилення.",
           "Boost": "Покращення",
@@ -289,6 +255,20 @@
         "Simple": "просто",
         "TitleEdit": "{name} (режим редагування)"
       },
+      "Inventory": {
+        "ItemQuantity": {
+          "Decrease": {
+            "Click": "[Click] Зменшити на 1",
+            "ShiftClick": "[Shift-Click] Зменшити на 5",
+            "ControlClick": "[Control-Click] Зменшити на 10"
+          },
+          "Increase": {
+            "Click": "[Click] Збільшити на 1",
+            "ShiftClick": "[Shift-Click] Збільшити на 5",
+            "ControlClick": "[Control-Click] Збільшити на 10"
+          }
+        }
+      },
       "IWREditor": {
         "DoubleVs": "Подвійний Vs.",
         "Exceptions": "Винятки",
@@ -324,9 +304,15 @@
             "Label": "Відповідне знання: КС {dc1} ({adjustment1}) чи КС {dc2} ({adjustment2})",
             "Tooltip": "\"Використання відповідних знань зазвичай має легкий або дуже легкий КС (перед коригуванням рідкості).\" – CRB стор. 506"
           }
-        }
+        },
+        "SimpleSheet": "Простий лист НІП"
       },
       "Party": {
+        "InvalidCampaign": {
+          "Hint": "Дані кампанії недійсні",
+          "Title": "Недійсна кампанія ({party})",
+          "Message": "Ця сторона має дані кампанії типу {current}, але налаштований тип — {configured}. Ви бажаєте видалити наявні дані кампанії?"
+        },
         "BlankSlate": "Ця група не має жодного члена. Щоб почати, перетягніть істоту з бічної панелі актора. ",
         "Coin": "Монета",
         "Languages": "Мови групи",
@@ -698,9 +684,17 @@
       "FailedToBuyItemWithCharacter": "Не вдалося придбати {item} за {character}.",
       "FailedToBuyItemWithSomeCharacters": "Не вдалося придбати {item} з деякими з вибраних акторів.",
       "Hint": "Використовуйте вкладки вище, щоб вибрати компендіум",
-      "ProgressBar": {
-        "LoadingComplete": "Завантаження завершено",
-        "LoadingPack": "Завантаження {pack}"
+      "RollTable": {
+        "AddDialogText": "Додати {count} результат(и) до Таблиці Кидків?",
+        "AddLabel": "Додати до Таблиця Кидків",
+        "CreateDialogText": "Створити Таблицю Кидків із {count} результатами?",
+        "CreateLabel": "Створити рольганг",
+        "SelectTableTitle": "Виберіть Таблиця Кидків",
+        "WeightLabel": "Вага"
+      },
+      "Settings": {
+        "PacksLabel": "Пачки",
+        "SourcesLabel": "Джерела"
       },
       "TabAction": "Дії",
       "TabBestiary": "Бестіарій",
@@ -1227,6 +1221,7 @@
     "ExpendSpellTitle": "Витрати заклинання",
     "Failure": "<strong>Помилка</strong>",
     "Familiar": {
+      "AbilitiesLabel": "Здатності",
       "ArmorClass": "Клас броні",
       "AttackRoll": "Кидок атаки",
       "Creature": "Створіння",
@@ -1253,6 +1248,7 @@
     "FeatCampaignHeader": "Подвиги кампанії",
     "FeatClassHeader": "Подвиги класу",
     "FeatDeityBoonCursesHeader": "Божественні заступництва",
+    "FeatDualClassHeader": "Подвиги подвійного класу",
     "FeatGeneralHeader": "Загальні подвиги",
     "FeatLevelLabel": "Рівень",
     "FeatPFSBoonHeader": "Товариські блага",
@@ -1343,7 +1339,9 @@
       "BasicWithSave": "Базовий {save}",
       "DCWithName": "{name} КС",
       "Errors": {
-        "TypeMissing": "Помилка в @Check: параметр типу є обов’язковим"
+        "TypeMissing": "Помилка в @Check: параметр типу є обов’язковим",
+        "AdjustmentLengthMismatch": "Помилка в @Check: невідповідність між числом параметрів: і коригуванням: параметри",
+        "NonIntegerAdjustment": "Помилка в @Check: коригування мають бути цілими числами"
       }
     },
     "InlineTemplateErrors": {
@@ -1371,7 +1369,8 @@
           "None": "Жодної",
           "Defensive": "Оборонна",
           "Interaction": "Взаємодія",
-          "Offensive": "Наступ"
+          "Offensive": "Наступ",
+          "Familiar": "Здатністі фамільяра"
         },
         "Type": {
           "Activity": "Діяльність",
@@ -2574,7 +2573,11 @@
     "ProficiencyLevel2": "Експерт",
     "ProficiencyLevel3": "Майстер",
     "ProficiencyLevel4": "Легендарний",
-    "ProficiencyRankLabel": "проф",
+    "ProficiencyRankLabel": "Майст.",
+    "ProgressBar": {
+      "LoadingComplete": "Завантаження завершено",
+      "LoadingPack": "Завантаження {pack}"
+    },
     "PropertyRuneLabel1": "Особлива руна (1-а)",
     "PropertyRuneLabel2": "Особлива руна (2-а)",
     "PropertyRuneLabel3": "Особлива руна (3-я)",
@@ -2707,6 +2710,14 @@
         "Hint": "Додає розділ до всіх аркушів гравців для окремих подвигів кампанії.",
         "Name": "Подвиги кампанії"
       },
+      "CampaignType": {
+        "Hint": "Розширений тип правил кампанії для партій",
+        "Name": "Тип кампанії",
+        "Choices": {
+          "none": "Нема",
+          "kingmaker": "Kingmaker"
+        }
+      },
       "CompendiumBrowserPacks": {
         "Hint": "Налаштування для виключення пакетів із завантаження",
         "Name": "Компендіум пакетів браузерів"
@@ -2837,7 +2848,7 @@
       },
       "NathMode": {
         "Hint": "Використовуйте кращі значки маркерів за замовчуванням",
-        "Name": "Режим Nath"
+        "Name": "Режим Наз"
       },
       "Player": {
         "QuickRolls": {
@@ -3867,10 +3878,12 @@
     "TraitEntrenchRanged": "Закріпити дальність",
     "TraitEnvironmental": "Екологічний",
     "TraitEsoterica": "Езотерика",
+    "TraitEtchedOntoABludgeoningWeapon": "Вигравірувано на дубильній зброї",
     "TraitEtchedOntoAClanDagger": "Вигравірувано на Клановий кинджал",
     "TraitEtchedOntoAMeleeWeapon": "Вигравірувано на зброї ближнього бою",
     "TraitEtchedOntoAMeleeWeaponMonk": "Викарбувано на холодній зброї з властивістю ченця",
     "TraitEtchedOntoAPiercingOrSlashingMeleeWeapon": "Вигравірувано на колючій/рубаючій зброї ближнього бою",
+    "TraitEtchedOntoAPiercingOrSlashingWeapon": "Вигравірувано на колючій/ріжучій зброї",
     "TraitEtchedOntoASlashingMeleeWeapon": "Вигравірувано на рубаючій зброї ближнього бою",
     "TraitEtchedOntoAThrownWeapon": "Вигравірувано на метальній зброї",
     "TraitEtchedOntoAWeapon": "Гравірований на зброї",
@@ -4777,6 +4790,9 @@
           "criticalSuccess": "Якщо ви критично влучили в ціль зброєю-фіксатором, зброя кидає на ціль <em>@UUID[Compendium.pf2e.spells-srd.ksLCg62cLOojw3gN]</em> (@Check[type:will|dc :27|name:Anchoring Rune], модифікатор протидії [[/r 1d20+17 # Anchoring Rune Counteract Check]]{+17})."
         }
       },
+      "authorized": {
+        "Name": "Авторизований"
+      },
       "axiomatic": {
         "Name": "Аксіоматичний",
         "Note": {
@@ -4830,6 +4846,9 @@
         "Note": {
           "criticalSuccess": "Після критичного удару нежить також @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] до кінця вашого наступного ходу."
         }
+      },
+      "earthbinding": {
+        "Name": "Прив'язка землі"
       },
       "energizing": {
         "Name": "Наповнює енергією"
@@ -5486,6 +5505,42 @@
     }
   },
   "SIDEBAR": {
-    "TabCombat": "Трекер сутичок"
+    "TabCombat": "Трекер зустрічей"
+  },
+  "TYPES": {
+    "Actor": {
+      "character": "Персонаж Гравеця",
+      "eidolon": "Ейдолон",
+      "familiar": "Фамільяр",
+      "hazard": "Небезпека",
+      "loot": "Здобич",
+      "npc": "НІП",
+      "party": "Група",
+      "vehicle": "Транспортний засіб"
+    },
+    "Item": {
+      "action": "Дія",
+      "affliction": "Страждання",
+      "ancestry": "Походження",
+      "armor": "Броня",
+      "background": "Передісторія",
+      "backpack": "Контейнер",
+      "book": "Книга",
+      "class": "Клас",
+      "condition": "Умова",
+      "consumable": "Витратний",
+      "deity": "Божество",
+      "effect": "Ефект",
+      "equipment": "Обладнання",
+      "feat": "Подвиг/особливість",
+      "heritage": "Спадщина",
+      "kit": "Кіт",
+      "lore": "Навички знання",
+      "melee": "Атака НІП",
+      "spell": "Заклинання",
+      "spellcastingEntry": "Заклинання Запис",
+      "treasure": "Скарб",
+      "weapon": "Зброя"
+    }
   }
 }
