@@ -6,23 +6,51 @@
     {
       "name": "reyzor1991",
       "url": "https://github.com/reyzor1991",
-      "discord": "Reyzor1991#6258"
+      "discord": "Reyzor1991"
     },
     {
       "name": "Ghostdesu",
-      "url": "https://github.com/Ghostdesu",
-      "discord": "Ghost desu#0201"
+      "url": "https://github.com/Ghostdesu"
     }
   ],
+  "version": "0.3.21",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
+  },
   "url": "https://github.com/reyzor1991/foundry-vtt-uk",
   "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
   "download": "https://github.com/reyzor1991/foundry-vtt-uk/archive/refs/heads/master.zip",
-  "version": "0.3.20",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "11"
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "verified": "5.0.2"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "type": "module"
+      }
+    ]
   },
-  "coreTranslation": true,
+
+  "styles": [
+    "./css/uk.css"
+  ],
   "languages": [
     {
       "lang": "uk",
@@ -49,42 +77,8 @@
       "flags": {}
     }
   ],
-  "system": [
-    "pf2e"
-  ],
-  "styles": [
-    "./css/uk.css"
-  ],
   "scripts": [
     "./scripts/babele.js",
     "./scripts/init.js"
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "pf2e",
-        "type": "system",
-        "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/master/system.json",
-        "compatibility": {
-          "minimum": "4.7.0"
-        }
-      },
-      {
-        "id": "lib-wrapper",
-        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "babele",
-        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-        "type": "module"
-      }
-    ],
-    "systems": [
-      {
-        "id": "pf2e"
-      }
-    ]
-  }
+  ]
 }
