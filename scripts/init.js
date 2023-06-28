@@ -3,7 +3,7 @@ Hooks.once('init', async function () {
 	const systemTranslationsFolder = "modules/pfe2ukua/";
 	const moduleTranslationsFolder = systemTranslationsFolder + "modules/";
 	
-	const systemFiles = ["pf2-lang/uk.json", "pf2-lang/re-uk.json", "pf2-lang/action-uk.json"]
+	const systemFiles = ["pf2-lang/uk.json", "pf2-lang/re-uk.json", "pf2-lang/action-uk.json", "pf2-lang/kingmaker-uk.json"]
 	const moduleFiles = [
 		{"id":"babele", "path":"babele.json"}
 	]
