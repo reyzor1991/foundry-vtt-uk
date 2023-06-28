@@ -13,11 +13,10 @@
       "url": "https://github.com/Ghostdesu"
     }
   ],
-  "version": "0.3.21",
+  "version": "0.3.22",
   "compatibility": {
     "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "verified": 11
   },
   "url": "https://github.com/reyzor1991/foundry-vtt-uk",
   "manifest": "https://raw.githubusercontent.com/reyzor1991/foundry-vtt-uk/master/module.json",
