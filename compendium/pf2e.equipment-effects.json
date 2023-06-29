@@ -79,15 +79,15 @@
     },
     "Effect: Applereed Mutagen (Greater)": {
       "name": "Ефект: Applereed Mutagen (Greater)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vTEWlRBUD4VzVwxK]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+4 бонуси до чеків з легкої атлетики</li>\n<li>+20 футів бонусу до швидкості</li>\n<li>Ви збільшуєте на одну категорію розміру</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.vTEWlRBUD4VzVwxK]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+4 бонуси до чеків з легкої атлетики</li>\n<li>+20 футів бонусу до швидкості</li>\n<li>Ви збільшуєте на одну категорію розміру</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
     },
     "Effect: Applereed Mutagen (Lesser)": {
       "name": "Ефект: Applereed Mutagen (Lesser)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.0RTsyWutvO42O0zK]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+2 бонуси до чеків з легкої атлетики</li>\n<li>Бонус статусу +10 до швидкості</li>\n<li>Ви збільшуєте на одну категорію розміру</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.0RTsyWutvO42O0zK]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+2 бонуси до чеків з легкої атлетики</li>\n<li>Бонус статусу +10 до швидкості</li>\n<li>Ви збільшуєте на одну категорію розміру</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
     },
     "Effect: Applereed Mutagen (Moderate)": {
       "name": "Ефект: Applereed Mutagen (помірний)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.8e37h6HBr4ZyBSGt]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+3 бонуси до чеків з легкої атлетики</li>\n<li>Бонус статусу +15 до швидкості</li>\n<li>Ви збільшуєте на одну категорію розміру</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.8e37h6HBr4ZyBSGt]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+3 бонуси до чеків з легкої атлетики</li>\n<li>Бонус статусу +15 до швидкості</li>\n<li>Ви збільшуєте на одну категорію розміру</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
     },
     "Effect: Apricot of Bestial Might": {
       "name": "Ефект: Абрикос звірячої могутності",
@@ -175,19 +175,19 @@
     },
     "Effect: Bestial Mutagen (Greater)": {
       "name": "Ефект: тваринний мутаген (більший)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.gDheph8YteBtnyKp]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+3 бонуси до чеків з легкої атлетики</li>\n<li>Бонус +3 предмети до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.gDheph8YteBtnyKp]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+3 бонуси до чеків з легкої атлетики</li>\n<li>Бонус +3 предмети до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
     },
     "Effect: Bestial Mutagen (Lesser)": {
       "name": "Ефект: тваринний мутаген (менший)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IQK9N2mEOyAj3iWU]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+1 бонус до чеків Athletics</li>\n<li>+1 предмет до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.IQK9N2mEOyAj3iWU]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+1 бонус до чеків Athletics</li>\n<li>+1 предмет до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
     },
     "Effect: Bestial Mutagen (Major)": {
       "name": "Ефект: звіриний мутаген (великий)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.nS75vsM3x5jxlUqn]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+4 бонуси до чеків з легкої атлетики</li>\n<li>Бонус +4 предмети до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>\n<p>Нереалізовані ефекти:</p>\n<ul>\n<li>Отримайте спеціалізацію зі зброї або більшу спеціалізацію зі зброї за допомогою цих нападів без зброї</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.nS75vsM3x5jxlUqn]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+4 бонуси до чеків з легкої атлетики</li>\n<li>Бонус +4 предмети до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>\n<p>Нереалізовані ефекти:</p>\n<ul>\n<li>Отримайте спеціалізацію зі зброї або більшу спеціалізацію зі зброї за допомогою цих нападів без зброї</li>\n</ul>"
     },
     "Effect: Bestial Mutagen (Moderate)": {
       "name": "Ефект: звіриний мутаген (помірний)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.VISk5uLPVIvNWovB]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+2 бонуси до чеків з легкої атлетики</li>\n<li>+2 предмети до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для AC</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.VISk5uLPVIvNWovB]</p>\n<p>Реалізовані ефекти:</p>\n<ul>\n<li>+2 бонуси до чеків з легкої атлетики</li>\n<li>+2 предмети до кидків нападу без зброї</li>\n<li>Здійснити атаку без зброї кігтями</li>\n<li>Отримайте незбройну атаку щелепами</li>\n<li>-1 штраф для КБ</li>\n<li>-2 до штрафних сейвів Рефлекс</li>\n</ul>"
     },
     "Effect: Bewitching Bloom (Lotus)": {
       "name": "Ефект: Чарівне цвітіння (лотос)",
@@ -487,19 +487,19 @@
     },
     "Effect: Drakeheart Mutagen (Greater)": {
       "name": "Ефект: Mutagen Drakeheart (Greater)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.WuzLBK78DgIt8SsN]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+6 бонусів до AC</li>\n<li>Обмеження спритності +2</li>\n<li>+3 бонуси до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.WuzLBK78DgIt8SsN]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+6 бонусів до КБ</li>\n<li>Обмеження спритності +2</li>\n<li>+3 бонуси до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
     },
     "Effect: Drakeheart Mutagen (Lesser)": {
       "name": "Ефект: Mutagen Drakeheart (Lesser)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.GS4YvQieBS11JNYR]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+4 бонуси до AC</li>\n<li>Обмеження спритності +2</li>\n<li>+1 бонус до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.GS4YvQieBS11JNYR]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+4 бонуси до КБ</li>\n<li>Обмеження спритності +2</li>\n<li>+1 бонус до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
     },
     "Effect: Drakeheart Mutagen (Major)": {
       "name": "Ефект: Mutagen Drakeheart (Major)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.M4ZOHOlne43ArjOC]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+7 бонусів до AC</li>\n<li>Обмеження спритності +2</li>\n<li>+4 предмети до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.M4ZOHOlne43ArjOC]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+7 бонусів до КБ</li>\n<li>Обмеження спритності +2</li>\n<li>+4 предмети до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
     },
     "Effect: Drakeheart Mutagen (Moderate)": {
       "name": "Ефект: Mutagen Drakeheart (помірний)",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.xY2MogTwH9Fd8UPG]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+5 бонусів до AC</li>\n<li>Обмеження спритності +2</li>\n<li>+2 бонуси до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.xY2MogTwH9Fd8UPG]</p>\n<p><strong>Реалізовані ефекти</strong></p>\n<ul>\n<li>+5 бонусів до КБ</li>\n<li>Обмеження спритності +2</li>\n<li>+2 бонуси до перевірки сприйняття</li>\n<li>-1 пенальті для Вілла</li>\n<li>-1 штраф для сейвів Рефлекс</li>\n<li>-1 штраф за всі перевірки знань на відкликання</li>\n<li>Отримайте дію Final Surge</li>\n</ul>"
     },
     "Effect: Dueling Cape": {
       "name": "Ефект: дуельна накидка",
@@ -1223,7 +1223,7 @@
     },
     "Effect: Raise a Shield": {
       "name": "Ефект: підняти щит",
-      "description": "<p>Ви розміщуєте свій щит, щоб захистити себе. Коли ви підняли щит, ви отримуєте його перерахований бонус до AC. Ваш щит залишається піднятим до початку вашого наступного ходу.</p>"
+      "description": "<p>Ви розміщуєте свій щит, щоб захистити себе. Коли ви підняли щит, ви отримуєте його перерахований бонус до КБ. Ваш щит залишається піднятим до початку вашого наступного ходу.</p>"
     },
     "Effect: Red-Rib Gill Mask (Greater)": {
       "name": "Ефект: червоно-ребриста зяброва маска (більша)",
@@ -1311,7 +1311,7 @@
     },
     "Effect: Sarkorian God-Caller Garb": {
       "name": "Ефект: Саркоріанське вбрання богопокликача",
-      "description": "<p>Поки вона знаходиться в межах 30 футів від вас, викликана істота отримує бонус статусу +1 до AC. Якщо воно коли-небудь відійде від вас далі, ніж на 30 футів, сигіла зникає, і істота втрачає бонус статусу до AC, навіть якщо пізніше знову наблизиться до вас на 30 футів.</p>"
+      "description": "<p>Поки вона знаходиться в межах 30 футів від вас, викликана істота отримує бонус статусу +1 до КБ. Якщо воно коли-небудь відійде від вас далі, ніж на 30 футів, сигіла зникає, і істота втрачає бонус статусу до КБ, навіть якщо пізніше знову наблизиться до вас на 30 футів.</p>"
     },
     "Effect: Sea Touch Elixir (Greater)": {
       "name": "Ефект: еліксир морського дотику (більший)",
@@ -1347,11 +1347,11 @@
     },
     "Effect: Shield of the Unified Legion": {
       "name": "Ефект: Щит Об'єднаного Легіону",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.PlYr5AhYwHIztMw2]</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте +2 бонус обставин до AC, якщо ви перебуваєте в межах 30 футів від власника щита, і він має піднятий щит</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.PlYr5AhYwHIztMw2]</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте +2 бонус обставин до КБ, якщо ви перебуваєте в межах 30 футів від власника щита, і він має піднятий щит</li>\n</ul>"
     },
     "Effect: Shielding Salve": {
       "name": "Ефект: захисний мазь",
-      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.EWujUs3YmlBu2jhm]</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте +1 бонус за обставини до AC</li>\n</ul>"
+      "description": "<p>Надано @UUID[Compendium.pf2e.equipment-srd.EWujUs3YmlBu2jhm]</p>\n<hr/>\n<p>Ефекти, що застосовуються автоматично:</p>\n<ul>\n<li>отримайте +1 бонус за обставини до КБ</li>\n</ul>"
     },
     "Effect: Shining Ammunition": {
       "name": "Ефект: сяюча амуніція",

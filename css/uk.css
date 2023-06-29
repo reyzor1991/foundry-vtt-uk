@@ -12,3 +12,6 @@
     grid: "img alignment deity" 46px
           "img details details" auto/105px 195px 1fr;
 }
+:lang(uk).chat-message .message-content .damage-application button .label {
+    font-size: 0.5rem;
+}

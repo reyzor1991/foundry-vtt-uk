@@ -20,10 +20,6 @@
 5. Увімкніть модуль у налаштуваннях "Manage Module".
 6. В налаштуваннях "Configure Settings" у вкладці "Core" встановіть "Language Preference" на українську мову.
 
-[Foundry URL]: https://foundryvtt.com
-[Minimum Foundry 10]: https://img.shields.io/badge/Minimum%20Foundry-10.291-informational?style=flat-square
-[Verified Foundry 10]: https://img.shields.io/badge/Verified%20Foundry-10.291-informational?style=flat-square
-
 [Version]: https://img.shields.io/badge/Version-0.3.20-yellow?style=flat-square
 [Version URL]: https://github.com/reyzor1991/foundry-vtt-uk
 
@@ -32,3 +28,5 @@
 
 [MIT License]: https://img.shields.io/badge/License-OGL-green?style=flat-square
 [MIT URL]: https://github.com/reyzor1991/foundry-vtt-uk/blob/master/OpenGameLicense
+[Forge Installs ULR]: https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fpfe2ukua&colorB=4aa94a
+[Forge Installs Download]: https://forge-vtt.com/bazaar#package=pfe2ukua
