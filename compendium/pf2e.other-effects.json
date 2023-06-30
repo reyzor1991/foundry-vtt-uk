@@ -111,7 +111,7 @@
     },
     "Effect: Flat-Footed until end of your next turn": {
       "name": "Ефект: Плоскостопість до кінця вашого наступного ходу",
-      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.IrUeMJoKEYUSJKs1]{Колодою критичних помилок №19}, @UUID[Compendium.pf2e.criticaldeck.gWa7wGUfUvYoIK8z]{Колодою критичних помилок №20}, @UUID[ Compendium.pf2e.criticaldeck.I5omhoK6rqfCZiUZ]{Колода критичних помилок #21}, @UUID[Compendium.pf2e.criticaldeck.Ps9VYxI2zJPG6PEV]{Колода критичних помилок #22}, @UUID[Compendium.pf2e.criticaldeck.qD8KoshDJsayGbCB]{Колода критичних помилок #40</strong></p>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до кінця свого наступного ходу.</p>"
+      "description": "<p><strong>Ефект, застосований @UUID[Compendium.pf2e.criticaldeck.IrUeMJoKEYUSJKs1]{Колодою критичних помилок №19}, @UUID[Compendium.pf2e.criticaldeck.gWa7wGUfUvYoIK8z]{Колодою критичних помилок №20}, @UUID[Compendium.pf2e.criticaldeck.I5omhoK6rqfCZiUZ]{Колода критичних помилок #21}, @UUID[Compendium.pf2e.criticaldeck.Ps9VYxI2zJPG6PEV]{Колода критичних помилок #22}, @UUID[Compendium.pf2e.criticaldeck.qD8KoshDJsayGbCB]{Колода критичних помилок #40</strong></p>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до кінця свого наступного ходу.</p>"
     },
     "Effect: Follow The Expert": {
       "name": "Ефект: слідкуйте за експертом",

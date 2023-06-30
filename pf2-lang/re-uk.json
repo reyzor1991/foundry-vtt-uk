@@ -18,20 +18,20 @@
       },
       "ExsanguinatingAmmunition": {
         "Greater": {
-          "Text": "Протягом 1 хвилини після того, як ви завдаєте шкоди істоті активованим знекровлюючим боєприпасом, ця істота отримує слабкість 3 до постійної шкоди від кровотечі. Крім того, КС будь-яких плоских перевірок для припинення постійної кровотечі збільшується з 15 до 17 (з 10 до 12 при отриманні особливо ефективної допомоги) протягом тривалості. @UUID[Compendium.pf2e.equipment-effects.5lZWAvm0oGxvF4bm]",
+          "Text": "Протягом 1 хвилини після того, як ви завдаєте шкоди істоті активованим знекровлюючим боєприпасом, ця істота отримує слабкість 3 до постійної шкоди від кровотечі. Крім того, КС будь-яких плоских перевірок для припинення постійної кровотечі збільшується з 15 до 17 (з 10 до 12 при отриманні особливо ефективної допомоги) протягом тривалості. @UUID[Compendium.pf2e.equipment-effects.Item.5lZWAvm0oGxvF4bm]",
           "Title": "Знекровлюючі боєприпаси (великі)"
         },
         "Major": {
-          "Text": "Протягом 1 хвилини після того, як ви завдаєте шкоди істоті активованим знекровлюючим боєприпасом, ця істота отримує слабкість 5 до постійної шкоди від кровотечі. Крім того, КС будь-яких плоских перевірок для припинення постійної кровотечі збільшується з 15 до 17 (з 10 до 12 при отриманні особливо ефективної допомоги) протягом тривалості. @UUID[Compendium.pf2e.equipment-effects.mrwg2XftLtSLj197]",
+          "Text": "Протягом 1 хвилини після того, як ви завдаєте шкоди істоті активованим знекровлюючим боєприпасом, ця істота отримує слабкість 5 до постійної шкоди від кровотечі. Крім того, КС будь-яких плоских перевірок для припинення постійної кровотечі збільшується з 15 до 17 (з 10 до 12 при отриманні особливо ефективної допомоги) протягом тривалості. @UUID[Compendium.pf2e.equipment-effects.Item.mrwg2XftLtSLj197]",
           "Title": "Знекровлюючі боєприпаси (основні)"
         },
         "Normal": {
-          "Text": "Протягом 1 хвилини після того, як ви завдаєте шкоди істоті активованим знекровлюючим боєприпасом, ця істота отримує слабкість 1 до постійної шкоди від кровотечі. Крім того, КС будь-яких плоских перевірок для припинення постійної кровотечі збільшується з 15 до 17 (з 10 до 12 при отриманні особливо ефективної допомоги) протягом тривалості. @UUID[Compendium.pf2e.equipment-effects.Fz3cSffzDAxhCh2D]",
+          "Text": "Протягом 1 хвилини після того, як ви завдаєте шкоди істоті активованим знекровлюючим боєприпасом, ця істота отримує слабкість 1 до постійної шкоди від кровотечі. Крім того, КС будь-яких плоских перевірок для припинення постійної кровотечі збільшується з 15 до 17 (з 10 до 12 при отриманні особливо ефективної допомоги) протягом тривалості. @UUID[Compendium.pf2e.equipment-effects.Item.Fz3cSffzDAxhCh2D]",
           "Title": "Знекровлюючі боєприпаси"
         }
       },
       "FreezingAmmunition": {
-        "Text": "Ціль має успішно виконати @Check[type:fortitude|dc:19] збереження або бути @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3] на 1 раунд через сильний холод (уповільнено 1 на 1 хвилину на критичний збій).",
+        "Text": "Ціль має успішно виконати @Check[type:fortitude|dc:19] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] на 1 раунд через сильний холод (уповільнено 1 на 1 хвилину на критичний збій).",
         "Title": "Заморожування боєприпасів"
       },
       "MeteorShot": {
@@ -50,25 +50,26 @@
         }
       },
       "ShiningAmmunition": {
-        "Text": "Боєприпаси випромінюють яскраве світло в радіусі 20 футів (і тьмяне світло до наступних 20 футів) протягом 10 хвилин. Якщо він потрапляє в ціль, він прилипає, змушуючи ціль проливати світло в тому ж радіусі. @UUID[Compendium.pf2e.equipment-effects.Sf6UO6vgCeicggOK]",
+        "Text": "Боєприпаси випромінюють яскраве світло в радіусі 20 футів (і тьмяне світло до наступних 20 футів) протягом 10 хвилин. Якщо він потрапляє в ціль, він прилипає, змушуючи ціль проливати світло в тому ж радіусі. @UUID[Compendium.pf2e.equipment-effects.Item.Sf6UO6vgCeicggOK]",
         "Title": "Блискуча амуніція"
       }
     },
     "AttackEffects": {
       "DropWeapon": "Істота скидає озброєну зброю.",
-      "IgnoreConcealed": "Атака ігнорує умову @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W].",
+      "IgnoreConcealed": "Атака ігнорує умову @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W].",
+      "ReduceHiddenCheck": "КС чистий кидка для ціли з @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] є лише @Check[type:flat|dc:5].",
       "IgnoreCover": "Ціль не виграє від меншого укриття, і вона зменшує бонус КБ від стандартного укриття на 2 проти атаки.",
       "IncreasedCriticalChance": "Якщо атака влучає, і істота викидає 19 під час кидка d20, атака є критичним. Це не вплине, якщо 19 виявиться невдалим.",
       "IncreasedReach5": "Досяжність збільшена на 5 футів",
       "InterruptAction": "При влученні дія цілі переривається.",
-      "KnockProne": "Після попадання ціль збивається з @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]."
+      "KnockProne": "Після попадання ціль збивається з @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]."
     },
     "BattleForm": {
       "AberrantForm": {
         "GugSqueezeNote": "Ваші численні суглоби дозволяють вам проходити через тісний простір, наче ви були середньою істотою."
       },
       "AngelForm": {
-        "DeafenedNote": "@UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR] на 1 раунд після критичного удару"
+        "DeafenedNote": "@UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] на 1 раунд після критичного удару"
       },
       "Attack": {
         "Antler": "панти",
@@ -121,15 +122,15 @@
         "Wing": "Крило"
       },
       "CosmicForm": {
-        "MoonNote": "Ціль — @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] на 1 раунд.",
-        "SunNote": "Ціль — @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] на 1 раунд."
+        "MoonNote": "Ціль — @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ошелешений 2} на 1 раунд.",
+        "SunNote": "Ціль — @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] на 1 раунд."
       },
       "DaemonForm": {
         "CeustodaemonDamageNote": "Будь-який вдалий удар щелепами або кігтями завдає додаткової [[/r {1d6}]], і ви отримуєте таку ж кількість шкоди"
       },
       "ElementEmbodied": {
-        "AirPushNote": "Плюс @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl] 10 футів",
-        "WaterPushPullNote": "Плюс @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl] або Потягніть 10 футів"
+        "AirPushNote": "Плюс @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl] 10 футів",
+        "WaterPushPullNote": "Плюс @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl] або Потягніть 10 футів"
       },
       "InsectForm": {
         "SpiderWebNote": "Успішна веб-атака обплутує ціль на 1 раунд, але не завдає шкоди"
@@ -138,15 +139,15 @@
         "ShroudOfFlame": "Плащаниця полум'я"
       },
       "Note": {
-        "Grab": "Ви можете провести дію одразу після попадання на @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr] ціль",
+        "Grab": "Ви можете провести дію одразу після попадання на @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr] ціль",
         "GrabbingTrunk": {
-          "Text": "Істота на два розміри менша, яку вдарив твій хобот, — це @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]. Якщо вам вдасться перевірити @UUID[Compendium.pf2e.actionspf2e.PMbdMWc2QroouFGD] проти істоти, яку схопив ваш хобот, ви можете перемістити істоту в інше місце в межах досяжності вашого хобота.",
+          "Text": "Істота на два розміри менша, яку вдарив твій хобот, — це @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]. Якщо вам вдасться перевірити @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD] проти істоти, яку схопив ваш хобот, ви можете перемістити істоту в інше місце в межах досяжності вашого хобота.",
           "Title": "Захоплення стовбура"
         },
-        "Shove": "Ви можете виконати дію одразу після влучення, щоб відштовхнути ціль на 5 футів із ефектом успішного @UUID[Compendium.pf2e.actionspf2e.7blmbDrQFNfdT731]"
+        "Shove": "Ви можете виконати дію одразу після влучення, щоб відштовхнути ціль на 5 футів із ефектом успішного @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]"
       },
       "OozeForm": {
-        "GelatinousCubeNote": "Істота, уражена вашим Ударом кубічної грані, має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.spellDC.value)|traits:incapacitation] збереження проти вашого КС заклинання або бути @UUID[Compendium.pf2e .conditionitems.dfCMdR4wnpbYNTix] (або @UUID[Compendium.pf2e.conditionitems.6uEgoh53GbXuHpTF] на 1 раунд у разі критичної помилки); це збереження має рису недієздатності."
+        "GelatinousCubeNote": "Істота, уражена вашим Ударом кубічної грані, має успішно виконати @Check[type:fortitude|dc:resolve(@actor.attributes.spellDC.value)|traits:incapacitation] збереження проти вашого КС заклинання або бути @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix] (або @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF] на 1 раунд у разі критичної помилки); це збереження має рису недієздатності."
       }
     },
     "BombNotes": {
@@ -187,7 +188,7 @@
         }
       },
       "BioluminescenceBomb": {
-        "success": "<p>Кожна істота в межах @Template[type:emanation|distance:10]{10 футів} від місця, де вибухнула бомба, має вдатися до @Check[type:reflex|dc:17] збереження або бути позначеною барвником, який продовжує світиться 24 години. Уражена істота також має спробувати @Check[type:fortitude|dc:17] рятувальний кидок проти потужного спалаху світла.</p><p><strong>Успіх</strong> Істота не впливає.</p ><p><strong>Помилка</strong> Істота @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh] на 1 раунд.</p><p><strong>Критична невдача</strong> Істота є @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2] на 1 раунд, потім засліплений на 1 раунд.</p>"
+        "success": "<p>Кожна істота в межах @Template[type:emanation|distance:10]{10 футів} від місця, де вибухнула бомба, має вдатися до @Check[type:reflex|dc:17] збереження або бути позначеною барвником, який продовжує світиться 24 години. Уражена істота також має спробувати @Check[type:fortitude|dc:17] рятувальний кидок проти потужного спалаху світла.</p><p><strong>Успіх</strong> Істота не впливає.</p ><p><strong>Помилка</strong> Істота @Compendium[pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] на 1 раунд.</p><p><strong>Критична невдача</strong> Істота є @Compendium[pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2] на 1 раунд, потім засліплений на 1 раунд.</p>"
       },
       "BlightBomb": {
         "Greater": {
@@ -209,77 +210,77 @@
       },
       "BottledLightning": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[electricity]]]{3 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[electricity]]]{3 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
         },
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[electricity]]]{1 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[electricity]]]{1 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[electricity]]]{4 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[electricity]]]{4 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[electricity]]]{2 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[electricity]]]{2 шкоди від бризок електрики}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до початку вашого наступного ходу."
         }
       },
       "CrystalShards": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (5[splash])[piercing]]]{5 пронизливої шкоди від бризок}, а бризки створюють кристали, які є @UUID[Compendium.pf2e.equipment-srd .7fSnvJ2xoSfa6JXD] на рівних поверхнях і рукоятках на вертикальних поверхнях, надаючи +2 бонус предметів до наступної перевірки легкої атлетики на сходження."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (5[splash])[piercing]]]{5 пронизливої шкоди від бризок}, а бризки створюють кристали, які є @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD] на рівних поверхнях і рукоятках на вертикальних поверхнях, надаючи +2 бонус предметів до наступної перевірки легкої атлетики на сходження."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (6[splash])[piercing]]]{6 пронизливої шкоди від бризок}, а бризки створюють кристали, які є @UUID[Compendium.pf2e.equipment-srd .7fSnvJ2xoSfa6JXD] на рівних поверхнях і рукоятках на вертикальних поверхнях, надаючи +3 бонус до предметів до наступної перевірки легкої атлетики на сходження."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (6[splash])[piercing]]]{6 пронизливої шкоди від бризок}, а бризки створюють кристали, які є @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD] на рівних поверхнях і рукоятках на вертикальних поверхнях, надаючи +3 бонус до предметів до наступної перевірки легкої атлетики на сходження."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[piercing]]]{4 пронизливої шкоди від бризок}, а бризки створюють кристали, які є @UUID[Compendium.pf2e.equipment-srd .7fSnvJ2xoSfa6JXD] на рівних поверхнях і рукоятках на вертикальних поверхнях, надаючи +1 бонус до наступної легкоатлетичної перевірки на сходження."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[piercing]]]{4 пронизливої шкоди від бризок}, а бризки створюють кристали, які є @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD] на рівних поверхнях і рукоятках на вертикальних поверхнях, надаючи +1 бонус до наступної легкоатлетичної перевірки на сходження."
         }
       },
       "DreadAmpoule": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] критично)."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Наляканий 2} на кріт)."
         },
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] критично)."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Наляканий 2} на кріт)."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] критично)."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Наляканий 2} на кріт)."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] критично)."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[mental]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Наляканий 2} на кріт)."
         }
       },
       "DwarvenDaisy": {
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[fire]]]{1 шкоди від вогню}, і ціль має досягти @Check[type:fortitude|dc:16 |traits:damaging-effect|showDC:all] зберегти або стати @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] на 1 раунд."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[fire]]]{1 шкоди від вогню}, і ціль має досягти @Check[type:fortitude|dc:16 |traits:damaging-effect|showDC:all] зберегти або стати @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] на 1 раунд."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[fire]]]{2 шкоди від бризок вогню}, і ціль має досягти @Check[type:fortitude|dc:18 |traits:damaging-effect|showDC:all] зберегти або стати @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] на 1 раунд."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[fire]]]{2 шкоди від бризок вогню}, і ціль має досягти @Check[type:fortitude|dc:18 |traits:damaging-effect|showDC:all] зберегти або стати @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] на 1 раунд."
         }
       },
       "FrostVial": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[cold]]]{3 шкоди від холодних бризок}, а ціль отримує -10 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{Ефект: Frost Vial (Greater)})."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[cold]]]{3 шкоди від холодних бризок}, а ціль отримує -10 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.Item.nJRoiSyd67eQ1dYj]{Ефект: Frost Vial (Greater)})."
         },
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[cold]]]{1 ушкодження від холодного бризку}, а ціль отримує -5 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.RLsdvhmTh64Mmty9]{Ефект: Frost Vial (Lesser)})."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[cold]]]{1 ушкодження від холодного бризку}, а ціль отримує -5 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.Item.RLsdvhmTh64Mmty9]{Ефект: Frost Vial (Lesser)})."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[cold]]]{4 шкоди від холодного бризку}, а ціль отримує -15 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.4G9qnI0oRyL6eKFQ]{Ефект: Frost Vial (Major)})."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[cold]]]{4 шкоди від холодного бризку}, а ціль отримує -15 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.Item.4G9qnI0oRyL6eKFQ]{Ефект: Frost Vial (Major)})."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[cold]]]{2 шкоди від холодного бризку}, а ціль отримує -10 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.dv0IKm5syOdP759w]{Ефект: Frost Vial (Moderate)})."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[cold]]]{2 шкоди від холодного бризку}, а ціль отримує -10 футів штрафу до своєї швидкості до кінця його наступний хід (@UUID[Compendium.pf2e.equipment-effects.Item.dv0IKm5syOdP759w]{Ефект: Frost Vial (Moderate)})."
         }
       },
       "GhostCharge": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[positive]]], а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7 ] до початку мого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[positive]]], а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблений 2} до початку мого наступного ходу."
         },
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[positive]]]{1 позитивної шкоди від бризок}, а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7 ] до початку мого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[positive]]]{1 позитивної шкоди від бризок}, а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] до початку мого наступного ходу."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[positive]]], а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7 ] до початку мого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[positive]]], а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблений 2} до початку мого наступного ходу."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[positive]]], а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7 ] до початку мого наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[positive]]], а мета, яка отримує пошкодження, стає @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] до початку мого наступного ходу."
         }
       },
       "GooGrenade": {
@@ -288,7 +289,7 @@
         "Major": "Майор",
         "Moderate": "Помірний",
         "Prompt": "Виберіть якість гранати goo.",
-        "success": "<strong>Ефект</strong> Після удару істота отримує штраф до своїх швидкостей від липкої слизу. @UUID[Compendium.pf2e.equipment-effects.5JYchreCttBg7RcD]{Ефект: Goo Grenade}"
+        "success": "<strong>Ефект</strong> Після удару істота отримує штраф до своїх швидкостей від липкої слизу. @UUID[Compendium.pf2e.equipment-effects.Item.5JYchreCttBg7RcD]{Ефект: Goo Grenade}"
       },
       "JunkBomb": {
         "Greater": {
@@ -310,37 +311,37 @@
       },
       "MudBomb": {
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[bludgeoning]]]."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[bludgeoning]]]."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[bludgeoning]]]."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[bludgeoning]]]. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[bludgeoning]]]."
         }
       },
       "NecroticBomb": {
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 3}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[negative]]]."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 1}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[negative]]]."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[negative]]], а ціль — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[negative]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 4}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[negative]]]."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 2}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[negative]]]."
         }
       },
@@ -364,121 +365,121 @@
       },
       "PeshspineGrenade": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[piercing]]]{3 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] до кінця свого ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[piercing]]]{3 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ошелешений 2} до кінця свого ходу."
         },
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[piercing]]]{1 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] до кінця свого ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[piercing]]]{1 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ошелешений 1} до кінця свого ходу."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[piercing]]]{4 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] до кінця свого ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[piercing]]]{4 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ошелешений 3} до кінця свого ходу."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[piercing]]]{2 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] до кінця свого ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[piercing]]]{2 пронизливої шкоди від бризок}, а ціль — @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Ошелешений 1} до кінця свого ходу."
         }
       },
       "PressureBomb": {
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[bludgeoning]]], середні або менші цілі відштовхуються на 5 футів від вас, а ціль стає збитий @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[bludgeoning]]], середні або менші цілі відштовхуються на 5 футів від вас, а ціль стає збитий @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[bludgeoning]]], середні або менші цілі відштовхуються на 5 футів від вас."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[bludgeoning]]]. Крихітні або менші цілі відштовхуються на 5 футів від вас, а ціль стає збитий @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[bludgeoning]]]. Крихітні або менші цілі відштовхуються на 5 футів від вас, а ціль стає збитий @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[bludgeoning]]]. Крихітні або менші цілі відштовхуються на 5 футів від вас."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[bludgeoning]]]. Середні або менші істоти, які отримують splash шкоди, відштовхуються на 5 футів від цілі , а потім, якщо ціль Велика або менша, її штовхають на 5 футів від вас, і ціль збиває @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[bludgeoning]]]. Середні або менші істоти, які отримують splash шкоди, відштовхуються на 5 футів від цілі , а потім, якщо ціль Велика або менша, її штовхають на 5 футів від вас, і ціль збиває @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[bludgeoning]]]. Середні або менші істоти, які отримують splash шкоди, відштовхуються на 5 футів від цілі , а потім, якщо ціль велика або менша, її штовхають на 5 футів від вас."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[bludgeoning]]]. Дрібні або менші цілі відштовхуються на 5 футів від вас, а ціль стає збитий @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[bludgeoning]]]. Дрібні або менші цілі відштовхуються на 5 футів від вас, а ціль стає збитий @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[bludgeoning]]]. Дрібні або менші цілі відштовхуються на 5 футів від вас."
         }
       },
       "RedpitchBomb": {
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*3d4)[persistent,fire]]] і [[/r (3[splash])[fire]]]{3 шкоди від вогню} . При критичному попаданні ціль @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm] до початку мого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*3d4)[persistent,fire]]] і [[/r (3[splash])[fire]]]{3 шкоди від вогню} . При критичному попаданні ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 2} до початку мого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 3d4[persistent,fire]]] і [[/r (3[splash])[fire]]]{3 шкоди від вогню}."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*1d4)[persistent,fire]]] і [[/r (1[splash])[fire]]]{1 шкоди від вогню} . При критичному попаданні ціль @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm] до початку мого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*1d4)[persistent,fire]]] і [[/r (1[splash])[fire]]]{1 шкоди від вогню} . При критичному попаданні ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 1} до початку мого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 1d4[persistent,fire]]] і [[/r (1[splash])[fire]]]{1 шкоди від вогню}."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*4d4)[persistent,fire]]] і [[/r (4[splash])[fire]]]{4 шкоди від вогню} . Після критичного удару ціль @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm] до початку мого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*4d4)[persistent,fire]]] і [[/r (4[splash])[fire]]]{4 шкоди від вогню} . Після критичного удару ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 3} до початку мого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 4d4[persistent,fire]]] і [[/r (4[splash])[fire]]]{4 шкоди від вогню}."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*2d4)[persistent,fire]]] і [[/r (2[splash])[fire]]]{2 шкоди від вогню} . При критичному попаданні ціль @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm] до початку мого наступного ходу.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*2d4)[persistent,fire]]] і [[/r (2[splash])[fire]]]{2 шкоди від вогню} . При критичному попаданні ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 1} до початку мого наступного ходу.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 2d4[persistent,fire]]] і [[/r (2[splash])[fire]]]{2 шкоди від вогню}."
         }
       },
       "SulfurBomb": {
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[acid]]]{3 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[acid]]]{3 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірки сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.fuQVJiPPUsvL6fi5])."
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[acid]]]{3 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18].",
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[acid]]]{3 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірки сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.Item.fuQVJiPPUsvL6fi5])."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[acid]]]{1 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[acid]]]{1 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірки сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.fuQVJiPPUsvL6fi5])."
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[acid]]]{1 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18].",
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[acid]]]{1 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірки сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.Item.fuQVJiPPUsvL6fi5])."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[acid]]]{4 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[acid]]]{4 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірок сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.fuQVJiPPUsvL6fi5])."
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[acid]]]{4 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18].",
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[acid]]]{4 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірок сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.Item.fuQVJiPPUsvL6fi5])."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[acid]]]{2 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18].",
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[acid]]]{2 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірок сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.fuQVJiPPUsvL6fi5])."
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[acid]]]{2 шкоди від бризок кислоти}, а ціль стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18].",
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[acid]]]{2 шкоди від бризок кислоти}, а ціль отримує -1 статусний штраф до перевірок сприйняття та кидків атаки, доки не кінець свого наступного ходу (@UUID[Compendium.pf2e.equipment-effects.Item.fuQVJiPPUsvL6fi5])."
         }
       },
       "TallowBomb": {
-        "criticalSuccess": "Під час критичного удару жива істота, яка отримує постійну вогняну шкоду від сальної бомби, @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18]{Хворий 1} від смороду палаючого жиру та не може зменшити значення нудоти нижче 1, поки тривале пошкодження вогнем.",
+        "criticalSuccess": "Під час критичного удару жива істота, яка отримує постійну вогняну шкоду від сальної бомби, @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 1} від смороду палаючого жиру та не може зменшити значення нудоти нижче 1, поки тривале пошкодження вогнем.",
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*3d4)[persistent,fire]]], [[/r (3[splash])[fire]]]{3 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*3d4)[persistent,fire]]], [[/r (3[splash])[fire]]]{3 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 3d4[persistent,fire]]] і [[/r (3[splash])[fire]]]{3 шкоди від вогню}."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*1d4)[persistent,fire]]], [[/r (1[splash])[fire]]]{1 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*1d4)[persistent,fire]]], [[/r (1[splash])[fire]]]{1 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 1d4[persistent,fire]]] і [[/r (1[splash])[fire]]]{1 шкоди від вогню}."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*4d4)[persistent,fire]]], [[/r (4[splash])[fire]]]{4 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*4d4)[persistent,fire]]], [[/r (4[splash])[fire]]]{4 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 4d4[persistent,fire]]] і [[/r (4[splash])[fire]]]{4 шкоди від вогню}."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*2d4)[persistent,fire]]], [[/r (2[splash])[fire]]]{2 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*2d4)[persistent,fire]]], [[/r (2[splash])[fire]]]{2 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 2d4[persistent,fire]]] і [[/r (2[splash])[fire]]]{2 шкоди від вогню}."
         }
       },
       "TanglefootBag": {
         "Greater": {
-          "criticalSuccess": "Після попадання @UUID[Compendium.pf2e.equipment-effects.csA4UAD2tQq7RjT8]{-15 футів Штраф за швидкість} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] на 1 раунд.",
-          "success": "Після попадання @UUID[Compendium.pf2e.equipment-effects.csA4UAD2tQq7RjT8]{-15 футів Штраф за швидкість} на 1 хвилину."
+          "criticalSuccess": "Після попадання @UUID[Compendium.pf2e.equipment-effects.Item.csA4UAD2tQq7RjT8]{-15 футів Штраф за швидкість} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe] на 1 раунд.",
+          "success": "Після попадання @UUID[Compendium.pf2e.equipment-effects.Item.csA4UAD2tQq7RjT8]{-15 футів Штраф за швидкість} на 1 хвилину."
         },
         "Lesser": {
-          "criticalSuccess": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.fYZIanbYu0Vc4JEL]{-10 ft Speed Penalty} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] на 1 раунд.",
-          "success": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.fYZIanbYu0Vc4JEL]{-10 ft Speed Penalty} на 1 хвилину."
+          "criticalSuccess": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.Item.fYZIanbYu0Vc4JEL]{-10 ft Speed Penalty} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe] на 1 раунд.",
+          "success": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.Item.fYZIanbYu0Vc4JEL]{-10 ft Speed Penalty} на 1 хвилину."
         },
         "Major": {
-          "criticalSuccess": "Після попадання @UUID[Compendium.pf2e.equipment-effects.ITAFsW3dQPupJ3DW]{-20 ft Speed Penalty} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] на 1 раунд.",
-          "success": "Після попадання @UUID[Compendium.pf2e.equipment-effects.ITAFsW3dQPupJ3DW]{-20 ft Speed Penalty} на 1 хвилину."
+          "criticalSuccess": "Після попадання @UUID[Compendium.pf2e.equipment-effects.Item.ITAFsW3dQPupJ3DW]{-20 ft Speed Penalty} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe] на 1 раунд.",
+          "success": "Після попадання @UUID[Compendium.pf2e.equipment-effects.Item.ITAFsW3dQPupJ3DW]{-20 ft Speed Penalty} на 1 хвилину."
         },
         "Moderate": {
-          "criticalSuccess": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.MEreOgnjoRiXPEuq]{-15 ft Speed Penalty} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] на 1 раунд.",
-          "success": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.MEreOgnjoRiXPEuq]{-15 ft Speed Penalty} на 1 хвилину."
+          "criticalSuccess": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.Item.MEreOgnjoRiXPEuq]{-15 ft Speed Penalty} на 1 хвилину. При критичному попаданні @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe] на 1 раунд.",
+          "success": "У разі попадання @UUID[Compendium.pf2e.equipment-effects.Item.MEreOgnjoRiXPEuq]{-15 ft Speed Penalty} на 1 хвилину."
         }
       },
       "Thunderstone": {
         "Greater": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[sonic]]]{3 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:28|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[sonic]]]{3 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:28|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
         },
         "Lesser": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[sonic]]]{1 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:17|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[sonic]]]{1 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:17|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
         },
         "Major": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[sonic]]]{4 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:36|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[sonic]]]{4 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:36|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
         },
         "Moderate": {
-          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[sonic]]]{2 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:20|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
+          "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[sonic]]]{2 шкоди від звукового бризку}, і всі істоти в радіусі 10 футів повинні успішно пройти @Check[type:fortitude| dc:20|showDC:all] зберегти або бути @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] до кінця наступного ходу."
         }
       },
       "TwigjackSack": {
@@ -542,6 +543,10 @@
         "PinpointLight": "Точне світло"
       },
       "BarghestFeed": "Скільки разів годував Баргест?",
+      "Bunyip": {
+        "CrocodileLegs": "Ноги крокодила",
+        "SnakeTail": "Хвіст змії"
+      },
       "Calikang": {
         "SixfoldFlurry": "Страйки не прийняті?",
         "SuspendedAnimationEnter": "Введіть призупинену анімацію",
@@ -554,14 +559,25 @@
       "ClockworkLostPlates": "Скільки тарілок втрачено?",
       "ClockworkWindUp": "Режим очікування",
       "ConstructArmor": {
-        "BrokenArmor": "Broken Construct Armor",
+        "BrokenArmor": "Зламана броня конструкта",
         "CriticalHit": "Створіть броню, зламану критичним ударом"
       },
       "CustomArmor": {
         "BrokenArmor": "Зламана індивідуальна броня",
         "CriticalHit": "Спеціальна броня, зламана критичним ударом"
       },
+      "CyclopsBully": {
+        "TerrorizingSwing": "Якщо істота @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] і отримує пошкодження, вона отримує додатково 2d10 пошкоджень і отримує @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]."
+      },
       "DemonInfuseWeapons": "Наносьте хаотичну, а не злісну шкоду",
+      "DisplacedRobot": {
+        "DivertPower": {
+          "Fists": "Переключити силу на кулаки",
+          "LaserBeam": "Перенаправлення живлення на лазерний промінь"
+        },
+        "Fists": "Кулаки",
+        "LaserBeam": "Лазерний промінь"
+      },
       "Dramofir": {
         "BittersweetDreamsCriticalFailure": "Критичний збій",
         "BittersweetDreamsSuccessFailure": "Успіх чи невдача"
@@ -595,9 +611,9 @@
         "FlameOfJustice": "Полум'я справедливості - критичний удар"
       },
       "LemureSubservience": {
-        "Defend": "Покора – Захищати",
-        "Fetch": "Покірність – Fetch",
-        "Kill": "Покірність - Убити"
+        "Defend": "Захист",
+        "Fetch": "Принести",
+        "Kill": "Убити"
       },
       "MarilithFocusedAssault": {
         "Five": "5 довгих мечів",
@@ -621,11 +637,13 @@
       },
       "PoltergeistTelekineticStorm": {
         "MultiAttackLabel": "Телекінетичний шторм - кілька цілей",
+        "MultipleTargets": "Кілька цілей",
         "SingleAttackEffect": "Атака завдає [[/r {1d12}]] у разі невдачі.",
-        "SingleAttackLabel": "Телекінетичний шторм - одна ціль"
+        "SingleAttackLabel": "Телекінетичний шторм - одна ціль",
+        "SingleTarget": "Єдина ціль"
       },
       "PunishingStrike": {
-        "Note": "Безрозсудна атака робить користувача @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] до початку наступного ходу. Якщо вони вдарять, вони можуть додати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl] до удару"
+        "Note": "Безрозсудна атака робить користувача @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до початку наступного ходу. Якщо вони вдарять, вони можуть додати @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl] до удару"
       },
       "RaptorGuardWight": {
         "TerrorMaster": "Раптор гвардія носить свій шолом із черепом динозавра."
@@ -653,12 +671,15 @@
       "Vampire": {
         "JiangShi": {
           "StanceOfDeath": {
+            "BoneCorpse": {
+              "Label": "Стойка кісткового трупа"
+            },
             "CloudlessVoid": {
               "Label": "Стоя безхмарної порожнечі"
             },
             "SunderedVeins": {
               "Label": "Стойка «Розрізані вени».",
-              "Note": "Ціль стає @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7]"
+              "Note": "Ціль стає @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]"
             }
           }
         }
@@ -1016,7 +1037,7 @@
       "FlatModifier": "Плоский модифікатор",
       "GrantItem": "Надати предмет",
       "Immunity": "Імунітет",
-      "LoseHitPoints": "Втратити очки життя",
+      "LoseHitPoints": "Втратити очки здоров'я",
       "MarkToken": "Марк Токен",
       "MartialProficiency": "Бойові навички",
       "MultipleAttackPenalty": "Штраф за кілька нападів",
@@ -1143,7 +1164,7 @@
       "RunningWater": "У проточній воді",
       "RustyTerrain": "У зонах іржавих предметів",
       "Sand": "У піску",
-      "SenseMotive": "до почуття мотиву",
+      "SenseMotive": "Зрозуміти намір",
       "Sewers": "У каналізації",
       "SewersScrapyards": "У каналізації та сміттєзвалищах",
       "ShootingGallery": "У тирі",
@@ -1212,9 +1233,9 @@
         "Prompt": "Виберіть загальну здібность 7-го рівня або нижчого."
       },
       "AerialPiledriver": {
-        "SuccessText": "Ціль приземляється @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
+        "SuccessText": "Ціль приземляється @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
         "FailureText": "Ви втрачаєте контроль над ціллю, і ви її більше не хапаєте та не стримуєте.",
-        "CriticalFailureText": "Ви падаєте @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60], і ви більше не хапаєте та не стримуєте ціль."
+        "CriticalFailureText": "Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60], і ви більше не хапаєте та не стримуєте ціль."
        },
       "AftermathFeats": {
         "DormantEruptionToggle": "Сьогодні ви використовували Теплове виверження",
@@ -1261,7 +1282,7 @@
         },
         "CoreCannon": {
           "AttackNote": "Вам потрібно вручну застосувати свою найвищу руну Потенції до цього кидка атаки.",
-          "CriticalHit": "Після критичного влучення ціль отримує [[/r 10[persistent,fire]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]. Ваша основна гармата не додає критичних ефектів спеціалізації.</p>"
+          "CriticalHit": "Після критичного влучення ціль отримує [[/r 10[persistent,fire]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60]. Ваша основна гармата не додає критичних ефектів спеціалізації.</p>"
         },
         "EnergyBeam": {
           "CriticalHit": "При критичному влученні ціль отримує стійку вогневу шкоду, що дорівнює кількості кубиків шкоди від зброї. Ваш промінь очей не додає критичних ефектів спеціалізації."
@@ -1407,7 +1428,10 @@
         "BladeAllyRune": "Виберіть руну властивостей для свого союзника-леза.",
         "DivineSmite": {
           "Label": "Божественний удар"
-        }
+        },
+        "EvilDamage": "Зла шкода",
+        "NegativeDamage": "Негативна шкода",
+        "TargetReaction": "Ціль викликала вашу чемпіонську реакцію"
       },
       "ChromaticArmor": {
         "Acid": "Апельсин (кислотний)",
@@ -1518,7 +1542,7 @@
         "TitanSwing": {
           "NoteFifteenFeet": "Ціль відсувається на 15 футів.",
           "NoteFiveFeet": "Ціль відсувається на 5 футів назад.",
-          "NoteProne": "Ви відштовхуєте ціль назад на подвійну звичайну відстань і збиваєте її @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
+          "NoteProne": "Ви відштовхуєте ціль назад на подвійну звичайну відстань і збиваєте її @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "NoteTenFeet": "Ціль відсувається на 10 футів назад."
         }
       },
@@ -1577,7 +1601,7 @@
           "Prompt": "Виберіть тип свого елементального серця"
         },
         "ForgeBlessedShot": {
-          "Note": "Ігноруйте стан @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W] вашої цілі, а також менше, стандартне та більше покриття вашої цілі."
+          "Note": "Ігноруйте стан @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W] вашої цілі, а також менше, стандартне та більше покриття вашої цілі."
         },
         "KneelForNoGod": {
           "Note": "Коли ви кидаєте успіх проти божественного ефекту, натомість ви отримуєте критичний успіх."
@@ -1589,7 +1613,7 @@
           "Note": "Кожного разу, коли ви досягаєте успіху на першому Ударі, ви отримуєте [[/r (1+@weapon.system.runes.striking)[fire]]]."
         },
         "TombWatchersGlare": {
-          "Note": "Коли ви критично вдаряєте неживу істоту, вона отримує @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] на 1 раунд"
+          "Note": "Коли ви критично вдаряєте неживу істоту, вона отримує @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] на 1 раунд"
         },
         "VengefulHatred": {
           "Prompt": "Виберіть родового ворога."
@@ -1633,6 +1657,10 @@
             "FearLabel": "Помірне Пиво  Браво (проти страху)"
           }
         },
+        "DeckOfDestiny": {
+          "MatchingSuitPrompt": "Чи пов’язана масть взятої карти з чеком?",
+          "WealOrWoePrompt": "Виберіть Благо або Горе"
+        },
         "EagleEyeElixir": {
           "Greater": {
             "SecretLabel": "Великий орлиний еліксир (щоб знайти таємні двері або пастки)"
@@ -1648,11 +1676,15 @@
           }
         },
         "NosoiCharm": {
-          "PerformanceLabel": "Чарівність Nosoi (грати на інструменті, говорити або співати)",
-          "RequestLabel": "Оберіг Nosoi (Запит)"
+          "PerformanceLabel": "Оберіг Носой (грати на інструменті, говорити або співати)",
+          "RequestLabel": "Оберіг Носой (Запит)"
         },
         "PhantomShroud": {
           "StrikeLabel": "Примарна рука"
+        },
+        "ScapularOfShields": {
+          "CriticalImmunityLabel": "Активуйте Скапулярій щитів, щоб отримати критичний імунітет.",
+          "ResistAllLabel": "Активуйте Скапулярій щитів, щоб отримати стійкість до будь-якої шкоди."
         }
       },
       "ExemplaryFinisher": {
@@ -1745,13 +1777,13 @@
         "FullySatiated": "Повністю насичений",
         "Satiated": "Ситий",
         "SickeningBite": {
-          "criticalSuccess": "Коли ви критично вдаряєте істоту щелепами, ця істота стає @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18]. Це наслідки хвороби.",
-          "success": "Ви можете закінчити своє насичення, щоб зробити цільовий @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18]"
+          "criticalSuccess": "Коли ви критично вдаряєте істоту щелепами, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]. Це наслідки хвороби.",
+          "success": "Ви можете закінчити своє насичення, щоб зробити цільовий @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]"
         }
       },
       "Gnome": {
         "GrimInsight": {
-          "SaveNote": "Коли ви кидаєте успіх на рятівному кидку проти ефекту страху, натомість ви отримуєте критичний успіх, а джерелом ефекту страху є @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg] для вас до кінця вашого наступного повороту."
+          "SaveNote": "Коли ви кидаєте успіх на рятівному кидку проти ефекту страху, натомість ви отримуєте критичний успіх, а джерелом ефекту страху є @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] для вас до кінця вашого наступного повороту."
         }
       },
       "Goblin": {
@@ -1799,6 +1831,13 @@
           "ClimbNote": "Якщо ви кинете успіх у перевірці з легкої атлетики на підйом, ви натомість отримаєте критичний успіх. У вас немає плоскостопості, коли ви намагаєтеся піднятися."
         }
       },
+      "HarrowChosen": {
+        "Misaligned": "Зміщено",
+        "PartialMatch": "Частковий збіг",
+        "Prompt": "Чи відповідає ваша картка вашому розкладу?",
+        "TrueMatch": "Правдивий збіг",
+        "Unmatched": "Не збіг"
+      },
       "HarrowCourt": {
         "Fiend": {
           "ToggleLabel": "Повторення дії без удару"
@@ -1814,7 +1853,7 @@
           "Shields": "Щити",
           "Stars": "Зірки"
         },
-        "Prompt": "Виберіть костюм Harrow"
+        "Prompt": "Виберіть костюм Харроу"
       },
       "Hobgoblin": {
         "AgonizingRebuke": {
@@ -1917,7 +1956,7 @@
       },
       "Lich": {
         "HandOfTheLich": {
-          "Note": "Істота @UUID[Compendium.pf2e.conditionitems.xYTAsEpcJE1Ccni3] до кінця вашого наступного ходу, якщо вона не вдасться в @Check[type:fortitude|dc:resolve(@actor.attributes.spellDC.value) ] зберегти проти вашого заклинання КС."
+          "Note": "Істота @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] до кінця вашого наступного ходу, якщо вона не вдасться в @Check[type:fortitude|dc:resolve(@actor.attributes.spellDC.value) ] зберегти проти вашого заклинання КС."
         }
       },
       "LitCandle": "Свічка горить",
@@ -1934,7 +1973,7 @@
       },
       "MagicalExperiment": {
         "EnhancedSenses": "Розширені відчуття",
-        "ResistantSkin": "Стійка шкіра",
+        "ResistantSkin": "Стойка шкіра",
         "TouchTelepathy": "Торкніться Телепатія"
       },
       "Magus": {
@@ -1956,7 +1995,7 @@
       "Marshal": {
         "DreadMarshalStance": {
           "Title": "Dread Marshal Aura",
-          "Note": "Коли ви завдаєте удару ворогу критичного удару, цей ворог є @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL]."
+          "Note": "Коли ви завдаєте удару ворогу критичного удару, цей ворог є @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]."
         }
       },
       "MartialProficiency": {
@@ -2061,16 +2100,16 @@
           "Prompt": "Виберіть свою вирівняну шкоду."
         },
         "StunningFist": {
-          "Note": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.system.proficiencies.classDCs.monk.value)|traits:incapacitation|overrideTraits:true] збереження проти вашого класу КС або бути @UUID[Compendium .pf2e.conditionitems.dfCMdR4wnpbYNTix] (або @UUID[Compendium.pf2e.conditionitems.dfCMdR4wnpbYNTix] у разі критичної помилки)."
+          "Note": "Ціль має успішно виконати @Check[type:fortitude|dc:resolve(@actor.system.proficiencies.classDCs.monk.value)|traits:incapacitation|overrideTraits:true] збереження проти вашого класу КС або бути @UUID[Compendium .pf2e.conditionitems.Item.dfCMdR4wnpbYNTix] (або @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix] у разі критичної помилки)."
         },
         "WolfDrag": {
-          "Note": "Якщо атака вдається, ви вибиваєте ціль @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]."
+          "Note": "Якщо атака вдається, ви вибиваєте ціль @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]."
         }
       },
       "MountainStance": {
-        "BracersOfArmor": "Горна стійка з наручами броні",
-        "ExplorersClothing": "Гірська стійка з одягом дослідника",
-        "MageArmor": "Горна стійка з магічною бронею"
+        "BracersOfArmor": "Гірська стойка з наручами броні",
+        "ExplorersClothing": "Гірська стойка з одягом дослідника",
+        "MageArmor": "Горна стойка з магічною бронею"
       },
       "Multitalented": {
         "Prompt": "Виберіть подвиг багатокласової відданості."
@@ -2078,9 +2117,9 @@
       "Mummy": {
         "AccursedTouch": {
           "Note": {
-            "Base": "Істота отримує [[/r 2d6[persistent,negative]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]. Хоча істота має ці стійкі пошкодження, це також @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg].",
-            "FourteenthLevel": "Істота отримує [[/r 3d6[persistent,negative]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]. Хоча істота має ці стійкі пошкодження, це також @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg].",
-            "TwentiethLevel": "Істота отримує [[/r 4d6[persistent,negative]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]. Хоча істота має ці стійкі пошкодження, це також @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg]."
+            "Base": "Істота отримує [[/r 2d6[persistent,negative]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60]. Хоча істота має ці стійкі пошкодження, це також @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg].",
+            "FourteenthLevel": "Істота отримує [[/r 3d6[persistent,negative]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60]. Хоча істота має ці стійкі пошкодження, це також @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg].",
+            "TwentiethLevel": "Істота отримує [[/r 4d6[persistent,negative]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60]. Хоча істота має ці стійкі пошкодження, це також @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]."
           }
         },
         "Terrain": {
@@ -2094,8 +2133,15 @@
       "Nagaji": {
         "VenomSpit": {
           "CriticalNote": "Ціль отримує [[/r (1+@weapon.system.runes.striking)[persistent,poison]]], що дорівнює кількості кубиків шкоди від зброї",
-          "HoodedNote": "Ціль також @UUID[Compendium.pf2e.conditionitems.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
+          "HoodedNote": "Ціль також @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] до початку вашого наступного ходу.",
           "StrikeLabel": "Отруйна коса"
+        }
+      },
+      "Obcisidaemon": {
+        "ConsumeSoul": {
+          "EmpowerSpell": "Заклинання розширення можливостей",
+          "EmpowerWeapon": "Розширення зброї",
+          "Prompt": "Додати заклинання чи зброю?"
         }
       },
       "Oracle": {
@@ -2158,6 +2204,7 @@
         "LevelOneOrTwoClassFeat": "Виберіть подвиг класу 1 або 2 рівня.",
         "Material": "Виберіть матеріал.",
         "PathToPerfection": "Виберіть шлях до досконалості.",
+        "Rune": "Виберіть руну.",
         "SecondImplement": "Виберіть свій другий інструмент.",
         "Shillelagh": "Виберіть клуб або персонал.",
         "Skill": "Виберіть навик.",
@@ -2218,7 +2265,7 @@
           "PhysicalAttackLabel": "Захист від фізичної атаки",
           "ProtectionLabel": "Отримайте стійкість до фізичної атаки"
         },
-        "SpiritualFlurryNote": "Цілі стають @Compendium[pf2e.conditionitems.Плосконогі] до кінця вашого поточного ходу."
+        "SpiritualFlurryNote": "Цілі стають @Compendium[pf2e.conditionitems.Item.Плосконогі] до кінця вашого поточного ходу."
       },
       "Shisk": {
         "PiercingQuills": {
@@ -2381,7 +2428,7 @@
             "InForestLabel": "Wildwood Ink (Major) (In Forest)"
           },
           "Normal": {
-            "InForestLabel": "Чорнило Wildwood (у лісі)"
+            "InForestLabel": "Чорнило Вілвуд (у лісі)"
           }
         }
       },
@@ -2428,15 +2475,15 @@
       },
       "UndeadSlayer": {
         "SlayersPresence": {
-          "Note": "Ціль — @UUID[Compendium.pf2e.conditionitems.sDPxOjQ9kx2RZE8D] на 1 раунд."
+          "Note": "Ціль — @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D] на 1 раунд."
         }
       },
       "Vampire": {
         "ViciousFangs": {
           "Note": {
-            "Base": "Ваш удар іклами завдає додаткового [[/r 1d6[bleed]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60].",
-            "FourteenthLevel": "Ваш удар іклами завдає додаткового [[/r 2d6[bleed]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60].",
-            "TwentiethLevel": "Ваш удар іклами завдає додаткового [[/r 3d6[bleed]]] @UUID[Compendium.pf2e.conditionitems.lDVqvLKA6eF3Df60]."
+            "Base": "Ваш удар іклами завдає додаткового [[/r 1d6[bleed]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60].",
+            "FourteenthLevel": "Ваш удар іклами завдає додаткового [[/r 2d6[bleed]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60].",
+            "TwentiethLevel": "Ваш удар іклами завдає додаткового [[/r 3d6[bleed]]] @UUID[Compendium.pf2e.conditionitems.Item.lDVqvLKA6eF3Df60]."
           }
         }
       },
@@ -2459,12 +2506,12 @@
         }
       },
       "VitalityManipulationStance": {
-        "Note": "Коли ви використовуєте Stunning Fist, замість збереження від оглушення ви можете вибрати, щоб ціль зробила @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)] збереження проти вашого класу КС за допомогою наступні результати. Ви повинні зробити це до того, як ціль здійснить збереження.</p><hr><p><strong>Критичний успіх</strong> Ціль не вплинула.</p><p><strong>Успіх</strong> сильний> М'язи цілі тимчасово слабшають. Для 1 раунду ціль — @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7], і щоразу, коли він намагається виконати дію за допомогою риси маніпуляції, дія зривається, якщо вона не вдасться виконати однозначну перевірку за допомогою КС дорівнює 5 + його ослаблене значення.</p><p><strong>Невдача</strong> Як успіх, але тривалість становить 1 хвилину.</p><p><strong>Критична невдача</strong> Як успіх, але тривалість становить 1 хвилину, постійна перевірка становить КС 11, а ціль отримує -10 футів штрафу статусу для всіх швидкостей протягом тривалості.</p>",
+        "Note": "Коли ви використовуєте Stunning Fist, замість збереження від оглушення ви можете вибрати, щоб ціль зробила @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)] збереження проти вашого класу КС за допомогою наступні результати. Ви повинні зробити це до того, як ціль здійснить збереження.</p><hr><p><strong>Критичний успіх</strong> Ціль не вплинула.</p><p><strong>Успіх</strong> сильний> М'язи цілі тимчасово слабшають. Для 1 раунду ціль — @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблений 2}, і щоразу, коли він намагається виконати дію за допомогою риси маніпуляції, дія зривається, якщо вона не вдасться виконати однозначну перевірку за допомогою КС дорівнює 5 + його ослаблене значення.</p><p><strong>Невдача</strong> Як успіх, але тривалість становить 1 хвилину.</p><p><strong>Критична невдача</strong> Як успіх, але тривалість становить 1 хвилину, постійна перевірка становить КС 11, а ціль отримує -10 футів штрафу статусу для всіх швидкостей протягом тривалості.</p>",
         "StrikeLabel": "Vitality Blast"
       },
       "WardenHuman": {
         "Fortitude": "Експерт із збереження Стійкості",
-        "HitPoints": "4 очки життя",
+        "HitPoints": "4 очки здоров'я",
         "MediumArmor": "Навчався в середній броні"
       },
       "WardingRune": {
