@@ -4,16 +4,17 @@
   "description": "Переклад інтерфейсу PF2e для Foundry VTT українською мовою",
   "authors": [
     {
-      "name": "reyzor1991",
+      "name": "Reyzor",
       "url": "https://github.com/reyzor1991",
-      "discord": "Reyzor1991"
+      "discord": "reyzor1991"
     },
     {
       "name": "Ghostdesu",
-      "url": "https://github.com/Ghostdesu"
+      "url": "https://github.com/Ghostdesu",
+      "discord": "ghostdesu"
     }
   ],
-  "version": "0.3.30",
+  "version": "0.3.31",
   "compatibility": {
     "minimum": 10,
     "verified": 11.304

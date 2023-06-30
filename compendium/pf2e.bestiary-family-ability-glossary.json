@@ -787,7 +787,7 @@
     },
     "(Spring-Heeled Jack) Resonant Terror": {
       "name": "(Джек на підборах) Резонансний терор",
-      "description": "<p>Джек на весняних підборах пильно дивиться на істоту, яку бачить на відстані 30 футів. Ціль має негайно спробувати врятувати Волю (КС дорівнює КС зброї дихання Джека) або стати @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] у разі критичного збою), і він не може знизити свій стан страху нижче 1 протягом 24 годин або доки це прокляття не буде знято. Після спроби свого порятунку істота отримує тимчасовий імунітет до цієї здатності на 24 години.</p>"
+      "description": "<p>Джек на весняних підборах пильно дивиться на істоту, яку бачить на відстані 30 футів. Ціль має негайно спробувати врятувати Волю (КС дорівнює КС зброї дихання Джека) або стати @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] (@UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL] у разі критичного збою), і він не може знизити свій стан страху нижче 1 протягом 24 годин або доки це прокляття не буде знято. Після спроби свого порятунку істота отримує тимчасовий імунітет до цього вміння на 24 години.</p>"
     },
     "(Spring-Heeled Jack) Vanishing Leap": {
       "name": "(Джек на підборах) Зникаючий стрибок",
@@ -871,7 +871,7 @@
     },
     "(Vampire, Nosferatu Overlord) Paralytic Fear": {
       "name": "(Вампір, Повелитель Носферату) Паралітичний страх",
-      "description": "<p><strong>Вимоги</strong> Останньою дією повелителя носферату був успішний удар кігтями</p>\n<hr/>\n<p><strong>Ефект</strong> Носферату наближає ціль Удару та заморожує її розум від жаху. Ціль має спробувати зберегти @Check[type:will|dc:] із помірним КС для рівня носферату.</p>\n<hr/>\n<p><strong>Критичний успіх</strong> Мета не впливає.</p>\n<p><strong>Успіх</strong> Ціль — @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] страхом до кінця наступного ходу носферату.</p>\n<p><strong>Невдача</strong> Ціль — @UUID[Compendium.pf2e.conditionitems.VcDeM8A5oI6VqhbM] і отримує штраф за обставини -2 до свого КС Стійкості проти здатності носферату «Пити кров» до кінця дії наступний хід носферату.</p>\n<p><strong>Критична помилка</strong> Як помилка, а мета — @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL].</p>"
+      "description": "<p><strong>Вимоги</strong> Останньою дією повелителя носферату був успішний удар кігтями</p>\n<hr/>\n<p><strong>Ефект</strong> Носферату наближає ціль Удару та заморожує її розум від жаху. Ціль має спробувати зберегти @Check[type:will|dc:] із помірним КС для рівня носферату.</p>\n<hr/>\n<p><strong>Критичний успіх</strong> Мета не впливає.</p>\n<p><strong>Успіх</strong> Ціль — @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe] страхом до кінця наступного ходу носферату.</p>\n<p><strong>Невдача</strong> Ціль — @UUID[Compendium.pf2e.conditionitems.VcDeM8A5oI6VqhbM] і отримує штраф за обставини -2 до свого КС Стійкості проти вміння носферату «Пити кров» до кінця дії наступний хід носферату.</p>\n<p><strong>Критична помилка</strong> Як помилка, а мета — @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL].</p>"
     },
     "(Vampire, Nosferatu Thrall) Fast Healing": {
       "name": "(Вампір, Носферату Тралл) Швидке загоєння",
