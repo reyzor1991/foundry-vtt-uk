@@ -7,7 +7,7 @@
     },
     "Aquatic Adaptation": {
       "name": "Водна адаптація",
-      "description": "<p>Ваша біологія рептилії дозволяє вам надовго затримувати дихання. Ви отримуєте загальну здатність @UUID[Compendium.pf2e.feats-srd.aJUXbe9HJVvv0Mxa] як бонус.</p>"
+      "description": "<p>Ваша біологія рептилії дозволяє вам надовго затримувати дихання. Ви отримуєте загальну здібность @UUID[Compendium.pf2e.feats-srd.aJUXbe9HJVvv0Mxa] як бонус.</p>"
     },
     "Automaton Core": {
       "name": "Ядро автомата",
@@ -27,11 +27,11 @@
     },
     "Change Shape (Anadi)": {
       "name": "Змінити форму (Aadi)",
-      "description": "<p>Як анаді, ви отримуєте здатність @UUID[Compendium.pf2e.actionspf2e.34E7k2YRcsOU5uyl].</p>"
+      "description": "<p>Як анаді, ви отримуєте здібность @UUID[Compendium.pf2e.actionspf2e.34E7k2YRcsOU5uyl].</p>"
     },
     "Change Shape (Kitsune)": {
       "name": "Змінити форму (Кіцуне)",
-      "description": "<p>Як кіцуне ви отримуєте здатність @UUID[Compendium.pf2e.actionspf2e.wwvPiG2kET2rkSAG].</p>"
+      "description": "<p>Як кіцуне ви отримуєте здібность @UUID[Compendium.pf2e.actionspf2e.wwvPiG2kET2rkSAG].</p>"
     },
     "Clan Dagger": {
       "name": "Клановий кинджал",

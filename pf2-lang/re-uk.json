@@ -1209,7 +1209,7 @@
         "Prompt": "Виберіть спільне походження."
       },
       "AdvancedGeneralTraining": {
-        "Prompt": "Виберіть загальну здатність 7-го рівня або нижчого."
+        "Prompt": "Виберіть загальну здібность 7-го рівня або нижчого."
       },
       "AerialPiledriver": {
         "SuccessText": "Ціль приземляється @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60].",
