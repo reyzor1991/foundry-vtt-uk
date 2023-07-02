@@ -14,7 +14,7 @@
       "discord": "ghostdesu"
     }
   ],
-  "version": "0.3.35",
+  "version": "0.3.36",
   "compatibility": {
     "minimum": 10,
     "verified": 11.304
@@ -29,7 +29,7 @@
         "type": "system",
         "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
         "compatibility": {
-          "verified": "5.0.2"
+          "verified": "5.1.0"
         }
       }
     ],

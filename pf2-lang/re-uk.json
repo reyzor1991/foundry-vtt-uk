@@ -188,7 +188,7 @@
         }
       },
       "BioluminescenceBomb": {
-        "success": "<p>Кожна істота в межах @Template[type:emanation|distance:10]{10 футів} від місця, де вибухнула бомба, має вдатися до @Check[type:reflex|dc:17] збереження або бути позначеною барвником, який продовжує світиться 24 години. Уражена істота також має спробувати @Check[type:fortitude|dc:17] рятувальний кидок проти потужного спалаху світла.</p><p><strong>Успіх</strong> Істота не впливає.</p ><p><strong>Помилка</strong> Істота @Compendium[pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] на 1 раунд.</p><p><strong>Критична невдача</strong> Істота є @Compendium[pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2] на 1 раунд, потім засліплений на 1 раунд.</p>"
+        "success": "<p>Кожна істота в межах @Template[type:emanation|distance:10]{10 футів} від місця, де вибухнула бомба, має вдатися до @Check[type:reflex|dc:17] збереження або бути позначеною барвником, який продовжує світиться 24 години. Уражена істота також має спробувати @Check[type:fortitude|dc:17] рятувальний кидок проти потужного спалаху світла.</p><p><strong>Успіх</strong> Істота не впливає.</p ><p><strong>Помилка</strong> Істота @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh] на 1 раунд.</p><p><strong>Критична невдача</strong> Істота є @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2] на 1 раунд, потім засліплений на 1 раунд.</p>"
       },
       "BlightBomb": {
         "Greater": {
@@ -623,6 +623,10 @@
         "Six": "6 довгих мечів",
         "Three": "3 довгі мечі",
         "Two": "2 довгі мечі"
+      },
+      "Marut": {
+        "Lightning": "Блискавка",
+        "Thunder": "Грім"
       },
       "MinotaurHuntedFear": {
         "Demoralize": "Ціль знаходиться в лабіринті або схожій структурі, складній для навігації",
@@ -1167,6 +1171,7 @@
       "SenseMotive": "Зрозуміти намір",
       "Sewers": "У каналізації",
       "SewersScrapyards": "У каналізації та сміттєзвалищах",
+      "Shoes": "Для взуття",
       "ShootingGallery": "У тирі",
       "Shove": "Щоб штовхнути",
       "Singing": "Спів",
@@ -1459,6 +1464,14 @@
           "Prompt": "Виберіть доктрину."
         }
       },
+      "Conditions": {
+        "Sickened": {
+          "Reduce": {
+            "criticalSuccess": "Коли вам вдасться критично вдатися до збереження у Тілобудові, щоб зменшити ваше значення @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18], ви зменшуєте його на 3.",
+            "success": "Коли вам вдасться зберегти значення Fortitude, щоб зменшити ваше значення @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18], ви зменшуєте його на 2."
+          }
+        }
+      },
       "Conrasu": {
         "CeremonyEvenedHand": {
           "Prompt": "Виберіть атаку без зброї."
@@ -1596,6 +1609,21 @@
       "Dwarf": {
         "DeathWardenDwarf": {
           "Note": "Коли ви кидаєте успіх проти ефекту некромантії, натомість ви отримуєте критичний успіх."
+        },
+        "DwarvenClan": {
+          "Aringeld": "Клан Арінгельд",
+          "Breakiron": "Клан Брейкірон",
+          "Firecask": "Клан Пожежна бочка",
+          "Gelderon": "Клан Гелдерон",
+          "Grimmark": "Клан Гріммарк",
+          "Ironfist": "Клан Залізний Кулак",
+          "Molgrade": "Клан Молград",
+          "Oriddus": "Клан Оріддус",
+          "Prompt": "Виберіть клан гномів",
+          "Runebinder": "Клан Підшивка рун",
+          "Stonefist": "Клан Кам'яний кулак",
+          "Tolorr": "Клан Толорр",
+          "Vanderholl": "Клан Вандерхолл"
         },
         "ElementalHeart": {
           "Prompt": "Виберіть тип свого елементального серця"
@@ -1946,6 +1974,12 @@
           "Note": "Коли ви кидаєте успіх на захисному кидку проти ефекту страху, натомість ви отримуєте критичний успіх. Коли ви кидаєте невдачу проти ефекту страху, натомість ви отримуєте критичну невдачу."
         }
       },
+      "Label": {
+        "DamageType": "Тип пошкодження",
+        "ResistanceType": "Тип опору",
+        "SecondAttempt": "Друга спроба",
+        "ThirdAttempt": "Третя спроба"
+      },
       "Leshy": {
         "Seedpod": {
           "Note": "При критичному влученні стручок лопається, випускаючи клубок рослинності, який накладає штраф на -10 футів на швидкість цілі на 1 раунд. @UUID[Compendium.pf2e.feat-effects.wQDHpOKY3GZqvS2v]{Ефект: Seedpod}"
@@ -2265,7 +2299,7 @@
           "PhysicalAttackLabel": "Захист від фізичної атаки",
           "ProtectionLabel": "Отримайте стійкість до фізичної атаки"
         },
-        "SpiritualFlurryNote": "Цілі стають @Compendium[pf2e.conditionitems.Item.Плосконогі] до кінця вашого поточного ходу."
+        "SpiritualFlurryNote": "Ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до кінця вашого поточного ходу."
       },
       "Shisk": {
         "PiercingQuills": {

@@ -188,7 +188,7 @@
         }
       },
       "BioluminescenceBomb": {
-        "success": "<p>Each creature within @Template[type:emanation|distance:10]{10 feet} of where the bomb exploded must succeed at a @Check[type:reflex|dc:17] save or be marked with dye that continues to glow for 24 hours. An affected creature must also attempt a @Check[type:fortitude|dc:17] saving throw against the overwhelming burst of light.</p><p><strong>Success</strong> The creature is unaffected.</p><p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p><p><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round, then dazzled for 1 round.</p>"
+        "success": "<p>Each creature within @Template[type:emanation|distance:10]{10 feet} of where the bomb exploded must succeed at a @Check[type:reflex|dc:17] save or be marked with dye that continues to glow for 24 hours. An affected creature must also attempt a @Check[type:fortitude|dc:17] saving throw against the overwhelming burst of light.</p><p><strong>Success</strong> The creature is unaffected.</p><p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p><p><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round, then dazzled for 1 round.</p>"
       },
       "BlightBomb": {
         "Greater": {
@@ -623,6 +623,10 @@
         "Six": "6 Longswords",
         "Three": "3 Longswords",
         "Two": "2 Longswords"
+      },
+      "Marut": {
+        "Lightning": "Lightning",
+        "Thunder": "Thunder"
       },
       "MinotaurHuntedFear": {
         "Demoralize": "Target is in maze or similarly difficult-to-navigate structure",
@@ -1167,6 +1171,7 @@
       "SenseMotive": "to Sense Motive",
       "Sewers": "In Sewers",
       "SewersScrapyards": "In Sewers and Scrapyards",
+      "Shoes": "For Shoes",
       "ShootingGallery": "In the Shooting Gallery",
       "Shove": "To Shove",
       "Singing": "Singing",
@@ -1459,6 +1464,14 @@
           "Prompt": "Select a doctrine."
         }
       },
+      "Conditions": {
+        "Sickened": {
+          "Reduce": {
+            "criticalSuccess": "When you critically succeed at a Fortitude save to reduce your @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} value, you reduce it by 3.",
+            "success": "When you succeed at a Fortitude save to reduce your @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} value, you reduce it by 2."
+          }
+        }
+      },
       "Conrasu": {
         "CeremonyEvenedHand": {
           "Prompt": "Select an unarmed attack."
@@ -1596,6 +1609,21 @@
       "Dwarf": {
         "DeathWardenDwarf": {
           "Note": "When you roll a success against a necromancy effect, you get a critical success instead."
+        },
+        "DwarvenClan": {
+          "Aringeld": "Clan Aringeld",
+          "Breakiron": "Clan Breakiron",
+          "Firecask": "Clan Firecask",
+          "Gelderon": "Clan Gelderon",
+          "Grimmark": "Clan Grimmark",
+          "Ironfist": "Clan Ironfist",
+          "Molgrade": "Clan Molgrade",
+          "Oriddus": "Clan Oriddus",
+          "Prompt": "Select a Dwarven Clan",
+          "Runebinder": "Clan Runebinder",
+          "Stonefist": "Clan Stonefist",
+          "Tolorr": "Clan Tolorr",
+          "Vanderholl": "Clan Vanderholl"
         },
         "ElementalHeart": {
           "Prompt": "Pick the type of your Elemental Heart"
@@ -1946,6 +1974,12 @@
           "Note": "When you roll a success on a saving throw against a fear effect, you get a critical success instead. When you roll a failure against a fear effect, you get a critical failure instead."
         }
       },
+      "Label": {
+        "DamageType": "Damage Type",
+        "ResistanceType": "Resistance Type",
+        "SecondAttempt": "Second Attempt",
+        "ThirdAttempt": "Third Attempt"
+      },
       "Leshy": {
         "Seedpod": {
           "Note": "On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a -10-foot circumstance penalty on the target's Speed for 1 round. @UUID[Compendium.pf2e.feat-effects.Item.wQDHpOKY3GZqvS2v]{Effect: Seedpod}"
@@ -2265,7 +2299,7 @@
           "PhysicalAttackLabel": "Guarding Against a Physical Attack",
           "ProtectionLabel": "Gain Resistance to Physical Attack"
         },
-        "SpiritualFlurryNote": "Targets become @Compendium[pf2e.conditionitems.Item.Flat-Footed]{Flat-Footed} until the end of your current turn."
+        "SpiritualFlurryNote": "Targets become @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Flat-Footed} until the end of your current turn."
       },
       "Shisk": {
         "PiercingQuills": {
