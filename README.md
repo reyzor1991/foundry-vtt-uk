@@ -4,8 +4,9 @@
 
 [![Version]][Version URL]
 
-![GitHub Release Date]
-![GitHub Release Download]
+![](https://img.shields.io/github/release-date/reyzor1991/foundry-vtt-uk)
+![](https://img.shields.io/github/downloads/reyzor1991/foundry-vtt-uk/total?label=All%20Downloads)
+![](https://img.shields.io/github/downloads-pre/reyzor1991/foundry-vtt-uk/latest/total?label=Latest%20version)
 
 [![MIT License]][MIT URL]
 
@@ -20,11 +21,8 @@
 5. Увімкніть модуль у налаштуваннях "Manage Module".
 6. В налаштуваннях "Configure Settings" у вкладці "Core" встановіть "Language Preference" на українську мову.
 
-[Version]: https://img.shields.io/badge/Version-0.3.32-yellow?style=flat-square
+[Version]: https://img.shields.io/badge/Version-0.3.37-yellow?style=flat-square
 [Version URL]: https://github.com/reyzor1991/foundry-vtt-uk
-
-[GitHub Release Date]: https://img.shields.io/github/release-date/reyzor1991/foundry-vtt-uk
-[GitHub Release Download]: https://img.shields.io/github/downloads/reyzor1991/foundry-vtt-uk/total?label=All%20Downloads
 
 [MIT License]: https://img.shields.io/badge/License-OGL-green?style=flat-square
 [MIT URL]: https://github.com/reyzor1991/foundry-vtt-uk/blob/master/OpenGameLicense
