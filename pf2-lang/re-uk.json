@@ -31,7 +31,7 @@
         }
       },
       "FreezingAmmunition": {
-        "Text": "Ціль має успішно виконати @Check[type:fortitude|dc:19] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] на 1 раунд через сильний холод (уповільнено 1 на 1 хвилину на критичний збій).",
+        "Text": "Ціль має успішно виконати @Check[type:fortitude|dc:19] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] на 1 раунд через сильний холод (уповільнено 1 на 1 хвилину на критичну невдачу).",
         "Title": "Заморожування боєприпасів"
       },
       "MeteorShot": {
@@ -579,7 +579,7 @@
         "LaserBeam": "Лазерний промінь"
       },
       "Dramofir": {
-        "BittersweetDreamsCriticalFailure": "Критичний збій",
+        "BittersweetDreamsCriticalFailure": "Критична невдача",
         "BittersweetDreamsSuccessFailure": "Успіх чи невдача"
       },
       "DuskwalkerHuntPrey": {
@@ -1449,7 +1449,7 @@
         "Sonic": "Синій (Звук)"
       },
       "Chronoskimmer": {
-        "DestabilizeFailureLabel": "Дестабілізувати часовий потік (збій)",
+        "DestabilizeFailureLabel": "Дестабілізувати часовий потік (невдача)",
         "DestabilizeSuccessLabel": "Дестабілізувати часовий потік (успіх)",
         "StabilizeLabel": "Стабілізувати часовий потік"
       },
@@ -2042,7 +2042,7 @@
         "AdvancedGeniekinWeapons": "Удосконалена зброя Geniekin",
         "AdvancedGhoranWeapons": "Вдосконалена зброя Горану",
         "AdvancedGnollWeapons": "Вдосконалена зброя гнолів",
-        "AdvancedGnomeWeapons": "Розширена зброя гномів",
+        "AdvancedGnomeWeapons": "Продвинута зброя гномів",
         "AdvancedGoblinWeapons": "Вдосконалена зброя гоблінів",
         "AdvancedGrippliWeapons": "Вдосконалена зброя Grippli",
         "AdvancedGroup": {

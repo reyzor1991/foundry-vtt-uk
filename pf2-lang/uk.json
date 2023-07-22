@@ -810,7 +810,7 @@
     "CraftItemTitle": "Ремесло",
     "CraftingTab": {
       "Alchemical": {
-        "AdvancedAlchemy": "Розширена алхімія",
+        "AdvancedAlchemy": "Продвинута алхімія",
         "AdvancedAlchemyLevel": "Розширений рівень алхімії",
         "InfusedReagents": "Введені реагенти",
         "ReagentCost": "Вартість реагенту",
@@ -845,7 +845,7 @@
     "CreateLabelUniversal": "Створити",
     "CreateSkillTitle": "Створення навичок",
     "CreateSpellTitle": "Створити заклинання",
-    "CritFailure": "<strong>Критичний збій</strong>",
+    "CritFailure": "<strong>Критична невдача</strong>",
     "CritSuccess": "<strong>Критичний успіх</strong>",
     "CriticalDamageLabel": "Критична",
     "CriticalFumbleCardButtonTitle": "Витягніть картку критичної мацання",
@@ -5102,7 +5102,7 @@
       "thundering": {
         "Name": "Гримить",
         "Note": {
-          "criticalSuccess": "Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:24|name:Thundering Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] протягом 1 хвилини (або 1 година на критичний збій)."
+          "criticalSuccess": "Після критичного влучення ціль має успішно виконати @Check[type:fortitude|dc:24|name:Thundering Rune] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR] протягом 1 хвилини (або 1 година на критична невдача)."
         }
       },
       "unholy": {

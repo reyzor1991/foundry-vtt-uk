@@ -46,18 +46,18 @@
         },
         "Notes": {
           "NoTarget": "<strong>Різниця в розмірі</strong> Ви отримуєте штраф за обставини -2, якщо ціль на один розмір більша за вас, і штраф за обставини -4, якщо вона ще більша. Ви отримуєте бонус обставин +2 до перевірки, якщо ціль на один розмір менша за вас, і бонус обставин +4, якщо вона ще менша.",
-          "criticalFailure": "<strong>Критична невдача</strong> Істота звільняється і більше не @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} чи @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} вами.",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви збиваєте ворога, і магічна енергія переповнює його. Збита @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} істота, стає @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{dazzled} на 1 раунд і отримує шкоду, рівну [[/r 2d6 + @ abilities.str.mod # Damage: Arcane Slam]]{2d6 plus your Strength modifier}. Ворог більше не @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} чи @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} вами.",
+          "criticalFailure": "<strong>Критична невдача</strong> Істота звільняється і більше не @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] чи @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM] вами.",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви збиваєте ворога, і магічна енергія переповнює його. Збита @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] істота, стає @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] на 1 раунд і отримує шкоду, рівну [[/r 2d6 + @abilities.str.mod # Damage: Arcane Slam]]{2к6 плюс ваш модифікатор сили}. Ворог більше не @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] чи @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM] вами.",
           "failure": "<strong>Невдача</strong> Ви не можете вдарити по істоті, але ви тримаєте цю істоту.",
-          "success": "<strong>Успіх</strong> Ви вдарите ворога. Істота збита @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} та отримує шкоду, що дорівнює вашому [[/r @abilities.str.mod # Damage: Arcane Slam]]{Strength modifier}. Ворог більше не @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} чи @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} вами."
+          "success": "<strong>Успіх</strong> Ви вдарите ворога. Істота збита @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] та отримує шкоду, що дорівнює вашому [[/r @abilities.str.mod # Damage: Arcane Slam]]. Ворог більше не @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] чи @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM] вами."
         },
         "Title": "Арканне притиснення"
       },
       "AvoidNotice": {
         "Description": "<p>Ви намагаєтесь виконати перевірку Stealth, щоб уникнути помічень під час руху на половинній швидкості. Якщо у вас є навичка «Швидке підкрадання», ви можете рухатися на повній швидкості, а не наполовину, але ви все одно не можете використовувати іншу дослідницьку діяльність під час цього. Якщо у вас є навичка «Легендарне підкрадання», ви можете рухатися на повній швидкості та використовувати другу дослідницьку дію. Якщо ви уникаєте сповіщень на початку сутички, ви зазвичай кидаєте перевірку скритності замість перевірки сприйняття, щоб визначити вашу ініціативу та побачити, чи помітять вас вороги (на основі їх DC сприйняття, як зазвичай для підкрадання, незважаючи на це результатів перевірки ініціативи).</p>",
         "Notes": {
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{undetected} істотою під час вашого руху та залишитеся непоміченими істотою в кінці.<br/><br/>Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.",
-          "success": "<strong>Успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{undetected} істотою під час вашого руху та залишаєтеся непоміченими істотою в кінці його.<br/><br/ >Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}."
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf] істотою під час вашого руху та залишитеся непоміченими істотою в кінці.<br/><br/>Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4].",
+          "success": "<strong>Успіх</strong> Ви @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf] істотою під час вашого руху та залишаєтеся непоміченими істотою в кінці його.<br/><br/>Додаткову інформацію див. у дії @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]."
         },
         "Title": "Уникати виявлення"
       },
@@ -73,15 +73,15 @@
       },
       "BonMot": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ваша дотепка жахлива. Ви отримуєте таке ж покарання, як і ворог, якби ви досягли успіху. Це закінчується через 1 хвилину або якщо ви видасте ще одину дотепку і вам це вдасться. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]{Effect: Bon Mot}",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ціль відволікається та отримує -3 статусний штраф до Сприйняття та рятунку Волі протягом 1 хвилини. Ціль може покінчити з ефектом раніше, відповівши на вашу дотепку. Це може бути або одна дія, яка має рису концентрації, або дія відповідного навику, щоб сформулювати їхню репліку. МГ визначає, які дії навичок кваліфікуються, хоча вони повинні виконати принаймні 1 дію. Як правило, репліка потребує використання лінгвістичної дії навичок на основі харизми. @UUID[Compendium.pf2e.feat-effects.CtrZFI3RV0yPNzTv]{Effect: Bon Mot (Critical Success)}",
-          "success": "<strong>Успіх</strong> Ціль відволікається та отримує -2 статусний штраф для сприйняття та рятує волю протягом 1 хвилини. Ціль може покінчити з ефектом раніше, відповівши на вашу дотепку. Це може бути або одна дія, яка має рису концентрації, або дія відповідного навику, щоб сформулювати їхню репліку. МГ визначає, які дії навичок кваліфікуються, хоча вони повинні виконати принаймні 1 дію. Як правило, репліка потребує використання лінгвістичної дії навичок на основі харизми. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]{Effect: Bon Mot}"
+          "criticalFailure": "<strong>Критична невдача</strong> Ваша дотепка жахлива. Ви отримуєте таке ж покарання, як і ворог, якби ви досягли успіху. Це закінчується через 1 хвилину або якщо ви видасте ще одину дотепку і вам це вдасться. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ціль відволікається та отримує -3 статусний штраф до Сприйняття та рятунку Волі протягом 1 хвилини. Ціль може покінчити з ефектом раніше, відповівши на вашу дотепку. Це може бути або одна дія, яка має рису концентрації, або дія відповідного навику, щоб сформулювати їхню репліку. МГ визначає, які дії навичок кваліфікуються, хоча вони повинні виконати принаймні 1 дію. Як правило, репліка потребує використання лінгвістичної дії навичок на основі харизми. @UUID[Compendium.pf2e.feat-effects.CtrZFI3RV0yPNzTv]",
+          "success": "<strong>Успіх</strong> Ціль відволікається та отримує -2 статусний штраф для сприйняття та рятує волю протягом 1 хвилини. Ціль може покінчити з ефектом раніше, відповівши на вашу дотепку. Це може бути або одна дія, яка має рису концентрації, або дія відповідного навику, щоб сформулювати їхню репліку. МГ визначає, які дії навичок кваліфікуються, хоча вони повинні виконати принаймні 1 дію. Як правило, репліка потребує використання лінгвістичної дії навичок на основі харизми. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]"
         },
         "Title": "Дотепка"
       },
       "Climb": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви падаєте. Якщо ви почали підйом на стабільній землі, ви впадете й приземлитеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви падаєте. Якщо ви почали підйом на стабільній землі, ви впадете й приземлитеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви рухаєтеся вгору, поперек або безпечно вниз по схилу на 5 футів плюс 5 футів на 20 футів вашої сухопутної швидкості (загалом 10 футів для більшості ІП).",
           "success": "<strong>Успіх</strong> Ви рухаєтеся вгору, поперек або безпечно вниз по схилу зі швидкістю 5 футів на 20 футів вашої наземної швидкості (загалом 5 футів для більшості ІП, мінімум 5 футів, якщо ваша швидкість нижча за 20 футів) ."
         },
@@ -168,7 +168,7 @@
         },
         "Notes": {
           "failure": "<strong>Невдача</strong> Ви не відволікаєте увагу будь-яких істот, чий КС сприйняття перевищує ваш результат, і ці істоти знають, що ви намагалися їх обдурити.",
-          "success": "<strong>Успіх</strong> Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} для кожної істоти, чий КС сприйняття менший або дорівнює вашому результату. (Прихована умова дозволяє вам @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.) Це триває до кінця вашого ходу або до тих пір, поки ви не зробите нічого, окрім кроку або використаєте @UUID[Compendium.pf2e.actionspf2e .XMcnh4cSI32tljXa]{Hide} або дію @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak} навички «Невидимка». Якщо ви завдаєте удару істоті, ця істота залишається @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Flat-Footed} проти цієї атаки, а ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed}. Якщо ви робите щось інше, ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed} безпосередньо перед діями, якщо МГ не вирішить інакше."
+          "success": "<strong>Успіх</strong> Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] для кожної істоти, чий КС сприйняття менший або дорівнює вашому результату. (Прихована умова дозволяє вам @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4].) Це триває до кінця вашого ходу або до тих пір, поки ви не зробите нічого, окрім кроку або використаєте @UUID[Compendium.pf2e.actionspf2e.XMcnh4cSI32tljXa] або дію @UUID[Compendium.pf2e.actionspf2e.VMozDqMMuK5kpoX4] навички «Невидимка». Якщо ви завдаєте удару істоті, ця істота залишається @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] проти цієї атаки, а ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]. Якщо ви робите щось інше, ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G] безпосередньо перед діями, якщо МГ не вирішить інакше."
         },
         "Title": "Створіть відволікання",
         "Trick": {
@@ -234,7 +234,7 @@
       "Disarm": {
         "EffectLabel": "Використання зброї з ослабленим хватом",
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви втрачаєте рівновагу й стаєте @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Flat-Footed} до початку наступного ходу.",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви втрачаєте рівновагу й стаєте @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] до початку наступного ходу.",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви вибиваєте предмет з рук супротивника. Він падає на землю в просторі супротивника.",
           "success": "<strong>Успіх</strong> Ви послаблюєте хватку предмета опонентом. До початку ходу цієї істоти спроби обеззброїти супротивника отримують +2 бонус обставин, а ціль отримує -2 штраф за обставини для атак цим предметом або інших перевірок, які вимагають міцного захоплення предмета. @UUID[Compendium.pf2e.equipment-effects.z3ATL8DcRVrT0Uzt]"
         },
@@ -275,9 +275,9 @@
       },
       "Feint": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ваш фінт має зворотний ефект. Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Flat-Footed} проти атак ближнього бою цільових спроб проти вас до кінця вашого наступного ходу.",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви повністю скидаєте захист ворога проти себе. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Flat-Footed} проти атак ближнього бою, які ви намагаєтеся проти неї до кінця наступного ходу.",
-          "success": "<strong>Успіх</strong> Ваш ворог обдурений, але лише на мить. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Flat-Footed} проти наступної атаки ближнього бою, яку ви спробуєте проти неї до кінця свого поточного ходу."
+          "criticalFailure": "<strong>Критична невдача</strong> Ваш фінт має зворотний ефект. Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] проти атак ближнього бою цільових спроб проти вас до кінця вашого наступного ходу.",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви повністю скидаєте захист ворога проти себе. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] проти атак ближнього бою, які ви намагаєтеся проти неї до кінця наступного ходу.",
+          "success": "<strong>Успіх</strong> Ваш ворог обдурений, але лише на мить. Ціль — @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] проти наступної атаки ближнього бою, яку ви спробуєте проти неї до кінця свого поточного ходу."
         },
         "Title": "Фінт"
       },
@@ -286,7 +286,7 @@
         "Notes": {
           "criticalFailure": "<strong>Критична невдача</strong> Ваша спроба заклинить двері, вікно, контейнер або ворота, накладаючи штраф -2 на майбутні спроби примусово відкрити їх.",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви відкриваєте двері, вікно, контейнер або ворота й можете уникнути їх пошкодження в процесі.",
-          "success": "<strong>Успіх</strong> Ви розбиваєте двері, вікно, контейнер або ворота, і двері, вікно, контейнер або ворота отримують стан @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Broken}. Якщо він особливо міцний, МГ може наказати йому отримати пошкодження, але не зламатись."
+          "success": "<strong>Успіх</strong> Ви розбиваєте двері, вікно, контейнер або ворота, і двері, вікно, контейнер або ворота отримують стан @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]. Якщо він особливо міцний, МГ може наказати йому отримати пошкодження, але не зламатись."
         },
         "Title": "Примусово відкрити"
       },
@@ -299,25 +299,25 @@
       },
       "Grapple": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Якщо у вас уже був опонент @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} або @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}, він виривається. Ваша ціль може або схопити вас, ніби їй вдалося застосувати проти вас дію @UUID[Compendium.pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, або змусити вас впасти й приземлитися @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] {Prone}.",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ваш опонент @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} до кінця вашого наступного ходу, якщо ви не переміститесь або ваш опонент @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9] {Escapes}.",
-          "failure": "<strong>Невдача</strong> Вам не вдається схопити суперника. Якщо у вас уже був опонент @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} або @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} за допомогою Захопити, ці умови для цієї істоти закінчуються.",
-          "success": "<strong>Успіх</strong> Ваш суперник @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} до кінця вашого наступного ходу, якщо ви не переміститесь або ваш опонент @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escapes}."
+          "criticalFailure": "<strong>Критична невдача</strong> Якщо у вас уже був опонент @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] або @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM], він виривається. Ваша ціль може або схопити вас, ніби їй вдалося застосувати проти вас дію @UUID[Compendium.pf2e.actionspf2e.PMbdMWc2QroouFGD], або змусити вас впасти й приземлитися @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ваш опонент @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM] до кінця вашого наступного ходу, якщо ви не переміститесь або ваш опонент @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9].",
+          "failure": "<strong>Невдача</strong> Вам не вдається схопити суперника. Якщо у вас уже був опонент @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] або @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM] за допомогою Захопити, ці умови для цієї істоти закінчуються.",
+          "success": "<strong>Успіх</strong> Ваш суперник @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] до кінця вашого наступного ходу, якщо ви не переміститесь або ваш опонент @UUID[Compendium.pf2e.actionspf2e.SkZAQRkLLkmBQNB9]."
         },
         "Title": "Захопити"
       },
       "Hide": {
         "Description": "<p>Ви тулитесь за укриттям, або більшим укриттям, або глибше в укриття, щоб стати прихованими, а не спостерігати. МГ таємно перевіряє вашу скритність і порівнює результат із КС сприйняття кожної істоти, за якою ви спостерігаєте, але проти якої ви маєте прикриття чи більше прикриття або від яких приховуєтеся. Ви отримуєте бонус за обставини від укриття або більшого укриття до вашої перевірки.<p><p><strong>Успіх</strong>strong> Якщо істота могла вас побачити, ви тепер приховані від неї, а не під спостереженням. Якщо ви були приховані від істоти або не були помічені нею, ви зберігаєте цей стан.</p><p>Якщо ви успішно стали прихованим від істоти, але потім перестали мати прикриття чи більше прикриття проти неї або були приховані від неї, ви стаєте спостерігається знову. Ви перестаєте бути прихованим, якщо робите щось, окрім «Ховань», «Крастися» або «Крокувати». Якщо ви намагаєтеся вдарити істоту, істота залишається пласкостопою проти цієї атаки, і тоді ви стаєте під спостереженням. Якщо ви робите щось інше, за вами спостерігають безпосередньо перед діями, якщо МГ не вирішить інакше. МГ може дозволити вам виконати особливо непомітну дію непомітно, можливо, вимагаючи ще однієї перевірки скритності.</p><p>Якщо істота використовує Seek, щоб спостерігати за вами, ви повинні успішно сховатися, щоб знову стати схованими від неї. .</p>",
         "Notes": {
-          "success": "<strong>Успіх</strong> Якщо істота могла вас побачити, ви тепер @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} від неї, а не під спостереженням. Якщо ви були @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} або @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{undetected} істотою, ви зберігаєте цю умову."
+          "success": "<strong>Успіх</strong> Якщо істота могла вас побачити, ви тепер @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] від неї, а не під спостереженням. Якщо ви були @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] або @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf] істотою, ви зберігаєте цю умову."
         },
         "Title": "Сховатися"
       },
       "HighJump": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви не @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} взагалі, а натомість потрапляєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} у свій простір.",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви не @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk] взагалі, а натомість потрапляєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] у свій простір.",
           "criticalSuccess": "<strong>Критичний успіх</strong> Збільште максимальну вертикальну відстань до 8 футів або збільште максимальну вертикальну відстань до 5 футів і максимальну горизонтальну відстань до 10 футів.",
-          "failure": "<strong>Невдача</strong> Ви @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} нормально.",
+          "failure": "<strong>Невдача</strong> Ви @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk] нормально.",
           "success": "<strong>Успіх</strong> Збільште максимальну вертикальну відстань до 5 футів."
         },
         "Title": "Стрибок у висоту"
@@ -384,9 +384,9 @@
       },
       "LongJump": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} нормально, але потім падаєте й приземляєтеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.",
-          "failure": "<strong>Невдача</strong> Ви @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} нормально.",
-          "success": "<strong>Успіх</strong> Збільште максимальну горизонтальну відстань @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} до потрібної відстані."
+          "criticalFailure": "<strong>Критична невдача</strong> Ви @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk] нормально, але потім падаєте й приземляєтеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
+          "failure": "<strong>Невдача</strong> Ви @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk] нормально.",
+          "success": "<strong>Успіх</strong> Збільште максимальну горизонтальну відстань @UUID[Compendium.pf2e.actionspf2e.d5I6018Mci2SWokk] до потрібної відстані."
         },
         "Title": "Стрибок на відстань"
       },
@@ -401,7 +401,7 @@
       "ManeuverInFlight": {
         "Description": "<p>Ви спробували складний маневр під час польоту. Спробуйте перевірку акробатики. МГ визначає, які маневри можливі, але вони рідко дозволяють рухатися далі, ніж ваша швидкість польоту.</p><p><strong>Успіх</strong> Ви досягли успіху в маневрі.<br><strong>Невдача< /strong> Ваш маневр провалився. МГ вирішує, якщо ви просто не можете рухатися або якщо станеться якийсь інший шкідливий ефект. Результат має відповідати маневру, який ви намагалися виконати (наприклад, вас збило з курсу, якщо ви намагалися летіти проти сильного вітру).<br><strong>Критична невдача</strong> Як невдача, але наслідки більші страшний.</p><section class=\"sample-tasks\"><h2>Зразок маневру в польотних завданнях</h2><p><p><strong>Навчений</strong> крутий підйом або спуск</p> <p><strong>Експерт</strong> літати проти вітру, парити в повітрі</p><p><strong>Майстер</strong> у зворотному напрямку</p><p><strong>Легендарний</strong> літати крізь штормовий вітер</p></section>",
         "Notes": {
-          "criticalFailure": "<strong>Критичний збій</strong> Як збій, але наслідки страшніші.",
+          "criticalFailure": "<strong>Критична невдача</strong> як невдача, але наслідки страшніші.",
           "failure": "<strong>Невдача</strong> Ваш маневр не вдається. МГ вирішує, якщо ви просто не можете рухатися або якщо станеться якийсь інший шкідливий ефект. Результат повинен відповідати маневру, який ви спробували (наприклад, вас збило з курсу, якщо ви намагалися летіти проти сильного вітру).",
           "success": "<strong>Успіх</strong> Ви досягли успіху в маневрі."
         },
@@ -457,7 +457,7 @@
       "PickALock": {
         "Description": "<p>Відкриття замка без ключа дуже схоже на вимкнення пристрою, але КС перевірки визначається складністю та конструкцією замка, який ви намагаєтеся зламати. Для відмикання замків вищої якості може знадобитися багато разів, оскільки в іншому випадку навіть невмілий грабіжник міг би легко зламати замок, намагаючись перевірити перевірку, доки не випаде натуральне 20. Якщо вам не вистачає відповідних інструментів, МГ може дозволити вам використовувати імпровізовані кирки, які розглядаються як неякісні інструменти, залежно від специфіки замку.</p><p><strong>Критичний успіх</strong> Ви розблоковуєте замок або досягаєте двох успіхів у відкритті складного замка. Ви не залишаєте слідів свого втручання.<br><strong>Успіх</strong> Ви відкриваєте замок або досягаєте одного успіху у відкритті складного замка.<br><strong>Критична помилка</strong> Ви зламаєте свій інструменти. Щоб виправити їх, потрібно використовувати Крафт, щоб відремонтувати їх, або замінити кири (коштують 3 sp або 3 gp для інструментів злодіїв-порушників).</p>",
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви ламаєте свої інструменти. Щоб виправити їх, потрібно використати Крафт для @UUID[Compendium.pf2e.actionspf2e.bT3skovyLUtP22ME]{Repair} їх або замінити заміну (коштує 3 sp або 3 gp для інструментів злодіїв-порушників).",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви ламаєте свої інструменти. Щоб виправити їх, потрібно використати Крафт для @UUID[Compendium.pf2e.actionspf2e.bT3skovyLUtP22ME] їх або замінити заміну (коштує 3 sp або 3 gp для інструментів злодіїв-порушників).",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви відкриваєте замок або досягаєте двох успіхів у відкритті складного замка. Ви не залишаєте жодних слідів свого втручання.",
           "success": "<strong>Успіх</strong> Ви відкриваєте замок або досягаєте одного успіху у відкритті складного замку."
         },
@@ -532,8 +532,8 @@
       "Seek": {
         "Description": "<p>Ви скануєте територію на наявність ознак істот або предметів. Якщо ви шукаєте істот, виберіть область, яку ви скануєте. Якщо потрібна точність, МГ може попросити вас вибрати 30-футовий конус або 15-футовий сплеск у межах прямої видимості. Ви можете отримати штраф, якщо виберете територію, яка знаходиться далеко.</p><p>Якщо ви використовуєте пошук для пошуку об’єктів (зокрема секретних дверей і небезпек), ви шукаєте до 10 квадратних футів, що прилягають до ви. МГ може визначити, що вам потрібно шукати як вид діяльності, виконуючи більше дій або навіть хвилини чи години, якщо ви шукаєте особливо захаращену територію.</p><p>МГ намагається виконати єдину секретну перевірку сприйняття для вас і порівнює призвести до КС Stealth будь-яких непомічених або прихованих істот у зоні або КС для виявлення кожного об’єкта в зоні (як визначено МГ або кимось, хто приховує об’єкт). Істота, яку ви виявляєте, може залишитися прихованою, а не стати спостережуваною, якщо ви використовуєте неточні відчуття або якщо ефект (наприклад, невидимість) заважає спостерігати за об’єктом.</p><p><strong>Критичний успіх< /strong> Якщо ви шукали істот, будь-яка невиявлена або прихована істота, проти якої ви критично впоралися, стає вами поміченою. Якщо ви шукали об’єкт, ви дізнаєтеся його місцезнаходження.<br><strong>Успіх</strong> Якщо ви шукали істот, будь-яка непомічена істота, проти якої ви впоралися, стає прихованою від вас, а не непоміченою, а будь-яка прихована істота, яку ви успішний проти стає спостережуваним вами. Якщо ви шукали об’єкт, ви дізнаєтеся його місцезнаходження або отримаєте підказку про його місцеперебування, визначене МГ.</p>",
         "Notes": {
-          "criticalSuccess": "<strong>Критичний успіх</strong> Якщо ви шукали істот, будь-яка @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} або @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} істота, яку ви критично вдалися проти стає @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed} вами. Якщо ви шукали предмет, ви дізнаєтеся його місцезнаходження.",
-          "success": "<strong>Успіх</strong> Якщо ви шукали істот, будь-яка @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} істота, проти якої ви досягли успіху, стає @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} від ви замість @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}, і будь-яка @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} істота, проти якої ви досягли успіху, стає @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYee] {Observed} вами. Якщо ви шукали об’єкт, ви дізнаєтеся його місцезнаходження або отримаєте підказку про його місцеперебування, визначене МГ."
+          "criticalSuccess": "<strong>Критичний успіх</strong> Якщо ви шукали істот, будь-яка @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf] або @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] істота, яку ви критично вдалися проти стає @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G] вами. Якщо ви шукали предмет, ви дізнаєтеся його місцезнаходження.",
+          "success": "<strong>Успіх</strong> Якщо ви шукали істот, будь-яка @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf] істота, проти якої ви досягли успіху, стає @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] від ви замість @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf], і будь-яка @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] істота, проти якої ви досягли успіху, стає @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYee] вами. Якщо ви шукали об’єкт, ви дізнаєтеся його місцезнаходження або отримаєте підказку про його місцеперебування, визначене МГ."
         },
         "Title": "Пошук"
       },
@@ -563,7 +563,7 @@
       },
       "Shove": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви втрачаєте рівновагу, падаєте та приземляєтеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви втрачаєте рівновагу, падаєте та приземляєтеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви штовхаєте суперника на відстань до 10 футів від себе. Ви можете крокувати за ним, але ви повинні рухатися на однакову відстань і в тому ж напрямку.",
           "success": "<strong>Успіх</strong> Ви відштовхуєте суперника на 5 футів назад. Ви можете крокувати за ним, але ви повинні рухатися на однакову відстань і в тому ж напрямку."
         },
@@ -581,7 +581,7 @@
       "Squeeze": {
         "Description": "<p>Ви корчитеся, щоб протиснутися крізь такий малий простір, що ледве можете в нього влізти. Ця дія призначена для виключно невеликих приміщень; багато вузьких просторів — це складна місцевість, яку можна пройти швидше та без перевірки.</p><p><strong>Критичний успіх</strong> Ви протиснетеся через вузький простір за 1 хвилину за 10 футів стискання.< br><strong>Успіх</strong> Ви продираєтеся за 1 хвилину на 5 футів.<br><strong>Критична невдача</strong> Ви застрягли в тісному просторі. Поки ви застрягли, ви можете витратити 1 хвилину на іншу перевірку акробатики в тому самому КС. Будь-який результат цієї перевірки, окрім критичної помилки, призведе до того, що ви відкликаєтеся.</p><section class=\"sample-tasks\"><h2>Приклади завдань для стискання</h2><p><p><strong>Навчені </strong> простір ледве поміщає твої плечі</p><p><strong>Господар</strong> простір ледве поміщає твою голову</p></section>",
         "Notes": {
-          "criticalFailure": "<strong>Критичний збій</strong> Ви застрягли в тісному просторі. Поки ви застрягли, ви можете витратити 1 хвилину на іншу перевірку акробатики в тому самому КС. Будь-який результат цієї перевірки, окрім критичної помилки, спричиняє відкликання.",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви застрягли в тісному просторі. Поки ви застрягли, ви можете витратити 1 хвилину на іншу перевірку акробатики в тому самому КС. Будь-який результат цієї перевірки, окрім критичної помилки, спричиняє відкликання.",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви протиснетеся через тісний простір за 1 хвилину за 10 футів стискання.",
           "success": "<strong>Успіх</strong> Ви протискаєтеся за 1 хвилину на 5 футів."
         },
@@ -620,7 +620,7 @@
         "AfterExplorationPenalty": "Після розвідки",
         "Description": "<p>Ви намагаєтеся забезпечити їжею та дахом собі, а можливо, і іншим, рівень життя якого залежить від вашого успіху. МГ визначає КС на основі характеру місця, де ви намагаєтесь існувати. Вам може знадобитися мінімальний рівень кваліфікації, щоб вижити в особливо дивних умовах. На відміну від більшості простоїв, ви можете існувати після 8 годин або менше дослідження, але якщо ви це зробите, ви отримаєте –5 штрафу.</p><p><strong>Критичний успіх</strong> Ви або забезпечуєте існування для існування для себе та однієї додаткової істоти, або ви покращуєте власну їжу та притулок, забезпечуючи собі комфортне життя.<br><strong>Успіх</strong> Ви знаходите достатньо їжі та притулку з базовим захистом від стихій, щоб забезпечити собі існування життя.<br><strong>Невдача</strong> Ви піддаєтеся впливу стихій і не отримуєте достатньо їжі, стаєте втомленими, доки не знайдете достатньо їжі та житла.<br><strong>Критична невдача</strong> Ви притягуєте неприємності, їсте те, чого не слід, або іншим чином погіршуєте своє становище. Ви берете штраф за обставини –2 до чеків, щоб прожити протягом 1 тижня. Ви взагалі не знайдете їжі; якщо у вас їх немає, ви ризикуєте померти з голоду або померти від спраги, якщо продовжите не виконувати.</p><section class=\"sample-tasks\"><h2>Приклади завдань для годування</h2> <p><strong>Непідготовлений</strong> пишний ліс із тихою погодою або велике місто з багатими ресурсами</p><p><strong>Привчений</strong> типовий схил пагорба чи село</p><p><strong >Експерт</strong>типові гори чи острівне селище</p><p><strong>Майстер</strong>типова пустеля чи місто в облозі</p><p><strong>Легендарна</strong>безплідна пустка або місто нежиті</p></section>",
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви залучаєте неприємності, їсте те, що не слід, або іншим чином погіршуєте свою ситуацію. Ви берете штраф за обставини –2 до чеків, щоб прожити протягом 1 тижня. Ви взагалі не знайдете їжі; якщо у вас немає запасів, ви ризикуєте померти з голоду або померти від спраги, якщо ви продовжите невдачу. @UUID[Compendium.pf2e.other-effects.wHWWHkjDXmJl4Ia6]{Effect: Adverse Subsist Situation}",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви залучаєте неприємності, їсте те, що не слід, або іншим чином погіршуєте свою ситуацію. Ви берете штраф за обставини –2 до чеків, щоб прожити протягом 1 тижня. Ви взагалі не знайдете їжі; якщо у вас немає запасів, ви ризикуєте померти з голоду або померти від спраги, якщо ви продовжите невдачу. @UUID[Compendium.pf2e.other-effects.wHWWHkjDXmJl4Ia6]",
           "criticalSuccess": "<strong>Критичний успіх</strong> Ви або забезпечуєте собі та одній додатковій істоті засоби для існування, або покращуєте власну їжу та притулок, забезпечуючи собі комфортне життя.",
           "failure": "<strong>Невдача</strong> Ви піддаєтеся впливу стихій і не отримуєте достатньо їжі, стаєте втомленими, доки не знайдете достатньо їжі та житла.",
           "success": "<strong>Успіх</strong> Ви знайдете достатньо їжі та притулку з елементарним захистом від стихії, щоб забезпечити собі існування."
@@ -644,9 +644,9 @@
       },
       "Tamper": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ваше втручання матиме серйозні негативні наслідки, створюючи невеликий вибух від ваших власних інструментів чи спорядження. Ви отримуєте [[/r (@actor.level)[fire] #Tamper Backfire]]{fire damage equal to your level}.",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ваше втручання неймовірно ефективно. Якщо ви втручалися у зброю, ворог отримує -2 штраф за обставини, щоб атакувати кидки та пошкоджувати кидки цією зброєю. Якщо ви зіткнулися з бронею, броня заважає ворогу рухатися, роблячи ворога плоскостопим і накладаючи -10 футів на його швидкість. Ефект триває до тих пір, поки ворог не взаємодіє, щоб видалити його, незалежно від того, який з них ви використали. @UUID[Compendium.pf2e.feat-effects.rzcpTJU9MvW1x1gz]{Effect: Armor Tampered With (Critical Success)} @UUID[Compendium.pf2e.feat-effects.o7qm13OmaYOMwgib]{Effect: Weapon Tampered With (Critical Success)}",
-          "success": "<strong>Успіх</strong> Ваше втручання тимчасово діє. Як критичний успіх, але ефект закінчується на початку вашого наступного ходу, навіть якщо ворог не взаємодіє, щоб завершити його. @UUID[Compendium.pf2e.feat-effects.IfRkgjyh0JzGalIy]{Effect: Armor Tampered With (Success)} @UUID[Compendium.pf2e.feat-effects.4QWayYR3JSL9bk2T]{Effect: Weapon Tampered With (Success)}"
+          "criticalFailure": "<strong>Критична невдача</strong> Ваше втручання матиме серйозні негативні наслідки, створюючи невеликий вибух від ваших власних інструментів чи спорядження. Ви отримуєте [[/r (@actor.level)[fire] #Tamper Backfire]]{шкода від вогню дорівнює вашому рівню}.",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ваше втручання неймовірно ефективно. Якщо ви втручалися у зброю, ворог отримує -2 штраф за обставини, щоб атакувати кидки та пошкоджувати кидки цією зброєю. Якщо ви зіткнулися з бронею, броня заважає ворогу рухатися, роблячи ворога плоскостопим і накладаючи -10 футів на його швидкість. Ефект триває до тих пір, поки ворог не взаємодіє, щоб видалити його, незалежно від того, який з них ви використали. @UUID[Compendium.pf2e.feat-effects.rzcpTJU9MvW1x1gz] @UUID[Compendium.pf2e.feat-effects.o7qm13OmaYOMwgib]",
+          "success": "<strong>Успіх</strong> Ваше втручання тимчасово діє. Як критичний успіх, але ефект закінчується на початку вашого наступного ходу, навіть якщо ворог не взаємодіє, щоб завершити його. @UUID[Compendium.pf2e.feat-effects.IfRkgjyh0JzGalIy] @UUID[Compendium.pf2e.feat-effects.4QWayYR3JSL9bk2T]"
         },
         "Title": "Втручання"
       },
@@ -662,18 +662,18 @@
       "TreatDisease": {
         "Description": "<p>Ви витрачаєте щонайменше 8 годин на догляд за хворою істотою. Спробуйте перевірити Medicine на КС хвороби. Після того, як ви спробуєте лікувати хворобу істоти, ви не зможете спробувати знову, доки ця істота не зробить наступного порятунку від хвороби.</p><p><strong>Критичний успіх</strong> Ви надаєте істоті +4 бонус обставин до його наступного кидка збереження від хвороби.<br><strong>Успіх</strong> Ви надаєте істоті бонус обставин +2 до його наступного кидка захисту від хвороби.<br><strong>Критична невдача</ strong> Ваші зусилля призведуть до того, що істота отримає –2 штраф за обставини до свого наступного збереження від хвороби.</p>",
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ваші зусилля призводять до того, що істота отримає штраф за обставини -2 до наступного збереження від хвороби.<br/>@UUID[Compendium.pf2e.equipment-effects.5oYKYXAexr0vhx84]{Effect: Treat Disease (Critical Failure)}",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви надаєте істоті бонус обставин +4 до її наступного кидка збереження від хвороби.<br/>@UUID[Compendium.pf2e.equipment-effects.id20P4pj7zDKeLmy]{Effect: Treat Disease (Critical Success)}",
-          "success": "<strong>Успіх</strong> Ви надаєте істоті бонус обставин +2 до її наступного кидка збереження від хвороби.<br/>@UUID[Compendium.pf2e.equipment-effects.Ee2xfKX1yyqGIDZj]{Effect: Treat Disease (Success)}"
+          "criticalFailure": "<strong>Критична невдача</strong> Ваші зусилля призводять до того, що істота отримає штраф за обставини -2 до наступного збереження від хвороби.<br/>@UUID[Compendium.pf2e.equipment-effects.5oYKYXAexr0vhx84]",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви надаєте істоті бонус обставин +4 до її наступного кидка збереження від хвороби.<br/>@UUID[Compendium.pf2e.equipment-effects.id20P4pj7zDKeLmy]",
+          "success": "<strong>Успіх</strong> Ви надаєте істоті бонус обставин +2 до її наступного кидка збереження від хвороби.<br/>@UUID[Compendium.pf2e.equipment-effects.Ee2xfKX1yyqGIDZj]"
         },
         "Title": "Лікувати хворобу"
       },
       "TreatPoison": {
         "Description": "<p>Ви лікуєте пацієнта, щоб запобігти поширенню отрути. Спробуйте перевірити медицину на КС отрути. Після того, як ви спробуєте лікувати отруту для істоти, ви не зможете повторити спробу, доки наступного разу ця істота не спробує врятуватися від отрути.</p><p><strong>Критичний успіх</strong> Ви надаєте істота отримує бонус обставин +4 до наступного кидка захисту від отрути.<br><strong>Успіх</strong> Ви надаєте істоті бонус обставин +2 до його наступного кидка захисту від отрути.<br><strong> Критична помилка</strong> Ваші зусилля призводять до того, що істота отримає –2 штраф за обставини до свого наступного збереження від отрути.</p>",
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ваші зусилля призводять до того, що істота отримає штраф за обставини -2 до свого наступного збереження проти отрути.<br/>@UUID[Compendium.pf2e.equipment-effects.ESuBosh3t1pXEcBj]{Effect: Treat Poison (Critical Failure)}",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви надаєте істоті бонус обставин +4 до її наступного кидка збереження від отрути.<br/>@UUID[Compendium.pf2e.equipment-effects.XwCBalKJf3CiEiFa]{Effect: Treat Poison (Critical Success)}",
-          "success": "<strong>Успіх</strong> Ви надаєте істоті бонус обставин +2 до її наступного кидка захисту від отрути.<br/>@UUID[Compendium.pf2e.equipment-effects.XWenziR7J3mwKV4W]{Effect: Treat Poison (Success)}"
+          "criticalFailure": "<strong>Критична невдача</strong> Ваші зусилля призводять до того, що істота отримає штраф за обставини -2 до свого наступного збереження проти отрути.<br/>@UUID[Compendium.pf2e.equipment-effects.ESuBosh3t1pXEcBj]",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви надаєте істоті бонус обставин +4 до її наступного кидка збереження від отрути.<br/>@UUID[Compendium.pf2e.equipment-effects.XwCBalKJf3CiEiFa]",
+          "success": "<strong>Успіх</strong> Ви надаєте істоті бонус обставин +2 до її наступного кидка захисту від отрути.<br/>@UUID[Compendium.pf2e.equipment-effects.XWenziR7J3mwKV4W]"
         },
         "Title": "Лікувати отруту"
       },
@@ -702,9 +702,9 @@
       "Trip": {
         "Description": "<p>Ви намагаєтесь повалити істоту на землю. Спробуйте перевірити атлетику на рефлекс КС цілі.</p><p><strong>Критичний успіх</strong> Ціль падає та приземляється лежачи й отримує 1d6 ударної шкоди.<br><strong>Успіх</strong> Ціль падає та приземляється лежачи.<br><strong>Критична невдача</strong> Ви втрачаєте рівновагу, падаєте та приземляєтеся лежачи.</p>",
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви втрачаєте рівновагу, падаєте та приземляєтеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ціль падає та приземляється на @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} і отримує [[/r 1d6[bludgeoning] # Bludgeoning damage]]{1d6} ударної шкоди.",
-          "success": "<strong>Успіх</strong> Ціль падає та приземляється @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}."
+          "criticalFailure": "<strong>Критична невдача</strong> Ви втрачаєте рівновагу, падаєте та приземляєтеся @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ціль падає та приземляється на @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60] і отримує [[/r 1d6[bludgeoning] # Bludgeoning damage]]{1к6} ударної шкоди.",
+          "success": "<strong>Успіх</strong> Ціль падає та приземляється @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]."
         },
         "Title": "Перекидання"
       },
@@ -718,8 +718,8 @@
       },
       "WhirlingThrow": {
         "Notes": {
-          "criticalFailure": "<strong>Критична невдача</strong> Ви не кидаєте істоту, і вона більше не є @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} або @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} Вами.",
-          "criticalSuccess": "<strong>Критичний успіх</strong> Ви кидаєте істоту на потрібну відстань, і вона приземляється @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.",
+          "criticalFailure": "<strong>Критична невдача</strong> Ви не кидаєте істоту, і вона більше не є @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei] або @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM] Вами.",
+          "criticalSuccess": "<strong>Критичний успіх</strong> Ви кидаєте істоту на потрібну відстань, і вона приземляється @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60].",
           "failure": "<strong>Невдача</strong> Ви не кидаєте істоту.",
           "success": "<strong>Успіх</strong> Ви кидаєте істоту на потрібну відстань."
         },
