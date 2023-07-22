@@ -31,7 +31,7 @@
         }
       },
       "FreezingAmmunition": {
-        "Text": "Ціль має успішно виконати @Check[type:fortitude|dc:19] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] на 1 раунд через сильний холод (уповільнено 1 на 1 хвилину на критичний збій).",
+        "Text": "Ціль має успішно виконати @Check[type:fortitude|dc:19] збереження або бути @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3] на 1 раунд через сильний холод (уповільнено 1 на 1 хвилину на критичну невдачу).",
         "Title": "Заморожування боєприпасів"
       },
       "MeteorShot": {
@@ -579,7 +579,7 @@
         "LaserBeam": "Лазерний промінь"
       },
       "Dramofir": {
-        "BittersweetDreamsCriticalFailure": "Критичний збій",
+        "BittersweetDreamsCriticalFailure": "Критична невдача",
         "BittersweetDreamsSuccessFailure": "Успіх чи невдача"
       },
       "DuskwalkerHuntPrey": {
@@ -696,6 +696,7 @@
     },
     "OracleCurses": {
       "Ancestor": {
+        "AncestralInfluence": "Вплив предків",
         "Label": {
           "ExtremeBattle": "Екстремальний бій",
           "ExtremeSkillful": "Надзвичайно вправний",
@@ -703,14 +704,18 @@
           "MajorBattle": "Велика битва",
           "MajorSkillful": "Основний майстерний",
           "MajorSpellcasting": "Основне заклинання",
+          "Martial": "Бойовий",
           "MinorBattle": "Мала битва",
           "MinorSkillful": "Незначний майстерний",
           "MinorSpellcasting": "Мале заклинання",
           "ModerateBattle": "Помірний бій",
           "ModerateSkillful": "Помірно Вправний",
-          "ModerateSpellcasting": "Помірне заклинання"
+          "ModerateSpellcasting": "Помірне заклинання",
+          "Skillful": "Вправний",
+          "Spellcasting": "Заклинання"
         },
         "MajorFailure": "Ваше прокляття заважає цій дії, і ви повинні зробити перевірку @Check[type:flat|dc:8|showDC:owner].",
+        "MeddlingAncestor": "Втручання предка",
         "MinorFailure": "Ваше прокляття заважає цій дії, тому ви повинні зробити перевірку @Check[type:flat|dc:4|showDC:owner].",
         "ModerateFailure": "Ваше прокляття заважає цій дії, і ви повинні зробити перевірку @Check[type:flat|dc:6|showDC:owner]."
       },
@@ -1041,6 +1046,7 @@
       "FlatModifier": "Плоский модифікатор",
       "GrantItem": "Надати предмет",
       "Immunity": "Імунітет",
+      "ItemAlteration": "Зміна предмета",
       "LoseHitPoints": "Втратити очки здоров'я",
       "MarkToken": "Марк Токен",
       "MartialProficiency": "Бойові навички",
@@ -1115,6 +1121,7 @@
       "ForestsOrSwamps": "В лісах чи на болотах",
       "ForestsOrUnderground": "У лісах або під землею",
       "FortuneTelling": "Ворожити",
+      "FullMoon": "Повний місяць",
       "GatherInformation": "для збору інформації",
       "Grapple": "Боротися",
       "GrappleShove": "Захопити або штовхнути",
@@ -1265,6 +1272,21 @@
       },
       "AncientElf": {
         "Prompt": "Виберіть подвиг багатокласової відданості."
+      },
+      "AnimalForm": {
+        "Ape": "Мавпа",
+        "Bat": "Летюча миша",
+        "Bear": "Ведмідь",
+        "Bull": "Бик",
+        "Canine": "Собак",
+        "Cat": "Кішка",
+        "Centipede": "Сороконіжка",
+        "Deer": "Олень",
+        "Frog": "Жаба",
+        "Shark": "Акула",
+        "Snake": "Змія",
+        "Toad": "Жаба",
+        "Wolf": "Вовк"
       },
       "AnimalSkin": {
         "BracersOfArmor": "Шкура тварини з наручами броні",
@@ -1449,7 +1471,7 @@
         "Sonic": "Синій (Звук)"
       },
       "Chronoskimmer": {
-        "DestabilizeFailureLabel": "Дестабілізувати часовий потік (збій)",
+        "DestabilizeFailureLabel": "Дестабілізувати часовий потік (невдача)",
         "DestabilizeSuccessLabel": "Дестабілізувати часовий потік (успіх)",
         "StabilizeLabel": "Стабілізувати часовий потік"
       },
@@ -1647,6 +1669,14 @@
           "Prompt": "Виберіть родового ворога."
         }
       },
+      "EldritchArcher": {
+        "ArrowOfDeath": {
+          "Note": "Після критичного влучення ціль також має вдало виконати рятувальний кидок @Check[type:fortitude|dc:resolve(@actor.attributes.classOrSpellDC.value)|traits:death,incapacitation] або бути негайно вбитою."
+        },
+        "EnchantingArrow": {
+          "Note": "Після критичного влучення ціль також стає @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]."
+        }
+      },
       "Elf": {
         "Atavism": {
           "Prompt": "Виберіть спадщину ельфа."
@@ -1818,6 +1848,9 @@
         "ChosenOfLamashtu": {
           "Prompt": "Виберіть спадщину гобліна."
         },
+        "CityScavenger": {
+          "EarnIncome": "Міський сміттяр - заробіток"
+        },
         "ExtraSquishy": {
           "Note": "Якщо ви кинете успіх на Squeeze, натомість ви отримуєте критичний успіх."
         },
@@ -1963,6 +1996,32 @@
           "Label": "Дослідження визначеної теми за допомогою програми Pursue a Lead"
         }
       },
+      "Kineticist": {
+        "Impulse": {
+          "Prompt": "Виберіть Імпульс."
+        },
+        "KineticGate": {
+          "DualGate": "Подвійні ворота",
+          "ExpandThePortal": "Розгорнути портал",
+          "ForkThePath": "Розвилка шляху",
+          "Junction": {
+            "AuraJunction": "Аура Джанкшн",
+            "CriticalBlast": "Критичний вибух",
+            "ElementalResistance": "Стихійний опір",
+            "ImpulseJunction": "Імпульсний з'єднання",
+            "SkillJunction": "З'єднання навичок"
+          },
+          "Prompt": {
+            "Element": "Виберіть елемент.",
+            "ExpandElement": "Виберіть елемент для розширення.",
+            "Gate": "Виберіть кінетичні ворота.",
+            "Impulse": "Виберіть імпульсний подвиг.",
+            "Junction": "Виберіть розв'язку воріт.",
+            "Threshold": "Виберіть поріг воріт."
+          },
+          "SingleGate": "Одинарні ворота"
+        }
+      },
       "Kobold": {
         "DragonbloodParagon": {
           "Dracomancer": "Дракомант",
@@ -1976,6 +2035,8 @@
       },
       "Label": {
         "DamageType": "Тип пошкодження",
+        "Enter": "Вхід",
+        "Exit": "Вихід",
         "ResistanceType": "Тип опору",
         "SecondAttempt": "Друга спроба",
         "ThirdAttempt": "Третя спроба"
@@ -2042,7 +2103,7 @@
         "AdvancedGeniekinWeapons": "Удосконалена зброя Geniekin",
         "AdvancedGhoranWeapons": "Вдосконалена зброя Горану",
         "AdvancedGnollWeapons": "Вдосконалена зброя гнолів",
-        "AdvancedGnomeWeapons": "Розширена зброя гномів",
+        "AdvancedGnomeWeapons": "Продвинута зброя гномів",
         "AdvancedGoblinWeapons": "Вдосконалена зброя гоблінів",
         "AdvancedGrippliWeapons": "Вдосконалена зброя Grippli",
         "AdvancedGroup": {
@@ -2275,6 +2336,12 @@
           "Note": "Коли ви відчуваєте напрямок, ви отримуєте результат, на один ступінь успіху кращий, ніж ви кинули."
         }
       },
+      "RelicGift": {
+        "DivineRetribution": {
+          "CriticalSuccess": "Якщо ціль зла, вона також @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблений 2} до початку вашого наступного ходу критичного удару.",
+          "Success": "Якщо ціль зла, вона також @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7] до початку вашого наступного ходу удару."
+        }
+      },
       "Rogue": {
         "DistractingFeint": {
           "Text": "У той час, як істота розпластана вашим Фінтом, вона також отримує -2 штраф за обставини до перевірки Сприйняття та збереження Рефлексу. @UUID[Compendium.pf2e.feat-effects.7hRgBo0fRQBxMK7g]"
@@ -2291,7 +2358,7 @@
       },
       "SaveSuccessToCriticalSuccess": {
         "Fortitude": "Коли ви кидаєте успіх на порятунок Стійкості, ви натомість отримуєте критичний успіх.",
-        "Reflex": "Коли ви кидаєте успіх під час збереження Reflex, ви натомість отримуєте критичний успіх.",
+        "Reflex": "Коли ви кидаєте успіх під час порятунку Рефлексу, ви натомість отримуєте критичний успіх.",
         "Will": "Коли ви кидаєте успіх на порятунку Волі, ви натомість отримуєте критичний успіх."
       },
       "ScionOfDomora": {
@@ -2469,6 +2536,11 @@
       "TerrainExpertise": {
         "Prompt": "Виберіть місцевість"
       },
+      "TerrainStalker": {
+        "Rubble": "Щебінь",
+        "Snow": "Сніг",
+        "Underbrush": "Підлісок"
+      },
       "Thaumaturge": {
         "Implement": {
           "Amulet": "Амулет",
@@ -2484,13 +2556,13 @@
         "TalismanEsoterica": "Талісман Езотерика"
       },
       "ToggleProperty": {
-        "GourdHead": "Gourd Head: Збільшити сприйняття КС",
+        "GourdHead": "Гарбуз голова: Збільшити сприйняття КС",
         "TagTeam": "На флангах з іншим членом Таємного товариства",
         "Triangulate": "Спотер може бачити ціль"
       },
       "TrapFinder": {
-        "DefendingLabel": "Trap Finder (захист від пасток)",
-        "SearchLabel": "Trap Finder (пошук пасток)"
+        "DefendingLabel": "Шукач пасток (захист від пасток)",
+        "SearchLabel": "Шукач пасток (пошук пасток)"
       },
       "TrinityGeodeLabel": "Троїцька Жеода",
       "TwinnedDefense": {
@@ -2502,7 +2574,7 @@
         "Broom": "Використовуйте дворучну мітлу",
         "Cane": "Використовуйте дворучну тростину",
         "Katana": "Використовуйте дворучну катану",
-        "Khakkhara": "Використовуйте Khakkhara Two-Handed",
+        "Khakkhara": "Використовуйте Кхакхара Дворука",
         "ReinforcedStock": "Використовуйте підсилений приклад дворучно",
         "RhokaSword": "Використовуйте дворучний меч Рока",
         "Staff": "Використовуйте дворучний посох"

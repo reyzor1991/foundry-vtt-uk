@@ -610,7 +610,7 @@
       "description": "<p>Надається, якщо ви досягнете успіху з @UUID[Compendium.pf2e.feats-srd.cErltcAC7OVnIyO1]</p>"
     },
     "Effect: Predictable! (Critical Failure)": {
-      "name": "Ефект: передбачуваний! (Критичний збій)",
+      "name": "Ефект: передбачуваний! (Критична невдача)",
       "description": "<p>Надається, якщо у вас критична помилка з @UUID[Compendium.pf2e.feats-srd.cErltcAC7OVnIyO1]</p>"
     },
     "Effect: Predictable! (Critical Success)": {
