@@ -943,7 +943,7 @@
     },
     "Astonishing Explosion": {
       "name": "Дивовижний вибух",
-      "description": "<p><strong>Частота</strong> раз на хвилину</p>\n<p><strong>Тригер</strong> Ви використовуєте @UUID[Compendium.pf2e.feats-srd.NlEZ0piDxg9buXCL], щоб створити алхімічну бомбу, яка завдає шкоди від бризок і є принаймні на 2 рівні нижчою за ваш @UUID [Compendium.pf2e.classfeatures.Pe0zmIqyTBc2Td0I]Рівень {Advanced Alchemy}.</p>\n<hr/>\n<p>Ваша бомба містить вибухову іскру дива, яка приголомшує свідків. Будь-яка ціль, уражена вашим ударом бомбою, є @UUID[Compendium.pf2e.conditionitems.AdPVz7rbaVSRxHFg] вами на 1 раунд. У разі критичного успіху мета також @UUID[Compendium.pf2e.conditionitems.dfCMdR4wnpbYNTix].</p>"
+      "description": "<p><strong>Частота</strong> раз на хвилину</p>\n<p><strong>Тригер</strong> Ви використовуєте @UUID[Compendium.pf2e.feats-srd.NlEZ0piDxg9buXCL], щоб створити алхімічну бомбу, яка завдає шкоди від бризок і є принаймні на 2 рівні нижчою за ваш @UUID[Compendium.pf2e.classfeatures.Pe0zmIqyTBc2Td0I]Рівень {Advanced Alchemy}.</p>\n<hr/>\n<p>Ваша бомба містить вибухову іскру дива, яка приголомшує свідків. Будь-яка ціль, уражена вашим ударом бомбою, є @UUID[Compendium.pf2e.conditionitems.AdPVz7rbaVSRxHFg] вами на 1 раунд. У разі критичного успіху мета також @UUID[Compendium.pf2e.conditionitems.dfCMdR4wnpbYNTix].</p>"
     },
     "Astral Blink": {
       "name": "Астральне мерехтіння",
@@ -1503,7 +1503,7 @@
     },
     "Blank Slate": {
       "name": "Чистий лист",
-      "description": "<p>Ваші обмани збивають з пантелику навіть найпотужніші віщування смертних. Ефекти виявлення, одкровення та спостереження проходять прямо над вами, вашим майном і аурами, нічого не виявляючи, якщо ефект виявлення не має рівня протидії 10 або вище.</p>\n<p>Наприклад, <em>@UUID[Compendium.pf2e.spells-srd.gpzpAAAJ1Lza2JVl]</em> все одно виявить іншу магію в цьому місці, але не виявить магію на вас, <em>@UUID [Compendium.pf2e.spells-srd.uqlxMQQeSGWEVjki]</em> не розкриє вас, <em>@UUID[Compendium.pf2e.spells-srd.LQzlKbYjZSMFQawP]</em> або < em>@UUID[Compendium.pf2e.spells-srd.r784cIz17eWujtQj]</em> не знайде вас і так далі.</p>"
+      "description": "<p>Ваші обмани збивають з пантелику навіть найпотужніші віщування смертних. Ефекти виявлення, одкровення та спостереження проходять прямо над вами, вашим майном і аурами, нічого не виявляючи, якщо ефект виявлення не має рівня протидії 10 або вище.</p>\n<p>Наприклад, <em>@UUID[Compendium.pf2e.spells-srd.gpzpAAAJ1Lza2JVl]</em> все одно виявить іншу магію в цьому місці, але не виявить магію на вас, <em>@UUID[Compendium.pf2e.spells-srd.uqlxMQQeSGWEVjki]</em> не розкриє вас, <em>@UUID[Compendium.pf2e.spells-srd.LQzlKbYjZSMFQawP]</em> або < em>@UUID[Compendium.pf2e.spells-srd.r784cIz17eWujtQj]</em> не знайде вас і так далі.</p>"
     },
     "Blast Lock": {
       "name": "Вибуховий замок",
@@ -1563,7 +1563,7 @@
     },
     "Blessed Denial": {
       "name": "Благословенне заперечення",
-      "description": "<p><strong>Тригер</strong> Союзник у межах 30 футів стане @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL], @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR], @UUID [Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7], @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18] або @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg].</p>\n<hr/>\n<p>Ви випромінюєте мир і захист, зменшуючи шкідливий стан, коли він падає на союзника. Зменште значення умови, яку прийме ваш союзник, на 1 (мінімум до 0). Якщо союзник виконує кілька умов одночасно, виберіть одну для зменшення.</p>"
+      "description": "<p><strong>Тригер</strong> Союзник у межах 30 футів стане @UUID[Compendium.pf2e.conditionitems.TBSHQspnbcqxsmjL], @UUID[Compendium.pf2e.conditionitems.4D2KBtexWXa6oUMR], @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7], @UUID[Compendium.pf2e.conditionitems.fesd1n5eVhpCSS18] або @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg].</p>\n<hr/>\n<p>Ви випромінюєте мир і захист, зменшуючи шкідливий стан, коли він падає на союзника. Зменште значення умови, яку прийме ваш союзник, на 1 (мінімум до 0). Якщо союзник виконує кілька умов одночасно, виберіть одну для зменшення.</p>"
     },
     "Blessed Medicine": {
       "name": "Благословенна медицина",
@@ -2459,7 +2459,7 @@
     },
     "Climbing Tail": {
       "name": "Підйомний хвіст",
-      "description": "<p>За допомогою хвоста вам набагато легше лазити. Ви отримуєте бонус +2 до перевірки легкої атлетики на сходження, отримуєте навичку @UUID[Compendium.pf2e.feats-srd.09PurtIanNUPfNRq] і зменшуєте кількість вільних рук, необхідних для сходження або @UUID [Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP] на одну.</p>"
+      "description": "<p>За допомогою хвоста вам набагато легше лазити. Ви отримуєте бонус +2 до перевірки легкої атлетики на сходження, отримуєте навичку @UUID[Compendium.pf2e.feats-srd.09PurtIanNUPfNRq] і зменшуєте кількість вільних рук, необхідних для сходження або @UUID[Compendium.pf2e.actionspf2e.ge56Lu1xXVFYUnLP] на одну.</p>"
     },
     "Clinch Strike": {
       "name": "Клінч страйк",
@@ -3031,7 +3031,7 @@
     },
     "Crystal Healing": {
       "name": "Зцілення кристалами",
-      "description": "<p>Ви знаєте, як стимулювати природні зцілювальні здібності організму за допомогою резонансних кристалів. Для цього ви повинні використовувати принаймні два напівдорогоцінні камені загальною вартістю 5 gp або більше замість інструментів цілителя, що дозволяє спробувати @UUID[Compendium.pf2e.actionspf2e.TC7OcDa7JlWbqMaN] або @UUID [Compendium.pf2e.actionspf2e.KjoCEEmPGTeFE4hh] за допомогою окультизму, а не медицини.</p>\n<p>Якщо ви експерт з окультизму та використовуєте дорогоцінні камені, загальна вартість яких дорівнює або перевищує 50 gp, ви отримуєте бонус +1 до вашої перевірки окультизму. Якщо ви майстер і вартість дорогоцінних каменів дорівнює або перевищує 700 gp, бонус предмета збільшується до +2; якщо ви є легендарним окультизмом і вартість дорогоцінних каменів дорівнює або перевищує 15 000 gp, бонус до предмета збільшується до +3.</p>"
+      "description": "<p>Ви знаєте, як стимулювати природні зцілювальні здібності організму за допомогою резонансних кристалів. Для цього ви повинні використовувати принаймні два напівдорогоцінні камені загальною вартістю 5 gp або більше замість інструментів цілителя, що дозволяє спробувати @UUID[Compendium.pf2e.actionspf2e.TC7OcDa7JlWbqMaN] або @UUID[Compendium.pf2e.actionspf2e.KjoCEEmPGTeFE4hh] за допомогою окультизму, а не медицини.</p>\n<p>Якщо ви експерт з окультизму та використовуєте дорогоцінні камені, загальна вартість яких дорівнює або перевищує 50 gp, ви отримуєте бонус +1 до вашої перевірки окультизму. Якщо ви майстер і вартість дорогоцінних каменів дорівнює або перевищує 700 gp, бонус предмета збільшується до +2; якщо ви є легендарним окультизмом і вартість дорогоцінних каменів дорівнює або перевищує 15 000 gp, бонус до предмета збільшується до +3.</p>"
     },
     "Crystal Keeper Dedication": {
       "name": "Присвята хранителю кристалів",
@@ -3775,7 +3775,7 @@
     },
     "Divine Evolution": {
       "name": "Божественна еволюція",
-      "description": "<p>Божественна сила, яку забезпечує ваша кровна лінія, тече через вас. Ви отримуєте додатковий слот для заклинань вашого найвищого рівня, який ви можете використовувати лише для використання <em>@UUID[Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs]</em> або <em>@UUID [Compendium.pf2e.spells-srd.wdA52JJnsuQWeyqz]</em>. Ви можете використовувати будь-яке з цих заклинань, використовуючи цей слот заклинань, навіть якщо їх немає у вашому репертуарі заклинань.</p>"
+      "description": "<p>Божественна сила, яку забезпечує ваша кровна лінія, тече через вас. Ви отримуєте додатковий слот для заклинань вашого найвищого рівня, який ви можете використовувати лише для використання <em>@UUID[Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs]</em> або <em>@UUID[Compendium.pf2e.spells-srd.wdA52JJnsuQWeyqz]</em>. Ви можете використовувати будь-яке з цих заклинань, використовуючи цей слот заклинань, навіть якщо їх немає у вашому репертуарі заклинань.</p>"
     },
     "Divine Grace": {
       "name": "Божественна благодать",
@@ -4439,7 +4439,7 @@
     },
     "Elucidating Mercy": {
       "name": "Висвітлення милосердя",
-      "description": "<p>Твоє милосердя дарує ясність оточуючим саме тоді, коли вони цього найбільше потребують.</p>\n<p>Коли ви використовуєте @UUID[Compendium.pf2e.feats-srd.zilwynzk8lIujgZo], натомість ви можете спробувати перевірку протидії, щоб видалити @UUID[Compendium.pf2e.conditionitems.yblD8fOR1J8rDwEQ] або @UUID [Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] умови, використовуючи джерело цієї умови для визначення рівня протидії та постійного струму.</p>\n<p>Якщо стан був спричинений поточним ефектом, і ви не видалили цей ефект, стан повертається в кінці вашого наступного ходу.</p>"
+      "description": "<p>Твоє милосердя дарує ясність оточуючим саме тоді, коли вони цього найбільше потребують.</p>\n<p>Коли ви використовуєте @UUID[Compendium.pf2e.feats-srd.zilwynzk8lIujgZo], натомість ви можете спробувати перевірку протидії, щоб видалити @UUID[Compendium.pf2e.conditionitems.yblD8fOR1J8rDwEQ] або @UUID[Compendium.pf2e.conditionitems.e1XGnhKNSQIm5IXg] умови, використовуючи джерело цієї умови для визначення рівня протидії та постійного струму.</p>\n<p>Якщо стан був спричинений поточним ефектом, і ви не видалили цей ефект, стан повертається в кінці вашого наступного ходу.</p>"
     },
     "Elude the Divine": {
       "name": "Уникайте Божественного",
@@ -5391,7 +5391,7 @@
     },
     "Fey Cantrips": {
       "name": "Фей Кентріпс",
-      "description": "<p>Ви дізналися, які спрайти cantrips використовували з незапам’ятних часів. Ви отримуєте <em>@UUID[Compendium.pf2e.spells-srd.kl2q6JvBZwed4B6v]</em> та <em>@UUID[Compendium.pf2e.spells-srd.atlgGNI1E1Ox3O3a]</em > як первинні вроджені спокуси. Якщо у вас є спадщина grig, ви також отримуєте <em>@UUID[Compendium.pf2e.spells-srd.gpzpAAAJ1Lza2JVl]</em>, а якщо у вас є спадщина draxie, ви отримуєте <em>@UUID [Compendium.pf2e.spells-srd.Qw3fnUlaUbnn7ipC]</em>.</p>"
+      "description": "<p>Ви дізналися, які спрайти cantrips використовували з незапам’ятних часів. Ви отримуєте <em>@UUID[Compendium.pf2e.spells-srd.kl2q6JvBZwed4B6v]</em> та <em>@UUID[Compendium.pf2e.spells-srd.atlgGNI1E1Ox3O3a]</em > як первинні вроджені спокуси. Якщо у вас є спадщина grig, ви також отримуєте <em>@UUID[Compendium.pf2e.spells-srd.gpzpAAAJ1Lza2JVl]</em>, а якщо у вас є спадщина draxie, ви отримуєте <em>@UUID[Compendium.pf2e.spells-srd.Qw3fnUlaUbnn7ipC]</em>.</p>"
     },
     "Fey Disguise": {
       "name": "Фей Маскування",
@@ -7383,7 +7383,7 @@
     },
     "Improvise Tool": {
       "name": "Інструмент Improvise",
-      "description": "<p>Якщо у вас під рукою немає відповідних інструментів, ви можете використовувати рішення для присяжних. Ви можете спробувати @UUID[Compendium.pf2e.actionspf2e.bT3skovyLUtP22ME] пошкоджені елементи без ремонтного набору.</p>\n<p>Якщо у вас є сировина, ви можете @UUID[Compendium.pf2e.actionspf2e.rmwa3OyhTZ2i2AHl] базовий @UUID[Compendium.pf2e.equipment-srd.7fSnvJ2xoSfa6JXD] набір, @UUID[ Compendium.pf2e.equipment-srd.Ti4gWILk69LPxKuU], @UUID[Compendium.pf2e.equipment-srd.wob6DB1FFdWs0mbp], @UUID[Compendium.pf2e.equipment-srd.44F1mfJei4GY8f2X], @UUID [Compendium.pf2e.equipment-srd.3tOyV4VZEZhwnAMO], @UUID[Compendium.pf2e.equipment-srd.UlIxxLm71UdRgCFE], @UUID[Compendium.pf2e.equipment-srd.ML0GR2cIEdMn2hoD], @UUID[Compendium.pf2e.equipment-srd.5j5KyZsGOfbrJNUZ], @UUID[Compendium.pf2e.equipment-srd.oX39xqMLVB8kNrY0], @UUID[Compendium.pf2e.equipment-srd.fyYnQf1NAx9fWFaS] Мотузка}, @UUID[Compendium.pf2e.equipment-srd.ccsgob2TZ7WqTrp7], @UUID[Compendium.pf2e.equipment-srd.Sw7MBLASN3xK4Y44], @UUID[Compendium.pf2e.equipment -srd.wrpI5z7iWB8XvflQ] або @UUID[Compendium.pf2e.equipment-srd.Zr4PwTEuBLE30kkn] або @UUID[Compendium.pf2e.equipment-srd.8Jdw4yAzWYylGePS] без консультації з базовим майстром книга.</p>"
+      "description": "<p>Якщо у вас під рукою немає відповідних інструментів, ви можете використовувати рішення для присяжних. Ви можете спробувати @UUID[Compendium.pf2e.actionspf2e.bT3skovyLUtP22ME] пошкоджені елементи без ремонтного набору.</p>\n<p>Якщо у вас є сировина, ви можете @UUID[Compendium.pf2e.actionspf2e.rmwa3OyhTZ2i2AHl] базовий @UUID[Compendium.pf2e.equipment-srd.7fSnvJ2xoSfa6JXD] набір, @UUID[ Compendium.pf2e.equipment-srd.Ti4gWILk69LPxKuU], @UUID[Compendium.pf2e.equipment-srd.wob6DB1FFdWs0mbp], @UUID[Compendium.pf2e.equipment-srd.44F1mfJei4GY8f2X], @UUID[Compendium.pf2e.equipment-srd.3tOyV4VZEZhwnAMO], @UUID[Compendium.pf2e.equipment-srd.UlIxxLm71UdRgCFE], @UUID[Compendium.pf2e.equipment-srd.ML0GR2cIEdMn2hoD], @UUID[Compendium.pf2e.equipment-srd.5j5KyZsGOfbrJNUZ], @UUID[Compendium.pf2e.equipment-srd.oX39xqMLVB8kNrY0], @UUID[Compendium.pf2e.equipment-srd.fyYnQf1NAx9fWFaS] Мотузка}, @UUID[Compendium.pf2e.equipment-srd.ccsgob2TZ7WqTrp7], @UUID[Compendium.pf2e.equipment-srd.Sw7MBLASN3xK4Y44], @UUID[Compendium.pf2e.equipment -srd.wrpI5z7iWB8XvflQ] або @UUID[Compendium.pf2e.equipment-srd.Zr4PwTEuBLE30kkn] або @UUID[Compendium.pf2e.equipment-srd.8Jdw4yAzWYylGePS] без консультації з базовим майстром книга.</p>"
     },
     "Improvised Crafting": {
       "name": "Імпровізований крафт",
@@ -7406,7 +7406,7 @@
       "description": "<p>Люди часто бачать лише те, що хочуть бачити, і ви знаєте, як скористатися цією слабкістю. Поки ви взяли на себе роль, ви можете використовувати обман замість Stealth під час використання @UUID[Compendium.pf2e.actionspf2e.IE2nThCmoyhQA0Jn] дослідницької діяльності в області, де хтось із вашою роллю не буде незвичайним, наприклад, коли видає себе за моряка чи рибалку під час проникнення в доки.</p>"
     },
     "Incredible Aim": {
-      "name": "Неймовірна мета",
+      "name": "Неймовірний приціл",
       "description": "<p>Витративши хвилину на те, щоб зосередитися, ви можете переконатися, що ваша атака справді.</p>\n<p>Нанесіть удар зброєю далекого бою. Після цього удару ви отримуєте +2 бонус обставин до кидка атаки та ігноруєте стан @UUID[Compendium.pf2e.conditionitems.DmAIPqOBomZ7H95W] цілі.</p>"
     },
     "Incredible Beastmaster Companion": {
@@ -7743,7 +7743,7 @@
     },
     "Investigator Dedication": {
       "name": "Відданість слідчому",
-      "description": "<p>Ви отримуєте функцію класу @UUID[Compendium.pf2e.classfeatures.6FasgIXUJ1X8ekRn], яка надає вам активність @UUID[Compendium.pf2e.actionspf2e.xTK2zsWFyxSJvYbX] і @UUID [Compendium.pf2e.actionspf2e.25WDi1cVUrW92sUj] {Clue In} реакція. Ви отримуєте навчання в суспільстві та іншу навичку за вашим вибором. Якщо ви вже пройшли навчання в Суспільстві, натомість ви отримуєте додаткові навички за вашим вибором. Ви також проходите підготовку в класі дослідників КС.</p>\n<p><strong>Спеціальний</strong> Ви не можете вибрати іншу вправу посвяти, доки не отримаєте дві інші вміння з архетипу @UUID[Compendium.pf2e.journals.vx5FGEG34AxI2dow.JournalEntryPage.mmB3EkkdCpLke7Lk].</ p>"
+      "description": "<p>Ви отримуєте функцію класу @UUID[Compendium.pf2e.classfeatures.6FasgIXUJ1X8ekRn], яка надає вам активність @UUID[Compendium.pf2e.actionspf2e.xTK2zsWFyxSJvYbX] і @UUID[Compendium.pf2e.actionspf2e.25WDi1cVUrW92sUj] {Clue In} реакція. Ви отримуєте навчання в суспільстві та іншу навичку за вашим вибором. Якщо ви вже пройшли навчання в Суспільстві, натомість ви отримуєте додаткові навички за вашим вибором. Ви також проходите підготовку в класі дослідників КС.</p>\n<p><strong>Спеціальний</strong> Ви не можете вибрати іншу вправу посвяти, доки не отримаєте дві інші вміння з архетипу @UUID[Compendium.pf2e.journals.vx5FGEG34AxI2dow.JournalEntryPage.mmB3EkkdCpLke7Lk].</ p>"
     },
     "Investigator's Stratagem": {
       "name": "Стратагема слідчого",
@@ -7755,7 +7755,7 @@
     },
     "Invigorating Mercy": {
       "name": "Підбадьорююче милосердя",
-      "description": "<p>Ваш божественний дотик омолоджує слабких і втомлених.</p>\n<p>Коли ви використовуєте @UUID[Compendium.pf2e.feats-srd.zilwynzk8lIujgZo], натомість ви можете спробувати перевірку протидії, щоб видалити @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm] або @UUID [Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] умови, використовуючи джерело цієї умови для визначення рівня протидії та постійного струму.</p>\n<p>Якщо стан був спричинений поточним ефектом, і ви не видалили цей ефект, стан повертається в кінці вашого наступного ходу.</p>"
+      "description": "<p>Ваш божественний дотик омолоджує слабких і втомлених.</p>\n<p>Коли ви використовуєте @UUID[Compendium.pf2e.feats-srd.zilwynzk8lIujgZo], натомість ви можете спробувати перевірку протидії, щоб видалити @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm] або @UUID[Compendium.pf2e.conditionitems.MIRkyAjyBeXivMa7] умови, використовуючи джерело цієї умови для визначення рівня протидії та постійного струму.</p>\n<p>Якщо стан був спричинений поточним ефектом, і ви не видалили цей ефект, стан повертається в кінці вашого наступного ходу.</p>"
     },
     "Invincible Mutagen": {
       "name": "Непереможний мутаген",
@@ -11151,7 +11151,7 @@
     },
     "Rebel's Map": {
       "name": "Карта повстанців",
-      "description": "<p><strong>Запуск</strong> Ви кидаєте ініціативу.</p>\n<hr/>\n<p>Повстання потребують складних знань про оточення, тому що вам може знадобитися втекти будь-якої миті. Ви пам’ятаєте розташування шляхів відходу, місць засідки та прикриття з розвідувальної експедиції чи попереднього відвідування цього району. Киньте [[/r 1d20]]. У будь-який момент під час наступного бою ви можете замінити результат цього кидка замість кидка d20 на одну перевірку обману на @UUID[Compendium.pf2e.actionspf2e.GkmbTGfg8KcgynOA] або на одну перевірку скритності на @UUID [Compendium.pf2e.actionspf2e.XMcnh4cSI32tljXa].</p>"
+      "description": "<p><strong>Запуск</strong> Ви кидаєте ініціативу.</p>\n<hr/>\n<p>Повстання потребують складних знань про оточення, тому що вам може знадобитися втекти будь-якої миті. Ви пам’ятаєте розташування шляхів відходу, місць засідки та прикриття з розвідувальної експедиції чи попереднього відвідування цього району. Киньте [[/r 1d20]]. У будь-який момент під час наступного бою ви можете замінити результат цього кидка замість кидка d20 на одну перевірку обману на @UUID[Compendium.pf2e.actionspf2e.GkmbTGfg8KcgynOA] або на одну перевірку скритності на @UUID[Compendium.pf2e.actionspf2e.XMcnh4cSI32tljXa].</p>"
     },
     "Rebounding Assault": {
       "name": "Штурм відскоком",
@@ -11787,7 +11787,7 @@
     },
     "Sanctify Water": {
       "name": "Освятити воду",
-      "description": "<p>Ви насичуєте воду благословенням свого божества. Виберіть легку ємність з водою на собі. Протягом 1 раунду, якщо ви або ваш союзник кинете цей контейнер у ворога, він матиме руйнівний ефект @UUID[Compendium.pf2e.equipment-srd.z9T4c1hXwOotsMCp] (якщо ви слідуєте доброму божеству) або @UUID [Compendium.pf2e.equipment-srd.EGhUorZhB7nV73Ev] (якщо ви слідуєте за злим божеством). Перехідна сила води не надає їй жодної цінності, не дозволяє використовувати її для забезпечення вартості заклинання чи ритуалу тощо. Якщо ви маєте легендарні знання з релігії, ви можете освятити три контейнери, які тримаєте ви або союзники в межах вашої досяжності, замість одного.</p>"
+      "description": "<p>Ви насичуєте воду благословенням свого божества. Виберіть легку ємність з водою на собі. Протягом 1 раунду, якщо ви або ваш союзник кинете цей контейнер у ворога, він матиме руйнівний ефект @UUID[Compendium.pf2e.equipment-srd.z9T4c1hXwOotsMCp] (якщо ви слідуєте доброму божеству) або @UUID[Compendium.pf2e.equipment-srd.EGhUorZhB7nV73Ev] (якщо ви слідуєте за злим божеством). Перехідна сила води не надає їй жодної цінності, не дозволяє використовувати її для забезпечення вартості заклинання чи ритуалу тощо. Якщо ви маєте легендарні знання з релігії, ви можете освятити три контейнери, які тримаєте ви або союзники в межах вашої досяжності, замість одного.</p>"
     },
     "Saoc Astrology": {
       "name": "Саокська астрологія",
@@ -14223,7 +14223,7 @@
     },
     "Tengu Weapon Familiarity": {
       "name": "Знайомство зі зброєю Тенгу",
-      "description": "<p>Ви тренувалися з клинком та іншою зброєю тенгу відтоді, як вилупилися. Ви отримуєте доступ до @UUID[Compendium.pf2e.equipment-srd.KgKSX95uVSg8iBBA].</p>\n<p>Крім того, виберіть дві зброї з групи мечів. Ви можете вибрати серед усіх поширених бойових мечів, а також @UUID[Compendium.pf2e.equipment-srd.Y1dkRsRd1Z7Jf2y6], @UUID[Compendium.pf2e.equipment-srd.NIsxR5zXtVa3PuyU] і @UUID [Compendium.pf2e.equipment-srd.YOpopjoWgU7bkmwh]. З метою визначення ваших навичок ця зброя є простою зброєю, і якщо зброя не звичайна, ви отримуєте до неї доступ. Якщо ви навчені володіти всією бойовою зброєю, ви додаєте звичайні вдосконалені мечі до мечів, які можете вибрати.</p>\n<p>Ви також отримуєте доступ до всієї незвичайної зброї тенгу. Щоб визначити вашу майстерність, бойова зброя тенгу – це проста зброя, а вдосконалена зброя – це бойова зброя.</p>"
+      "description": "<p>Ви тренувалися з клинком та іншою зброєю тенгу відтоді, як вилупилися. Ви отримуєте доступ до @UUID[Compendium.pf2e.equipment-srd.KgKSX95uVSg8iBBA].</p>\n<p>Крім того, виберіть дві зброї з групи мечів. Ви можете вибрати серед усіх поширених бойових мечів, а також @UUID[Compendium.pf2e.equipment-srd.Y1dkRsRd1Z7Jf2y6], @UUID[Compendium.pf2e.equipment-srd.NIsxR5zXtVa3PuyU] і @UUID[Compendium.pf2e.equipment-srd.YOpopjoWgU7bkmwh]. З метою визначення ваших навичок ця зброя є простою зброєю, і якщо зброя не звичайна, ви отримуєте до неї доступ. Якщо ви навчені володіти всією бойовою зброєю, ви додаєте звичайні вдосконалені мечі до мечів, які можете вибрати.</p>\n<p>Ви також отримуєте доступ до всієї незвичайної зброї тенгу. Щоб визначити вашу майстерність, бойова зброя тенгу – це проста зброя, а вдосконалена зброя – це бойова зброя.</p>"
     },
     "Tengu Weapon Study": {
       "name": "Дослідження зброї Тенгу",
@@ -14827,7 +14827,7 @@
     },
     "Twist Healing": {
       "name": "Twist Healing",
-      "description": "<p>Ваш зв’язок як із життям, так і з нежиттю дає змогу змінювати цілющу силу магічних предметів відповідно до власних потреб і цілей. Кожного разу, коли ви активуєте предмет, щоб застосувати заклинання <em>@UUID[Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs]</em>, ви можете інвертувати його енергію, щоб створити ефекти, еквівалентні <em>@UUID [Compendium.pf2e.spells-srd.wdA52JJnsuQWeyqz]</em> замість цього заклинання.</p>"
+      "description": "<p>Ваш зв’язок як із життям, так і з нежиттю дає змогу змінювати цілющу силу магічних предметів відповідно до власних потреб і цілей. Кожного разу, коли ви активуєте предмет, щоб застосувати заклинання <em>@UUID[Compendium.pf2e.spells-srd.rfZpqmj0AIIdkVIs]</em>, ви можете інвертувати його енергію, щоб створити ефекти, еквівалентні <em>@UUID[Compendium.pf2e.spells-srd.wdA52JJnsuQWeyqz]</em> замість цього заклинання.</p>"
     },
     "Twist the Knife": {
       "name": "Покрутіть ніж",

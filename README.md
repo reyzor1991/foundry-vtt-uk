@@ -21,7 +21,7 @@
 5. Увімкніть модуль у налаштуваннях "Manage Module".
 6. В налаштуваннях "Configure Settings" у вкладці "Core" встановіть "Language Preference" на українську мову.
 
-[Version]: https://img.shields.io/badge/Version-0.3.38-yellow?style=flat-square
+[Version]: https://img.shields.io/badge/Version-0.3.41-yellow?style=flat-square
 [Version URL]: https://github.com/reyzor1991/foundry-vtt-uk
 
 [MIT License]: https://img.shields.io/badge/License-OGL-green?style=flat-square

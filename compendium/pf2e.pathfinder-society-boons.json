@@ -31,7 +31,7 @@
     },
     "AoA #149: Boon A - Advanced Training": {
       "name": "AoA #149: Boon A - підвищення кваліфікації",
-      "description": "<p>Завдяки вашим пригодам ви отримали спеціальну підготовку в певній галузі. Поставте прапорець біля одного з наведених нижче варіантів і викресліть інший у своєму аркуші хроніки.</p>\n<p><strong>□ Навчання отруєників</strong> Ви пройшли навчання рідкісним прийомам отруєння та маєте доступ до таких умінь: @UUID[Compendium.pf2e.feats-srd.AYXherMu9gFTyXjp], @UUID [Compendium.pf2e.feats-srd.hPanopG3TbXKr52O] і @UUID[Compendium.pf2e.feats-srd.9u0uW1vZThRayXk2].</p>\n<p><strong>□ Членство в Zephyr Guard</strong> Ви є членом Zephyr Guard і отримуєте доступ до архетипу @UUID[Compendium.pf2e.journals.vx5FGEG34AxI2dow.JournalEntryPage.KORSADviZaSccs2W] та пов’язаного з ним архетипу подвиги.</p>"
+      "description": "<p>Завдяки вашим пригодам ви отримали спеціальну підготовку в певній галузі. Поставте прапорець біля одного з наведених нижче варіантів і викресліть інший у своєму аркуші хроніки.</p>\n<p><strong>□ Навчання отруєників</strong> Ви пройшли навчання рідкісним прийомам отруєння та маєте доступ до таких умінь: @UUID[Compendium.pf2e.feats-srd.AYXherMu9gFTyXjp], @UUID[Compendium.pf2e.feats-srd.hPanopG3TbXKr52O] і @UUID[Compendium.pf2e.feats-srd.9u0uW1vZThRayXk2].</p>\n<p><strong>□ Членство в Zephyr Guard</strong> Ви є членом Zephyr Guard і отримуєте доступ до архетипу @UUID[Compendium.pf2e.journals.vx5FGEG34AxI2dow.JournalEntryPage.KORSADviZaSccs2W] та пов’язаного з ним архетипу подвиги.</p>"
     },
     "AoA #149: Boon B - Katapesh Companion": {
       "name": "AoA #149: Boon B - супутник Katapesh",

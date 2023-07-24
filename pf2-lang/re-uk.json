@@ -329,11 +329,11 @@
       },
       "NecroticBomb": {
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 3}.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[negative]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 3}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (3[splash])[negative]]]."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 1}.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[negative]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 1}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (1[splash])[negative]]]."
         },
         "Major": {
@@ -341,7 +341,7 @@
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (4[splash])[negative]]]."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[negative]]], а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 2}.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[negative]]], а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Захворів 2}.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r (2[splash])[negative]]]."
         }
       },
@@ -434,19 +434,19 @@
       "TallowBomb": {
         "criticalSuccess": "Під час критичного удару жива істота, яка отримує постійну вогняну шкоду від сальної бомби, @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 1} від смороду палаючого жиру та не може зменшити значення нудоти нижче 1, поки тривале пошкодження вогнем.",
         "Greater": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*3d4)[persistent,fire]]], [[/r (3[splash])[fire]]]{3 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*3d4)[persistent,fire]]], [[/r (3[splash])[fire]]]{3 шкоди від вогню} , а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 3d4[persistent,fire]]] і [[/r (3[splash])[fire]]]{3 шкоди від вогню}."
         },
         "Lesser": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*1d4)[persistent,fire]]], [[/r (1[splash])[fire]]]{1 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*1d4)[persistent,fire]]], [[/r (1[splash])[fire]]]{1 шкоди від вогню} , а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 1d4[persistent,fire]]] і [[/r (1[splash])[fire]]]{1 шкоди від вогню}."
         },
         "Major": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*4d4)[persistent,fire]]], [[/r (4[splash])[fire]]]{4 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*4d4)[persistent,fire]]], [[/r (4[splash])[fire]]]{4 шкоди від вогню} , а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 4d4[persistent,fire]]] і [[/r (4[splash])[fire]]]{4 шкоди від вогню}."
         },
         "Moderate": {
-          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*2d4)[persistent,fire]]], [[/r (2[splash])[fire]]]{2 шкоди від вогню} , а мета — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
+          "criticalSuccess": "<strong>Ефект</strong> Бомба також завдає [[/r (2*2d4)[persistent,fire]]], [[/r (2[splash])[fire]]]{2 шкоди від вогню} , а ціль — @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18] від смороду спаленого жиру. Істота не може зменшити своє значення хвороби нижче 1, доки діє постійна шкода від вогню.",
           "success": "<strong>Ефект</strong> Бомба також завдає [[/r 2d4[persistent,fire]]] і [[/r (2[splash])[fire]]]{2 шкоди від вогню}."
         }
       },
